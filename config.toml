@@ -1,4 +1,4 @@
-baseurl = "https://www.mirrorlesstimes.com"
+baseurl = "/"
 title = "Mirrorless Times"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
