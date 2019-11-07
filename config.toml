@@ -1,0 +1,115 @@
+baseurl = "https://www.mirrorlesstimes.com"
+title = "Mirrorless Times"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "mirrorlesstimes" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+enableRobotsTXT = true
+canonifyurls = true
+pygmentsCodeFences = "true" 
+
+[Author] # Used in authorbox
+  name = "John Doe"
+  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  avatar = "img/avatar.png"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+  page = "/:title/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Firmware"
+    url = "/tags/firmware/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Reviews"
+    url = "/tags/review/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Comparison"
+    url = "/tags/comparison/"
+    weight = 3
+
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.footer]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.footer]]
+    name = "Privacy"
+    url = "/privacy-policy/"
+    weight = 3
+
+
+[Params]
+  subtitle = "All About Mirrorless" # Subtitle of your site. Used in site header
+  description = "Latest Mirrorless Camera News Videos,Reviews and Rumors" # Site description. Used in meta description
+  copyright = "Mirrorless Times" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = true # Show "Read more" button in list if true
+  authorbox = false # Show authorbox at bottom of pages if true
+  toc = false # Enable Table of Contents
+  post_navigation = true # Show post navigation at bottom of pages if true
+  menu = ["main", "side", "footer"] # Add page to a main, side, and footer menu
+
+
+ post_meta = ["date", "categories", "translations"] # Order of post meta information
+ mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # Change the format of dates
+  mathjax = false # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  highlightColor = "#e22d30" # Override highlight color
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = "true" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "mirrorlesstimes"
+  twitter = "mirrorlesstimes"
+  #instagram = "username"
+  #linkedin = "username"
+  #telegram = "username"
+  #github = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  #email = "info@mirrorlesstimes.com"
