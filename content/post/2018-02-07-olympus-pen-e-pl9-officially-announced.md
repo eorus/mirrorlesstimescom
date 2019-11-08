@@ -93,5 +93,5 @@ Review at <a href="https://www.cameralabs.com/olympus-pen-epl9-review/" target=
 Read more [Olympus Mirrorless][3] news and <a href="https://www.dailycameranews.com/tag/olympus-rumors/" target="_blank" rel="noopener">Olympus Rumors</a>.
 
  [1]: https://www.mirrorlesstimes.com/category/olympus/
- [2]: https://www.mirrorlesstimes.com/tag/olympus-e-pl9/
- [3]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/olympus-e-pl9/
+ [3]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

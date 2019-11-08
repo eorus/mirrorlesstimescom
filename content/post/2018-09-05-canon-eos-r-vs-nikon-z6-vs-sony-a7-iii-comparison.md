@@ -19,7 +19,7 @@ tags:
   - Sony Mirrorless
 
 ---
-Looking for a **Canon EOS R vs Nikon Z6 vs Sony A7 III** <a title="comparison" href="https://www.mirrorlesstimes.com/tag/comparison/" target="_blank" rel="noopener noreferrer">comparison</a>? Read our detailed comparison of the <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> vs [Nikon Z6][1] vs [Sony a7 III][2] to find out their advantages and decide which one to buy.
+Looking for a **Canon EOS R vs Nikon Z6 vs Sony A7 III** <a title="comparison" href="https://www.mirrorlesstimes.com/tags/comparison/" target="_blank" rel="noopener noreferrer">comparison</a>? Read our detailed comparison of the <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> vs [Nikon Z6][1] vs [Sony a7 III][2] to find out their advantages and decide which one to buy.
 
 We thought that for all users who are curious about [Canon’s latest full frame mirrorless camera][3]. Let’s put together the features of Canon EOS R vs Nikon Z6 vs Sony A7 III specs side by side.
 
@@ -885,7 +885,7 @@ Below are the technical specifications of all three cameras, including their pri
   </tr>
 </table>
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-z6/
- [2]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-z6/
+ [2]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
  [3]: https://www.dailycameranews.com/tag/canon-full-frame-mirrorless-camera/
  [4]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-vs-nikon-z6-vs-sony-a7-iii-comparison.jpg?ssl=1

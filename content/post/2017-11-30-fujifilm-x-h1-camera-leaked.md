@@ -37,5 +37,5 @@ So take it with a grain of salt and stay tuned with more [**Fujifilm Mirrorless
 
 via: <a href="http://www.nokishita-camera.com/2017/11/x-h1.html" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">NC</a>
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

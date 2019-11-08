@@ -19,7 +19,7 @@ According to recent reports **Panasonic GH5s price** will be around **$2,500**.
 
 From the earlier articles, we know that the <span class="s1"><a href="https://aax-us-east.amazon-adsystem.com/x/c/QuUm8yeGrSClVKQwbn_10YwAAAFgL7RYyAEAAAFKAUPFuIY/https://aax-us-east.amazon-adsystem.com/x/c/QokG4xzAvPKCiAfy7S8fs9wAAAFgEOJIywEAAAFKAe-ANWU/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2zOfYDT/ref=as_at/?imprToken=xjoJ3V5hImkfWZM6Y621aw&slotNum=0&linkCode=w61&imprToken=ErtGY3ii02NqKY8j9D3UDw&slotNum=2" target="_blank" rel="noopener">GH5</a> </span>will be an “**ultra**” video oriented low-light version. As a result the Micro 4/3rds sensor of the Panasonic GH5s will provide better low-light shooting capabilities with improved ISO sensitivity.
 
-So the <a href="https://www.mirrorlesstimes.com/tag/panasonic-gh5s/" target="_blank" rel="noopener">Panasonic GH5s</a> price will be higher and stands around $2,500. You can find the recap of what we know so far of the Micro Four Thirds camera below.<!--more-->
+So the <a href="https://www.mirrorlesstimes.com/tags/panasonic-gh5s/" target="_blank" rel="noopener">Panasonic GH5s</a> price will be higher and stands around $2,500. You can find the recap of what we know so far of the Micro Four Thirds camera below.<!--more-->
 
 ## Panasonic GH5S Price Rumored for $2,500
 
@@ -62,6 +62,6 @@ The specs list of the Panasonic GH5s is not fully covered yet. What we know so f
 
 The Micro Four Thirds camera will probably be announced at the CES 2018 event in January. According to the recent reports, the **Panasonic GH5s price** will be around **$2,500 for body-only**.
 
-Stay tuned with us for more information to read more <a href="https://www.mirrorlesstimes.com/tag/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> and <a href="https://www.dailycameranews.com/tag/panasonic-rumors/" target="_blank" rel="noopener">Panasonic Rumors</a>!
+Stay tuned with us for more information to read more <a href="https://www.mirrorlesstimes.com/tags/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> and <a href="https://www.dailycameranews.com/tag/panasonic-rumors/" target="_blank" rel="noopener">Panasonic Rumors</a>!
 
  [1]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/07/panasonic-gh5-tests.jpeg?ssl=1

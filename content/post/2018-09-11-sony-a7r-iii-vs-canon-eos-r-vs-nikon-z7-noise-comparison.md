@@ -21,7 +21,7 @@ tags:
 ---
 Here is a noise comparison of the **Sony a7R III Vs. Canon EOS R Vs. Nikon Z7** full frame mirrorless cameras.
 
-Photons to Photos has added <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> and [Nikon Z7][1] to their database. Now we can see the read noise comparison on <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony a7R III</a> against the Canon EOS R and Nikon Z7.
+Photons to Photos has added <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> and [Nikon Z7][1] to their database. Now we can see the read noise comparison on <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony a7R III</a> against the Canon EOS R and Nikon Z7.
 
 From the result high-resolution Sony a7R III has less noise overall against the newly announced Canon EOS R and Nikon Z7. We guess the Nikon and Canon data is based on pre-production models so we can see the improvements later.  
 <!--more-->
@@ -32,10 +32,10 @@ Nikon Z7 : **$3,397 (<a href="https://www.amazon.com/s/gp/search/ref=sr_nr_p_n_
 
 Sony A7R III : **$3,198.00 – (<a href="https://aax-us-east.amazon-adsystem.com/x/c/QuxMpfsOAG4bJs1BIYR1-YMAAAFf1Fo0IgEAAAFKATET3iY/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2AUniPD/ref=as_at?linkCode=w61&imprToken=loINgziut6vI9OjS6RWbNg&slotNum=0" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">Amazon</a>/ <a href="https://www.bhphotovideo.com/c/product/1369441-REG/sony_ilce7rm2_b_alpha_a7r_iii_mirrorless.html/BI/20175/KBID/14249" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">B&H</a>/ <a href="https://adorama.evyy.net/c/63923/51926/1036?u=https%3A%2F%2Fwww.adorama.com%2Fsearchsite%2Fdefault.aspx%3Fsearchinfo%3Dsony%2Ba7r%2Biii" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">Adorama</a>)**
 
-Read more [Nikon mirrorless][2] and  <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>. Check out <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> and [Canon mirrorless][3] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a> here.
+Read more [Nikon mirrorless][2] and  <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>. Check out <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> and [Canon mirrorless][3] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a> here.
 
 via: <a href="http://www.photonstophotos.net/Charts/RN_ADU.htm#Canon%20EOS%20R_14,Nikon%20Z%207_14(p),Sony%20ILCE-7RM3_14" target="_new" rel="nofollow" data-wpel-link="external">PTP</a>
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-z7/
- [2]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
- [3]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-z7/
+ [2]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

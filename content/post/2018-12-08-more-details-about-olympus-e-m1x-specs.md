@@ -13,7 +13,7 @@ tags:
   - Rumors
 
 ---
-More rumored <a href="https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1x/" data-wpel-link="internal">Olympus E-M1X</a> specs have been leaked. According to the specs list the high-end mirrorless camera will feature **20MP image sensor, 18fps continuous shooting speed with 7.5+ EV**.
+More rumored <a href="https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1x/" data-wpel-link="internal">Olympus E-M1X</a> specs have been leaked. According to the specs list the high-end mirrorless camera will feature **20MP image sensor, 18fps continuous shooting speed with 7.5+ EV**.
 
 E-M1X is said to fetaure AI autofocus system, which you may have more accurate tracking. The rumor mill indicates that the E-M1X will NOT be the E-M1II successor. The camera will have 2x the processing speed of the current E-M1II.<!--more-->
 
@@ -44,4 +44,4 @@ Stay tuned with us for more information. Read more [Olympus Mirrorless][1] ne
 
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/858035244291979/" target="_blank" rel="external nofollow noopener">Olympus Camera Users</a> Facebook Group to share your Olympus photography._
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

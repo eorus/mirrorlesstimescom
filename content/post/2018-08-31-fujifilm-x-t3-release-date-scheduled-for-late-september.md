@@ -45,8 +45,8 @@ We can expect <span class="s1">faster autofocus and burst with better video pe
 
 Read more [Fujifilm Mirrorless][5] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/
  [2]: https://www.mirrorlesstimes.com/2017/06/best-lenses-fujifilm-x-t2/ "Best Lenses for Fujifilm X-T2"
  [3]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2016/07/fujifilm-x-t2-front.jpg?ssl=1
  [4]: https://www.dailycameranews.com/2018/07/fujifilm-x-t3-camera-officially-registered-online/
- [5]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

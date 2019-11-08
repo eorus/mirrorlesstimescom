@@ -26,6 +26,6 @@ Today Fujifilm also released firmware ver.3.10 for Fujifilm GFX 50S and a new fe
 
 Read more [Fujifilm Mirrorless][3] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/
  [2]: https://www.mirrorlesstimes.com/2018/05/fujifilm-x-t2-firmware-update-version-4-01-released/
- [3]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

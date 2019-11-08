@@ -33,7 +33,7 @@ Read more <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_
 
 via <a href="https://nikonrumors.com/2018/05/22/nikon-mirrorless-camera-rumors-update.aspx/" target="_blank" rel="nofollow noopener">NR</a>
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-full-frame-mirrorless/
- [2]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-full-frame-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
  [3]: https://www.dailycameranews.com/tag/nikon-d850/
- [4]: https://www.mirrorlesstimes.com/tag/photokina-2018/
+ [4]: https://www.mirrorlesstimes.com/tags/photokina-2018/

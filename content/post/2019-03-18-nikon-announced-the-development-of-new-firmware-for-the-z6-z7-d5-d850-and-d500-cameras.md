@@ -21,7 +21,7 @@ Nikon has announced more details of firmware in development for the Z6, Z7, D5,�
 
 As previously reported, firmware is being planned that will add Eye-detection AF, CFexpress support and Raw video over HDMI to the Z6 and Z7, with AF and AE improvements also coming in May.
 
-You might familiar with Eye AF which is found on Sony mirrorless cameras, including the <a href="https://amzn.to/2SK17UI" target="_blank" rel="noopener">a7 III</a> and <a href="https://amzn.to/2SHNVjg" target="_blank" rel="noopener">a7R III</a> against which the Z6 and Z7 compete. Another significant upcoming feature is the ability to output ProRes RAW video to an Atomos Ninja V. This would make the [Nikon Z6][2] and <a href="https://www.mirrorlesstimes.com/tag/nikon-z7/" target="_blank" rel="noopener">Z7</a> the first stills/video hybrid cameras to support RAW video output. Check out the details below.<!--more-->
+You might familiar with Eye AF which is found on Sony mirrorless cameras, including the <a href="https://amzn.to/2SK17UI" target="_blank" rel="noopener">a7 III</a> and <a href="https://amzn.to/2SHNVjg" target="_blank" rel="noopener">a7R III</a> against which the Z6 and Z7 compete. Another significant upcoming feature is the ability to output ProRes RAW video to an Atomos Ninja V. This would make the [Nikon Z6][2] and <a href="https://www.mirrorlesstimes.com/tags/nikon-z7/" target="_blank" rel="noopener">Z7</a> the first stills/video hybrid cameras to support RAW video output. Check out the details below.<!--more-->
 
 ## Development of New Firmware for Nikon’s Full-Frame Mirrorless Cameras, The Nikon Z 7 and Nikon Z 6
 
@@ -54,4 +54,4 @@ Regardless of what is next, stay tuned to our website to find out the latest dig
 Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868201466609763/" target="_blank" rel="external nofollow noopener"><strong>Nikon Camera Users Group</strong></a> to share your Nikon photography, ask and answer questions that arise and help each others!
 
  [1]: https://www.bestcameranews.com/tag/nikon-d850/
- [2]: https://www.mirrorlesstimes.com/tag/nikon-z6/
+ [2]: https://www.mirrorlesstimes.com/tags/nikon-z6/

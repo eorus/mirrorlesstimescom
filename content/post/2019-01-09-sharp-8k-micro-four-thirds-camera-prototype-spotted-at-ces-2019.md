@@ -15,7 +15,7 @@ tags:
 
 It has a 5-inch vari-angle screen, and records 8K video at 30fps. In order to record 8K video, the sensor needs to have a resolution of at least 33mp (7680&#215;4320).
 
-The price is expected to be under $5,000 US. Full  specs and price information of this camera **will be available in Q2 of 2019**. Official announcement of the Sharp 8K <a href="https://www.mirrorlesstimes.com/tag/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> camera could happen at NAB 2019 event. <!--more-->
+The price is expected to be under $5,000 US. Full  specs and price information of this camera **will be available in Q2 of 2019**. Official announcement of the Sharp 8K <a href="https://www.mirrorlesstimes.com/tags/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> camera could happen at NAB 2019 event. <!--more-->
 
 This is an exciting news because there is no M43 sensor on the market that’s capable of true 8k (7680×4320) resolution. The body on it looks a lot like the <a href="https://amzn.to/2CZ8bav" target="_blank" rel="noopener">BMPCC4K</a>, and even has similar ports on the left side of the camera.
 

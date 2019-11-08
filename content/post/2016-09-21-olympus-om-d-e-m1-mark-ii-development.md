@@ -54,6 +54,6 @@ After four years of development the Olympus OM-D E-M1II camera will come in late
 Read more [Olympus Mirrorless][4] news and <a href="https://www.dailycameranews.com/tag/olympus-rumors/" target="_blank" rel="noopener">Olympus Rumors</a>.
 
  [1]: https://www.mirrorlesstimes.com/category/olympus/
- [2]: https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1-mark-ii/
- [3]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
- [4]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1-mark-ii/
+ [3]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/
+ [4]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

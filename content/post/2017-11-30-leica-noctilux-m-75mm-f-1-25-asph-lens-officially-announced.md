@@ -184,7 +184,7 @@ The Noctilux-M 75mm f/1.25 ASPH. features the convenience of an integrated lens 
                                             </tr></tbody> </table> 
                                             
                                             <p>
-                                              Read more <a href="https://www.mirrorlesstimes.com/tag/leica-mirrorless/">Leica Mirrorless</a> news / talk.
+                                              Read more <a href="https://www.mirrorlesstimes.com/tags/leica-mirrorless/">Leica Mirrorless</a> news / talk.
                                             </p>
 
  [1]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/leica-noctilux-m-75mm-f-1-25-asph-lens-announced-price-12795.jpg?ssl=1

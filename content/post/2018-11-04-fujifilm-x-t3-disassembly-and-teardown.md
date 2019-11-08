@@ -13,7 +13,7 @@ tags:
   - Review
 
 ---
-Kolari Vision pubslished the <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> disassembly and teardown shows off how well the APS-c mirrorless camera is built.
+Kolari Vision pubslished the <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> disassembly and teardown shows off how well the APS-c mirrorless camera is built.
 
 The price of the X-T3 is **$1,499 for body-only**.** **Check listings at <a href="https://www.bhphotovideo.com/c/search?Ntt=Fujifilm%20X-T3&N=0&InitialSearch=yes&sts=ma&Top+Nav-Search=&BI=20175&KBID=14249" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external">B&H Photo</a>, <a href="https://www.amazon.com/Fujifilm-X-T3-Mirrorless-Digital-Body/dp/B07H49QWN4/?tag=daicamnew-20" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external" data-amzn-asin="B07H49QWN4">AmazonUS</a>, <a href="https://adorama.evyy.net/c/63923/51926/1036?u=https%3A%2F%2Fwww.adorama.com%2Fifjxt3b.html" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external">Adorama</a>.
 
@@ -40,4 +40,4 @@ Read more [Fujifilm Mirrorless][3] news and <a href="https://www.dailycameran
 
  [1]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/11/2.jpg?ssl=1
  [2]: https://www.mirrorlesstimes.com/2018/09/fujifilm-x-t3-in-stock-availability-tracker/
- [3]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

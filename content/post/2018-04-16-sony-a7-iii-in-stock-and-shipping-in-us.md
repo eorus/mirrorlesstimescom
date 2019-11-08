@@ -14,7 +14,7 @@ tags:
   - Stock
 
 ---
-The new <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/" target="_blank" rel="noopener">Sony A7 III</a> full frame mirrorless camera is now available and in stock and shipping in the US.
+The new <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/" target="_blank" rel="noopener">Sony A7 III</a> full frame mirrorless camera is now available and in stock and shipping in the US.
 
 Sony has expanded its full-frame Alpha 7 range, introducing the _Sony A7 III_. With a _price_ tag of <a href="https://www.amazon.com/dp/B07B43WPVK/?tag=daicamnew-20" data-amzn-asin="B07B43WPVK">$1,999</a>, the camera boasts a new backside-illuminated, 24-megapixel sensor and 4K video recording with S-Log. It can also shoot full resolution pictures at up to 10fps and has a quad-VGA OLED viewfinder.
 
@@ -65,6 +65,6 @@ Sony A7 III camera is also the new best seller in mirrorless cameras at <a href
 
 Where to find Sony A7 III camera in stock? Here is an in [**stock / availability tracker for Sony A7 III**][1] mirrorless camera.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
  [1]: https://www.dailycameranews.com/2018/03/sony-a7-iii-stock-availability-tracker/

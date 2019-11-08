@@ -50,5 +50,5 @@ This version is a free update for users who have purchased a license more recent
 
 Iridient Developer 3.3 can be downloaded <a href="https://www.iridientdigital.com/products/iridientdeveloper_download.html" target="_blank" rel="nofollow noopener">here</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-z7/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-z7/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/

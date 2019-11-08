@@ -43,7 +43,7 @@ Creating the concept and design of the lens, the KMZ experts took into account t
 
 Lens Zenitar 0.95/50
 
-Stay tuned with us and read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noreferrer noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noreferrer noopener">Sony Rumors</a>.
+Stay tuned with us and read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noreferrer noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noreferrer noopener">Sony Rumors</a>.
 
 _Also join the <a href="https://www.facebook.com/groups/1637646316495210/" target="_blank" rel="noreferrer noopener">Sony Camera Users</a> Facebook Group to share your Sony photography._
 

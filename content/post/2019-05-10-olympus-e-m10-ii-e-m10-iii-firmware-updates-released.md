@@ -18,7 +18,7 @@ Olympus released a new firmware update for the **OM-D E-M10 Mark II and E-M10 M
 
 Olympus E-M10 is the entry-level product of the company’s Micro Four Thirds camera lineup. These cameras uses a 16.1-megapixel Four Thirds CMOS sensor.
 
-This is a minor upgrade to the <a href="https://www.mirrorlesstimes.com/tag/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> cameras as you can see the download links and firmware details below.<!--more-->
+This is a minor upgrade to the <a href="https://www.mirrorlesstimes.com/tags/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> cameras as you can see the download links and firmware details below.<!--more-->
 
 <a class="btn btn-primary btn-lg btn-block btn-danger" title="Most Popular Micro Four Thirds Lenses" role="button" href="https://www.dailycameranews.com/2017/02/popular-micro-four-thirds-lenses/" target="“_blank”">Most Popular Micro Four Thirds Lenses</a><span id="more-3492"></span>
 
@@ -33,4 +33,4 @@ Stay tuned with us for more information. Read more [Olympus Mirrorless][1] ne
 
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/858035244291979/" target="_blank" rel="external nofollow noopener">Olympus Camera Users</a> Facebook Group to share your Olympus photography._
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

@@ -29,9 +29,9 @@ The LUMIX _GH5_ 4K Mirrorless ILC Camera was [announced][2] back in the beginn
 
 A full year after the announcement of GH5, the world of Micro Four Thirds will meet the GH5s with a new sensor and improved low light performance.  Sources are claiming that the main improvement would be the state of the **art video functions**, **improved low light performance** and a higher launch price compared to the <a href="https://aax-us-east.amazon-adsystem.com/x/c/QgMJ79ylfyGmQC-u39r1M7kAAAFf_DpyIQEAAAFKAek0s-M/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/PANASONIC-Mirrorless-Camera-Megapixels-DC-GH5KBODY/dp/B01MZ3LQQ5/ref=as_at/?imprToken=r32-frxMR0naF8yXBm6KIg&slotNum=0&s=photo&ie=UTF8&qid=1511689686&sr=1-3&keywords=panasonic+gh5&linkCode=sl1&tag=daicamnew-20&linkId=cb77e75ed11296528ae8f3bcab5609e3" target="_blank" rel="nofollow noopener">GH5</a>. The body design of the Panasonic GH5s will be similar to the GH5.
 
-Consumer Electronics show opens its doors to visitors in **Las Vegas on January 6**, therefore the official product launch event will most likely take place on January 5. The second event for Photography world is the **CP+ 2018** and it is **scheduled for February**. The <a href="https://www.mirrorlesstimes.com/tag/panasonic-gh5s/" target="_blank" rel="noopener">Panasonic GH5s</a> camera is expected to start shipping by the end of February.
+Consumer Electronics show opens its doors to visitors in **Las Vegas on January 6**, therefore the official product launch event will most likely take place on January 5. The second event for Photography world is the **CP+ 2018** and it is **scheduled for February**. The <a href="https://www.mirrorlesstimes.com/tags/panasonic-gh5s/" target="_blank" rel="noopener">Panasonic GH5s</a> camera is expected to start shipping by the end of February.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> news!
+Read more <a href="https://www.mirrorlesstimes.com/tags/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> news!
 
 via <a href="https://photorumors.com/2017/11/26/more-on-the-rumored-panasonic-gh5s-camera-for-low-light-performance/" target="_blank" rel="nofollow noopener">PR</a>
 

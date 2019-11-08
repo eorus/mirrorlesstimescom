@@ -14,7 +14,7 @@ tags:
   - Sony Mirrorless
 
 ---
-The _Sony <a href="https://www.mirrorlesstimes.com/tag/sony-fe-135mm-f-1-8-gm/" target="_blank" rel="noopener">FE 135mm f/1.8 GM</a> _is a new prime _lens_ for full-frame Sony mirrorless cameras that&#8217;s designed to deliver the ultimate bokeh. The mid telephoto prime lens features 13 elements in 10 groups including a recently developed, extremely precise XA (extreme aspherical) element that reduces aberration and increases resolution, as well as Super ED (extra-low dispersion) and ED elements.
+The _Sony <a href="https://www.mirrorlesstimes.com/tags/sony-fe-135mm-f-1-8-gm/" target="_blank" rel="noopener">FE 135mm f/1.8 GM</a> _is a new prime _lens_ for full-frame Sony mirrorless cameras that&#8217;s designed to deliver the ultimate bokeh. The mid telephoto prime lens features 13 elements in 10 groups including a recently developed, extremely precise XA (extreme aspherical) element that reduces aberration and increases resolution, as well as Super ED (extra-low dispersion) and ED elements.
 
 It has a near-circular 11 blade diaphragm, the most ever used in an Alpha lens, which creates a very attractive blur to the out-of-focus areas of the image, Sony&#8217;s Nano AR Coating to reduce flare and ghosting, a fluorine coated front element, and it&#8217;s also dust and moisture resistant.
 
@@ -235,5 +235,5 @@ The US price for this lens is **$1,898.00 (**<a href="https://www.bhphotovideo.
         </p>
         
         <p>
-          Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+          Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
         </p>

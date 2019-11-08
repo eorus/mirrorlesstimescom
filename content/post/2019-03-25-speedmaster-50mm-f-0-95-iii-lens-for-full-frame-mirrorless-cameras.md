@@ -35,5 +35,5 @@ via <a href="https://www.dailycameranews.com/2019/02/speedmaster-50mm-f-0-95-iii
 
 [<img class="aligncenter size-full wp-image-3568" src="https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/03/Speedmaster-50mm-f0.95-III-full-frame-mirrorless-lens-1.jpg?resize=600%2C814&#038;ssl=1" alt="" width="600" height="814" srcset="https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/03/Speedmaster-50mm-f0.95-III-full-frame-mirrorless-lens-1.jpg?w=708&ssl=1 708w, https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/03/Speedmaster-50mm-f0.95-III-full-frame-mirrorless-lens-1.jpg?resize=221%2C300&ssl=1 221w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" />][2]
 
- [1]: https://www.mirrorlesstimes.com/tag/lens/
+ [1]: https://www.mirrorlesstimes.com/tags/lens/
  [2]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/03/Speedmaster-50mm-f0.95-III-full-frame-mirrorless-lens-1.jpg?ssl=1

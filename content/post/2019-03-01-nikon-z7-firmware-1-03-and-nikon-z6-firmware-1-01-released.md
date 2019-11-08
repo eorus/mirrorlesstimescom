@@ -17,7 +17,7 @@ tags:
   - Nikon Z7
 
 ---
-Nikon has released new firmware updates for the <a href="https://www.mirrorlesstimes.com/tag/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a> and <a href="https://www.mirrorlesstimes.com/tag/nikon-z7/" target="_blank" rel="noopener">Nikon Z7</a> full-frame mirrorless cameras.
+Nikon has released new firmware updates for the <a href="https://www.mirrorlesstimes.com/tags/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a> and <a href="https://www.mirrorlesstimes.com/tags/nikon-z7/" target="_blank" rel="noopener">Nikon Z7</a> full-frame mirrorless cameras.
 
 This firmware **Nikon Z7 firmware update 1.03 and Nikon Z6 firmware update 1.01 **fixes several issues. The previously announced major firmware that will add Eye AF, RAW video support, CFexpress support to Z series is expected later.
 

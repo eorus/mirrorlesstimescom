@@ -31,7 +31,7 @@ The <a href="https://www.dailycameranews.com/tag/panasonic-full-frame-mirrorles
   * New lens mount: L-mount
   * 4K@60p, and very great video features
   * Dual memory card slots
-  * Price Around $2000, to compete with <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" data-wpel-link="exclude">Canon EOS R</a>, <a href="https://www.mirrorlesstimes.com/tag/nikon-z6/" data-wpel-link="exclude">Nikon Z6</a>, <a href="https://www.dailycameranews.com/2018/03/sony-a7-iii-stock-availability-tracker/" data-wpel-link="internal">Sony a7 III</a>
+  * Price Around $2000, to compete with <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" data-wpel-link="exclude">Canon EOS R</a>, <a href="https://www.mirrorlesstimes.com/tags/nikon-z6/" data-wpel-link="exclude">Nikon Z6</a>, <a href="https://www.dailycameranews.com/2018/03/sony-a7-iii-stock-availability-tracker/" data-wpel-link="internal">Sony a7 III</a>
   * Development announcement on September 25th
   * Release date in March 2019
 
@@ -61,5 +61,5 @@ Other roundup rumors:
 
 Read more [Panasonic Mirrorless][1] and [Panasonic Rumors][2].
 
- [1]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [1]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [2]: https://www.dailycameranews.com/tag/panasonic-rumors/

@@ -16,7 +16,7 @@ tags:
 
 ---
 <p class="p1">
-  <span class="s1">Tony Northrup compares the <a href="https://www.mirrorlesstimes.com/tag/nikon-z7/">Nikon Z7</a> image quality with the D850, <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/">Canon EOS R</a> and <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/">Sony a7R III</a> cameras. </span>
+  <span class="s1">Tony Northrup compares the <a href="https://www.mirrorlesstimes.com/tags/nikon-z7/">Nikon Z7</a> image quality with the D850, <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/">Canon EOS R</a> and <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/">Sony a7R III</a> cameras. </span>
 </p>
 
 The Nikon Z7 has a 45.7 MP sensor that can push 9 fps and a superior autofocus system with a total of 493 focus points. The full frame MILC offers hybrid autofocus system, with both on-sensor phase detection and contrast detection AF.
@@ -47,5 +47,5 @@ Read more [Nikon Mirrorless][4] and <a href="https://www.dailycameranews.com/
  [1]: https://www.dailycameranews.com/tag/nikon-z7/
  [2]: https://www.bhphotovideo.com/c/product/1431716-REG/nikon_4185_ftz_mount_adapter.html/BI/20175/KBID/14249/
  [3]: https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/nkzmaftz.html
- [4]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/
  [5]: https://www.dailycameranews.com/2018/09/nikon-z7-in-stock-availability-tracker/

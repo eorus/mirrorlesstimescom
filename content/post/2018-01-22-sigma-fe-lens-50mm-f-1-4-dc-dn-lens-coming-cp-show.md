@@ -35,8 +35,8 @@ It has been widely thought that _Sigma_ will be finally entering the Sony full
 
 _Join the new <a href="https://www.facebook.com/groups/1637646316495210/" target="_blank" rel="nofollow noopener noreferrer">Sony Camera Users Facebook Group</a>. _
 
-Check out <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Check out <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
- [1]: https://www.mirrorlesstimes.com/tag/sigma-16mm-f-1-4-dc-dn/
- [2]: https://www.mirrorlesstimes.com/tag/sigma-50mm-f-1-4-dc-dn/
+ [1]: https://www.mirrorlesstimes.com/tags/sigma-16mm-f-1-4-dc-dn/
+ [2]: https://www.mirrorlesstimes.com/tags/sigma-50mm-f-1-4-dc-dn/
  [3]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/01/sigma-fe-af-35mm-lens.jpg?ssl=1

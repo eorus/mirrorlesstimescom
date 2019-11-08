@@ -43,5 +43,5 @@ The [Sony A7R III][2] features a 42mp BSI CMOS sensor, 10fps continuous shooti
 Read more [Sony Mirrorless][3] talk / news.
 
  [1]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/10/sony-a7r-iii.jpg?ssl=1
- [2]: https://www.mirrorlesstimes.com/tag/sony-a7r-iii/
- [3]: https://www.mirrorlesstimes.com/tag/sony-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/sony-a7r-iii/
+ [3]: https://www.mirrorlesstimes.com/tags/sony-mirrorless/

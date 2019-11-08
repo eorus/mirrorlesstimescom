@@ -57,8 +57,8 @@ Featuring a compact form factor at only 2.9″ in length, the _Loxia 25mm f/2.4
   </li>
 </ul>
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here. Check out the [Best Sony Full Frame E Mount Lenses][3].
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here. Check out the [Best Sony Full Frame E Mount Lenses][3].
 
- [1]: https://www.mirrorlesstimes.com/tag/zeiss-loxia-25mm-f-2-4/
+ [1]: https://www.mirrorlesstimes.com/tags/zeiss-loxia-25mm-f-2-4/
  [2]: https://www.amazon.com/Zeiss-Loxia-25mm-Lens-Mount/dp/B079T5RBNL/?tag=daicamnew-20
  [3]: https://www.dailycameranews.com/2017/03/best-sony-full-frame-e-mount-lenses/

@@ -16,7 +16,7 @@ tags:
   - Review
 
 ---
-[Lensvid][1] posted their video Interview with Panasonic about the upcoming <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1/" rel="tag">Panasonic S1</a> and <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1r/" rel="tag">Panasonic S1R</a> full-frame mirrorless cameras.
+[Lensvid][1] posted their video Interview with Panasonic about the upcoming <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1/" rel="tag">Panasonic S1</a> and <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1r/" rel="tag">Panasonic S1R</a> full-frame mirrorless cameras.
 
 You can watch the hands-on video below and some notes about the L-mount system. To underline a point, physically they say &#8220;_the cameras are larger than the GH5. On the other hand holding the S1R in the hand feels pretty nice_&#8220;.  First check out this video where you can see a first hands-on video with the Panasonic S1 and S1R.<!--more-->
 
@@ -41,5 +41,5 @@ Read more [Panasonic Mirrorless][2] and [Panasonic Rumors][3].
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/1613303922265409/" target="_blank" rel="external nofollow noopener">Mirrorless Camera Users</a> Facebook Group to share your Panasonic photography._
 
  [1]: https://lensvid.com/gear/panasonic-s1-s1r-and-more-at-photokina-2018/
- [2]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [2]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [3]: https://www.dailycameranews.com/tag/panasonic-rumors/

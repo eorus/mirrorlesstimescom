@@ -15,7 +15,7 @@ tags:
   - Wide Angle
 
 ---
-Great news for Micro 4/3rds and Sony E-mount users. The <a href="https://www.mirrorlesstimes.com/tag/sigma-16mm-f-1-4-dc-dn/" target="_blank" rel="noopener" data-wpel-link="exclude">Sigma 16mm F1.4 DC DN Contemporary lens</a> is now available in stock and shipping. at [B&H][1] and [Adorama][2].
+Great news for Micro 4/3rds and Sony E-mount users. The <a href="https://www.mirrorlesstimes.com/tags/sigma-16mm-f-1-4-dc-dn/" target="_blank" rel="noopener" data-wpel-link="exclude">Sigma 16mm F1.4 DC DN Contemporary lens</a> is now available in stock and shipping. at [B&H][1] and [Adorama][2].
 
 This new lens costs $449. **Sigma 16mm f/1.4 DC DN Contemporary Lens – [B&H][1] and [Adorama][2].**
 
@@ -60,7 +60,7 @@ The Sigma 16mm F1.4 DC DN Contemporary lens will provide a 35mm equivalent fo
 
 _Join the new <a href="https://www.facebook.com/groups/1637646316495210/" target="_blank" rel="nofollow noopener noreferrer">Sony Camera Users Facebook Group</a>. _
 
-Check out <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Check out <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
  [1]: https://www.bhphotovideo.com/c/product/1369132-REG/sigma_402965_16mm_f_1_4_dc_dn.html/BI/20175/KBID/14249
  [2]: https://www.adorama.com/sg1614soe.html?kbid=68292

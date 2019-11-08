@@ -78,4 +78,4 @@ You can purchase the XF18mmF2 lens for <a href="https://amzn.to/2nGVpVK" target
 
 Read more [Fujifilm Mirrorless][1] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

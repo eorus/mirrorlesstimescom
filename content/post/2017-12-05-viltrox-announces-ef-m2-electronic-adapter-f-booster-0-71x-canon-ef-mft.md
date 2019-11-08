@@ -15,7 +15,7 @@ tags:
   - Panasonic Mirrorless
 
 ---
-Viltrox **EF-M2 Electronic Adapter** (F Booster) is designed for <a href="https://www.mirrorlesstimes.com/tag/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> cameras and Canon EF mount lenses.
+Viltrox **EF-M2 Electronic Adapter** (F Booster) is designed for <a href="https://www.mirrorlesstimes.com/tags/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> cameras and Canon EF mount lenses.
 
 The EF-M2 from Viltrox builts with optics to increase light input by one F stop and reduce focal length by x0.71. The electronic adapter also comes with USB port for firmware update and a dedicated button to adjust aperture.
 
@@ -43,5 +43,5 @@ Read more [**Olympus Mirrorless**][2] and [**Panasonic Mirrorless**][3] news.
 via <a href="https://www.facebook.com/sharpestlight/posts/1945834329011626" target="_blank" rel="nofollow external noopener noreferrer">Sharpest Light Limited</a>
 
  [1]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/12/viltrox-announces-ef-m2-electronic-adapter-f-booster-0-71x-canon-ef-mft.jpg?ssl=1
- [2]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
- [3]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless/

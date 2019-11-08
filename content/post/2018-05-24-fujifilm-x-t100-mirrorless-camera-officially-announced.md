@@ -65,9 +65,9 @@ Read more [Fujifilm Mirrorless][5] news and <a href="https://www.dailycameran
 
 [<img class="aligncenter size-full wp-image-2035" src="https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/05/fujifilm-x-t100-back.jpg?resize=600%2C450&#038;ssl=1" alt="" width="600" height="450" srcset="https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/05/fujifilm-x-t100-back.jpg?w=1000&ssl=1 1000w, https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/05/fujifilm-x-t100-back.jpg?resize=400%2C300&ssl=1 400w, https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/05/fujifilm-x-t100-back.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/05/fujifilm-x-t100-back.jpg?resize=970%2C728&ssl=1 970w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" />][6]
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t100/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t100/
  [2]: https://www.mirrorlesstimes.com/2018/03/fujifilm-xc-15-45mm-f3-5-5-6-ois-pz-lens-in-stock-and-shipping/
  [3]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/05/fujifilm-x-t100-top.jpg?ssl=1
  [4]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/05/fujifilm-x-t100-rear.jpg?ssl=1
- [5]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/
  [6]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/05/fujifilm-x-t100-back.jpg?ssl=1

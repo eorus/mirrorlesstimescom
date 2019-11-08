@@ -49,11 +49,11 @@ Canon EOS R Vs. [Nikon Z6][4] Vs. [Sony a7 III][5] Dynamic Range Comparison:
   </p>
   
   <p>
-    Read more <a href="https://www.mirrorlesstimes.com/tag/canon-mirrorless/">Canon mirrorless</a> and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noreferrer noopener">Canon Rumors</a>. See <a href="https://www.dailycameranews.com/2018/11/canon-product-announcement-roadmap-in-first-half-of-2019/">What to Expect from Canon in 2019</a>
+    Read more <a href="https://www.mirrorlesstimes.com/tags/canon-mirrorless/">Canon mirrorless</a> and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noreferrer noopener">Canon Rumors</a>. See <a href="https://www.dailycameranews.com/2018/11/canon-product-announcement-roadmap-in-first-half-of-2019/">What to Expect from Canon in 2019</a>
   </p>
 </blockquote>
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-eos-r/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-eos-r/
  [2]: https://www.dailycameranews.com/2016/10/canon-eos-5d-mark-iv-lenses/
  [3]: https://www.dailycameranews.com/2016/09/canon-eos-5d-mark-iv-test/
  [4]: https://www.dailycameranews.com/tag/nikon-z6/

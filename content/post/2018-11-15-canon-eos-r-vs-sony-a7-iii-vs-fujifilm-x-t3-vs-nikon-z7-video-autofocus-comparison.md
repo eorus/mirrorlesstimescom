@@ -31,7 +31,7 @@ Check out the video below and see for yourself how these [Canon EOS R][1] vs 
   * **Sony a7 III body : $1,998 &#8211; <a class="ext-link" title="" href="https://www.amazon.com/Sony-Full-Frame-Mirrorless-Interchangeable-Lens-ILCE7M3/dp/B07B43WPVK/?tag=daicamnew-20" target="_blank" rel="noopener external noreferrer nofollow" data-amzn-asin="B07B43WPVK" data-wpel-link="external">Amazon</a>, <a class="ext-link" title="" href="https://www.bhphotovideo.com/c/product/1394217-REG/sony_ilce_7m3_alpha_a7_iii_mirrorless.html/BI/20175/KBID/14249/" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external">B&H</a>, <a class="ext-link" title="" href="https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/isoa7m3.html" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external">Adorama</a>**
   * **Canon EOS R body : $2,299 &#8211;  <a class="ext-link" title="" href="https://www.amazon.com/Canon-Cameras-Digital-Camera-3075C002/dp/B07H484HLT/?tag=daicamnew-20" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external" data-amzn-asin="B07H484HLT">Amazon</a>, <a class="ext-link" title="" href="https://www.bhphotovideo.com/c/product/1433710-REG/canon_eos_r_mirrorless_digital.html/BI/20175/KBID/14249/" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external">B&H</a>, **<a class="ext-link broken_link" title="" href="https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/car.html" target="_blank" rel="noopener external noreferrer nofollow"><strong>Adorama</strong></a>
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-eos-r/
- [2]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
- [3]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/
- [4]: https://www.mirrorlesstimes.com/tag/nikon-z7/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-eos-r/
+ [2]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
+ [3]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/
+ [4]: https://www.mirrorlesstimes.com/tags/nikon-z7/

@@ -15,7 +15,7 @@ tags:
 ---
 Sony will allegedly announce a new entry-level APS-C mirrorless camera in 2019. The new camera is said to replace the <a class="ext-link" title="" href="https://www.amazon.com/Sony-Mirrorless-Digital-Camera-3-Inch/dp/B00MHPAFAG/?tag=mirrorlesst-20" target="_blank" rel="noopener external nofollow" data-amzn-asin="B00MHPAFAG">current Sony a5100 model</a>.
 
-The name of this new camera is not confirmed yet, but expected to be called Sony a5200 or Sony a5300. Check out the rumored specifications of <a href="https://www.mirrorlesstimes.com/tag/sony-a5300/" target="_blank" rel="noopener">Sony a5300</a> mirrorless camera.<!--more-->
+The name of this new camera is not confirmed yet, but expected to be called Sony a5200 or Sony a5300. Check out the rumored specifications of <a href="https://www.mirrorlesstimes.com/tags/sony-a5300/" target="_blank" rel="noopener">Sony a5300</a> mirrorless camera.<!--more-->
 
 Sony has a schedule of these products in a yearly cycle. An A5100 update looks promising in 2019. It would be the new entry-level APC-S Mirrorless Camera. Let’s talk about the Sony A5300 specs a bit.
 
@@ -33,4 +33,4 @@ Sony has a schedule of these products in a yearly cycle. An A5100 update looks p
 
 Just take this specs list with a grain of salt and stay tuned with us for more information.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.

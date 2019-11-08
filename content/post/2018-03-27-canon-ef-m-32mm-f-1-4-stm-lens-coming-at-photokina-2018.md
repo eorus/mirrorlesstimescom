@@ -28,5 +28,5 @@ The focal length is excellent for street photography and the bright aperture wil
 
 Read more [Canon Mirrorless][2] news and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-eos-m50/
- [2]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-eos-m50/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

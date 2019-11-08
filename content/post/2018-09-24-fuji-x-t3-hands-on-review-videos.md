@@ -13,7 +13,7 @@ tags:
   - Review
 
 ---
-Here are the latest Fuji X-T3 hands-on review videos. Everything you need to know about the new <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> including read noise comparison here. But first if you are a new user of X-T3, check out the <a href="https://www.dailycameranews.com/2018/09/fujifilm-x-t3-firmware-update-1-01-released-to-fix-lockup-issue/" target="_blank" rel="noopener">lock-up fix firmware</a> here. See also [Fujifilm X-T3 vs X-H1 vs X-T2 – Comparison][1]
+Here are the latest Fuji X-T3 hands-on review videos. Everything you need to know about the new <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> including read noise comparison here. But first if you are a new user of X-T3, check out the <a href="https://www.dailycameranews.com/2018/09/fujifilm-x-t3-firmware-update-1-01-released-to-fix-lockup-issue/" target="_blank" rel="noopener">lock-up fix firmware</a> here. See also [Fujifilm X-T3 vs X-H1 vs X-T2 – Comparison][1]
 
 Photons to Photos released some interesting Read Noise results for the Fuji X-T3. According to the report new sensor inside the X-T3 performs better than the X-T2 (as expected) in some circumstance. See details <a href="http://www.photonstophotos.net/Charts/RN_ADU.htm#FujiFilm%20X-T2_14,FujiFilm%20X-T3_14,FujiFilm%20X-T3[ES]_14" target="_blank" rel="noopener">here</a>.
 
@@ -56,4 +56,4 @@ Read more [Fujifilm Mirrorless][3] news and <a href="https://www.dailycameran
 
  [1]: https://www.dailycameranews.com/2018/09/fujifilm-x-t3-vs-x-h1-vs-x-t2-comparison/
  [2]: https://www.mirrorlesstimes.com/2018/09/fujifilm-x-t3-in-stock-availability-tracker/
- [3]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

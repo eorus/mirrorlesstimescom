@@ -19,7 +19,7 @@ tags:
   - RF 85mm F1.2 L USM DS
 
 ---
-Along with the entry-level <a href="https://www.mirrorlesstimes.com/tag/canon-eos-rp/" data-wpel-link="internal">Canon EOS RP</a> full frame mirrorless camera, six new Canon RF lenses are also in development. These RF lenses are expected to be released in 2019.
+Along with the entry-level <a href="https://www.mirrorlesstimes.com/tags/canon-eos-rp/" data-wpel-link="internal">Canon EOS RP</a> full frame mirrorless camera, six new Canon RF lenses are also in development. These RF lenses are expected to be released in 2019.
 
 The most captivating has to be the RF 70-200 F2.8L IS USM. The 70-200 will be stabilized. Canon will be offering two versions of its RF 85mm F1.2L USM: a ‘regular’ model and a ‘DS’ variant. DS stands for Defocus Smoothing, which Canon says ‘offers a combination of beautifully smooth defocused bokeh.
 
@@ -40,11 +40,11 @@ _New Lenses Under Development Cover a Range of Core Focal Lengths_
 The six new RF lenses under development include:
 
   * [Canon RF 85mm F1.2 L USM DS][1]
-  * <a href="https://www.mirrorlesstimes.com/tag/rf-15-35mm-f-2-8l-is-usm/" rel="tag">RF 15-35mm f/2.8L IS USM</a>
-  * <a href="https://www.mirrorlesstimes.com/tag/rf-24-240mm-f-4-6-3-is-usm/" rel="tag">RF 24-240mm f/4-6.3 IS USM</a>
-  * <a href="https://www.mirrorlesstimes.com/tag/rf-24-70mm-f-2-8l-is/" rel="tag">RF 24-70mm f/2.8L IS</a>
-  * <a href="https://www.mirrorlesstimes.com/tag/rf-70-200mm-f-2-8l-is-usm/" rel="tag">RF 70-200mm f/2.8L IS USM</a>
-  * <a href="https://www.mirrorlesstimes.com/tag/rf-85mm-f-1-2l/" rel="tag">RF 85mm f/1.2L</a>
+  * <a href="https://www.mirrorlesstimes.com/tags/rf-15-35mm-f-2-8l-is-usm/" rel="tag">RF 15-35mm f/2.8L IS USM</a>
+  * <a href="https://www.mirrorlesstimes.com/tags/rf-24-240mm-f-4-6-3-is-usm/" rel="tag">RF 24-240mm f/4-6.3 IS USM</a>
+  * <a href="https://www.mirrorlesstimes.com/tags/rf-24-70mm-f-2-8l-is/" rel="tag">RF 24-70mm f/2.8L IS</a>
+  * <a href="https://www.mirrorlesstimes.com/tags/rf-70-200mm-f-2-8l-is-usm/" rel="tag">RF 70-200mm f/2.8L IS USM</a>
+  * <a href="https://www.mirrorlesstimes.com/tags/rf-85mm-f-1-2l/" rel="tag">RF 85mm f/1.2L</a>
 
 “Optics are the critical piece of the visual puzzle that bend light and capture an image as the artist envisioned,” said Kazuto Ogawa, president and chief operating officer, Canon U.S.A., Inc. “That is why it is so important for us to strengthen our family of RF lenses for the EOS R camera system. With this collection of new lenses, customers will have more of the tools they need, for the images they desire to create.”
 
@@ -78,4 +78,4 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 Read more [Canon mirrorless][2] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
  [1]: https://www.dailycameranews.com/tag/rf-85mm-f-1-2-l-usm-ds/
- [2]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

@@ -38,4 +38,4 @@ Via <a href="https://www.personal-view.com/talks/discussion/19798/panasonic-gh6
 
  [1]: https://www.mirrorlesstimes.com/category/panasonic/
  [2]: https://www.dailycameranews.com/tag/panasonic-rumors/
- [3]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
+ [3]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/

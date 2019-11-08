@@ -19,11 +19,11 @@ tags:
   - Panasonic S1R
 
 ---
-Panasonic officially announced the new <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1/" target="_blank" rel="noopener">Panasonic Lumix S1</a> & <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1r/" target="_blank" rel="noopener">S1R</a> full-frame mirrorless cameras. The US price of Panasonic Lumix S1 is $2,497.99, the Panasonic Lumix S1R is priced at $3,697.99.
+Panasonic officially announced the new <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1/" target="_blank" rel="noopener">Panasonic Lumix S1</a> & <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1r/" target="_blank" rel="noopener">S1R</a> full-frame mirrorless cameras. The US price of Panasonic Lumix S1 is $2,497.99, the Panasonic Lumix S1R is priced at $3,697.99.
 
 Both cameras will be released on April 4, 2019. Now the new Panasonic Lumix S1 & S1R full-frame mirrorless cameras are available for pre-order at <a class="ext-link" title="" href="https://www.amazon.com/dp/B07N864GWC/?tag=mtimes-20" target="_blank" rel="noopener external nofollow" data-amzn-asin="B07N864GWC">Amazon</a>, <a class="ext-link" title="" href="https://www.bhphotovideo.com/c/product/1455070-REG/panasonic_dc_s1rbody_lumix_dc_s1r_mirrorless_digital.html/BI/20175/KBID/14249/" target="_blank" rel="noopener external nofollow">B&H</a>, <a class="ext-link" title="" href="https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/pcs1r.html" target="_blank" rel="noopener external nofollow">Adorama</a>. Order now if you are interested.<!--more-->
 
-Check out the new Panasonic L-mount lenses : <a href="https://www.mirrorlesstimes.com/tag/panasonic-s-24-105mm-l-mount-lens/" rel="tag">Panasonic S 24-105mm L-Mount Lens</a>, <a href="https://www.mirrorlesstimes.com/tag/panasonic-s-50mm-f-1-4-l-mount-lens/" rel="tag">Panasonic S 50mm f/1.4 L-Mount Lens</a>, <a href="https://www.mirrorlesstimes.com/tag/panasonic-s-70-200mm-f-2-8-l-mount-lens/" rel="tag">Panasonic S 70-200mm f/2.8 L-Mount Lens</a>.
+Check out the new Panasonic L-mount lenses : <a href="https://www.mirrorlesstimes.com/tags/panasonic-s-24-105mm-l-mount-lens/" rel="tag">Panasonic S 24-105mm L-Mount Lens</a>, <a href="https://www.mirrorlesstimes.com/tags/panasonic-s-50mm-f-1-4-l-mount-lens/" rel="tag">Panasonic S 50mm f/1.4 L-Mount Lens</a>, <a href="https://www.mirrorlesstimes.com/tags/panasonic-s-70-200mm-f-2-8-l-mount-lens/" rel="tag">Panasonic S 70-200mm f/2.8 L-Mount Lens</a>.
 
 ## Panasonic Lumix S1
 
@@ -124,5 +124,5 @@ _Also join the <a class="ext-link" title="" href="https://www.facebook.com/grou
  [1]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/02/Panasoni-S1-1.jpg?ssl=1
  [2]: https://www.guidetocamera.com/products/panasonic/slrs/panasonic-lumix-dc-s1r/specifications/
  [3]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/02/Panasonic-S1-Top.jpg?ssl=1
- [4]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [4]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [5]: https://www.bestcameranews.com/tag/panasonic-rumors/

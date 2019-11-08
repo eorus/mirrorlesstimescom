@@ -14,7 +14,7 @@ tags:
   - Review
 
 ---
-<a href="https://www.youtube.com/channel/UCZG-C5esGZyVfxO2qXa1Zmw" target="_blank" rel="nofollow noopener">Jared Polin</a> (aka FroKnowsPhoto) posted a 50 minutes video a real world review of the <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> full frame mirrorless camera.
+<a href="https://www.youtube.com/channel/UCZG-C5esGZyVfxO2qXa1Zmw" target="_blank" rel="nofollow noopener">Jared Polin</a> (aka FroKnowsPhoto) posted a 50 minutes video a real world review of the <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> full frame mirrorless camera.
 
 He asks if it’s time to switch to the [Sony a7 III][1], or to get a <a href="https://www.amazon.com/Canon-Mark-Digital-Camera-Body/dp/B079VGBX2H/?tag=daicamnew-20" target="_blank" rel="noopener">Canon EOS 6D Mark II</a> instead, or should you get an <a href="https://www.amazon.com/Canon-Mark-Frame-Digital-Camera/dp/B01KURGS9E/?tag=daicamnew-20" target="_blank" rel="noopener">EOS 5D Mark IV</a>?
 
@@ -28,6 +28,6 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 
 Read more [Canon mirrorless][3] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
  [2]: https://www.dailycameranews.com/2018/09/canon-eos-r-in-stock-availability-tracker/
- [3]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

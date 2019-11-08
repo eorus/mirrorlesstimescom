@@ -18,7 +18,7 @@ The rangefinder style **Olympus PEN-F camera have been discontinued**. The Micr
 
 So, this also means Olympus is clearing up the stock lines to make a space for the new versions. In addition, when we look at company’s line-up, we can foresee that the next announcement can be made sometime in 2019. Check out the <a href="https://www.dailycameranews.com/2019/01/olympus-pen-f-mark-ii-registered-to-be-announced-in-2019/" target="_blank" rel="noopener">Olympus PEN-F II predictions</a>.<!--more-->
 
-We can expect a minor but handful upgrade for the upcoming <a href="https://www.mirrorlesstimes.com/tag/olympus-pen-f-mark-ii/" target="_blank" rel="noopener" data-wpel-link="internal">Olympus PEN-F Mark II</a> model. Sensor might remain the same as 20.3MP but the improvement on the TruePic Processor will improve the AF system, video recording and burst shooting. As a result the main improvements for the next version could be as follows:
+We can expect a minor but handful upgrade for the upcoming <a href="https://www.mirrorlesstimes.com/tags/olympus-pen-f-mark-ii/" target="_blank" rel="noopener" data-wpel-link="internal">Olympus PEN-F Mark II</a> model. Sensor might remain the same as 20.3MP but the improvement on the TruePic Processor will improve the AF system, video recording and burst shooting. As a result the main improvements for the next version could be as follows:
 
   * 18fps Burst
   * UHD and DCI 4K at 30p and 24p
@@ -31,4 +31,4 @@ _Also join the <a class="ext-link" title="" href="https://www.facebook.com/grou
 
 via <a href="https://shop.olympus-imaging.jp/product-detail/index/proid/667988" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">Olympus Japan</a>
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

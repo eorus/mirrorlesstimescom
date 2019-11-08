@@ -13,7 +13,7 @@ tags:
   - Sony Mirrorless
 
 ---
-Here are another list of rumored **<a href="https://www.mirrorlesstimes.com/tag/sony-a6700/" target="_blank" rel="noopener" data-wpel-link="exclude">Sony A6700</a> specs.** The flagship APS-c mirrorless camera is expected to be announced in early 2019.
+Here are another list of rumored **<a href="https://www.mirrorlesstimes.com/tags/sony-a6700/" target="_blank" rel="noopener" data-wpel-link="exclude">Sony A6700</a> specs.** The flagship APS-c mirrorless camera is expected to be announced in early 2019.
 
 According to dimensions in A6700 specs we can foresee that this will be reflected in a bigger body. So we hope that it doesn’t overheat like previous Alpha A6xxx series cameras.
 
@@ -22,7 +22,7 @@ Sony has a schedule of this products and introduce a new version every year. An 
 ## Sony a6700/a7000 Rumored Specs
 
   * a7 series design
-  * 26MP IMX571 APS-C Sensor (<a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" data-wpel-link="internal">Fujifilm X-T3</a> also use this sensor)
+  * 26MP IMX571 APS-C Sensor (<a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" data-wpel-link="internal">Fujifilm X-T3</a> also use this sensor)
   * 12 FPS
   * 1/6000 – 30 seconds
   * 4K @ 60p
@@ -39,4 +39,4 @@ Sony has a schedule of this products and introduce a new version every year. An 
 
 Just take this specs list with a grain of salt and stay tuned with us for more information.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.

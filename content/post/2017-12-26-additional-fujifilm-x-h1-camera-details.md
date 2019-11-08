@@ -18,11 +18,11 @@ tags:
 ---
 Additional _Fujifilm X-H1_ camera details has been surfaced on the web. The hybrid mirrorless camera is said to be in **development** and expected to be announced in February, 2018.
 
-The <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/" target="_blank" rel="noopener">X-H1</a> is primarily targeted towards the videographers with in-camera stabilization and the ability to record at 120fps 1080 (4k fps will be lower).
+The <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/" target="_blank" rel="noopener">X-H1</a> is primarily targeted towards the videographers with in-camera stabilization and the ability to record at 120fps 1080 (4k fps will be lower).
 
 Sources are claiming that the X-H1 mirrorless camera will have a higher quality video than <a href="https://aax-us-east.amazon-adsystem.com/x/c/QkiTAVV-fZSK6QzWOWJKnawAAAFgk2zvKwEAAAFKAaB2OEE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Fujifilm-X-T2-Mirrorless-F2-8-4-0-Lens/dp/B01I3LNQ6M/ref=as_at/?imprToken=ytz.Yf5c1PCTp5XBhANVSQ&slotNum=0&ie=UTF8&qid=1514272581&sr=8-3&keywords=fujifilm+x-t2&linkCode=sl1&tag=daicamnew-20&linkId=2db909a763143a505c94b6e55e1aa13a" target="_blank" rel="noopener">X-T2</a> with max framerate 4K: 30fps, in HD: 120fps. You can find the additional More **Fujifilm X-H1 camera** details below.<!--more-->
 
-### Updated <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/" target="_blank" rel="noopener">Fujifilm X-H1</a> Specs
+### Updated <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/" target="_blank" rel="noopener">Fujifilm X-H1</a> Specs
 
   * Body resembles the <a href="https://aax-us-east.amazon-adsystem.com/x/c/QkiTAVV-fZSK6QzWOWJKnawAAAFgk2zvKwEAAAFKAaB2OEE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Fujifilm-GFX-50S-Mirrorless-Body/dp/B01MZARM64/ref=as_at/?imprToken=ytz.Yf5c1PCTp5XBhANVSQ&slotNum=1&s=electronics&ie=UTF8&qid=1514272635&sr=1-1&keywords=fujifilm+gfx+50s&linkCode=sl1&tag=daicamnew-20&linkId=620ce018fbb323d790453b850c1aa010" target="_blank" rel="noopener">Fuji GFX camera</a>.
   * Control layout identical to the <a href="https://aax-us-east.amazon-adsystem.com/x/c/QkiTAVV-fZSK6QzWOWJKnawAAAFgk2zvKwEAAAFKAaB2OEE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Fujifilm-X-T2-Mirrorless-F2-8-4-0-Lens/dp/B01I3LNQ6M/ref=as_at/?imprToken=ytz.Yf5c1PCTp5XBhANVSQ&slotNum=2&ie=UTF8&qid=1514272581&sr=8-3&keywords=fujifilm+x-t2&linkCode=sl1&tag=daicamnew-20&linkId=2db909a763143a505c94b6e55e1aa13a" target="_blank" rel="noopener">Fuji X-T2</a>.
@@ -46,4 +46,4 @@ Take it with a grain of salt and stay tuned with more [Fujifilm Mirrorless][2]�
 via: <a href="https://photorumors.com/2017/12/25/additional-fuji-x-h1-camera-details/" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">PR</a>
 
  [1]: https://www.dailycameranews.com/2017/12/fujifilm-x-t3-announced-photokina-2018/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

@@ -35,7 +35,7 @@ See more details below:
 
 Nikon Full Frame mirrorless camera is expected to be launched in 2018.
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-full-frame-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-full-frame-mirrorless/
  [2]: http://info.xitek.com/Interviews/201709/13-232034.html
  [3]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/09/nikon-full-frame-mirrorless-camera-coming-2018.jpg?ssl=1
  [4]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/09/interview-with-Tetsuro-Goto-from-Nikon4.jpg?ssl=1

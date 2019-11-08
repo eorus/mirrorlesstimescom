@@ -349,6 +349,6 @@ Designed to deliver the high performance resolution from Fujifilm’s X-TRANS CM
 
 Read more [Fujifilm Mirrorless][3] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t30/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t30/
  [2]: https://www.adorama.com/ifj1628b.html?KBID=68292
- [3]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

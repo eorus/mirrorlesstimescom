@@ -43,4 +43,4 @@ Read more [Nikon Mirrorless][2] and <a href="https://www.dailycameranews.com/
 Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868201466609763/" target="_blank" rel="external nofollow noopener"><strong>Nikon Camera Users Group</strong></a> to share your Nikon photography, ask and answer questions that arise and help each others!
 
  [1]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/01/Kipon-ELEGANT-full-frame-mirrorless-lenses-for-Nikon-Z-mount-1.jpg?ssl=1
- [2]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

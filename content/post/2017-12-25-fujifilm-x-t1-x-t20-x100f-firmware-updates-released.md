@@ -56,7 +56,7 @@ New (and free) <a href="https://www.mirrorlesstimes.com/2017/11/fujifilm-releas
 
 **[Download Fujifilm X100F firmware version 2.0][5]**
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/" target="_blank" rel="noopener">Fujifilm Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/" target="_blank" rel="noopener">Fujifilm Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a> here.
 
  [1]: https://aax-us-east.amazon-adsystem.com/x/c/QlNFfBCwYBAQNv58oPBgTjoAAAFgjMhJ4AEAAAFKAbw5lcQ/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2BoRmXf/ref=as_at?linkCode=w61&imprToken=HIym.zrQbWHqKh1X1--FGg&slotNum=0
  [2]: https://www.mirrorlesstimes.com/2017/01/fujifilm-x-t20/

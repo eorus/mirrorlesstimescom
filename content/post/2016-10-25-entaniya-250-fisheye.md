@@ -158,5 +158,5 @@ Here is a sample video:
 
 More information can be found aon [manufacturers website][2].
 
- [1]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
+ [1]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/
  [2]: http://www.entapano.com/en/fisheyelens/microfourthirds_fisheyelens.html

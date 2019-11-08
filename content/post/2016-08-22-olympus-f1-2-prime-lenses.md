@@ -18,7 +18,7 @@ Olympus is rumored to announce two new prime lenses with a fast aperture of 
 
 One of these optics will be the [Olympus 25mm f/1.2][1] prime model. This lens is on the rumor mill from the beginning of 2016. It will be the first lens in a series of fast primes and join the company’s PRO-series.
 
-Olympus PRO series lenses for mirrorless cameras are freezeproof, splashproof, and dustproof. It’s a big possibility that we might see the Olympus 25mm f/1.2 PRO lens at <a title="photokina 2014" href="https://www.mirrorlesstimes.com/tag/photokina-2016/" target="_blank">Photokina 2016</a>.<!--more-->
+Olympus PRO series lenses for mirrorless cameras are freezeproof, splashproof, and dustproof. It’s a big possibility that we might see the Olympus 25mm f/1.2 PRO lens at <a title="photokina 2014" href="https://www.mirrorlesstimes.com/tags/photokina-2016/" target="_blank">Photokina 2016</a>.<!--more-->
 
 ## Two New Olympus F/1.2 Prime Lenses Rumored for Late 2016
 
@@ -44,4 +44,4 @@ These fast aperture optics to be unveiled at Photokina 2016 with the Olympus E-
  [1]: https://www.mirrorlesstimes.com/2016/04/olympus-25mm-f1-2-lens-rumored-released-mid-2016/
  [2]: https://www.mirrorlesstimes.com/2016/05/olympus-30mm-macro-lens/
  [3]: https://www.mirrorlesstimes.com/2016/07/olympus-12-100mm-f4-0-pro-lens-coming/
- [4]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
+ [4]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/

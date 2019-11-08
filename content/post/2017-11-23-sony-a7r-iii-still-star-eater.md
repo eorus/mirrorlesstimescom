@@ -15,7 +15,7 @@ tags:
   - Sony Mirrorless
 
 ---
-According to recent reports, <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> full frame mirrorless camera is still has the star eater issue.
+According to recent reports, <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> full frame mirrorless camera is still has the star eater issue.
 
 The new Sony a7R III (<a href="https://aax-us-east.amazon-adsystem.com/x/c/QuxMpfsOAG4bJs1BIYR1-YMAAAFf1Fo0IgEAAAFKATET3iY/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2AUniPD/ref=as_at?linkCode=w61&imprToken=loINgziut6vI9OjS6RWbNg&slotNum=0" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">Amazon</a>/ <a href="https://www.bhphotovideo.com/c/product/1369441-REG/sony_ilce7rm2_b_alpha_a7r_iii_mirrorless.html/BI/20175/KBID/14249" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">B&H</a>/ <a href="https://adorama.evyy.net/c/63923/51926/1036?u=https%3A%2F%2Fwww.adorama.com%2Fsearchsite%2Fdefault.aspx%3Fsearchinfo%3Dsony%2Ba7r%2Biii" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">Adorama</a>) combines a high-resolution 42.4 MP back-illuminated Exmor R CMOS image sensor with impressive shooting speeds at up to 10 fps with full AF/AE tracking, as well as beautiful image and 4K video quality, wide 15-stop dynamic range, high sensitivity with noise reduction of almost a full stop and more. See the <a href="https://www.mirrorlesstimes.com/2017/11/best-lenses-sony-a7r-iii/" target="_blank" rel="noopener">best lenses for Sony A7R III</a> camera.
 
@@ -61,4 +61,4 @@ Read more [Sony Mirrorless][5] talk / news.
  [2]: http://www.sony.jp/ichigan/info2/20171117.html
  [3]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/sony-a7r-iii-star-eater.jpg?ssl=1
  [4]: https://www.mirrorlesstimes.com/2017/11/2017-sony-camera-lenses-black-friday-deals/ "2017 Sony Camera & Lenses Black Friday Deals"
- [5]: https://www.mirrorlesstimes.com/tag/sony-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/sony-mirrorless/

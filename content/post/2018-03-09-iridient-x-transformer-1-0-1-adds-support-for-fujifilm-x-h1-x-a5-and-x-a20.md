@@ -41,6 +41,6 @@ You can download the latest version <a href="http://iridient.com/products/xtran
 
 Read more [Fujifilm Mirrorless][3] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-x-a5/
- [3]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-x-a5/
+ [3]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

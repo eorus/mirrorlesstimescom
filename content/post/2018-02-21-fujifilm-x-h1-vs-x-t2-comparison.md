@@ -17,11 +17,11 @@ Let’s compare the _Fujifilm X-H1 vs X-T2_. We have put together this _compar
 
 Both the X-H1 and the X-T2 are 24-megapixel **mirrorless interchangeable lens cameras** that are equipped with an APS-C sensor.
 
-The <a href="http://amzn.to/2GfI7XJ" target="_blank" rel="noopener">Fujifilm X-T2</a>  is **considerably smaller** than the <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/" target="_blank" rel="noopener">Fujifilm X-H1</a>. Moreover, the X-T2 is **markedly lighter (25 percent)** than the X-H1. It is worth noting that both cameras are **splash and dust-proof** but the X-H1 has 25% Thicker Magnesium Alloy body.  Our comparison table below covers all the important specifications of each camera.<!--more-->
+The <a href="http://amzn.to/2GfI7XJ" target="_blank" rel="noopener">Fujifilm X-T2</a>  is **considerably smaller** than the <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/" target="_blank" rel="noopener">Fujifilm X-H1</a>. Moreover, the X-T2 is **markedly lighter (25 percent)** than the X-H1. It is worth noting that both cameras are **splash and dust-proof** but the X-H1 has 25% Thicker Magnesium Alloy body.  Our comparison table below covers all the important specifications of each camera.<!--more-->
 
 ### Fujifilm X-H1 vs X-T2 Specification Comparison
 
-Below you can see the specs <a title="comparison" href="https://www.mirrorlesstimes.com/tag/comparison/" target="_blank" rel="noopener noreferrer">comparison</a> table of Fujifilm X-H1 vs X-T2 cameras.
+Below you can see the specs <a title="comparison" href="https://www.mirrorlesstimes.com/tags/comparison/" target="_blank" rel="noopener noreferrer">comparison</a> table of Fujifilm X-H1 vs X-T2 cameras.
 
 <table  class=" table table-hover" id="rounded-corner" summary="Fujifilm X-H1 vs X-T2 Specification Comparison" width="100%">
   <tr>
@@ -751,4 +751,4 @@ Below you can see the specs <a title="comparison" href="https://www.mirrorlesst
 
 Read more [Fujifilm Mirrorless][1] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

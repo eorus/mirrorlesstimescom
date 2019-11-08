@@ -42,7 +42,7 @@ In addition, Fujifilm is rumored to announce a new camera called “XF10″ (n
 
 So take it with a grain of salt and stay tuned with more [**Fujifilm Mirrorless**][4] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/
  [2]: https://www.mirrorlesstimes.com/2017/06/panasonic-gh5-sensor-best-performer-lineup/
  [3]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/12/fujifilm-x-h1-features.jpg?ssl=1
- [4]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

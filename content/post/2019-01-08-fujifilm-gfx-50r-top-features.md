@@ -13,7 +13,7 @@ tags:
   - Review
 
 ---
-The <a href="https://www.mirrorlesstimes.com/tag/fujifilm-gfx-50r/" target="_blank" rel="noopener">Fujifilm GFX 50R</a> is a digital Compact System Camera designed for enthusiast photographers. It features the 51.4-Megapixel Medium format CMOS sensor which is capable of recording Full HD video at up to 1920&#215;1080 (30p/25p/24p/23.98p).
+The <a href="https://www.mirrorlesstimes.com/tags/fujifilm-gfx-50r/" target="_blank" rel="noopener">Fujifilm GFX 50R</a> is a digital Compact System Camera designed for enthusiast photographers. It features the 51.4-Megapixel Medium format CMOS sensor which is capable of recording Full HD video at up to 1920&#215;1080 (30p/25p/24p/23.98p).
 
 Ideal for street and documentary photography, the <a href="http://www.guidetocamera.com/products/fujifilm/slrs/fujifilm-gfx-50r" target="_blank" rel="noopener">Fujifilm GFX 50R camera</a> is priced for **$4499**: $2000 less than the original price of **GFX 50s**. Check availabiliy at stores <a href="https://www.bhphotovideo.com/c/product/1436551-REG/fujifilm_600020523_gfx_50r_medium_format.html/BI/20175/KBID/14249/" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external">BHphoto</a>, <a class="broken_link" href="https://adorama.evyy.net/c/63923/51926/1036?u=https%3A%2F%2Fwww.adorama.com%2Fals.mvc%2Fnspc%2FError%2FNoResultFound%3FSearchInfo%3Dfujifilm%2520gfx%252050r" target="_blank" rel="follow external noopener noreferrer">Adorama</a>, <a href="https://amzn.to/2QWiTDG" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external">AmazonUS</a> and GFX 50R sample images <a href="http://www.fujifilm.com/products/digital_cameras/gfx/fujifilm_gfx_50r/sample_images/" target="_blank" rel="noopener">here</a>. Now let’s look at the Fujifilm GFX 50R top features by Fujiguys. <!--more-->
 
@@ -57,4 +57,4 @@ Below is a summary of what you will learn about in this video if you’re new to
 
 Read more [Fujifilm Mirrorless][1] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

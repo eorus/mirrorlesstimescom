@@ -16,7 +16,7 @@ tags:
 ---
 More **Olympus E-M1 Mark II specs** has been leaked online ahead of the announcement.
 
-Micro Four Thirds users are very excited as we are approaching to the official announcement of the new flagship camera. <a title="photokina 2014" href="https://www.mirrorlesstimes.com/tag/photokina-2016/" target="_blank">Photokina</a> is the worlds biggest digital imaging event. Photo enthusiasts welcome new products in the industry from all brands.
+Micro Four Thirds users are very excited as we are approaching to the official announcement of the new flagship camera. <a title="photokina 2014" href="https://www.mirrorlesstimes.com/tags/photokina-2016/" target="_blank">Photokina</a> is the worlds biggest digital imaging event. Photo enthusiasts welcome new products in the industry from all brands.
 
 [Olympus E-M1 Mark II announcement][1] is also scheduled for this event in September. It is expected to arrive with a new M.Zuiko 25mm f/1.2 PRO model. More details after the break. <!--more-->
 
@@ -52,4 +52,4 @@ So we have given you more details about the **Olympus E-M1 Mark II specs** shee
  [1]: https://www.mirrorlesstimes.com/2016/04/olympus-e-m1-mark-ii-announcement/
  [2]: https://www.mirrorlesstimes.com/2016/08/olympus-f1-2-prime-lenses/
  [3]: https://www.mirrorlesstimes.com/2016/04/olympus-25mm-f1-2-lens-rumored-released-mid-2016/
- [4]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
+ [4]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/

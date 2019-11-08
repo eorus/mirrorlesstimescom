@@ -51,7 +51,7 @@ This update (version 05) improves the accuracy of the contrast AF at distant sho
   * <a title="Download F2.8 70-200mm zoom G Master lens Firmware Update Ver0.3" href="https://esupport.sony.com/US/p/model-home.pl?mdl=SEL70200GM&LOC=3#/downloadTab" target="_blank" rel="noopener">Download F2.8 70-200mm zoom G Master lens Firmware Update Ver0.5 from Sony USA</a>
   * <a title="Download F2.8 70-200mm zoom G Master lens Firmware Update Ver0.3" href="http://www.sony.com.au/electronics/support/lenses-e-mount-lenses/sel70200gm" target="“_blank”">Download F2.8 70-200mm zoom G Master lens Firmware Update Ver0.5 from Sony Australia</a>
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> new and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> new and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 <div class="well">
   <p>

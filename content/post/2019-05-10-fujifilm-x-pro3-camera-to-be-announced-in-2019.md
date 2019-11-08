@@ -38,5 +38,5 @@ Stay turned with us for more info. Read more [Fujifilm Mirrorless][2] news an
 via <a href="https://www.bestcameranews.com/fujifilm-x-pro3-camera-coming-in-2019/" target="_blank" rel="noopener">BCN</a>
 
  [1]: https://www.dailycameranews.com/tag/fujifilm-x-pro3/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/
  [3]: https://www.dailycameranews.com/tag/fujifilm-x-t3/

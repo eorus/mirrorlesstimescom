@@ -34,7 +34,7 @@ We know that several Panasonic cameras sensors are made by Sony. It’s unknown
 
 Read more [Olympus Mirrorless][4] news and <a href="https://www.dailycameranews.com/tag/olympus-rumors/" target="_blank" rel="noopener">Olympus Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1-mark-ii/
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1-mark-ii/
  [2]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/05/olympus-sensor-sony.jpg?ssl=1
  [3]: https://www.mirrorlesstimes.com/2016/11/first-olympus-e-m1ii-hands-previews/
- [4]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

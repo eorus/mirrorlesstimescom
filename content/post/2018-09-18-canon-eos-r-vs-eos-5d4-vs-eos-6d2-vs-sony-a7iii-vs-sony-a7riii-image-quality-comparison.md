@@ -17,7 +17,7 @@ tags:
   - Sony Mirrorless
 
 ---
-Tony & Chelsea Northrup published a video comparing the image quality of the new <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> a with its siblings. Here is Canon EOS R vs <a href="https://www.amazon.com/Canon-Mark-Frame-Digital-Camera/dp/B01KURGS9E/?tag=mirrorlesst-20" target="_blank" rel="nofollow noopener">EOS 5D4</a> vs <a href="https://www.amazon.com/Canon-Mark-Digital-Camera-Body/dp/B072MZCJKN/?tag=mirrorlesst-20" target="_blank" rel="nofollow noopener">EOS 6D2</a> vs <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/" target="_blank" rel="noopener">Sony a7III</a> vs <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony a7RIII</a>  Image Quality Comparison.
+Tony & Chelsea Northrup published a video comparing the image quality of the new <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> a with its siblings. Here is Canon EOS R vs <a href="https://www.amazon.com/Canon-Mark-Frame-Digital-Camera/dp/B01KURGS9E/?tag=mirrorlesst-20" target="_blank" rel="nofollow noopener">EOS 5D4</a> vs <a href="https://www.amazon.com/Canon-Mark-Digital-Camera-Body/dp/B072MZCJKN/?tag=mirrorlesst-20" target="_blank" rel="nofollow noopener">EOS 6D2</a> vs <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/" target="_blank" rel="noopener">Sony a7III</a> vs <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony a7RIII</a>  Image Quality Comparison.
 
 From the video review we understand that dynamic range of the EOS R sensor is better than the Canon 6D Mark II. Also the Canon EOS R definitely has a better image quality than the Sony a7 III in most conditions, with noticeably sharper images, even at high ISOs.
 
@@ -45,4 +45,4 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 
 Read more [Canon mirrorless][1] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

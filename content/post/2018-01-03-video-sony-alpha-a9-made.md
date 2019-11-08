@@ -27,6 +27,6 @@ At a glance : _Sony_ Alpha _a9_ mirrorless camera features a 24.2-Megapixel F
 
 _Join the new <a href="https://www.facebook.com/groups/1637646316495210/" target="_blank" rel="nofollow noopener noreferrer">Sony Camera Users Facebook Group</a>. _
 
-Check out <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Check out <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
  [1]: https://www.mirrorlesstimes.com/2017/04/sony-a9/

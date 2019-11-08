@@ -46,5 +46,5 @@ See also <a title="2017 Black Friday & Cyber Monday Sony Camera Deals" href="ht
 Read more [Sony Mirrorless][3] talk / news.
 
  [1]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/sony-a7r-iii-shipping-date.jpg?ssl=1
- [2]: https://www.mirrorlesstimes.com/tag/sony-a7r-iii/
- [3]: https://www.mirrorlesstimes.com/tag/sony-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/sony-a7r-iii/
+ [3]: https://www.mirrorlesstimes.com/tags/sony-mirrorless/

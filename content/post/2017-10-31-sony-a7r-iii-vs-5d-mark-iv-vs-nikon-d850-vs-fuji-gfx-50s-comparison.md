@@ -18,7 +18,7 @@ tags:
   <span class="s1">So how does the new Sony A7r III stuck against the <strong>5D Mark IV vs Nikon D850 vs Fuji GFX 50s</strong> cameras? Looks like Sony’s eye AF is really paying off in this comparison photo.</span><span class="s1"><br /> </span>
 </p>
 
-You can find the new hands-on video reviews of the <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> follow up to this post. For more coverage on this full-frame mirrorless camera please refer [here][1]. Also check out the full details of the **Sony A7R III dynamic range results** from <a href="https://www.dailycameranews.com/2017/10/sony-a7r-iii-dynamic-range-results/" target="_blank" rel="nofollow noopener">here</a>.
+You can find the new hands-on video reviews of the <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> follow up to this post. For more coverage on this full-frame mirrorless camera please refer [here][1]. Also check out the full details of the **Sony A7R III dynamic range results** from <a href="https://www.dailycameranews.com/2017/10/sony-a7r-iii-dynamic-range-results/" target="_blank" rel="nofollow noopener">here</a>.
 
 Sony A7R III is available for pre-order and start shipping from November at a recommended selling price of <a href="http://amzn.to/2y2doOd" target="_blank" rel="noopener"><strong>$3199</strong></a>.<!--more-->
 

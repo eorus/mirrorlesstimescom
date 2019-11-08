@@ -15,7 +15,7 @@ tags:
   - Sony Mirrorless
 
 ---
-Here are some reviews of the high-speed and resolution <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> full-frame mirrorless camera. Check it out!
+Here are some reviews of the high-speed and resolution <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> full-frame mirrorless camera. Check it out!
 
 _Sony a7R III_ 42.4MP Full-frame Mirrorless Interchangeable-Lens Camera. Thanks to an evolutionary leap in image processing power and efficiency, the a7R III combines a high-resolution 42.4 MP back-illuminated Exmor R CMOS image sensor with impressive shooting speeds at up to 10 fps1 with full AF/AE tracking.
 
@@ -37,7 +37,7 @@ And <a class="ext-link" title="" href="http://blog.kasson.com/a7riii/shooting-a
 
 > The camera is faster and more responsive than the a7RII in almost every way, which translates to greater confidence and less tension when shooting an event. That seems to include the autofocusing, although I can’t be sure without a real test.
 
-Check out the <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony a7R III</a> video reviews below.
+Check out the <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony a7R III</a> video reviews below.
 
 
 
@@ -53,4 +53,4 @@ _Join the new <a href="https://www.facebook.com/groups/1637646316495210/" targe
 
 Read more: <a href="https://www.mirrorlesstimes.com/2017/11/best-lenses-sony-a7r-iii/" target="_blank" rel="noopener" data-wpel-link="internal">Best Lenses for Sony a7R III</a> and <a href="https://www.dailycameranews.com/2017/11/best-memory-cards-sony-a7r-iii/" target="_blank" rel="noopener" data-wpel-link="internal">Best Memory Cards for Sony a7R III</a>.
 
-Check out <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Check out <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.

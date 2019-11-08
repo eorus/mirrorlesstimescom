@@ -15,7 +15,7 @@ tags:
   - Stock
 
 ---
-Here are the Fujifilm X-T3 reviews, tests and first impressions. Everything you need to know about the new <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> including tests, hands-on videos and the lock-up issue.
+Here are the Fujifilm X-T3 reviews, tests and first impressions. Everything you need to know about the new <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> including tests, hands-on videos and the lock-up issue.
 
 Fujifilm X-T3 features _**back-illuminated 26MP X-Trans CMOS 4 sensor and X-Processor 4** processor._The camera can capture 4K at 60p and has burst mode at 11 fps (30fps at electronic shutter, 1.25 times crop), delivering outstanding image quality and speed with a native sensitivity range of **ISO 160-12800**.
 

@@ -87,5 +87,5 @@ You can download the newest firmware to your mirrorless interchangeable lens cam
 
 > The Olympus **OM-D E-M1** mirrorless digital camera is a compact, ergonomically design model featuring a _16.3 megapixel Live MOS_ sensor and TruePic VII image processor. The EM-1 is weather, dust, splash and freezeproof, with a large high resolution touch LCD and electronic viewfinder. It retains the E-M5&#8217;s built-in 5-axis image stabilization, plenty of customizable controls, and Wi-Fi image transfer and camera controls via Olympus&#8217;s Image Share 2.0 smartphone app.
 
- [1]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
+ [1]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/
  [2]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2016/12/olympus-e-m1-firmware-version-4-3.jpg?ssl=1

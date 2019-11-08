@@ -301,4 +301,4 @@ Press release can be found <a href="https://www.dailycameranews.com/2018/01/leic
 
 Read more [Leica Mirrorless][1] news / talk.
 
- [1]: https://www.mirrorlesstimes.com/tag/leica-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/leica-mirrorless/

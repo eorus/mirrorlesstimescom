@@ -46,7 +46,7 @@ The lenses in this lineup feature high-speed autofocus and are compatible with A
 
 ### Adapter
 
-In addition to the 11 prime lenses, Sigma announced a new MC-21 mount converter for using <a href="https://www.bhphotovideo.com/c/search?N=0&Ntt=Sigma+SA-mount+lenses&ci=15492&cp=15293%2B15492&BI=20175&KBID=14249" target="_blank" rel="noopener">Sigma SA-mount</a> and <a href="https://www.bhphotovideo.com/c/search?N=0&Ntt=+Sigma+EF-mount+lenses&ci=15492&cp=15293%2B15492&BI=20175&KBID=14249" target="_blank" rel="noopener">Sigma EF-mount lenses</a> on L-mount mirrorless cameras such as <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1/" data-wpel-link="internal">Panasonic’s new S1R and S1</a>.
+In addition to the 11 prime lenses, Sigma announced a new MC-21 mount converter for using <a href="https://www.bhphotovideo.com/c/search?N=0&Ntt=Sigma+SA-mount+lenses&ci=15492&cp=15293%2B15492&BI=20175&KBID=14249" target="_blank" rel="noopener">Sigma SA-mount</a> and <a href="https://www.bhphotovideo.com/c/search?N=0&Ntt=+Sigma+EF-mount+lenses&ci=15492&cp=15293%2B15492&BI=20175&KBID=14249" target="_blank" rel="noopener">Sigma EF-mount lenses</a> on L-mount mirrorless cameras such as <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1/" data-wpel-link="internal">Panasonic’s new S1R and S1</a>.
 
 “The expansion of the beloved Sigma prime lens line along with the MC-21 converter will increase the extensibility of the L-Mount system and further Sigma’s role in the strategic L-Mount Alliance alongside Leica and Panasonic,” Sigma says.
 

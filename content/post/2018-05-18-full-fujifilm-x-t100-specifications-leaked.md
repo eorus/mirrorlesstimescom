@@ -782,5 +782,5 @@ via <a href="https://www.fujifilm.eu/uk/products/digital-cameras/interchangeabl
 
 &nbsp;
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t100/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t100/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

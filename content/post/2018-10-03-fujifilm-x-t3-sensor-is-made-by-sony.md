@@ -13,7 +13,7 @@ tags:
   - Review
 
 ---
-The <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> sensor is made by Sony not by Samsung. At [Photokina 2018][1], in a recent interview with Managing Director of Fujifilm UK, the 26.1MP sensor inside the Fuji X-T3 is **made by Sony and not by Samsung.**
+The <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> sensor is made by Sony not by Samsung. At [Photokina 2018][1], in a recent interview with Managing Director of Fujifilm UK, the 26.1MP sensor inside the Fuji X-T3 is **made by Sony and not by Samsung.**
 
 [PGN][2] interviewed Managing Director of Fujifilm UK – Theo Georgiades – about the [Fujifilm GFX 50R][3] and [GFX 100S][4]. And at the end of the interview, Theo Georgiades confirms that the 26MP sensor inside Fujifilm X-T3 is made by Sony, not by Samsung:
 
@@ -31,10 +31,10 @@ From the interview:
 
 Read more [Fujifilm Mirrorless][7] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/photokina-2018/
+ [1]: https://www.mirrorlesstimes.com/tags/photokina-2018/
  [2]: https://www.youtube.com/channel/UCk5s2Gz3fJVakdkjg1o-4uQ
- [3]: https://www.mirrorlesstimes.com/tag/fujifilm-gfx-50r/
- [4]: https://www.mirrorlesstimes.com/tag/fujifilm-gfx-100s/
+ [3]: https://www.mirrorlesstimes.com/tags/fujifilm-gfx-50r/
+ [4]: https://www.mirrorlesstimes.com/tags/fujifilm-gfx-100s/
  [5]: https://www.dailycameranews.com/2018/09/fujifilm-x-t3-in-stock-and-shipping-in-the-us/
  [6]: https://www.mirrorlesstimes.com/2018/09/fujifilm-x-t3-in-stock-availability-tracker/
- [7]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [7]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

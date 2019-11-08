@@ -18,7 +18,7 @@ Olympus is rumored to announce a new **25mm lens **sometime around the middle
 
 According to latest rumors, Olympus 25mm f/1.2 lens is on the horizon and it will be the first lens in a series of fast primes, which will most likely join the company’s PRO-series.
 
-Olympus PRO series lenses for MFT cameras are freezeproof, splashproof, and dustproof. We can clearly expect the Olympus 25mm f/1.2 PRO lens is to be announced at <a title="photokina 2014" href="https://www.mirrorlesstimes.com/tag/photokina-2016/" target="_blank">Photokina 2016</a> which will happen in September.<!--more-->
+Olympus PRO series lenses for MFT cameras are freezeproof, splashproof, and dustproof. We can clearly expect the Olympus 25mm f/1.2 PRO lens is to be announced at <a title="photokina 2014" href="https://www.mirrorlesstimes.com/tags/photokina-2016/" target="_blank">Photokina 2016</a> which will happen in September.<!--more-->
 
 ## Olympus 25mm f/1.2 lens coming this year
 

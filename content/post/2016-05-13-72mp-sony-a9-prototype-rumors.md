@@ -45,4 +45,4 @@ No information about the official announcement date. We might see it around [
 
 This is all for **72MP Sony A9 camera** news. Stay tuned with &#8220;Mirrorless Times&#8221; and we’ll give more information about this exciting camera when it is available. Just like with all rumors, take this one with a grain of salt.
 
- [1]: https://www.mirrorlesstimes.com/tag/photokina-2016/
+ [1]: https://www.mirrorlesstimes.com/tags/photokina-2016/

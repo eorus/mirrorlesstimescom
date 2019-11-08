@@ -15,7 +15,7 @@ tags:
   - Sony Mirrorless
 
 ---
-<a href="https://www.mirrorlesstimes.com/category/sony/" target="_blank" rel="noopener" data-wpel-link="internal">Sony</a> today released the new firmware update version 1.01 for <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener" data-wpel-link="internal">Sony a7R III</a> full frame mirrorless camera. The **firmware update version 1.01 for Sony A7RIII **improves overall stability and solves cases where the ‘Set File Name’ function does not work properly.
+<a href="https://www.mirrorlesstimes.com/category/sony/" target="_blank" rel="noopener" data-wpel-link="internal">Sony</a> today released the new firmware update version 1.01 for <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener" data-wpel-link="internal">Sony a7R III</a> full frame mirrorless camera. The **firmware update version 1.01 for Sony A7RIII **improves overall stability and solves cases where the ‘Set File Name’ function does not work properly.
 
 Windows 10 users may also install the **Sony RAW Driver**. By installing this program, you can display the RAW data using Windows Explorer or Photo Gallery in the same way as JPEG files.
 
@@ -35,4 +35,4 @@ The best _price_ for the _Sony A7R III_ is <a href="https://aax-us-east.ama
 
 Read more: <a href="https://www.mirrorlesstimes.com/2017/11/best-lenses-sony-a7r-iii/" target="_blank" rel="noopener" data-wpel-link="internal">Best Lenses for Sony a7R III</a> and <a href="https://www.dailycameranews.com/2017/11/best-memory-cards-sony-a7r-iii/" target="_blank" rel="noopener" data-wpel-link="internal">Best Memory Cards for Sony a7R III</a>.
 
-Check out <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Check out <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.

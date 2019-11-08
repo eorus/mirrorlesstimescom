@@ -14,7 +14,7 @@ tags:
   - Photokina 2018
 
 ---
-Fujifilm today unveiled the new <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> with an all-new back-illuminated 26.1MP X-Trans CMOS 4 sensor and X-Processor 4 processor.
+Fujifilm today unveiled the new <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> with an all-new back-illuminated 26.1MP X-Trans CMOS 4 sensor and X-Processor 4 processor.
 
 The new X-T3 delivers superb image quality, dramatically improved AF performance, exceptional tracking performance of fast-moving subjects and blackout-free burst shooting. The X-T3 is also the first APS-C mirrorless camera capable of 4K/60P 10bit recording to meet the needs of professional videographers. The camera shoots continuously at 20 fps (e-shutter) or 11 fps (mechanical shutter) at full resolution, or at up to 30 fps in a 1.25x crop mode.
 
@@ -125,4 +125,4 @@ Read more [Fujifilm Mirrorless][4] news and <a href="https://www.dailycameran
  [1]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-x-t3-front-side.jpg?ssl=1
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-x-t3-top.jpg?ssl=1
  [3]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-x-t3-lcd.jpg?ssl=1
- [4]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

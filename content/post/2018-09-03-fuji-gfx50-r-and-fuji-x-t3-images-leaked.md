@@ -15,7 +15,7 @@ tags:
   - Rumors
 
 ---
-First images of the <span class="s1"><a href="https://www.mirrorlesstimes.com/tag/fujifilm-gfx-50r/" target="_blank" rel="noopener">Fuji GFX50 R</a> and Fuji X-T3 have leaked. The medium format mirrorless camera is expected to arrive on September 23rd, 2018, just ahead of Photokina 2018.</span>
+First images of the <span class="s1"><a href="https://www.mirrorlesstimes.com/tags/fujifilm-gfx-50r/" target="_blank" rel="noopener">Fuji GFX50 R</a> and Fuji X-T3 have leaked. The medium format mirrorless camera is expected to arrive on September 23rd, 2018, just ahead of Photokina 2018.</span>
 
 The rumor mill is claiming that the next Fuji X-series camera will be the [Fujifilm X-T3][1] model. After the flagship APS-c shooter, we are going to meet the Fujifilm GFX 50R. The camera is expected to feature a **50MP medium format sensor**.
 
@@ -60,8 +60,8 @@ Fujifilm GFX 50R price will be around **$3,900 and $4,300.** So it will be an
 
 Stay tuned with us and read more [**Fujifilm Mirrorless**][5] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/Fujifilm-GFX-50r.jpg?ssl=1
  [3]: https://www.dailycameranews.com/2018/07/fujifilm-x-t3-camera-officially-registered-online/
  [4]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/Fuji-X-T3-mirrorless-camera-1.jpg?ssl=1
- [5]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

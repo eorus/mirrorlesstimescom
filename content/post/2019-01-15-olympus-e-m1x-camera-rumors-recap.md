@@ -13,7 +13,7 @@ tags:
   - Rumors
 
 ---
-The <a href="https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1x/" data-wpel-link="internal">Olympus E-M1X</a> high-end mirrorless camera will be announced on **January 24th**. Here is an updated rumors recap of the upcoming <a href="https://www.mirrorlesstimes.com/tag/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> sports camera.
+The <a href="https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1x/" data-wpel-link="internal">Olympus E-M1X</a> high-end mirrorless camera will be announced on **January 24th**. Here is an updated rumors recap of the upcoming <a href="https://www.mirrorlesstimes.com/tags/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> sports camera.
 
 Olympus released several <a href="https://www.dailycameranews.com/2019/01/olympus-released-second-om-d-e-m1x-teaser/" target="_blank" rel="noopener">Olympus OM-D E-M1 X teaser</a> to show a few quick glances at a new high-end OM-D mirrorless camera in action. Along with the E-M1X, the company will also release a new electronic flash (IM011), wireless commander (IM012) and a wireless receiver (IM013).
 
@@ -68,4 +68,4 @@ Read more [Olympus Mirrorless][2] news and <a href="https://www.dailycamerane
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/858035244291979/" target="_blank" rel="external nofollow noopener">Olympus Camera Users</a> Facebook Group to share your Olympus photography._
 
  [1]: https://www.dailycameranews.com/2018/11/deal-up-to-900-off-on-olympus-cameras-and-lenses/
- [2]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

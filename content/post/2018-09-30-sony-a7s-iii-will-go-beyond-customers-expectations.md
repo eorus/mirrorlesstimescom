@@ -17,7 +17,7 @@ At <a href="https://www.dailycameranews.com/tag/photokina-2018/" target="_blank
 
 Sony Manager said that the **Sony a7S III is in development**, but in order **to go beyond customer’s expectations, they need a lot of work and time** to achieve this. This mean’s the Sony A7S III announcement date may require longer than we probably imagine.
 
-This also means that a possible Sony a7S III announcement will not happen at PhotoPlus EXPO 2018 in October. Maybe in early 2019 at the CES 2019 or CP+ 2019 events makes sense. On the other hand this could be a sign that the company first focus on high-end APS-C mirrorless camera (<a href="https://www.mirrorlesstimes.com/tag/sony-a6700/" target="_blank" rel="noopener">A6700</a>).<!--more-->
+This also means that a possible Sony a7S III announcement will not happen at PhotoPlus EXPO 2018 in October. Maybe in early 2019 at the CES 2019 or CP+ 2019 events makes sense. On the other hand this could be a sign that the company first focus on high-end APS-C mirrorless camera (<a href="https://www.mirrorlesstimes.com/tags/sony-a6700/" target="_blank" rel="noopener">A6700</a>).<!--more-->
 
 
 
@@ -41,6 +41,6 @@ Below are the specs of the Sony A7s III we’ve posted earlier.
 
 As always take it with a grain of salt and stay tuned with us for more information.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7s-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7s-iii/

@@ -72,8 +72,8 @@ Once connecting a camera to a computer via USB cable, the “FUJIFILM X Acquire�
 
 Read more [Fujifilm Mirrorless][5] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-e3/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/
- [3]: https://www.mirrorlesstimes.com/tag/fujifilm-x100f/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-e3/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/
+ [3]: https://www.mirrorlesstimes.com/tags/fujifilm-x100f/
  [4]: https://www.dailycameranews.com/2018/03/fujifilm-x-e3-review/
- [5]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

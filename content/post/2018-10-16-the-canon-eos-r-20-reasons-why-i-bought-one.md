@@ -14,7 +14,7 @@ tags:
   - Review
 
 ---
-Steve Huff published a great review of the <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> camera. The title says it all “_<span style="text-decoration: underline;"><strong>20 Reasons Why I Bought One and 5 Things <a href="https://www.mirrorlesstimes.com/category/canon/" target="_blank" rel="noopener">Canon</a> Messed Up</strong></span>_&#8220;.
+Steve Huff published a great review of the <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> camera. The title says it all “_<span style="text-decoration: underline;"><strong>20 Reasons Why I Bought One and 5 Things <a href="https://www.mirrorlesstimes.com/category/canon/" target="_blank" rel="noopener">Canon</a> Messed Up</strong></span>_&#8220;.
 
 Looking for the Canon EOS R availability? Due to high demand of the Canon’s full frame mirrorless camera, here is the [Canon EOS R in stock tracker][1].
 
@@ -81,4 +81,4 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 Read more [Canon mirrorless][2] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
  [1]: https://www.dailycameranews.com/2018/09/canon-eos-r-in-stock-availability-tracker/
- [2]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

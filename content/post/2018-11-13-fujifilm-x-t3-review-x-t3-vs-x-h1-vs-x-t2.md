@@ -13,7 +13,7 @@ tags:
   - Review
 
 ---
-Jacques Gaines has published his review for the <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> and compared it with the X-H1 and X-T2 X-series mirrorless cameras. Check it out!!
+Jacques Gaines has published his review for the <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> and compared it with the X-H1 and X-T2 X-series mirrorless cameras. Check it out!!
 
 The price of the X-T3 is **$1,499 for body-only**.** **Check listings at <a href="https://www.bhphotovideo.com/c/search?Ntt=Fujifilm%20X-T3&N=0&InitialSearch=yes&sts=ma&Top+Nav-Search=&BI=20175&KBID=14249" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external">B&H Photo</a>, <a href="https://www.amazon.com/Fujifilm-X-T3-Mirrorless-Digital-Body/dp/B07H49QWN4/?tag=daicamnew-20" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external" data-amzn-asin="B07H49QWN4">AmazonUS</a>, <a href="https://adorama.evyy.net/c/63923/51926/1036?u=https%3A%2F%2Fwww.adorama.com%2Fifjxt3b.html" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external">Adorama</a>. If you are a new user of X-T3 camera a major <a href="https://www.dailycameranews.com/2018/11/fujifilm-announces-firmware-updates-for-gfx-50s-x-t3-and-x-h1/" target="_blank" rel="noopener">firmware ver 2.0 is coming in December 2018</a>. If you are going to buy X-T3 see also [Fujifilm X-T3 vs X-H1 vs X-T2 – Comparison][1].<!--more-->
 
@@ -38,4 +38,4 @@ The price of the X-T3 is **$1,499 for body-only**.** **Check listings at <a 
 
  [1]: https://www.dailycameranews.com/2018/09/fujifilm-x-t3-vs-x-h1-vs-x-t2-comparison/
  [2]: https://www.mirrorlesstimes.com/2018/09/fujifilm-x-t3-in-stock-availability-tracker/
- [3]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

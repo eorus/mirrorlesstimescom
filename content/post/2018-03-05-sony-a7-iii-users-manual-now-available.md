@@ -213,9 +213,9 @@ The instruction manual and help guide of the new [Sony a7 III][1] mirrorless ca
   </tr>
 </table>
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
  [2]: https://www.dailycameranews.com/tag/camera/
  [3]: https://www.dailycameranews.com/2018/03/sony-a7-iii-stock-availability-tracker/
  [4]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/03/sony-a7III-instruction-Manual.jpg?ssl=1

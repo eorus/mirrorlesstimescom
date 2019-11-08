@@ -52,8 +52,8 @@ Read more [Fujifilm Mirrorless][5] news and <a href="https://www.dailycameran
 
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/978460185571041/" target="_blank" rel="external nofollow noopener">Fujifilm Camera Users</a> Facebook Group to share your Fujifilm photography._
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t30/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t30/
  [2]: http://em.impact.com/wf/click?upn=rmBYD21j95McfOW4d1XxPVPmnsIVOcfGXsvbUVJZjoMH6Q6sv85m8e2J4-2FO48j8rq-2Fy4VXE5u2eWaGuRdaMk9jdzjBH3RdyDkwOFHxnwYGIcbLSfBQtAG6gJFvN8Kp8UgPIj5l-2FV9DATPVHTcP22DQ-3D-3D_n-2F0m4FIYMrlLfYCMDaTf4Bgv2-2BBPDKYhQPUs8vW8OE24RoPdlS4vzTTrhqfO8WEyiVAwaLX9HbRuJ2HCqRcgeG7YfH2MtE60ivb-2Bxn88btxBFjKyyv5CcILLzXljLNZZT8RP3EXTNqn9MWEhVggcfVVguIayxAdE0I8Ib0tc6140QeNLEWO-2FXmsBM-2B-2FBuNvzvqoeCQ9ixN5gUrjSolUcsA-3D-3D
  [3]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/03/fujifilm-x-t30-camera-top.jpg?ssl=1
  [4]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/03/fujifilm-x-t30-camera-back.jpg?ssl=1
- [5]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

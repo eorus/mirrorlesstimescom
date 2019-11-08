@@ -35,8 +35,8 @@ Let’s take a look at how the new Sony A7S III specs list that has been leaked 
 
 The company can also use this sensor on the [Sony A9 II][2] and choose the 24MP BSI sensor (not stacked) from the [Sony A7 III][3]. As always take it with a grain of salt and stay tuned with us for more information.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener noreferrer">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener noreferrer">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener noreferrer">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener noreferrer">Sony Rumors</a> here.
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7s-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7s-iii/
  [2]: https://www.dailycameranews.com/tag/sony-a9-ii/
- [3]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
+ [3]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/

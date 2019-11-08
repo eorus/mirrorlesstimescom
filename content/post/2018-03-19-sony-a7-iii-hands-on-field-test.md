@@ -23,7 +23,7 @@ Where to find Sony A7 III camera in stock? Here is an in [**stock / availabil
 
 
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
  [2]: https://www.dailycameranews.com/2018/03/sony-a7-iii-stock-availability-tracker/

@@ -45,27 +45,27 @@ The release dates for all these **Sigma ART E-mount lenses** are expected by t
 
 _Join the new <a href="https://www.facebook.com/groups/1637646316495210/" target="_blank" rel="nofollow noopener noreferrer">Sony Camera Users Facebook Group</a>. _
 
-Check out <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> and [Sigma Rumors][23] here.
+Check out <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> and [Sigma Rumors][23] here.
 
  [1]: https://www.bhphotovideo.com/c/search?sts=ma&ci=274&fct=fct_lens-format-coverage_3332%7cfull-frame-lenses%2bfct_zooms-primes_4389%7cprime-lenses%2bfct_lens-mount_3316%7cnikon&cp=15293%2b15492%2b274&Ntt=Sigma%20Art%20lens&BI=20175&KBID=14249
  [2]: https://www.dailycameranews.com/2018/03/new-sigma-art-lenses-sony-e-mount-cameras-displayed-cp-2018/
  [3]: https://www.dailycameranews.com/2017/03/best-sony-full-frame-e-mount-lenses/
- [4]: https://www.mirrorlesstimes.com/tag/sigma-mc-11-lens-adapter/
- [5]: https://www.mirrorlesstimes.com/tag/sigma-14mm-f-1-8-dg-hsm-art/
+ [4]: https://www.mirrorlesstimes.com/tags/sigma-mc-11-lens-adapter/
+ [5]: https://www.mirrorlesstimes.com/tags/sigma-14mm-f-1-8-dg-hsm-art/
  [6]: https://www.bhphotovideo.com/c/product/1393489-REG/sigma_14mm_f_1_8_dg_hsm.html/BI/20175/KBID/14249
- [7]: https://www.mirrorlesstimes.com/tag/sigma-20mm-f-1-4-dg-hsm-art/
+ [7]: https://www.mirrorlesstimes.com/tags/sigma-20mm-f-1-4-dg-hsm-art/
  [8]: https://www.bhphotovideo.com/c/product/1393490-REG/sigma_20mm_f_1_4_dg_hsm.html/BI/20175/KBID/14249
- [9]: https://www.mirrorlesstimes.com/tag/sigma-24mm-f-1-4-dg-hsm-art/
+ [9]: https://www.mirrorlesstimes.com/tags/sigma-24mm-f-1-4-dg-hsm-art/
  [10]: https://www.bhphotovideo.com/c/product/1393491-REG/sigma_24mm_f_1_4_dg_hsm.html/BI/20175/KBID/14249
- [11]: https://www.mirrorlesstimes.com/tag/sigma-35mm-f-1-4-dg-hsm-art/
+ [11]: https://www.mirrorlesstimes.com/tags/sigma-35mm-f-1-4-dg-hsm-art/
  [12]: https://www.bhphotovideo.com/c/product/1393492-REG/sigma_35mm_f_1_4_dg_hsm.html/BI/20175/KBID/14249
- [13]: https://www.mirrorlesstimes.com/tag/sigma-50mm-f-1-4-dg-hsm-art/
+ [13]: https://www.mirrorlesstimes.com/tags/sigma-50mm-f-1-4-dg-hsm-art/
  [14]: https://www.bhphotovideo.com/c/product/1393493-REG/sigma_50mm_f_1_4_dg_hsm.html/BI/20175/KBID/14249
- [15]: https://www.mirrorlesstimes.com/tag/sigma-85mm-f-1-4-dg-hsm-art/
+ [15]: https://www.mirrorlesstimes.com/tags/sigma-85mm-f-1-4-dg-hsm-art/
  [16]: https://www.bhphotovideo.com/c/product/1393494-REG/sigma_85mm_f_1_4_dg_hsm.html/BI/20175/KBID/14249
- [17]: https://www.mirrorlesstimes.com/tag/sigma-135mm-f-1-8-dg-hsm-art/
+ [17]: https://www.mirrorlesstimes.com/tags/sigma-135mm-f-1-8-dg-hsm-art/
  [18]: https://www.bhphotovideo.com/c/product/1393495-REG/sigma_135mm_f_1_8_dg_hsm.html/BI/20175/KBID/14249
- [19]: https://www.mirrorlesstimes.com/tag/sigma-105mm-f-1-4-dg-hsm-art/
+ [19]: https://www.mirrorlesstimes.com/tags/sigma-105mm-f-1-4-dg-hsm-art/
  [20]: https://www.bhphotovideo.com/c/product/1393486-REG/sigma_105mm_f_1_4_dg_hsm.html/BI/20175/KBID/14249
  [21]: https://www.dailycameranews.com/tag/sigma-70mm-f-2-8-dg-macro-art/
  [22]: https://www.bhphotovideo.com/c/search?Ntt=Sigma%2070mm%20f%2F2.8%20DG%20MACRO%20%7C%20Art%20lens&N=0&InitialSearch=yes&sts=ma&Top+Nav-Search=&BI=20175&KBID=14249

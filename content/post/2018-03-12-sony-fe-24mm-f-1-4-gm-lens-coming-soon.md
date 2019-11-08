@@ -27,11 +27,11 @@ Sony FE 24mm f/1.4 GM will be the first answer to the recently announced [Sigma
 
 The fast wide-angle prime will be designed for [full-frame Sony E-mount][1] mirrorless cameras, however it can also be used with APS-C models where it will provide a 36mm equivalent focal length.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 via: <a href="https://www.sonyalpharumors.com/sr4-sony-will-soon-announce-the-new-24mm-f-1-4-fe/" target="_blank" rel="nofollow noopener">SAR</a>
 
  [1]: https://www.dailycameranews.com/2017/03/best-sony-full-frame-e-mount-lenses/
  [2]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/03/sigma-24mm-f-1.4-fe-lens.jpg?ssl=1
- [3]: https://www.mirrorlesstimes.com/tag/sigma-24mm-f-1-4-dg-hsm-art/
+ [3]: https://www.mirrorlesstimes.com/tags/sigma-24mm-f-1-4-dg-hsm-art/
  [4]: https://www.bhphotovideo.com/c/product/1393491-REG/sigma_24mm_f_1_4_dg_hsm.html/BI/20175/KBID/14249

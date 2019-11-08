@@ -27,7 +27,7 @@ pygmentsCodeFences = "true"
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
-  filename = "sitemap_index.xml"
+  filename = "sitemap.xml"
 
 
 [menu]
@@ -45,12 +45,17 @@ pygmentsCodeFences = "true"
   [[menu.main]]
     name = "Reviews"
     url = "/tags/review/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "Comparison"
     url = "/tags/comparison/"
-    weight = 3
+    weight = 4
+
+  [[menu.main]]
+    name = "Rumors"
+    url = "/tags/rumors/"
+    weight = 5
 
   [[menu.footer]]
     name = "Home"
@@ -66,6 +71,11 @@ pygmentsCodeFences = "true"
     name = "Privacy"
     url = "/privacy-policy/"
     weight = 3
+
+  [[menu.footer]]
+    name = "Sitemap"
+    url = "/sitemap.xml/"
+    weight = 4
 
 
 [Params]

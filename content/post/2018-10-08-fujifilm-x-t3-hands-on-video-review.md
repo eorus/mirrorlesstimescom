@@ -13,7 +13,7 @@ tags:
   - Review
 
 ---
-Here is the latest <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> hands-on video review presented by Kai. According to him the Fuji X-T3 is the best mirrorless camera announcement of the year. Check it out!
+Here is the latest <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> hands-on video review presented by Kai. According to him the Fuji X-T3 is the best mirrorless camera announcement of the year. Check it out!
 
 If you are a new user of X-T3 camera here is the latest <a href="https://www.dailycameranews.com/2018/09/fujifilm-x-t3-firmware-update-1-01-released-to-fix-lockup-issue/" target="_blank" rel="noopener">lock-up fix firmware</a>. If you are going to buy X-T3 see also [Fujifilm X-T3 vs X-H1 vs X-T2 – Comparison][1].
 
@@ -36,4 +36,4 @@ Read more [Fujifilm Mirrorless][3] news and <a href="https://www.dailycameran
 
  [1]: https://www.dailycameranews.com/2018/09/fujifilm-x-t3-vs-x-h1-vs-x-t2-comparison/
  [2]: https://www.mirrorlesstimes.com/2018/09/fujifilm-x-t3-in-stock-availability-tracker/
- [3]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

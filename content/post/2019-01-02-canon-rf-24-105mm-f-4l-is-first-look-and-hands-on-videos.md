@@ -14,9 +14,9 @@ tags:
   - Review
 
 ---
-Here are the <a href="https://www.mirrorlesstimes.com/tag/canon-rf-24-105mm-f-4l-usm/" target="_blank" rel="noopener">Canon RF 24-105mm f/4L IS</a> first look and hands-on videos.
+Here are the <a href="https://www.mirrorlesstimes.com/tags/canon-rf-24-105mm-f-4l-usm/" target="_blank" rel="noopener">Canon RF 24-105mm f/4L IS</a> first look and hands-on videos.
 
-The _Canon RF 24-105mm F4_ L IS USM Lens is Canon&#8217;s first RF-mount and probably the best kit option to be included with the <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">EOS R</a> system for all-around impressive performance that&#8217;s ideal for landscapes, portraits, travel and more.
+The _Canon RF 24-105mm F4_ L IS USM Lens is Canon&#8217;s first RF-mount and probably the best kit option to be included with the <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">EOS R</a> system for all-around impressive performance that&#8217;s ideal for landscapes, portraits, travel and more.
 
 Canon RF 24-105mm f/4L IS USM Lens: **$1,099** at <a class="ext-link" title="" href="https://www.amazon.com/Canon-RF-24-105mm-USM-Lens/dp/B07H489XDQ/?tag=daicamnew-20" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external" data-amzn-asin="B07H489XDQ">Amazon</a>, <a class="ext-link" title="" href="https://www.bhphotovideo.com/c/product/1433712-REG/canon_rf_24_105mm_f_4l_is.html/BI/20175/KBID/14249/" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external">B&H</a>, <a class="ext-link" title="" href="https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/car241054.html" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external">Adorama</a>. Check out the Canon RF 24-105mm f/4L IS First Look And Hands On Videos !
 
@@ -62,4 +62,4 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 
 Read more [Canon mirrorless][1] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

@@ -14,7 +14,7 @@ tags:
   - Sony Mirrorless
 
 ---
-Sony have released a new firmware update, version 2.10 for <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/" target="_blank" rel="noopener">Sony A7 III</a> and <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> cameras.
+Sony have released a new firmware update, version 2.10 for <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/" target="_blank" rel="noopener">Sony A7 III</a> and <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> cameras.
 
 Firmware Update 2.10 for a7 III & a7R III cameras with a fix for a bug found in the previous firmware version 2.00. This update also resolves an incompatibility issue caused by a recent change to the design of SanDisk Extreme Pro UHS-1 SDXC cards.<!--more-->
 

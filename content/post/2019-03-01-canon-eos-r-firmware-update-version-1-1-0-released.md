@@ -14,7 +14,7 @@ tags:
   - Full Frame
 
 ---
-<a href="https://www.mirrorlesstimes.com/category/canon/" target="_blank" rel="noopener">Canon</a> released the new firmware for <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">EOS R</a> full frame mirrorless camera.
+<a href="https://www.mirrorlesstimes.com/category/canon/" target="_blank" rel="noopener">Canon</a> released the new firmware for <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">EOS R</a> full frame mirrorless camera.
 
 Firmware Update Version 1.1.0 corrects several phenomenons and supports continuous shooting when “silent shutter” has been enabled.
 
@@ -34,4 +34,4 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 
 Read more [Canon mirrorless][1] and <a href="https://www.bestcameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

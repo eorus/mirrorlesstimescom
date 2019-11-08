@@ -17,7 +17,7 @@ tags:
   - Nikon Z7
 
 ---
-Nikon has announced that new firmware is currently being developed for the <a href="https://www.mirrorlesstimes.com/tag/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a> and <a href="https://www.mirrorlesstimes.com/tag/nikon-z7/" target="_blank" rel="noopener">Nikon Z7</a> full-frame mirrorless cameras.
+Nikon has announced that new firmware is currently being developed for the <a href="https://www.mirrorlesstimes.com/tags/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a> and <a href="https://www.mirrorlesstimes.com/tags/nikon-z7/" target="_blank" rel="noopener">Nikon Z7</a> full-frame mirrorless cameras.
 
 The company will  add Eye AF, RAW video output and CFexpress Support to the Z6 and Z7 full-frame mirrorless <a href="http://www.guidetocamera.com/products/cameras/nikon" target="_blank" rel="noopener">Nikon cameras</a>. The new features will be incorporated in new firmware being developed for the Nikon Z 7 and Z 6, which will be displayed at the CES 2019 show in Las Vegas.
 
@@ -51,4 +51,4 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868
 
 via <a href="https://www.dailycameranews.com/2019/01/breaking-nikon-to-add-eye-af-raw-video-and-cfexpress-support-to-nikon-z-cameras/" target="_blank" rel="noopener">DCN</a>
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

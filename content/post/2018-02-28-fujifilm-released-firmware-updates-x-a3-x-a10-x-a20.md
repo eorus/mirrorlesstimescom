@@ -93,5 +93,5 @@ The firmware update Ver.2.20 from Ver.2.10 incorporates the following issues:
             </ul>
             
             <p>
-              Read more <a href="https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/">Fujifilm Mirrorless</a> |  <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>
+              Read more <a href="https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/">Fujifilm Mirrorless</a> |  <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>
             </p>

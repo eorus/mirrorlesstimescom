@@ -44,6 +44,6 @@ This lens will be unveiled for the first time at The Photography Show in the UK 
 
 The AF 85mm F1.4 FE will be available Spring 2019, suggested retail pricing to follow.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
  [1]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/05/Samyang-AF-85mm-f1.4-FE-Lens-Image-2.jpg?ssl=1

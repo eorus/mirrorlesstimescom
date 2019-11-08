@@ -11,7 +11,7 @@ tags:
   - Micro Four Thirds
 
 ---
-<a class="ext-link" title="" href="https://www.youtube.com/channel/UCDkJEEIifDzR_2K2p9tnwYQ" target="_blank" rel="noopener external nofollow">Tony Northrup</a> believes the <a href="https://www.mirrorlesstimes.com/tag/micro-four-thirds/" target="_blank" rel="noopener">micro four thirds</a> is dead and he is open to other thoughts! So, what do you think about this? Is the Micro Four Thirds system dead?
+<a class="ext-link" title="" href="https://www.youtube.com/channel/UCDkJEEIifDzR_2K2p9tnwYQ" target="_blank" rel="noopener external nofollow">Tony Northrup</a> believes the <a href="https://www.mirrorlesstimes.com/tags/micro-four-thirds/" target="_blank" rel="noopener">micro four thirds</a> is dead and he is open to other thoughts! So, what do you think about this? Is the Micro Four Thirds system dead?
 
 He says no company will ever tell you when an entire system is dying. Also underlines that smartphones are the real compact cameras nowadays. I think in 5 years time Panasonic will first wait and see how much profit they can make with [new full frame mirrroless system][1]. It won&#8217;t be dead until they have a selling FF mirrorless line up of cameras and lenses.<!--more-->
 
@@ -39,4 +39,4 @@ _Factor 6: The M43 system was not designed for phase detect autofocus (PDAF). On
 
 _BTW, I know Panasonic’s official statement is that they’re continuing MFT development… but I’m jaded because I’ve been lied to before. Samsung said they were continuing NX development. Sony said they were continuing A-mount, Nikon said they were continuing the 1, Canon with the M… companies ALWAYS say they’re going to continue investing in existing mounts, and they NEVER announce that a mount is dead_
 
- [1]: https://www.mirrorlesstimes.com/tag/panasonic-full-frame-mirrorless-camera/
+ [1]: https://www.mirrorlesstimes.com/tags/panasonic-full-frame-mirrorless-camera/

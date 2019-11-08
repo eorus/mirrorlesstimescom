@@ -15,7 +15,7 @@ tags:
   - Olympus OM-D E-M1 Mark II
 
 ---
-Olympus has released a new firmware update for the <a href="https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1-mark-ii/" target="_blank" rel="noopener">OM-D E-M1 Mark II</a> camera.
+Olympus has released a new firmware update for the <a href="https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1-mark-ii/" target="_blank" rel="noopener">OM-D E-M1 Mark II</a> camera.
 
 The **E-M1II firmware update V1.4** improves stability of operations when shooting while utilizing the EVF.
 
@@ -50,4 +50,4 @@ You can download the newest firmware to your camera above and <a title="Firmwar
 Read more [Olympus Mirrorless][2] news and <a href="https://www.dailycameranews.com/tag/olympus-rumors/" target="_blank" rel="noopener">Olympus Rumors</a>.
 
  [1]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2016/12/olympus-e-m1-firmware-version-4-3.jpg?ssl=1
- [2]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

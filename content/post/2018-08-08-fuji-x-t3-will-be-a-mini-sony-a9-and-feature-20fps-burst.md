@@ -41,8 +41,8 @@ The <a href="http://amzn.to/2ED06ej" target="_blank" rel="follow external noope
 
 Read more [Fujifilm Mirrorless][5] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/
- [2]: https://www.mirrorlesstimes.com/tag/photokina-2018/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/
+ [2]: https://www.mirrorlesstimes.com/tags/photokina-2018/
  [3]: https://www.mirrorlesstimes.com/2018/04/fujifilm-x-t3-camera-to-feature-26mp-stacked-sensor/
  [4]: https://www.dailycameranews.com/2018/07/fujifilm-x-t3-camera-officially-registered-online/
- [5]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

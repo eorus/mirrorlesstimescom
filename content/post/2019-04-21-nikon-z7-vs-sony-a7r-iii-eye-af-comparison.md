@@ -34,7 +34,7 @@ Nikon’s upcoming firmware is planned that will add Eye-detection AF, CFexpress
 > Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868201466609763/" target="_blank" rel="external nofollow noopener"><strong>Nikon Camera Users Group</strong></a> to share your Nikon photography, ask and answer questions that arise and help each others!
 
  [1]: https://www.dailycameranews.com/tag/nikon-full-frame-mirrorless-camera/
- [2]: https://www.mirrorlesstimes.com/tag/nikon-z7/
- [3]: https://www.mirrorlesstimes.com/tag/sony-a7r-iii/
+ [2]: https://www.mirrorlesstimes.com/tags/nikon-z7/
+ [3]: https://www.mirrorlesstimes.com/tags/sony-a7r-iii/
  [4]: https://www.dailycameranews.com/2019/01/breaking-nikon-to-add-eye-af-raw-video-and-cfexpress-support-to-nikon-z-cameras/
- [5]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

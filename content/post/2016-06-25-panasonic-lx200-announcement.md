@@ -41,5 +41,5 @@ Read more [Panasonic Mirrorless][4] and [Panasonic Rumors][5].
  [1]: https://www.mirrorlesstimes.com/2016/06/panasonic-gh5-sensor/
  [2]: https://www.mirrorlesstimes.com/2016/04/panasonic-lx200-specs-showed-web/
  [3]: https://www.mirrorlesstimes.com/2016/04/panasonic-lumix-dmc-gx85/
- [4]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [4]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [5]: https://www.dailycameranews.com/tag/panasonic-rumors/

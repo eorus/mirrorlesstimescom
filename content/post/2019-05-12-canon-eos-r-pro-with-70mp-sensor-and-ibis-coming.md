@@ -28,9 +28,9 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 
 Read more [Canon mirrorless][6] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>. see also <a href="https://www.bestcameranews.com/best-memory-cards-for-canon-eos-rp/" target="_blank" rel="noopener">Best Memory Cards for Canon EOS RP</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-eos-r/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-eos-r/
  [2]: https://www.dailycameranews.com/tag/nikon-z7/
- [3]: https://www.mirrorlesstimes.com/tag/panasonic-s1r/
+ [3]: https://www.mirrorlesstimes.com/tags/panasonic-s1r/
  [4]: https://www.dailycameranews.com/tag/canon-eos-rp/
- [5]: https://www.mirrorlesstimes.com/tag/canon-full-frame-mirrorless-camera/
- [6]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/canon-full-frame-mirrorless-camera/
+ [6]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

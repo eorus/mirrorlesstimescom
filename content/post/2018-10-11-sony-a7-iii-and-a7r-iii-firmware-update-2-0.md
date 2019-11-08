@@ -14,9 +14,9 @@ tags:
   - Sony Mirrorless
 
 ---
-[Sony][1] today released the new firmware update version 2.00 for <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/" target="_blank" rel="noopener">Sony A7 III</a> and <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> full frame mirrorless cameras.
+[Sony][1] today released the new firmware update version 2.00 for <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/" target="_blank" rel="noopener">Sony A7 III</a> and <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> full frame mirrorless cameras.
 
-This looks like a major upgrade as the **firmware update** for Sony A7 III and A7R III. Version 2.0 adds support for the <a href="https://www.mirrorlesstimes.com/tag/sony-fe-400mm-f-2-8-gm-oss-lens/" target="_blank" rel="noopener" data-wpel-link="exclude">400mm f/2.8 GM</a> and <a href="https://www.mirrorlesstimes.com/tag/sony-fe-24mm-f-1-4-gm/" target="_blank" rel="noopener">24mm f/1.4 GM</a> lenses, improves LA-EA3 mount adaptor support, and offers better reproduction of the gradation of RAW pictures.
+This looks like a major upgrade as the **firmware update** for Sony A7 III and A7R III. Version 2.0 adds support for the <a href="https://www.mirrorlesstimes.com/tags/sony-fe-400mm-f-2-8-gm-oss-lens/" target="_blank" rel="noopener" data-wpel-link="exclude">400mm f/2.8 GM</a> and <a href="https://www.mirrorlesstimes.com/tags/sony-fe-24mm-f-1-4-gm/" target="_blank" rel="noopener">24mm f/1.4 GM</a> lenses, improves LA-EA3 mount adaptor support, and offers better reproduction of the gradation of RAW pictures.
 
 Sony A7 III camera is also the new best seller in mirrorless cameras at <a href="https://amzn.to/2GhrHyp" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external"><strong>Amazon</strong></a>, followed by <a href="https://amzn.to/2J0kVPo" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external"><strong>Sony A6000</strong></a> and <a href="https://amzn.to/2GzLkoM" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external"><strong>Sony A7R III</strong></a>. Check out the Sony A7 III and A7R III Firmware Update 2.0 details and download links below. <!--more-->
 

@@ -13,7 +13,7 @@ tags:
   - Zoom
 
 ---
-The new <a href="https://www.mirrorlesstimes.com/tag/tamron-28-75mm-f-2-8-di-iii-rxd/" data-wpel-link="internal">Tamron 28-75mm f/2.8 Di III RXD</a> lens for Sony E-mount is priced around **$850** in China. The release date of the lens will be from **mid-2018.**
+The new <a href="https://www.mirrorlesstimes.com/tags/tamron-28-75mm-f-2-8-di-iii-rxd/" data-wpel-link="internal">Tamron 28-75mm f/2.8 Di III RXD</a> lens for Sony E-mount is priced around **$850** in China. The release date of the lens will be from **mid-2018.**
 
 This is the Tamron’s first ever lens for the <a href="https://www.dailycameranews.com/2017/03/best-sony-full-frame-e-mount-lenses/" target="_blank" rel="noopener">Sony full-frame E-mount</a> system. The standart zoom lens will offer excellent optical performance and high-quality bokeh. An ‘RXD’ stepping motor autofocus unit provides quiet operation for video applications, and the whole thing will be moisture-resistant.
 
@@ -29,7 +29,7 @@ If you want to get notified when the Tamron 28-75mm f/2.8 Di III RXD lens becom
   6. Moisture-Resistant Construction and Fluorine Coating for weather protection.
   7. Compatible with the “Direct Manual Focus (DMF)” feature that enables Sony cameras to instantly switch between autofocus and manual focus.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 via [DCN][1]
 

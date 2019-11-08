@@ -61,4 +61,4 @@ Read more [**Fujifilm Mirrorless**][4] news.
  [1]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/fujifilm-released-firmware-updates-x-t2-x-t20-gfx-50s-free-x-raw-studio-software-x-acquire-ver-1-7.jpg?ssl=1
  [2]: http://www.fujifilm.com/support/digital_cameras/software/firmware/x/xt2/index.html "Fujifilm GFX 50s firmware version 1.10"
  [3]: http://www.fujifilm.com/support/digital_cameras/software/firmware/x/xt20/index.html "Fujifilm GFX 50s firmware version 1.10"
- [4]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

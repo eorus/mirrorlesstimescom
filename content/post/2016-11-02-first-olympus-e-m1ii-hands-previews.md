@@ -64,6 +64,6 @@ So what are the improvements over its predecessor? The camera offers a faster p
 
 Read more [Olympus Mirrorless][3] news and <a href="https://www.dailycameranews.com/tag/olympus-rumors/" target="_blank" rel="noopener">Olympus Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1-mark-ii/
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1-mark-ii/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2016/11/olympus-e-m1-mark-ii-pre-order.jpg?ssl=1
- [3]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

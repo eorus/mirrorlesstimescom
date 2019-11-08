@@ -18,7 +18,7 @@ tags:
   - Sony Mirrorless
 
 ---
-Adobe released the new updates for **<a href="https://helpx.adobe.com/lightroom-cc/using/whats-new.html" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external">Lightroom CC</a>** and **<a href="https://helpx.adobe.com/camera-raw/using/supported-cameras.html" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external">Camera Raw</a>**, adding the full support for <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener" data-wpel-link="internal">Sony a7R III</a> and [Panasonic G9][1] mirrorless cameras.
+Adobe released the new updates for **<a href="https://helpx.adobe.com/lightroom-cc/using/whats-new.html" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external">Lightroom CC</a>** and **<a href="https://helpx.adobe.com/camera-raw/using/supported-cameras.html" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external">Camera Raw</a>**, adding the full support for <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener" data-wpel-link="internal">Sony a7R III</a> and [Panasonic G9][1] mirrorless cameras.
 
 Adobe have updated the entire Lightroom CC ecosystem, including for Mac, Windows, iOS, Android, and the web, as well as updates to Lightroom Classic CC and Adobe Camera Raw.
 
@@ -44,9 +44,9 @@ Camera Raw 10.1 – Please use the Adobe Creative Cloud app to download and inst
 
 DNG Converter 10.1:  <a href="http://www.adobe.com/go/dng_converter_mac/" target="_blank" rel="nofollow noopener">Mac</a> | <a href="http://www.adobe.com/go/dng_converter_win/" target="_blank" rel="nofollow noopener">Win</a>
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> / [Panasonic Mirrorless][4] news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> / [Panasonic Mirrorless][4] news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
- [1]: https://www.mirrorlesstimes.com/tag/panasonic-g9/
+ [1]: https://www.mirrorlesstimes.com/tags/panasonic-g9/
  [2]: https://www.mirrorlesstimes.com/2017/11/leica-cl-camera-elmarit-tl-18mm-f2-8-asph-lens-announced/
  [3]: https://www.dailycameranews.com/2017/12/sony-a7r-iii-firmware-update-verison-1-01-released/
- [4]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless/

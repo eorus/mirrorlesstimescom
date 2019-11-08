@@ -35,11 +35,11 @@ According to new details, the successor to the <a title="Sony A7S II" href="http
 
 The 36MP sensor is a FAST sensor with chip-on AF, perfect for sporting at high continuous shooting speeds. So the company can also use it on the [Sony A9 II][3]. As always take it with a grain of salt and stay tuned with us for more information.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 via [DCN][4]
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7s-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7s-iii/
  [2]: https://www.dailycameranews.com/2018/11/sony-a7s-iii-to-feature-stacked-sensor-coming-in-early-2019/
  [3]: https://www.dailycameranews.com/tag/sony-a9-ii/
  [4]: https://www.dailycameranews.com/2018/12/sony-a7s-iii-rumored-to-feature-36-4mp-bsi-stacked-sensor/

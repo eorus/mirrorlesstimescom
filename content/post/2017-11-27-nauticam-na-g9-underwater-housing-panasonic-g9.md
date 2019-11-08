@@ -14,7 +14,7 @@ tags:
   - Panasonic Mirrorless
 
 ---
-Nauticam announced NA-G9 _underwater_ housing for the <a href="https://www.mirrorlesstimes.com/tag/panasonic-g9/" target="_blank" rel="noopener">Panasonic G9</a> mirrorless camera.
+Nauticam announced NA-G9 _underwater_ housing for the <a href="https://www.mirrorlesstimes.com/tags/panasonic-g9/" target="_blank" rel="noopener">Panasonic G9</a> mirrorless camera.
 
 Nauticam NA-V2 comes with a depth rating 100m and weighs 2.5kg. The new underwater housing for the Panasonic G9 MFT camera will be priced for $2650 in US.
 
@@ -44,7 +44,7 @@ The standard optical glass viewfinder is very good and travel friendly, but many
 **Premium Professional Optics  
 ** 
 
-Experienced shooters know a camera is only as good as the lens in front of it, and the same is true when choosing optics for an underwater camera system.  A variety of wide-angle and flat ports are available in the N85 system to accommodate a large portion of the <a href="https://www.mirrorlesstimes.com/tag/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> open-standard lenses. configurations are extensively tested at Nauticam to determine the ideal extension ring length for best performance.
+Experienced shooters know a camera is only as good as the lens in front of it, and the same is true when choosing optics for an underwater camera system.  A variety of wide-angle and flat ports are available in the N85 system to accommodate a large portion of the <a href="https://www.mirrorlesstimes.com/tags/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> open-standard lenses. configurations are extensively tested at Nauticam to determine the ideal extension ring length for best performance.
 
 [<img class="aligncenter size-full wp-image-1468" src="https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/nauticam-na-g9-underwater-housing-panasonic-g9-top.jpg?resize=600%2C400&#038;ssl=1" alt="" width="600" height="400" srcset="https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/nauticam-na-g9-underwater-housing-panasonic-g9-top.jpg?w=1024&ssl=1 1024w, https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/nauticam-na-g9-underwater-housing-panasonic-g9-top.jpg?resize=450%2C300&ssl=1 450w, https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/nauticam-na-g9-underwater-housing-panasonic-g9-top.jpg?resize=768%2C512&ssl=1 768w, https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/nauticam-na-g9-underwater-housing-panasonic-g9-top.jpg?resize=970%2C646&ssl=1 970w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" />][2]
 

@@ -30,6 +30,6 @@ The MK 85mm f/1.8 lens has a 67mm filter thread and a field of view of 28.5 degr
   * Filter size: 67mm
   * Weight: 420g
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/1637646316495210/" target="_blank" rel="external nofollow noopener">Sony Camera Users</a> Facebook Group to share your Sony photography._

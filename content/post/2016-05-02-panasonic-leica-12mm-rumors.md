@@ -35,4 +35,4 @@ The only announcement we may expect is the M.Zuiko 25mm f/1.2 PRO prime optic f
 
 Panasonic currently has the Leica-branded 25mm f/1.4 and the 15mm f/1.7 lenses for Micro Four Thirds cameras. The 12mm version is expected to become available this year, <a href="http://www.dailycameranews.com/2016/05/panasonic-12mm-lens-rumors/" rel="external">sources says</a>. Anyway stay tuned with Mirrorless Times for more information as we’ll update you with more news.
 
- [1]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
+ [1]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/

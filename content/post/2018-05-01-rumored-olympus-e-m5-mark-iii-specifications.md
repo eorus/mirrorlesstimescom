@@ -35,6 +35,6 @@ As always take it with grain of salt. Stay tuned with us for more information an
 
 Read more [Olympus Mirrorless News][3] and <a href="https://www.dailycameranews.com/tag/olympus-rumors/" target="_blank" rel="noopener">Olympus Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-e-m5-mark-iii/
- [2]: https://www.mirrorlesstimes.com/tag/photokina-2018/
- [3]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless "Olympus Mirrorless News"
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-e-m5-mark-iii/
+ [2]: https://www.mirrorlesstimes.com/tags/photokina-2018/
+ [3]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless "Olympus Mirrorless News"

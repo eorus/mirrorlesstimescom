@@ -83,4 +83,4 @@ Read more [Fujifilm Mirrorless][1] news and <a href="https://www.dailycameran
 
 via <a href="http://www.fujifilm.com/news/n180517.html" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external">Fujifilm</a>
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

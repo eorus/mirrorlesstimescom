@@ -40,5 +40,5 @@ Pen-series also inherits the ability process both JPEG and Raw files in-camera. 
 
 We do belive that PEN-series cameras have provided great value for the money and the **Olympus E-PL9** will continue this trend. This means it would be a stylish and selfie-friendly camera. Stay tuned with us for more [**Olympus Mirrorless**][2] news.
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-e-pl9/
- [2]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-e-pl9/
+ [2]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

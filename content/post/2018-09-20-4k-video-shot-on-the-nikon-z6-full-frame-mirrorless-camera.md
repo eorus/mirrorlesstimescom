@@ -39,9 +39,9 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868
 
 Read more [Nikon mirrorless][6] and  <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-z6/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-z6/
  [2]: https://www.bhphotovideo.com/c/product/1431709-REG/nikon_20081_nikkor_z_35mm_f_1_8.html/BI/20175/KBID/14249/
  [3]: https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/nkz3518.html
  [4]: https://www.bhphotovideo.com/c/product/1431710-REG/nikon_20083_nikkor_z_50mm_f_1_8.html/BI/20175/KBID/14249/
  [5]: https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/nkz5018.html
- [6]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [6]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

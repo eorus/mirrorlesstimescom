@@ -14,7 +14,7 @@ tags:
 ---
 **Capture One Pro 10.2.1** has been released and adds raw file support for **Sony a7RIII, RX10 IV, and RX0** cameras.
 
-Updates for this release mainly focus on support for <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a>, <a href="https://www.dailycameranews.com/2017/09/sony-rx10-iv/" target="_blank" rel="noopener">RX10 IV</a>, [RX0][1] cameras, the [100-400mm FE][2] lens and fixes several bugs for Mac and Windows versions of Capture One 10.1.
+Updates for this release mainly focus on support for <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a>, <a href="https://www.dailycameranews.com/2017/09/sony-rx10-iv/" target="_blank" rel="noopener">RX10 IV</a>, [RX0][1] cameras, the [100-400mm FE][2] lens and fixes several bugs for Mac and Windows versions of Capture One 10.1.
 
 If you aren’t familiar with Capture One Pro, it’s a software package designed to perform as a Raw processing application as well as a host for those who like to shoot with a camera tethered to a computer. The world’s no. 1 imaging software from Phase One supports over 400 cameras, and is used by over 90 K professional photographers!<!--more-->
 

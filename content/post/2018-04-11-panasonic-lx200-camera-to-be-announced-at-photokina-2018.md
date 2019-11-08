@@ -38,6 +38,6 @@ Here are the combined specifications for the **LX200 camera**.
 
 Read more [Panasonic Mirrorless][2] and [Panasonic Rumors][3].
 
- [1]: https://www.mirrorlesstimes.com/tag/panasonic-lx200/
- [2]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [1]: https://www.mirrorlesstimes.com/tags/panasonic-lx200/
+ [2]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [3]: https://www.dailycameranews.com/tag/panasonic-rumors/

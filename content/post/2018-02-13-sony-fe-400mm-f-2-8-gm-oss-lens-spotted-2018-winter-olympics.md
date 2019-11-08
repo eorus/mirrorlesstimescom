@@ -13,7 +13,7 @@ tags:
   - Sony Mirrorless
 
 ---
-Here is the first image of upcoming <a href="https://www.mirrorlesstimes.com/tag/sony-fe-400mm-f-2-8-gm-oss-lens/" data-wpel-link="internal">Sony FE 400mm f/2.8 GM OSS Lens</a> at 2018 PyeongChang Winter Olympics.
+Here is the first image of upcoming <a href="https://www.mirrorlesstimes.com/tags/sony-fe-400mm-f-2-8-gm-oss-lens/" data-wpel-link="internal">Sony FE 400mm f/2.8 GM OSS Lens</a> at 2018 PyeongChang Winter Olympics.
 
 This lens is scheduled to be released in September, 2018. Price is not available yet. You can check <a href="https://www.bhphotovideo.com/c/product/1369634-REG/sony_fe_400mm_f_2_8_gm.html/BI/20175/KBID/14249" target="_new" rel="nofollow" data-wpel-link="external">price and pre-order option at B&H Photo Video</a>.  
 <span id="more-2028"></span>
@@ -42,7 +42,7 @@ Sony already announced development of the new **FE 400mm f/2.8 G Master OSS** 
   </li>
 </ul>
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
  [1]: https://www.dailycameranews.com/2016/11/best-sony-a6500-lenses/
  [2]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-fe-400mm-f-2.8-gm-oss-lens.jpg?ssl=1

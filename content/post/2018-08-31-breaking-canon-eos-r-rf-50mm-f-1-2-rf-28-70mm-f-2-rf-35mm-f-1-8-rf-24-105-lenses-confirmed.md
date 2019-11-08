@@ -45,7 +45,7 @@ Below is the full list of new products to be announced on **September 5th, 2018*
 [<img class="aligncenter size-full wp-image-2263" src="https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/08/Canon-EOS-R-full-frame-mirrorless-camera.jpg?resize=600%2C493&#038;ssl=1" alt="" width="600" height="493" srcset="https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/08/Canon-EOS-R-full-frame-mirrorless-camera.jpg?w=900&ssl=1 900w, https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/08/Canon-EOS-R-full-frame-mirrorless-camera.jpg?resize=365%2C300&ssl=1 365w, https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/08/Canon-EOS-R-full-frame-mirrorless-camera.jpg?resize=768%2C631&ssl=1 768w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" />][2]
 
 <p class="single-post-title entry-title">
-  The rumored <a href="https://www.mirrorlesstimes.com/tag/canon-full-frame-mirrorless-camera/">Canon full frame mirrorless camera</a> specs below are more about to compete with <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/">Sony a7 III</a> and sure the new <a href="https://www.mirrorlesstimes.com/tag/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a>. Check it out!<span id="more-2253"></span>
+  The rumored <a href="https://www.mirrorlesstimes.com/tags/canon-full-frame-mirrorless-camera/">Canon full frame mirrorless camera</a> specs below are more about to compete with <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/">Sony a7 III</a> and sure the new <a href="https://www.mirrorlesstimes.com/tags/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a>. Check it out!<span id="more-2253"></span>
 </p>
 
 ### Canon EOS R Specifications
@@ -78,4 +78,4 @@ via **<a href="https://www.dailycameranews.com/2018/08/confirmed-canon-eos-r-4-r
 
  [1]: https://www.dailycameranews.com/2018/08/canon-eos-r-will-be-the-first-canon-full-frame-mirrorless-camera/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/08/Canon-EOS-R-full-frame-mirrorless-camera.jpg?ssl=1
- [3]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

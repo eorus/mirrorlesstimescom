@@ -13,7 +13,7 @@ tags:
   - Sony Mirrorless
 
 ---
-The upcoming **<a href="https://www.mirrorlesstimes.com/tag/sony-a6700/" target="_blank" rel="noopener" data-wpel-link="exclude">Sony A6700</a> **is expected to be announced by the end of this year. Today, the rumor mill leaked the new specifications.
+The upcoming **<a href="https://www.mirrorlesstimes.com/tags/sony-a6700/" target="_blank" rel="noopener" data-wpel-link="exclude">Sony A6700</a> **is expected to be announced by the end of this year. Today, the rumor mill leaked the new specifications.
 
 The high-end <a href="http://amzn.to/2B8o3rL" target="_blank" rel="noopener">A6500</a> has been unveiled by Sony  back in early 2017. Replacement to the <a href="http://amzn.to/2B95HGS" target="_blank" rel="noopener">A6300</a> delivered a much-needed boost to autofocus performance with the company’s Fast Hybrid AF system.
 
@@ -48,6 +48,6 @@ Sony has a schedule of this products and introduce a new version every year. An 
 
 Stay tuned with us for more information.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 via <a href="https://www.sonyalpharumors.com/sr2-the-first-rumored-sony-a6700-spec-list/" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external">SAR</a>

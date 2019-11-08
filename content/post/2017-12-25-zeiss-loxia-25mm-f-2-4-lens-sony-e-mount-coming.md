@@ -16,7 +16,7 @@ tags:
 
 ---
 <p class="p1">
-  <span class="s1"><a href="https://www.mirrorlesstimes.com/category/zeiss/">Zeiss</a> is allegedly working on a new manual focus lens for Sony E-mount system cameras. This product will be a new <a href="https://www.mirrorlesstimes.com/tag/zeiss-loxia-25mm-f-2-4/"><em>Loxia 25mm f/2.4</em></a> lens. </span>
+  <span class="s1"><a href="https://www.mirrorlesstimes.com/category/zeiss/">Zeiss</a> is allegedly working on a new manual focus lens for Sony E-mount system cameras. This product will be a new <a href="https://www.mirrorlesstimes.com/tags/zeiss-loxia-25mm-f-2-4/"><em>Loxia 25mm f/2.4</em></a> lens. </span>
 </p>
 
 <p class="p1">
@@ -54,7 +54,7 @@ tags:
 
 <span class="s1">Official announcement is expected in the first half of 2018, probably around CP+ 2018. </span>
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here. Check out the [Best Sony Full Frame E Mount Lenses][2].
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here. Check out the [Best Sony Full Frame E Mount Lenses][2].
 
  [1]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2016/09/zeiss-loxia-family.jpg?ssl=1
  [2]: https://www.dailycameranews.com/2017/03/best-sony-full-frame-e-mount-lenses/

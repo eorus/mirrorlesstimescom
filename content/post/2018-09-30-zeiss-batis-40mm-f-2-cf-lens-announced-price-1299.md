@@ -27,4 +27,4 @@ The ZEISS Batis 2/40 CF is able to tackle various photography challenges thanks 
 
 Thanks to its high micro contrast and initial aperture of f/2, the lens can perfectly capture individual objects. Features like floating lens design for consistently high image quality across the entire focus range, the ZEISS T* coating for fewer reflections and weather and dust sealed housing and splash protection ensure maximum image quality in almost any situation. For creative work, the innovative OLED display on the ZEISS Batis shows the distance and depth of field, ensuring a perfectly adjusted focus range.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.

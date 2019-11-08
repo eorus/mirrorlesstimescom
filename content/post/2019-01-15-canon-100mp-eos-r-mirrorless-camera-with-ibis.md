@@ -59,7 +59,7 @@ Rumors about a 100MP EOS R mirrorless camera with IBIS capabilities circulating 
 > 
 > Read more [Canon mirrorless][4] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-eos-r/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-eos-r/
  [2]: https://www.dailycameranews.com/2018/11/next-canon-eos-r-camera-to-feature-75-mp-sensor/
  [3]: https://www.dailycameranews.com/2015/12/best-standard-zoom-and-prime-lenses-for-the-canon-eos-5ds-r-dslr/
- [4]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

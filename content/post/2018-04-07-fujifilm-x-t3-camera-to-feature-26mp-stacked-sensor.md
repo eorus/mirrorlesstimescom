@@ -15,7 +15,7 @@ tags:
   - Rumors
 
 ---
-Fujifilm is on the verge to announce a new <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener" data-wpel-link="internal">Fujifilm X-T3</a> mirrorless camera sometime before _Photokina _2018 and it will have a 26MP APS-c stacked sensor.
+Fujifilm is on the verge to announce a new <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener" data-wpel-link="internal">Fujifilm X-T3</a> mirrorless camera sometime before _Photokina _2018 and it will have a 26MP APS-c stacked sensor.
 
 As previous rumors indicates that the weather-sealed mirrorless camera will allegedly be present at world’s largest digital imaging event. There were some expectations about a new sensor more than 24MP.
 
@@ -44,5 +44,5 @@ Fujifilm X-T3 is rumored to be announced at [Photokina 2018][1] in September. I
 
 Read more [Fujifilm Mirrorless][2] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/photokina-2018/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/photokina-2018/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

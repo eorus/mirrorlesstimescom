@@ -794,6 +794,6 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 
 Read more [Canon mirrorless][3] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-eos-rp/
- [2]: https://www.mirrorlesstimes.com/tag/canon-eos-r/
- [3]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-eos-rp/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-eos-r/
+ [3]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

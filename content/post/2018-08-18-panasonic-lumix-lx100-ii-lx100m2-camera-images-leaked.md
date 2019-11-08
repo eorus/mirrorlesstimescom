@@ -37,5 +37,5 @@ Here are the expectations for the Panasonic Lumix LX100 II (LX100M2) camera that
 
 Read more [Panasonic Mirrorless][1] and [Panasonic Rumors][2].
 
- [1]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [1]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [2]: https://www.dailycameranews.com/tag/panasonic-rumors/

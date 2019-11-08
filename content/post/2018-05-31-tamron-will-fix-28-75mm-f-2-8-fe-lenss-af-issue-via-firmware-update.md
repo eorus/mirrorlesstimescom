@@ -29,8 +29,8 @@ Firmware update can be executed from a Sony mirrorless camera compatible with fi
 
 In addition, if you register for Tamron Lens Life Members and you are requesting e-mail newsletters, we will inform you by email magazine as soon as details are known.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 via: <a href="http://www.tamron.co.jp/news/press_release/20180530.html" target="_new" rel="nofollow" data-wpel-link="external">Tamon Japan</a>
 
- [1]: https://www.mirrorlesstimes.com/tag/tamron-28-75mm-f-2-8-di-iii-rxd/
+ [1]: https://www.mirrorlesstimes.com/tags/tamron-28-75mm-f-2-8-di-iii-rxd/

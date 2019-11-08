@@ -16,7 +16,7 @@ tags:
 
 ---
 <p class="p1">
-  <span class="s1">Looking for the <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> availability? here is the <strong>Fujifilm X-T3 in stock & availability</strong> tracker for you.</span>
+  <span class="s1">Looking for the <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> availability? here is the <strong>Fujifilm X-T3 in stock & availability</strong> tracker for you.</span>
 </p>
 
 <p class="p1">

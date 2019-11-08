@@ -13,7 +13,7 @@ tags:
   - Sony Mirrorless
 
 ---
-Sony has showed off their upcoming super telephoto prime; <a href="https://www.mirrorlesstimes.com/tag/sony-fe-400mm-f-2-8-gm-oss-lens/" target="_blank" rel="noopener" data-wpel-link="exclude">Sony FE 400mm f/2.8 GM OSS Lens</a> at CP+ Show 2018 in Japan. Here are first Sony FE 400mm f/2.8 GM OSS lens images.<span id="more-2028"></span>
+Sony has showed off their upcoming super telephoto prime; <a href="https://www.mirrorlesstimes.com/tags/sony-fe-400mm-f-2-8-gm-oss-lens/" target="_blank" rel="noopener" data-wpel-link="exclude">Sony FE 400mm f/2.8 GM OSS Lens</a> at CP+ Show 2018 in Japan. Here are first Sony FE 400mm f/2.8 GM OSS lens images.<span id="more-2028"></span>
 
 The bright telephoto prime lens will be compatible with <a href="http://www.bhphotovideo.com/c/product/1222777-REG/sony_sel14tc_fe_1_4x_teleconverter.html/BI/20175/KBID/14249" target="_blank" rel="external nofollow noopener">Sony FE 1.4X</a> and <a href="http://www.bhphotovideo.com/c/product/1222778-REG/sony_sel20tc_fe_2x_teleconverter.html/BI/20175/KBID/14249" target="_blank" rel="external nofollow noopener">2X Teleconverters</a>. The optic will offer a 600mm equivalent, in 35mm equivalent terms, when used on Sony’s APS-C cameras such as the [Sony A6500][1].
 
@@ -29,7 +29,7 @@ Sony already announced development of the new **FE 400mm f/2.8 G Master OSS** 
 
 [<img class="aligncenter size-full wp-image-1731" src="https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/03/sony-fe-400mm-f-2.8-gm-oss-lens-4.jpg?resize=600%2C450&#038;ssl=1" alt="" width="600" height="450" srcset="https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/03/sony-fe-400mm-f-2.8-gm-oss-lens-4.jpg?w=800&ssl=1 800w, https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/03/sony-fe-400mm-f-2.8-gm-oss-lens-4.jpg?resize=400%2C300&ssl=1 400w, https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/03/sony-fe-400mm-f-2.8-gm-oss-lens-4.jpg?resize=768%2C576&ssl=1 768w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" />][4]
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 via <a href="https://dc.watch.impress.co.jp/docs/news/eventreport/1109190.html" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">DC.Watch</a>
 

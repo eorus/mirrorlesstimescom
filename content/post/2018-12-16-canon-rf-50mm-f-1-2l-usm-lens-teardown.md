@@ -14,11 +14,11 @@ tags:
   - Review
 
 ---
-LensRentals pubslished the <a href="https://www.mirrorlesstimes.com/tag/canon-rf-50mm-f-1-2l-usm/" target="_blank" rel="noopener">Canon RF 50mm f/1.2L USM</a> lens _teardown_ that shows off how well this mirrorless lens is built.
+LensRentals pubslished the <a href="https://www.mirrorlesstimes.com/tags/canon-rf-50mm-f-1-2l-usm/" target="_blank" rel="noopener">Canon RF 50mm f/1.2L USM</a> lens _teardown_ that shows off how well this mirrorless lens is built.
 
 The _RF 50mm f/1.2L USM_  (<a href="https://www.amazon.com/Canon-50mm-1-2L-USM-Lens/dp/B07H4G9ZKW/?tag=daicamnew-20" target="_blank" rel="noopener">Amazon</a>, <a href="http://www.bhphotovideo.com/c/search?Ntt=canon+rf+50mm+f+1.2+L&N=0&InitialSearch=yes&BI=20175&KBID=14249" target="_blank" rel="noopener">B&H Photo</a>, <a href="http://www.adorama.com/SearchSite/Default.aspx?searchinfo=canon+rf+50mm+f+1.2+L&kbid=68292" target="_blank" rel="noopener">Adorama</a>) delivers a new kind of optical of performance in full-frame photography. The lens has professional-grade build quality and fast, very accurate AF.
 
-The teardown of the Canon RF 50mm f/1.2L showcases the lens for the <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> system. According to test results, they were a bit overwhelmed by Canon’s latest optical masterpiece. <!--more-->
+The teardown of the Canon RF 50mm f/1.2L showcases the lens for the <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> system. According to test results, they were a bit overwhelmed by Canon’s latest optical masterpiece. <!--more-->
 
 From <a href="https://www.lensrentals.com/blog/2018/12/disassembly-of-the-canon-rf-50mm-f1-2l/" target="_blank" rel="noopener">Lens Rentals</a> conclusion:
 
@@ -31,4 +31,4 @@ From <a href="https://www.lensrentals.com/blog/2018/12/disassembly-of-the-canon
 Read more [Canon mirrorless][2] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
  [1]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/12/canon-rf-50mm-f-1-2l-usm-lens-teardown.jpg?ssl=1
- [2]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

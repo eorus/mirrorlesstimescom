@@ -13,7 +13,7 @@ tags:
   - Rumors
 
 ---
-Olympus E-M1X camera registered at <a href="https://fccid.io/YSKW80/RF-Exposure-Info/03-FCC-SAR-Report-1-4059595" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">FCC certification</a> with the IM010 code name. This is probably the upcoming <a href="https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1x/" data-wpel-link="internal">Olympus E-M1X</a> high-end mirrorless camera.
+Olympus E-M1X camera registered at <a href="https://fccid.io/YSKW80/RF-Exposure-Info/03-FCC-SAR-Report-1-4059595" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">FCC certification</a> with the IM010 code name. This is probably the upcoming <a href="https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1x/" data-wpel-link="internal">Olympus E-M1X</a> high-end mirrorless camera.
 
 According to the details, size of E-M1X is **144.37 x 146.765 x 75.345mm**. The camera’s height is superior to its width and its larger than <a href="https://www.amazon.com/Olympus-Mirrorless-Camera-Megapixels-5-Axis/dp/B01M4MB3DK/?tag=daicamnew-20" data-wpel-link="internal" data-amzn-asin="B01M4MB3DK">E-M1 Mark II</a> (134.1 x 90.9 x 68.9 mm).
 
@@ -43,4 +43,4 @@ via <a href="https://www.dailycameranews.com/2018/11/confirmed-olympus-e-m1x-im0
 
  [1]: https://www.mirrorlesstimes.com/2018/10/olympus-om-d-e-m1x-coming-at-ces-2019-in-january/
  [2]: https://www.dailycameranews.com/2018/11/deal-up-to-900-off-on-olympus-cameras-and-lenses/
- [3]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

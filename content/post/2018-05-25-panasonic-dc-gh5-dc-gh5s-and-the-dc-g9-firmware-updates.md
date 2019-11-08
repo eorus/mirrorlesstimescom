@@ -15,7 +15,7 @@ tags:
 
 ---
 <p class="p1">
-  <span class="s1">Panasonic has announced new firmware updates for three LUMIX mirrorless cameras – the DC-GH5, <a href="https://www.mirrorlesstimes.com/tag/panasonic-gh5s/">DC-GH5S</a> and the <a href="https://www.mirrorlesstimes.com/tag/panasonic-g9/">DC-G9</a>. </span>
+  <span class="s1">Panasonic has announced new firmware updates for three LUMIX mirrorless cameras – the DC-GH5, <a href="https://www.mirrorlesstimes.com/tags/panasonic-gh5s/">DC-GH5S</a> and the <a href="https://www.mirrorlesstimes.com/tags/panasonic-g9/">DC-G9</a>. </span>
 </p>
 
 <p class="p1">
@@ -57,5 +57,5 @@ To update the LUMIX DC-GH5, DC-GH5S and the DC-G9, the following links will be a
 
 Read more [Panasonic Mirrorless][1] and [Panasonic Rumors][2].
 
- [1]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [1]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [2]: https://www.dailycameranews.com/tag/panasonic-rumors/

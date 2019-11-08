@@ -13,7 +13,7 @@ tags:
   - Zoom
 
 ---
-Japanese website Photosku has published the specs and size comparison of new announced <a href="https://www.mirrorlesstimes.com/tag/tamron-28-75mm-f-2-8-di-iii-rxd/" data-wpel-link="internal">Tamron 28-75mm f/2.8 Di III RXD</a> vs Sony FE 24-70mm f/2.8 GM lens.
+Japanese website Photosku has published the specs and size comparison of new announced <a href="https://www.mirrorlesstimes.com/tags/tamron-28-75mm-f-2-8-di-iii-rxd/" data-wpel-link="internal">Tamron 28-75mm f/2.8 Di III RXD</a> vs Sony FE 24-70mm f/2.8 GM lens.
 
 This is the Tamron’s first ever lens for the <a href="https://www.dailycameranews.com/2017/03/best-sony-full-frame-e-mount-lenses/" target="_blank" rel="noopener">Sony full-frame E-mount</a> system. Tamron claims the lens will offer excellent optical performance and high-quality bokeh. An ‘RXD’ stepping motor autofocus unit provides quiet operation for video applications, and the whole thing will be moisture-resistant.
 
@@ -436,7 +436,7 @@ Check out the size and specs comprison of the Tamron 28-75mm f/2.8 Di III RXD v
   </tr>
 </table>
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 via: <a href="https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fphotosku.com%2Farchives%2F3247%2F" target="_blank" rel="noopener nofollow" data-wpel-link="external">Photosku</a>
 

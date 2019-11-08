@@ -20,7 +20,7 @@ tags:
 ---
 Fujifilm X-T3, X-H1, X-T100, XF10, GFX 50R and GFX 100S rumors recap. In this post you can find all the information about the upcoming Fuji products.
 
-### <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a>:
+### <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a>:
 
   * Expected to be announced at Photokina 2018 in September
   * Max Framerate 4K: 60 fps
@@ -29,7 +29,7 @@ Fujifilm X-T3, X-H1, X-T100, XF10, GFX 50R and GFX 100S rumors recap. In this po
 
 <!--more-->
 
-###  <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/" target="_blank" rel="noopener">Fujifilm X-H1</a>:
+###  <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/" target="_blank" rel="noopener">Fujifilm X-H1</a>:
 
   * Same X-Processor Pro from Fujifilm X-T2
   * IBIS technology
@@ -69,4 +69,4 @@ Comes with new XC 15-45mm kit lens in 2018
 
 Stay tuned with us and read more [**Fujifilm Mirrorless**][1] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

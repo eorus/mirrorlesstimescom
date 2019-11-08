@@ -51,5 +51,5 @@ Read more [Panasonic Mirrorless][4] and [Panasonic Rumors][5].
  [1]: https://www.mirrorlesstimes.com/2016/06/panasonic-lx200-announcement/
  [2]: https://www.mirrorlesstimes.com/2016/09/fujifilm-x100f-rumors/
  [3]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2016/06/panasonic-lx200-announcement.jpg?ssl=1
- [4]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [4]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [5]: https://www.dailycameranews.com/tag/panasonic-rumors/

@@ -15,7 +15,7 @@ tags:
   - Sony Mirrorless
 
 ---
-DxOMark has just published their sensor review of the <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a>. The mirrorless camera ties the _[Nikon D850][1]. _ as the best full-frame camera they&#8217;ve ever tested with a score of 100.
+DxOMark has just published their sensor review of the <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a>. The mirrorless camera ties the _[Nikon D850][1]. _ as the best full-frame camera they&#8217;ve ever tested with a score of 100.
 
 The high-resolution E-mount shooter makes it the highest-scoring mirrorless system camera to date, beating the <a href="https://aax-us-east.amazon-adsystem.com/x/c/QhSt_Ndyi66M2HD-QmYFQaUAAAFgByKYtwEAAAFKAQ7u1KE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Sony-Full-Frame-Mirrorless-Interchangeable-ILCE7RM2/dp/B00ZDWGFR2/ref=as_at/?imprToken=4bTvk2HKR9n2FOs.6EO75w&slotNum=0&ie=UTF8&qid=1511938213&sr=8-2&keywords=sony+A7R+II&linkCode=sl1&tag=daicamnew-20&linkId=e98fe6310312b53888b5d3c9369106c4" target="_blank" rel="noopener">A7R II</a> by two points. This is also the fourth-highest score ever recorded at DxO. Sony A7R III score beaten only by the sensors in the medium-format <a href="https://aax-us-east.amazon-adsystem.com/x/c/QhSt_Ndyi66M2HD-QmYFQaUAAAFgByKYtwEAAAFKAQ7u1KE/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2if7gez/ref=as_at?linkCode=w61&imprToken=4bTvk2HKR9n2FOs.6EO75w&slotNum=1" target="_blank" rel="noopener">Hasselblad X1D-50C</a> and <a href="https://aax-us-east.amazon-adsystem.com/x/c/QhSt_Ndyi66M2HD-QmYFQaUAAAFgByKYtwEAAAFKAQ7u1KE/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2zO8LYT/ref=as_at?linkCode=w61&imprToken=4bTvk2HKR9n2FOs.6EO75w&slotNum=2" target="_blank" rel="noopener">Pentax 645Z</a>, and by the 12Mp full-frame <a href="https://aax-us-east.amazon-adsystem.com/x/c/QhSt_Ndyi66M2HD-QmYFQaUAAAFgByKYtwEAAAFKAQ7u1KE/https://assoc-redirect.amazon.com/g/r/http://amzn.to/2jy08GC/ref=as_at?linkCode=w61&imprToken=4bTvk2HKR9n2FOs.6EO75w&slotNum=3" target="_blank" rel="noopener">Sony A7S II</a>.
 
@@ -41,4 +41,4 @@ Read more [Sony Mirrorless][5] talk / news.
  [2]: https://www.mirrorlesstimes.com/2017/11/sony-a7r-iii-stock-availability-tracker/
  [3]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/sony-a7r-iii-sensor-review-first-mirrorless-hit-100-points.jpg?ssl=1
  [4]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/SonyA7Riii_ComparsionTable.jpg?ssl=1
- [5]: https://www.mirrorlesstimes.com/tag/sony-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/sony-mirrorless/

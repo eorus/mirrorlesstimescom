@@ -13,7 +13,7 @@ tags:
   - Sony Mirrorless
 
 ---
-Great News!! Sony has released the new firmware update Ver.1.10 for the <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> full-frame mirrorless camera.
+Great News!! Sony has released the new firmware update Ver.1.10 for the <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> full-frame mirrorless camera.
 
 **Firmware v1.10** adds the 0.5 sec delay setting to the menu so users can halve the current shortest time between frames taken with the camera in Pixel Shift Shooting mode. Previously, delays of 1-30 seconds could be selected. The move will reduce the total amount of time the pixel shift mode takes to record the images it needs, so perhaps will also reduce the risk of movement in the subject.
 
@@ -34,4 +34,4 @@ _Join the new <a href="https://www.facebook.com/groups/1637646316495210/" targe
 
 Read more: <a href="https://www.mirrorlesstimes.com/2017/11/best-lenses-sony-a7r-iii/" target="_blank" rel="noopener" data-wpel-link="internal">Best Lenses for Sony a7R III</a> and <a href="https://www.dailycameranews.com/2017/11/best-memory-cards-sony-a7r-iii/" target="_blank" rel="noopener" data-wpel-link="internal">Best Memory Cards for Sony a7R III</a>.
 
-Check out <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Check out <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.

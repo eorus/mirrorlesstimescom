@@ -35,6 +35,6 @@ Before updating the MC-11 firmware, please ensure SIGMA Optimization Pro has bee
 
 Download <a href="https://www.sigma-global.com/en/download/lenses/firmware/" target="_blank" rel="noopener">from here</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/sigma-mc-11-lens-adapter/
+ [1]: https://www.mirrorlesstimes.com/tags/sigma-mc-11-lens-adapter/
  [2]: https://www.dailycameranews.com/tag/sigma-14-24mm-f-2-8-dg-hsm-art/
  [3]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/03/sigma-mc-11-lens-adapter-mount-converter.jpg?ssl=1

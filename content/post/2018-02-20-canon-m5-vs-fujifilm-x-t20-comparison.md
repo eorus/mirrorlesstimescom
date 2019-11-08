@@ -859,5 +859,5 @@ Key reasons why some buyers choose the Canon EOS M5 instead of the XT-20:
 
 Read more [**Fujifilm Mirrorless**][1] and [**Canon Mirrorless**][2] news.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
- [2]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

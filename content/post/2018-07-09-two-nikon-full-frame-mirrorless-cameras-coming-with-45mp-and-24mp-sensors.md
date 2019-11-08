@@ -39,6 +39,6 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868
 
 Read more <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>. See <a href="https://www.dailycameranews.com/2018/04/what-to-expect-from-nikon-in-2018/" rel="bookmark">What to Expect from Nikon in 2018</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-full-frame-mirrorless/
- [2]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-full-frame-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
  [3]: https://www.dailycameranews.com/tag/photokina-2018/

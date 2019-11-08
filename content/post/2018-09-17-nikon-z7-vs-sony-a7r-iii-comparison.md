@@ -15,7 +15,7 @@ tags:
   - Sony Mirrorless
 
 ---
-Let’s compare the [Nikon Z7][1] vs <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony a7R III</a>. Here is a **Nikon Z7 vs Sony a7R III **comparison that shows the highlights to help you for decision.
+Let’s compare the [Nikon Z7][1] vs <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony a7R III</a>. Here is a **Nikon Z7 vs Sony a7R III **comparison that shows the highlights to help you for decision.
 
 The Nikon Z7 (**<a href="https://www.amazon.com/s/gp/search/ref=sr_nr_p_n_availability_1?fst=p90x%3A1&rh=n%3A172282%2Cn%3A502394%2Ck%3Anikon+z7%2Cp_n_availability%3A1248801011&keywords=nikon+z7&ie=UTF8&qid=1534991696&tag=daicamnew-20" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external" data-amzn-asin="1534991696">Amazon</a> | <a href="https://www.bhphotovideo.com/c/search?InitialSearch=yes&N=0&Ntt=Nikon+Z7&Top+Nav-Search=&sts=ma&BI=20175&KBID=14249" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">B&H Photo</a> | <a href="https://adorama.evyy.net/c/63923/51926/1036?u=https%3A%2F%2Fwww.adorama.com%2Fl%2F%3Fsearchinfo%3DNikon%2BZ7" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">Adorama</a>)** is the company&#8217;s first full-frame mirrorless camera. The camera features a 45.7MP BSI-CMOS sensor, a hybrid AF system with 493 points and 90% coverage and 5-axis in-body image stabilization. The Z 7 is based around the all-new Nikon Z-mount but an adapter is available for use with existing Nikkor F-mount lenses.
 
@@ -645,4 +645,4 @@ Let&#8217;s compare the Nikon Z7 vs Sony a7R III. Our _comparison_ table below
   </tr>
 </table>
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-z7/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-z7/

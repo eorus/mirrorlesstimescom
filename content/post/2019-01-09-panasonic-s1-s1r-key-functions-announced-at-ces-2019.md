@@ -16,9 +16,9 @@ tags:
   - Panasonic S1R
 
 ---
-<a href="http://www.guidetocamera.com/products/panasonic" target="_blank" rel="noopener">Panasonic</a> will unveil additional key features of the new <a href="https://www.mirrorlesstimes.com/tag/panasonic-full-frame-mirrorless-camera/" target="_blank" rel="noopener">LUMIX S full-frame mirrorless cameras</a> at <a href="https://www.dailycameranews.com/tag/ces-2019/" target="_blank" rel="noopener">CES 2019</a>. The LUMIX S full-frame mirrorless cameras and lenses will be available at the end of March 2019.
+<a href="http://www.guidetocamera.com/products/panasonic" target="_blank" rel="noopener">Panasonic</a> will unveil additional key features of the new <a href="https://www.mirrorlesstimes.com/tags/panasonic-full-frame-mirrorless-camera/" target="_blank" rel="noopener">LUMIX S full-frame mirrorless cameras</a> at <a href="https://www.dailycameranews.com/tag/ces-2019/" target="_blank" rel="noopener">CES 2019</a>. The LUMIX S full-frame mirrorless cameras and lenses will be available at the end of March 2019.
 
-Following an announcement at Photokina 2018, Panasonic currently in development of two full frame mirrorless cameras: the <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1r/" target="_blank" rel="noopener">47MP S1R</a> and the <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1/" target="_blank" rel="noopener">24MP S1</a>. Both will be built on Leica L mount. The company says the ‘S’ represents cameras that are ‘Specialized’ for professionals.
+Following an announcement at Photokina 2018, Panasonic currently in development of two full frame mirrorless cameras: the <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1r/" target="_blank" rel="noopener">47MP S1R</a> and the <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1/" target="_blank" rel="noopener">24MP S1</a>. Both will be built on Leica L mount. The company says the ‘S’ represents cameras that are ‘Specialized’ for professionals.
 
 Previous reports indicates that the high-resolution [Panasonic S1R will be priced around $4,500][1]**. **This is more expensive than the <a href="https://www.dailycameranews.com/tag/sony-a9/" target="_blank" rel="noopener">Sony a9</a>(**<a class="ext-link" title="" href="https://www.amazon.com/Sony-Mirrorless-Interchangeable-Lens-Camera-ILCE9/dp/B06ZY7GNKN/?tag=daicamnew-20" target="_blank" rel="noopener external nofollow" data-amzn-asin="B06ZY7GNKN">$3,498</a>**) and <a href="https://www.dailycameranews.com/tag/nikon-z7/" target="_blank" rel="noopener">Nikon Z7</a> (**<a class="ext-link" title="" href="https://www.amazon.com/Nikon-FX-Format-Mirrorless-Camera-24-70mm/dp/B07GPRBGQ2/?tag=daicamnew-20" target="_blank" rel="noopener external nofollow" data-amzn-asin="B07GPRBGQ2">$3,396.95</a>**). Check out the details from the press text.<!--more-->
 
@@ -41,5 +41,5 @@ Read more [Panasonic Mirrorless][2] and [Panasonic Rumors][3].
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/1613303922265409/" target="_blank" rel="external nofollow noopener">Mirrorless Camera Users</a> Facebook Group to share your Panasonic photography._
 
  [1]: https://www.dailycameranews.com/2018/11/panasonic-s1r-price-rumored-to-be-around-4500/
- [2]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [2]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [3]: https://www.dailycameranews.com/tag/panasonic-rumors/

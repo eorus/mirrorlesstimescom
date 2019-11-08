@@ -56,5 +56,5 @@ These were the GH5 camera images leaked on the web. The mirrorless camera will 
  [3]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/01/Panasonic-GH5-camera1.jpg?ssl=1
  [4]: https://www.mirrorlesstimes.com/2016/09/panasonic-gh5-development/
  [5]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/01/Panasonic-GH5-camera4.jpg?ssl=1
- [6]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
+ [6]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/
  [7]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/01/Panasonic-GH5-camera5.jpg?ssl=1

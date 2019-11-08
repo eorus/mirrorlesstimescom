@@ -89,6 +89,6 @@ Rokinon 14mm f/2.8 MF Lens Product Highlights
 
  [1]: https://www.dailycameranews.com/tag/samyang-mf-14mm-f-2-8-rf-lens/
  [2]: https://www.dailycameranews.com/tag/samyang-mf-85mm-f-1-4-rf-lens/
- [3]: https://www.mirrorlesstimes.com/tag/canon-full-frame-mirrorless-camera/
+ [3]: https://www.mirrorlesstimes.com/tags/canon-full-frame-mirrorless-camera/
  [4]: https://www.bestcameranews.com/tag/samyang-xp-10mm-f-3-5-lens/
  [5]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/03/samyang-85mm-RF.jpeg?ssl=1

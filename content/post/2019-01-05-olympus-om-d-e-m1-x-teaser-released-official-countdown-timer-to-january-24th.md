@@ -13,7 +13,7 @@ tags:
   - Rumors
 
 ---
-Olympus released a teaser for the <a href="https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1x/" target="_blank" rel="noopener">Olympus OM-D E-M1 X</a> camera. The mirrorless camera with Micro Four Thirds image sensor will be officially announced on January 24th, 2019. In addition, Olympus started a new countdown timer for the official announcement.
+Olympus released a teaser for the <a href="https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1x/" target="_blank" rel="noopener">Olympus OM-D E-M1 X</a> camera. The mirrorless camera with Micro Four Thirds image sensor will be officially announced on January 24th, 2019. In addition, Olympus started a new countdown timer for the official announcement.
 
 As we mentioned in our previous articles, the highly anticipated Micro Four Thirds camera is expected to arrive with <a href="https://www.dailycameranews.com/2018/12/olympus-150-400mm-f-4-0-pro-lens-registered-coming-in-early-2019/" target="_blank" rel="noopener">two telephoto zoom</a>, one wide-angle zoom and a speedlight. Exciting days ahead for Micro 4/3rds users. Take a look at the new Olympus E-M1X teaser. <!--more-->
 
@@ -51,4 +51,4 @@ _Also join the <a class="ext-link" title="" href="https://www.facebook.com/grou
 via <a href="https://www.dailycameranews.com/2019/01/new-olympus-e-m1x-teaser-launched-announcement-on-january-24/" target="_blank" rel="noopener">DCN</a>
 
  [1]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/01/new-olympus-e-m1x-teaser-launched.jpg?ssl=1
- [2]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

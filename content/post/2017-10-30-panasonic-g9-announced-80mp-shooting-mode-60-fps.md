@@ -14,7 +14,7 @@ tags:
   - Rumors
 
 ---
-<a href="https://www.mirrorlesstimes.com/tag/panasonic-g9/" target="_blank" rel="noopener"><strong>Panasonic G9</strong></a> will be the next high-end Micro Four Thirds camera. The mirrorless camera is rumored to be announced with 8**0MP Shooting Mode and 60 fps**.
+<a href="https://www.mirrorlesstimes.com/tags/panasonic-g9/" target="_blank" rel="noopener"><strong>Panasonic G9</strong></a> will be the next high-end Micro Four Thirds camera. The mirrorless camera is rumored to be announced with 8**0MP Shooting Mode and 60 fps**.
 
 The _upcoming_ Panasonic G9 is said to have the same photo shooting capabilities of the video-centric <a href="http://amzn.to/2zOfYDT" target="_blank" rel="noopener">Lumix GH5</a> camera. On the other hand video specs of the might be different from the GH5. The specs list will also include a second display on top of the camera apart from the LCD.
 

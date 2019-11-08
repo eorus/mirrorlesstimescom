@@ -47,5 +47,5 @@ There is no information about the official announcement date of the LX200. The p
 
 Read more [Panasonic Mirrorless][1] and [Panasonic Rumors][2].
 
- [1]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [1]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [2]: https://www.dailycameranews.com/tag/panasonic-rumors/

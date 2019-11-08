@@ -26,7 +26,7 @@ Read more [Nikon Mirrorless][5] and <a href="https://www.dailycameranews.com/
 Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868201466609763/" target="_blank" rel="external nofollow noopener"><strong>Nikon Camera Users Group</strong></a> to share your Nikon photography, ask and answer questions that arise and help each others!
 
  [1]: https://www.guidetocamera.com/products/nikon
- [2]: https://www.mirrorlesstimes.com/tag/nikon-z7/
- [3]: https://www.mirrorlesstimes.com/tag/nikon-z6/
+ [2]: https://www.mirrorlesstimes.com/tags/nikon-z7/
+ [3]: https://www.mirrorlesstimes.com/tags/nikon-z6/
  [4]: https://www.dailycameranews.com/tag/nikon-d5
- [5]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

@@ -37,4 +37,4 @@ Stay tuned with more [Fujifilm Mirrorless][1] news and <a href="https://www.d
 
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/978460185571041/" target="_blank" rel="external nofollow noopener">Fujifilm Camera Users</a> Facebook Group to share your Fujifilm photography._
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

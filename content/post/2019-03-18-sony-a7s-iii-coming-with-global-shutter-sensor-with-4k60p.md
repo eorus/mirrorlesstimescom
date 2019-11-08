@@ -35,11 +35,11 @@ More recently, Sony’s 36 megapixel full-frame 8K sensor has been leaked. The 
 
 The company can also use this sensor on the [Sony A9 II][4] and choose the 24MP BSI sensor (not stacked) from the [Sony A7 III][5]. As always take it with a grain of salt and stay tuned with us for more information.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.bestcameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.bestcameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/1637646316495210/" target="_blank" rel="external nofollow noopener">Sony Camera Users</a> Facebook Group to share your Sony photography._
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7s-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7s-iii/
  [2]: https://www.bestcameranews.com/tag/sony-a7s-iii/
  [3]: https://www.dailycameranews.com/2018/11/sony-a7s-iii-to-feature-stacked-sensor-coming-in-early-2019/
  [4]: https://www.bestcameranews.com/tag/sony-a9-ii/

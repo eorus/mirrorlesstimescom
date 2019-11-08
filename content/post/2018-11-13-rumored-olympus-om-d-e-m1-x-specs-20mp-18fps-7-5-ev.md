@@ -13,7 +13,7 @@ tags:
   - Rumors
 
 ---
-First rumored <a href="https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1x/" data-wpel-link="internal">Olympus E-M1X</a> specs have been leaked. According to the specs list the high-end mirrorless camera will feature **20MP image sensor, 18fps continuous shooting speed with 7.5+ EV**.
+First rumored <a href="https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1x/" data-wpel-link="internal">Olympus E-M1X</a> specs have been leaked. According to the specs list the high-end mirrorless camera will feature **20MP image sensor, 18fps continuous shooting speed with 7.5+ EV**.
 
 Previously several reports indicated that the size of E-M1X will be **144.37 x 146.765 x 75.345mm**. The camera’s height is superior to its width and its larger than <a href="https://www.amazon.com/Olympus-Mirrorless-Camera-Megapixels-5-Axis/dp/B01M4MB3DK/?tag=daicamnew-20" data-wpel-link="internal" data-amzn-asin="B01M4MB3DK">E-M1 Mark II</a> (134.1 x 90.9 x 68.9 mm).  Olympus E-M1X camera will have a built-in vertical grip. This makes the size similar to <a href="https://www.amazon.com/Canon-Mark-Frame-Digital-Camera/dp/B01KURGS9E/?tag=daicamnew-20" data-wpel-link="exclude" data-amzn-asin="B01KURGS9E">5D Mark IV</a> or <a href="https://www.amazon.com/Nikon-D850-FX-Format-Digital-Camera/dp/B07524LHMT/?tag=daicamnew-20" data-wpel-link="exclude" data-amzn-asin="B07524LHMT">D850</a> with a battery grip. Here are more details about the Olympus OM-D E-M1 X Specs!<!--more-->
 
@@ -34,4 +34,4 @@ _Also join the <a class="ext-link" title="" href="https://www.facebook.com/grou
 
 via: <a href="https://www.43rumors.com/ft4-first-rumored-e-m1x-specs-20mp-sensor-18fps-7-5-ev/" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">43R</a>, <a href="https://www.dailycameranews.com/2018/11/first-olympus-e-m1x-specs-leaked-20mp-18fps-7-5-ev/" target="_blank" rel="noopener">DCN</a>
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

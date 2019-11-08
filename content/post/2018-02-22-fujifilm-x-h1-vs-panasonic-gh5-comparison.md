@@ -407,9 +407,9 @@ The GH5 provides a faster frame rate than the X-H1. It can shoot movie footage a
                   </ul>
                   
                   <p>
-                    Read more <a href="https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/">Fujifilm Mirrorless</a> |  <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a> and <a href="https://www.mirrorlesstimes.com/tag/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> | <a href="https://www.dailycameranews.com/tag/panasonic-rumors/" target="_blank" rel="noopener">Panasonic Rumors</a>!
+                    Read more <a href="https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/">Fujifilm Mirrorless</a> |  <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a> and <a href="https://www.mirrorlesstimes.com/tags/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> | <a href="https://www.dailycameranews.com/tag/panasonic-rumors/" target="_blank" rel="noopener">Panasonic Rumors</a>!
                   </p>
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/
- [2]: https://www.mirrorlesstimes.com/tag/panasonic-gh5s/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/
+ [2]: https://www.mirrorlesstimes.com/tags/panasonic-gh5s/
  [3]: https://aax-us-east.amazon-adsystem.com/x/c/QvW0NFj3FdXsFGLhfdpgInMAAAFhmXwlrQEAAAFKAc3BzFQ/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Fujifilm-X-H1-Mirrorless-Digital-Body/dp/B079PTRNKK/ref=as_at/?imprToken=iJ1EBwckOn88ZcRhzceN1w&slotNum=3&ie=UTF8&linkCode=sl1&tag=daicamnew-20&linkId=078070ffc7ef6fbdee796d8a7c6221d9

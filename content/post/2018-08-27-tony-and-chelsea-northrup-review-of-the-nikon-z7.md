@@ -44,9 +44,9 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868
 Read more [Nikon mirrorless][7] and  <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>.
 
  [1]: https://www.dailycameranews.com/2018/03/nikon-d850-stock-availability-tracker/
- [2]: https://www.mirrorlesstimes.com/tag/nikon-z6/
- [3]: https://www.mirrorlesstimes.com/tag/nikon-z7/
+ [2]: https://www.mirrorlesstimes.com/tags/nikon-z6/
+ [3]: https://www.mirrorlesstimes.com/tags/nikon-z7/
  [4]: https://www.dailycameranews.com/tag/nikon-full-frame-mirrorless-camera/
  [5]: https://www.dailycameranews.com/2018/08/nikon-z6-and-z7-nikkor-z-lenses-ftz-lens-adapter-available-for-pre-order/
  [6]: https://www.mirrorlesstimes.com/2018/08/nikon-z6-and-z7-hands-on-preview-videos/
- [7]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [7]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

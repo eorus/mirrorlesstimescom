@@ -11,7 +11,7 @@ Here are the size, specs and price comparison of the **Canon R vs Nikon Z** full
 
 Although the main rival Nikon Z6 camera have a body only price tag of <a href="https://www.adorama.com/nkz6.html?kbid=68292" target="_blank" rel="noopener">$1,996.95</a>, Canon’s EOS R hits the shelves as <a href="https://www.adorama.com/car.html?kbid=68292" target="_blank" rel="noopener">$2,299</a> which is $300 higher. High resolution competitor Nikon Z7 is priced at <a href="https://www.adorama.com/nkz7.html?kbid=68292" target="_blank" rel="noopener">3,396.95</a>. There are some important feature differences between them. Physically, Nikon Z6 and Z7 cameras look identical and weigh the same.
 
-Let’s put together the features of <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> vs [Nikon Z6][1] vs [Nikon Z7][1] size and specs side by side.<!--more-->
+Let’s put together the features of <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> vs [Nikon Z6][1] vs [Nikon Z7][1] size and specs side by side.<!--more-->
 
 ## Canon R vs Nikon Z &#8211; Size Comparison
 
@@ -897,7 +897,7 @@ Size comparison from <a href="https://camerasize.com/compare/#799,794" target="
   </tr>
 </table>
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-z6/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-z6/
  [2]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/Canon-R-vs.-Nikon-Z-camera-comparison3.jpg?ssl=1
  [3]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/Canon-R-vs.-Nikon-Z-camera-comparison4.jpg?ssl=1
  [4]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/Canon-R-vs.-Nikon-Z-camera-comparison2.jpg?ssl=1

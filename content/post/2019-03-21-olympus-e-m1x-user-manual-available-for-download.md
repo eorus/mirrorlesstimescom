@@ -60,5 +60,5 @@ _Also join the <a class="ext-link" title="" href="https://www.facebook.com/grou
 
 &nbsp;
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1x/
- [2]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1x/
+ [2]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

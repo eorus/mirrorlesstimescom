@@ -21,7 +21,7 @@ tags:
 ---
 According to <a href="https://news.mapcamera.com/maptimes.php?itemid=31881" target="_blank" rel="nofollow noopener">Map Camera</a> reports, the Canon EOS R was the top selling camera in Japan for 2018.
 
-Yeah, it looks like things are getting pretty hot in the full frame of mirrorless cameras. When we look at the final ranking, the [Canon EOS R][1] seems to have peaked in Japan. Next, the <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/" target="_blank" rel="noopener">Sony A7 III</a> and Nikon Z6 are listed.
+Yeah, it looks like things are getting pretty hot in the full frame of mirrorless cameras. When we look at the final ranking, the [Canon EOS R][1] seems to have peaked in Japan. Next, the <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/" target="_blank" rel="noopener">Sony A7 III</a> and Nikon Z6 are listed.
 
 It was attracting attention as to how the [Nikon Z6][2] ranks in the November ranking, but although it is doing a good fight with 3rd place it seems that it did not go far beyond EOS R and α7 III.<!--more-->
 
@@ -40,7 +40,7 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 
 Read more [Canon mirrorless][4] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-eos-r/
- [2]: https://www.mirrorlesstimes.com/tag/nikon-z6/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-eos-r/
+ [2]: https://www.mirrorlesstimes.com/tags/nikon-z6/
  [3]: https://www.dailycameranews.com/2018/09/canon-eos-r-in-stock-availability-tracker/
- [4]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

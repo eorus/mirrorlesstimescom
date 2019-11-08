@@ -100,7 +100,7 @@ The Leica DG 200mm f/2.8 lens features a triple linear focus motor system with a
 
 Read more [Panasonic Mirrorless][4] news!
 
- [1]: https://www.mirrorlesstimes.com/tag/panasonic-g9/
+ [1]: https://www.mirrorlesstimes.com/tags/panasonic-g9/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/panasonic-g9-leica-dg-elmarit-200mm-f2-8-lens-officially-announced.jpg?ssl=1
  [3]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/panasonic-leica-dg-200mm-f2-8-telephoto-prime-lens.jpg?ssl=1
- [4]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless
+ [4]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless

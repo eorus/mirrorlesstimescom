@@ -70,7 +70,7 @@ The lens has a price tag around **$300**. <a href="http://www.amazon.com/gp/prod
 
 We have thus completed our list of the most **popular Micro Four Thirds lenses**. We hope these recommendations have helped you in the new purchasing phase. However, please do not hesitate to comment if you want to add.
 
- [1]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
+ [1]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2016/12/Olympus-12-40mm-f-2-8-Pro.jpg?ssl=1
  [3]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2016/12/Panasonic-Leica-Summilux-25mm-f-1-4.jpg?ssl=1
  [4]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2016/12/Panasonic-Lumix-20mm-f-1-7-II.jpg?ssl=1

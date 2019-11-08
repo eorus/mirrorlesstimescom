@@ -39,7 +39,7 @@ Join the <a href="https://www.facebook.com/groups/185572945112087/" target="_bl
 
 Read more [Canon mirrorless][4] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noreferrer noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-rf-35mm-f-1-8-m-is/
- [2]: https://www.mirrorlesstimes.com/tag/canon-full-frame-mirrorless-camera/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-rf-35mm-f-1-8-m-is/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-full-frame-mirrorless-camera/
  [3]: https://www.usa.canon.com/internet/portal/us/home/support/details/lenses/ef/macro/rf-35mm-f-1-8-macro-is-stm/rf-35mm-f1-8-macro-is-stm?tab=drivers_downloads
- [4]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

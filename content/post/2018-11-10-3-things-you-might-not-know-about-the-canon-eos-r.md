@@ -15,7 +15,7 @@ tags:
 
 ---
 <p class="p1">
-  <span class="s1"><a href="https://lensvid.com/" target="_blank" rel="noopener">LensVid</a> had an interview with Canon Europe exec at Photokina 2018. Here is a follow up video to the interview, with some information about the <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> you might have not known.</span>
+  <span class="s1"><a href="https://lensvid.com/" target="_blank" rel="noopener">LensVid</a> had an interview with Canon Europe exec at Photokina 2018. Here is a follow up video to the interview, with some information about the <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> you might have not known.</span>
 </p>
 
 <p class="p1">
@@ -35,4 +35,4 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 Read more [Canon mirrorless][2] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
  [1]: https://www.dailycameranews.com/2018/09/canon-eos-r-in-stock-availability-tracker/
- [2]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

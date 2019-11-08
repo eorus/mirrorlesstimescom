@@ -37,8 +37,8 @@ The camera sports **continuous shooting up to 11 fps** using its mechanical sh
 
 <a href="https://www.bestcameranews.com/sony-a6400-vs-canon-6d-mark-ii-autofocus-comparison/" rel="bookmark">Sony a6400 vs Canon 6D Mark II Autofocus Comparison</a>
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.bestcameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.bestcameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/1637646316495210/" target="_blank" rel="external nofollow noopener">Sony Camera Users</a> Facebook Group to share your Sony photography._
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a6400/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a6400/

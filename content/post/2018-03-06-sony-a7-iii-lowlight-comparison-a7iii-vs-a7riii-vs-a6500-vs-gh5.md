@@ -29,7 +29,7 @@ The Alpha A7 III (<a href="https://www.amazon.com/dp/B07B43WPVK/?tag=daicamnew-2
 
 Sony A7 III Lowlight Comparison video against the a7III vs a7RIII vs a6500 vs GH5 is tested by <a href="http://maxyuryev.com/" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external">Max Yuryev</a> see below.
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/03/sony-a7-iii-lowlight-comparison-a7iii-vs-a7riii-vs-a6500-vs-gh5-1-1.png?ssl=1
  [3]: https://www.dailycameranews.com/2018/03/sony-a7-iii-stock-availability-tracker/
  [4]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/03/sony-a7-iii-lowlight-comparison-a7iii-vs-a7riii-vs-a6500-vs-gh5.png?ssl=1

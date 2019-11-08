@@ -13,7 +13,7 @@ tags:
   - Sony Mirrorless
 
 ---
-According to recent reviews, the <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/" target="_blank" rel="noopener">Sony A7 III</a> full frame mirrorless camera has no star eater issue. Looks like Sony has resolved the problem.
+According to recent reviews, the <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/" target="_blank" rel="noopener">Sony A7 III</a> full frame mirrorless camera has no star eater issue. Looks like Sony has resolved the problem.
 
 The “Star Eater” problem is a form of software spatial filtering designed to reduce noise in photos, particularly hot pixels.
 
@@ -27,6 +27,6 @@ Alan Dyer said that the new Sony A7 III (<span class="s1"><strong>$1,998</stron
 
 Where to find Sony A7 III camera in stock? Here is an in [**stock / availability tracker for Sony A7 III**][1] mirrorless camera.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
  [1]: https://www.dailycameranews.com/2018/03/sony-a7-iii-stock-availability-tracker/

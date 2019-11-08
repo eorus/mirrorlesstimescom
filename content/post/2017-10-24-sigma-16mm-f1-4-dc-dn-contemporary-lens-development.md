@@ -20,7 +20,7 @@ Sigma officially announced the development of the new [**16mm F1.4 DC DN**][1] C
 
 The release date and price information to be determined later. The lens hood will be available as an accessory (LH716-01).
 
-The Sigma 16mm F1.4 DC DN Contemporary lens would be the second budget-friendly fast aperture optic after the 30mm version. We expect the price will stand around <a href="http://amzn.to/1VVhrx1" rel="nofollow"><strong>$399</strong></a> just like the **<a href="https://www.mirrorlesstimes.com/tag/sigma-30mm-f-1-4-dc-dn/" target="_blank" rel="follow noopener">30mm F1.4 DC DN</a>.**<!--more-->
+The Sigma 16mm F1.4 DC DN Contemporary lens would be the second budget-friendly fast aperture optic after the 30mm version. We expect the price will stand around <a href="http://amzn.to/1VVhrx1" rel="nofollow"><strong>$399</strong></a> just like the **<a href="https://www.mirrorlesstimes.com/tags/sigma-30mm-f-1-4-dc-dn/" target="_blank" rel="follow noopener">30mm F1.4 DC DN</a>.**<!--more-->
 
 ## Development of SIGMA 16mm F1.4 DC DN | Contemporary
 
@@ -44,9 +44,9 @@ Additional information can be found <a href="https://www.sigma-global.com/jp/le
 
 _Join the new <a href="https://www.facebook.com/groups/1637646316495210/" target="_blank" rel="nofollow noopener noreferrer">Sony Camera Users Facebook Group</a>. _
 
-Check out <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Check out <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
- [1]: https://www.mirrorlesstimes.com/tag/sigma-16mm-f-1-4-dc-dn/
+ [1]: https://www.mirrorlesstimes.com/tags/sigma-16mm-f-1-4-dc-dn/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/10/Sigma-16mm-f1.4-DC-DN-Contemporary-lens-1.jpg?ssl=1
  [3]: https://www.dailycameranews.com/2016/11/best-sony-a6500-lenses/
  [4]: https://www.dailycameranews.com/2017/02/best-olympus-om-d-e-m1-mark-ii-lenses/

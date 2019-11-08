@@ -38,4 +38,4 @@ via <a title="" href="http://www.43rumors.com/ft5-panasonic-gh5-price-is-the-sa
 
  [1]: https://www.mirrorlesstimes.com/2016/09/panasonic-gh5-development/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2016/11/panasonic-gh5-price.jpg?ssl=1
- [3]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
+ [3]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/

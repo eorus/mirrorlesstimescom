@@ -43,9 +43,9 @@ The 36 MP sensor may get used in Sony A7S III or possibly in Sony A9 II. Howeve
   * 60FPS @ 10-bit
   * On-chip phase-detection autofocus (PDAF)
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 <a href="https://goo.gl/Hptn9W" target="_blank" rel="noopener">Source</a> via <a href="https://www.dailycameranews.com/2018/11/next-sony-full-frame-sensor-to-offer-60mp-8k-16-bit-raw/" target="_blank" rel="noopener">DCN</a>
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7s-iii/
- [2]: https://www.mirrorlesstimes.com/tag/panasonic-full-frame-mirrorless-camera/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7s-iii/
+ [2]: https://www.mirrorlesstimes.com/tags/panasonic-full-frame-mirrorless-camera/

@@ -14,7 +14,7 @@ tags:
   - Panasonic Mirrorless
 
 ---
-Here are the first <a href="https://www.mirrorlesstimes.com/tag/panasonic-g9/" target="_blank" rel="noopener">Panasonic G9</a> Reviews and Hands-on Videos.
+Here are the first <a href="https://www.mirrorlesstimes.com/tags/panasonic-g9/" target="_blank" rel="noopener">Panasonic G9</a> Reviews and Hands-on Videos.
 
 Panasonic announced a brand-new flagship camera to sit alongside their GH5, the new LUMIX G9. The G9 is all about the still photography, claiming the world’s fast autofocus, world’s highest frames per second with continuous autofocus, a new 80-megapixel image-synthesizing option, a new AR filter on the sensor to provide better skin tones than ever and a whole lot more.
 
@@ -91,4 +91,4 @@ Read more [Panasonic Mirrorless][3] news!
 
  [1]: https://www.mirrorlesstimes.com/2017/11/panasonic-g9-leica-dg-elmarit-200mm-f2-8-lens-officially-announced/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/panasonic-g9-leica-dg-elmarit-200mm-f2-8-lens-officially-announced.jpg?ssl=1
- [3]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless
+ [3]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless

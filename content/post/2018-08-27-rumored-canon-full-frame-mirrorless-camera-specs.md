@@ -16,11 +16,11 @@ tags:
 
 ---
 <p class="single-post-title entry-title">
-  First rumored Canon full frame mirrorless camera specs has been leaked online. At first for those who are desperately waiting <a href="https://www.mirrorlesstimes.com/tag/canon-full-frame-mirrorless-camera/">Canon full frame mirrorless camera</a>, the rumor mill suggests that the company will hold a major product announcement on <strong>September 4-5</strong>.
+  First rumored Canon full frame mirrorless camera specs has been leaked online. At first for those who are desperately waiting <a href="https://www.mirrorlesstimes.com/tags/canon-full-frame-mirrorless-camera/">Canon full frame mirrorless camera</a>, the rumor mill suggests that the company will hold a major product announcement on <strong>September 4-5</strong>.
 </p>
 
 <p class="single-post-title entry-title">
-  There will be a product about “mirrorless” but it’s unclear if it will be a new lens, EOS-M line model or the big full frame mirrorless camera. The rumored Canon full frame mirrorless camera specs below are more about to compete with <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/">Sony a7 III</a> and sure the new <a href="https://www.mirrorlesstimes.com/tag/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a>. Check it out!<!--more-->
+  There will be a product about “mirrorless” but it’s unclear if it will be a new lens, EOS-M line model or the big full frame mirrorless camera. The rumored Canon full frame mirrorless camera specs below are more about to compete with <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/">Sony a7 III</a> and sure the new <a href="https://www.mirrorlesstimes.com/tags/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a>. Check it out!<!--more-->
 </p>
 
 ## First rumored Canon Full Frame mirrorless specs
@@ -39,4 +39,4 @@ Read more [Canon mirrorless][1] and <a href="https://www.dailycameranews.com/
 
 via <a href="https://www.canonwatch.com/some-new-canon-full-frame-mirrorless-camera-talk-28mp-1900-ibis/" target="_blank" rel="nofollow noopener">CW</a>
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

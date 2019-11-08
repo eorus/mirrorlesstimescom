@@ -14,7 +14,7 @@ tags:
   - Review
 
 ---
-ePhotozine completed their in-depth <a href="https://www.mirrorlesstimes.com/tag/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a> review. They rated the Nikon&#8217;s full frame MILC 4.5 out of 5 stars. The camera delivers great image quality, with excellent noise performance.
+ePhotozine completed their in-depth <a href="https://www.mirrorlesstimes.com/tags/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a> review. They rated the Nikon&#8217;s full frame MILC 4.5 out of 5 stars. The camera delivers great image quality, with excellent noise performance.
 
 The _Nikon Z6_ is the high-speed, low-light version of the Z7. The full-frame mirrorless camera aimed at enthusiasts, featuring 24 Megapixels, built-in stabilisation, 273 embedded AF points.
 
@@ -38,5 +38,5 @@ Read more [Nikon Mirrorless][1] and <a href="https://www.dailycameranews.com/
 
 Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868201466609763/" target="_blank" rel="external nofollow noopener"><strong>Nikon Camera Users Group</strong></a> to share your Nikon photography, ask and answer questions that arise and help each others!
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/
  [2]: https://www.dailycameranews.com/2018/11/best-photography-black-friday-deals-2018/

@@ -111,4 +111,4 @@ Availability
 
 All 12 new lenses will make its Europe debut in Venus Optics’ booth (Hall 2.1, D-040) in Photokina, Cologne during 26th-29th Sept. Pricing and ship date are to be confirmed.
 
- [1]: https://www.mirrorlesstimes.com/tag/photokina-2018/
+ [1]: https://www.mirrorlesstimes.com/tags/photokina-2018/

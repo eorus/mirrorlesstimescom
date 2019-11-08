@@ -15,7 +15,7 @@ tags:
 ---
 In an recent interview at Dpreview with Sony Kenji Tanaka, VP and Senior General Manager of Sony’s Business Unit, several hints are coming that the upcoming **Sony A7S III camera will have the 4K/60p, 4:2:2 10-bit** and better battery life.
 
-The company did not announce the [long-waited A7S III][1] full frame MILC or a new APS-C mirrorless camera before, during or after the Photokina 2018 event. Now it is almost confirmed that a <a href="https://www.dailycameranews.com/tag/sony-a6700/" target="_blank" rel="noopener">new APS-C mirrorless camera</a> will be announced at CP+ 2019 that will take place by the end of February. Good news is that the <a href="https://www.mirrorlesstimes.com/tag/sony-a7s-iii/" target="_blank" rel="noopener">Sony a7S III is also coming</a> but it will take time. More on the interview notes are as follows :<!--more-->
+The company did not announce the [long-waited A7S III][1] full frame MILC or a new APS-C mirrorless camera before, during or after the Photokina 2018 event. Now it is almost confirmed that a <a href="https://www.dailycameranews.com/tag/sony-a6700/" target="_blank" rel="noopener">new APS-C mirrorless camera</a> will be announced at CP+ 2019 that will take place by the end of February. Good news is that the <a href="https://www.mirrorlesstimes.com/tags/sony-a7s-iii/" target="_blank" rel="noopener">Sony a7S III is also coming</a> but it will take time. More on the interview notes are as follows :<!--more-->
 
 <p class="p1">
   <span class="s1"><b>1. Sony a7S III is coming but it will take a lot of work and time.</b></span>
@@ -93,12 +93,12 @@ $200 off on Sony a7S II: $2,198 at <a class="ext-link" title="" href="https:/
 
 $500 off on Sony a9: $3,998 at <a class="ext-link" title="" href="https://www.amazon.com/Sony-Mirrorless-Interchangeable-Lens-Camera-ILCE9/dp/B06ZY7GNKN/?tag=daicamnew-20" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external" data-amzn-asin="B06ZY7GNKN">Amazon</a>, <a class="ext-link" title="" href="https://www.bhphotovideo.com/c/product/1333228-REG/sony_ilce_9_b_alpha_a9_mirrorless_digital.html/BI/20175/KBID/14249/" target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external">B&H</a>, <a class="ext-link broken_link" title="" href="https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/isoa9.html" target="_blank" rel="noopener nofollow external noreferrer">Adorama</a>.<span id="more-2502"></span>
 
-In addition, the <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/" target="_blank" rel="noopener">Sony a7 III</a> mirrorless camera is now in stock at major US stores:
+In addition, the <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/" target="_blank" rel="noopener">Sony a7 III</a> mirrorless camera is now in stock at major US stores:
 
 Sony a7 III body: $1,998 at <a class="ext-link" title="" href="https://www.amazon.com/Sony-Full-Frame-Mirrorless-Interchangeable-Lens-ILCE7M3/dp/B07B43WPVK/?tag=daicamnew-20" target="_blank" rel="noopener external noreferrer nofollow" data-amzn-asin="B07B43WPVK" data-wpel-link="external">Amazon</a>, <a class="ext-link" title="" href="https://www.bhphotovideo.com/c/product/1394217-REG/sony_ilce_7m3_alpha_a7_iii_mirrorless.html/BI/20175/KBID/14249/" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external">B&H</a>, <a class="ext-link broken_link" title="" href="https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/isoa7m3.html" target="_blank" rel="noopener external noreferrer nofollow">Adorama</a>.
 
 $200 off on Sony a7R III: $2,998 at <a class="ext-link" title="" href="https://www.amazon.com/Sony-42-4MP-Full-frame-Mirrorless-Interchangeable-Lens/dp/B076TGDHPT/?tag=daicamnew-20" target="_blank" rel="noopener external noreferrer nofollow" data-amzn-asin="B076TGDHPT" data-wpel-link="external">Amazon</a>, <a class="ext-link" title="" href="https://www.bhphotovideo.com/c/product/1369441-REG/sony_ilce7rm2_b_alpha_a7r_iii_mirrorless.html/BI/20175/KBID/14249/" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external">B&H</a>, <a class="ext-link broken_link" title="" href="http://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/isoa7r3.html" target="_blank" rel="noopener external noreferrer nofollow">Adorama</a>.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7s-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7s-iii/

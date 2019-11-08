@@ -34,8 +34,8 @@ The initial IBIS improvement videos for the Fujifilm X-H1 and the X-T3 HDR Hybri
 
 Read more [Fujifilm Mirrorless][5] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/
  [3]: https://www.dailycameranews.com/2018/09/fujifilm-x-t3-in-stock-and-shipping-in-the-us/
  [4]: https://www.mirrorlesstimes.com/2018/09/fujifilm-x-t3-in-stock-availability-tracker/
- [5]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

@@ -34,6 +34,6 @@ We may expect the long-rumored [E-M1 Mark II][2] camera and [M.Zuiko 25mm f/1.
 
 If the <a href="http://www.43rumors.com/ft4-olympus-will-announce-a-new-30mm-macro-lens/" target="_blank" rel="external nofollow">rumored</a> **Olympus 30mm macro** lens becomes available in the market then it will be the second macro model after the 60mm f/2.8. The optic will be compatible with Micro Four Thirds system cameras.
 
- [1]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
+ [1]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/
  [2]: https://www.mirrorlesstimes.com/2016/04/olympus-e-m1-mark-ii-announcement/
  [3]: https://www.mirrorlesstimes.com/2016/04/olympus-25mm-f1-2-lens-rumored-released-mid-2016/

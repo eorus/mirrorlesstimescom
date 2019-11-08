@@ -13,7 +13,7 @@ tags:
   - Rumors
 
 ---
-<a href="https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1x/" data-wpel-link="internal">Olympus E-M1X</a> camera spotted in the hands of a professional photographer <a class="external external_icon" href="https://www.youtube.com/user/JaredPolin" target="_blank" rel="noopener">Jared Polin.</a> We are unable to read the lens attached to the camera. But the lens also seems to be a new one and could be the rumored <a href="https://www.dailycameranews.com/2018/12/olympus-150-400mm-f-4-0-pro-lens-registered-coming-in-early-2019/" target="_blank" rel="noopener">new Olympus telephoto lens</a>.
+<a href="https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1x/" data-wpel-link="internal">Olympus E-M1X</a> camera spotted in the hands of a professional photographer <a class="external external_icon" href="https://www.youtube.com/user/JaredPolin" target="_blank" rel="noopener">Jared Polin.</a> We are unable to read the lens attached to the camera. But the lens also seems to be a new one and could be the rumored <a href="https://www.dailycameranews.com/2018/12/olympus-150-400mm-f-4-0-pro-lens-registered-coming-in-early-2019/" target="_blank" rel="noopener">new Olympus telephoto lens</a>.
 
 If you are wondering why we think this Olympus camera is the OM-D E-M1X, you can check out the [first images and features list for the OM-D E-M1X.][1]
 
@@ -39,4 +39,4 @@ Stay tuned with us for more information. Read more [Olympus Mirrorless][2] ne
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/858035244291979/" target="_blank" rel="external nofollow noopener">Olympus Camera Users</a> Facebook Group to share your Olympus photography._
 
  [1]: https://www.dailycameranews.com/2018/12/first-olympus-e-m1x-images-leaked/
- [2]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

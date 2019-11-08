@@ -16,7 +16,7 @@ tags:
   - Review
 
 ---
-**10 Things You Didn’t Know About the Panasonic S1 and S1R**. As you know at Photokina 2018, Panasonic announced the development of two full frame mirrorless cameras: the <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1r/" target="_blank" rel="noopener">47MP S1R</a> and the <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1/" target="_blank" rel="noopener">24MP S1</a>. Both will be built on Leica L mount. The company says the &#8216;S&#8217; represents cameras that are &#8216;Specialized&#8217; for professionals.
+**10 Things You Didn’t Know About the Panasonic S1 and S1R**. As you know at Photokina 2018, Panasonic announced the development of two full frame mirrorless cameras: the <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1r/" target="_blank" rel="noopener">47MP S1R</a> and the <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1/" target="_blank" rel="noopener">24MP S1</a>. Both will be built on Leica L mount. The company says the &#8216;S&#8217; represents cameras that are &#8216;Specialized&#8217; for professionals.
 
 According to Panasonic, 24MP S1 is expected to be used around 70% for stills and 30% for video for wedding photographers and photojournalists. The S1R will be purely for photographers who shot landscape, commercial and portrait.
 
@@ -30,5 +30,5 @@ Read more [Panasonic Mirrorless][1] and [Panasonic Rumors][2].
 
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/1613303922265409/" target="_blank" rel="external nofollow noopener">Mirrorless Camera Users</a> Facebook Group to share your Panasonic photography._
 
- [1]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [1]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [2]: https://www.dailycameranews.com/tag/panasonic-rumors/

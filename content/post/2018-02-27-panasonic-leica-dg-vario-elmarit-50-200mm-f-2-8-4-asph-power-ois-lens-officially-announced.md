@@ -68,8 +68,8 @@ The LEICA DG VARIO-ELMARIT F2.8-4.0 Series covers from 16 to 400mm (35mm camera 
   * LEICA DG VARIO-ELMARIT 12-60mm/F2.8-4.0 ASPH. (H-ES12060)
   * LEICA DG VARIO-ELMARIT 50-200mm / F2.8-4.0 ASPH. (H-ES50200).
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> and <a href="https://www.dailycameranews.com/tag/panasonic-rumors/" target="_blank" rel="noopener">Panasonic Rumors</a>!
+Read more <a href="https://www.mirrorlesstimes.com/tags/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> and <a href="https://www.dailycameranews.com/tag/panasonic-rumors/" target="_blank" rel="noopener">Panasonic Rumors</a>!
 
- [1]: https://www.mirrorlesstimes.com/tag/leica-dg-vario-elmarit-50-200mm-f-2-8-4-asph-power-ois/
- [2]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
+ [1]: https://www.mirrorlesstimes.com/tags/leica-dg-vario-elmarit-50-200mm-f-2-8-4-asph-power-ois/
+ [2]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/
  [3]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/02/panasonic-leica-dg-vario-elmarit-50-200mm-f-2-8-4-asph-power-ois-lens-officially-announced.png?ssl=1

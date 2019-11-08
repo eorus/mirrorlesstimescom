@@ -21,11 +21,11 @@ tags:
 ---
 [Panasonic][1] will hold a major press event on **January 31th**. The company will unveil full specs of the S1R and the S1 full-frame mirrorless cameras as well as new S-series lens on that day.
 
-At CES 2019 Panasonic has announced that the <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1r/" target="_blank" rel="noopener">47MP S1R</a> and the <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1/" target="_blank" rel="noopener">24MP S1</a> full-frame mirrorless cameras will **start shipping by the end of March**. The company also [unveiled some new features][2] that will be offered on both cameras. Here are all the specs of <a href="https://www.bestcameranews.com/what-we-know-so-far-about-panasonic-s1-and-panasonic-s1r/" target="_blank" rel="noopener">what we know about Panasonic S1 & S1R & S lenses</a> so far.<!--more-->
+At CES 2019 Panasonic has announced that the <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1r/" target="_blank" rel="noopener">47MP S1R</a> and the <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1/" target="_blank" rel="noopener">24MP S1</a> full-frame mirrorless cameras will **start shipping by the end of March**. The company also [unveiled some new features][2] that will be offered on both cameras. Here are all the specs of <a href="https://www.bestcameranews.com/what-we-know-so-far-about-panasonic-s1-and-panasonic-s1r/" target="_blank" rel="noopener">what we know about Panasonic S1 & S1R & S lenses</a> so far.<!--more-->
 
 ## Panasonic Lumix S1:
 
-  * 24MP full frame Sensor (Could be Same Sensor on <a href="https://www.mirrorlesstimes.com/tag/nikon-z6/" data-wpel-link="exclude">Nikon Z6</a> & <a href="https://www.bestcameranews.com/tag/sony-a7-iii/" data-wpel-link="exclude">Sony a7 III</a>)
+  * 24MP full frame Sensor (Could be Same Sensor on <a href="https://www.mirrorlesstimes.com/tags/nikon-z6/" data-wpel-link="exclude">Nikon Z6</a> & <a href="https://www.bestcameranews.com/tag/sony-a7-iii/" data-wpel-link="exclude">Sony a7 III</a>)
   * 4K 60p/50p video recording
   * Dual I.S. image stabilization
   * Contrast AF (DFD technology)
@@ -49,7 +49,7 @@ At CES 2019 Panasonic has announced that the <a href="https://www.mirrorlesstim
 
 ## Panasonic Lumix S1R:
 
-  * 47MP full frame Sensor (Could be Same Sensor on <a href="https://www.mirrorlesstimes.com/tag/nikon-z7/" data-wpel-link="exclude">Nikon Z7</a> & <a href="https://www.dailycameranews.com/tag/sony-a7r-iii/" data-wpel-link="exclude">Sony a7R III</a>)
+  * 47MP full frame Sensor (Could be Same Sensor on <a href="https://www.mirrorlesstimes.com/tags/nikon-z7/" data-wpel-link="exclude">Nikon Z7</a> & <a href="https://www.dailycameranews.com/tag/sony-a7r-iii/" data-wpel-link="exclude">Sony a7R III</a>)
   * 4K 60p/50p video recording
   * Dual I.S. image stabilization
   * Contrast AF (DFD technology)
@@ -83,5 +83,5 @@ via <a href="https://www.dailycameranews.com/2019/01/panasonic-s1-s1r-s-series-
 
  [1]: https://www.bestcameranews.com/panasonic/
  [2]: https://www.mirrorlesstimes.com/2019/01/panasonic-s1-s1r-key-functions-announced-at-ces-2019/
- [3]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [3]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [4]: https://www.bestcameranews.com/tag/panasonic-rumors/

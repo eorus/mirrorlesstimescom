@@ -21,7 +21,7 @@ Three existing autofocus lenses are the <a href="https://aax-us-east.amazon-ads
 
 The Samyang AF 24mm f/2.8 FE wide-angle prime lens for full-frame Sony E-mount cameras to be announced soon in June.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 via [DCN][2]
 

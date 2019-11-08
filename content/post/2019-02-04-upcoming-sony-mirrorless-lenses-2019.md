@@ -52,7 +52,7 @@ In this section we have the 200-600mm lens which is rumored to arrive in 2019. T
   * FE 200-600mm f/5.6-6.3 G
   * Something APS-C E-mount
 
-Stay tuned with us and read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.bestcameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Stay tuned with us and read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.bestcameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/1637646316495210/" target="_blank" rel="external nofollow noopener">Sony Camera Users</a> Facebook Group to share your Sony photography._
 

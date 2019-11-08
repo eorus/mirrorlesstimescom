@@ -63,8 +63,8 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868
 
 Read more [Nikon mirrorless][5] and  <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>. See <a href="https://www.dailycameranews.com/2018/04/what-to-expect-from-nikon-in-2018/" rel="bookmark">What to Expect from Nikon in 2018</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-full-frame-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-full-frame-mirrorless/
  [2]: https://www.dailycameranews.com/tag/photokina-2018/
  [3]: https://www.dailycameranews.com/tag/nikon-full-frame-mirrorless-camera/
  [4]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/07/Nikon-full-mirrorless-camera-teaser.jpg?ssl=1
- [5]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

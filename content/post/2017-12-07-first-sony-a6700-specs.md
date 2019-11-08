@@ -31,7 +31,7 @@ The current S-Log3 gamma also to offer 16-stop wide dynamic range & 26bit+ Color
 
 The A6500 had an awful battery life. It&#8217;s rated 310 shots via viewfinder shooting and 350 with the LCD. The A6700 specs list expects **improvements on the battery life**. Finally the mirrorless camera would offers **global shutter with dual SD card slots**.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> new and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> new and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
 via <a href="https://www.dailycameranews.com/2017/11/expect-sony-a6700-camera/" target="_blank" rel="noopener">DCN</a>
 

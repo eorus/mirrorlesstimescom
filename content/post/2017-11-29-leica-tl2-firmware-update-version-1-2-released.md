@@ -18,7 +18,7 @@ Leica released <a href="https://us.leica-camera.com/Service-Support/Support/Dow
 
 This new firmware adds support for the new compact prime <a href="https://www.mirrorlesstimes.com/2017/11/leica-cl-camera-elmarit-tl-18mm-f2-8-asph-lens-announced/" target="_blank" rel="noopener">Elmarit-TL 18 f/2.8 ASPH</a> lens. The new optic consists of 8 elements (4 of which are aspherical,) a minimum focus distance of 30cm and a light weight of only 80g.
 
-The new Leica Elmarit-TL 18 mm f/2.8 ASPH, in black or silver anodized finish, will be $1,295.00. <span class="s1">You can pre-order <a href="https://www.mirrorlesstimes.com/tag/leica-cl"><strong>Leica CL</strong></a>. at <a href="http://amzn.to/2zWLFOy" target="_blank" rel="noopener">Amazon</a>, <a href="https://www.bhphotovideo.com/c/search?InitialSearch=yes&N=0&Ntt=leica+cl&Top+Nav-Search=&BI=20175&KBID=14249">B&H Photo Video</a> & <a href="http://adorama.evyy.net/c/63923/51926/1036?u=https%3A%2F%2Fwww.adorama.com%2Fl%2F%3Fsearchinfo%3Dleica%C2%A0cl">Adorama.com</a>. </span><!--more-->
+The new Leica Elmarit-TL 18 mm f/2.8 ASPH, in black or silver anodized finish, will be $1,295.00. <span class="s1">You can pre-order <a href="https://www.mirrorlesstimes.com/tags/leica-cl"><strong>Leica CL</strong></a>. at <a href="http://amzn.to/2zWLFOy" target="_blank" rel="noopener">Amazon</a>, <a href="https://www.bhphotovideo.com/c/search?InitialSearch=yes&N=0&Ntt=leica+cl&Top+Nav-Search=&BI=20175&KBID=14249">B&H Photo Video</a> & <a href="http://adorama.evyy.net/c/63923/51926/1036?u=https%3A%2F%2Fwww.adorama.com%2Fl%2F%3Fsearchinfo%3Dleica%C2%A0cl">Adorama.com</a>. </span><!--more-->
 
 ## Leica TL2 Firmware Update Version 1.2 Now Available
 
@@ -38,4 +38,4 @@ Firmware update rocedure:
 Read more [Leica Mirrorless][2] news / talk.
 
  [1]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/leica-tl2-firmware-update-version-1-2-released.jpg?ssl=1
- [2]: https://www.mirrorlesstimes.com/tag/leica-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/leica-mirrorless/

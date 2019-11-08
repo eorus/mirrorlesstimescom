@@ -196,7 +196,7 @@ From <a title="" href="https://www.dpreview.com/articles/3389926460/sony-a7-iii
 > 
 > The a7 III offers great image quality performance at an affordable price point. That said, it’s not image quality that sets this camera apart from its contemporaries but, rather, its significant other capabilities like autofocus, silent shooting, video and a number of other things we’ll be delving into in our full review.
 > 
-> Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+> Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
  [2]: https://www.dailycameranews.com/2018/03/sony-a7-iii-stock-availability-tracker/

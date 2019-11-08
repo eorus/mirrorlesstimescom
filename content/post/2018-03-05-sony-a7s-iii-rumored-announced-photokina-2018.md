@@ -39,8 +39,8 @@ The official announcement of the Sony A7S III is expected to happen at **Photok
 
 Stay tuned with us for more information.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7s-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7s-iii/
  [2]: https://aax-us-east.amazon-adsystem.com/x/c/QmE_9mJ27JH4Jbb4wDEmVJoAAAFh9QIjcwEAAAFKAYEv1Y0/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Sony-ILCE7SM2-mount-Camera-Full-Frame/dp/B0158SRJVQ/ref=as_at?creativeASIN=B0158SRJVQ&linkCode=w61&imprToken=7DtusmJhcCKbCJZpavSzbQ&slotNum=0&tag=daicamnew-20
  [3]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/04/sony-a7siii-rumors.jpg?ssl=1

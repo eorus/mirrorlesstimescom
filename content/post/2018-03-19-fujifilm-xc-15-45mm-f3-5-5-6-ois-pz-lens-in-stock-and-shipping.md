@@ -136,7 +136,7 @@ The Fujinon XC 15-45mm f/3.5-5.6 OIS PZ lens is available now in a choice of bl
 
 Read more [Fujifilm Mirrorless][4] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujinon-xc-15-45mm-f3-5-5-6-ois-pz/
+ [1]: https://www.mirrorlesstimes.com/tags/fujinon-xc-15-45mm-f3-5-5-6-ois-pz/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/03/fujifilm-xc-15-45mm-f3-5-5-6-ois-pz-lens-in-stock-and-shipping.jpg?ssl=1
  [3]: https://www.amazon.com/Fujinon-XC15-45mmF3-5-5-6-OIS-PZ-Lens/dp/B079BRLDF7/?tag=mirrorlesst-20
- [4]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

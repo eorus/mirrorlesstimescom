@@ -14,7 +14,7 @@ tags:
   - Sigma 70mm f/2.8 DG Macro Art
 
 ---
-Excellent news!! <a href="https://www.mirrorlesstimes.com/category/sigma/" target="_blank" rel="noopener">Sigma</a> announced the US price and release date of <a href="https://www.mirrorlesstimes.com/tag/sigma-70mm-f-2-8-dg-macro-art/" target="_blank" rel="noopener">Sigma 70mm f/2.8 DG MACRO Art</a> lens. The price for the bright macro optic is $569.00 and now available for pre-order.
+Excellent news!! <a href="https://www.mirrorlesstimes.com/category/sigma/" target="_blank" rel="noopener">Sigma</a> announced the US price and release date of <a href="https://www.mirrorlesstimes.com/tags/sigma-70mm-f-2-8-dg-macro-art/" target="_blank" rel="noopener">Sigma 70mm f/2.8 DG MACRO Art</a> lens. The price for the bright macro optic is $569.00 and now available for pre-order.
 
 The dust- and splash-resistant Sigma [lens][1] will be available for [Sony E-mount][2] cameras as well as Canon EF, Nikon F mount DSLRs. Check out the major stores below.
 
@@ -62,5 +62,5 @@ Read more <a href="https://www.dailycameranews.com/tag/sigma-rumors/" target="_
 
 &nbsp;
 
- [1]: https://www.mirrorlesstimes.com/tag/lens/
+ [1]: https://www.mirrorlesstimes.com/tags/lens/
  [2]: https://www.dailycameranews.com/2017/03/best-sony-full-frame-e-mount-lenses/

@@ -71,4 +71,4 @@ Read more [Fujifilm Mirrorless][3] news and <a href="https://www.dailycameran
 
  [1]: https://www.mirrorlesstimes.com/category/fujifilm/
  [2]: https://www.dailycameranews.com/2017/11/fujifilm-releases-new-x-raw-studio-conversion-system/
- [3]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

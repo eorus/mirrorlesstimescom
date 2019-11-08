@@ -14,7 +14,7 @@ tags:
   - Review
 
 ---
-<a class="ext-link" title="" href="https://www.lensrentals.com/blog/2018/10/teardown-of-the-nikon-z7-mirrorless-camera/" target="_blank" rel="noopener external nofollow">LensRentals</a> published the <a href="https://www.mirrorlesstimes.com/tag/nikon-z7/" target="_blank" rel="noopener">Nikon Z7</a> teardown claiming the Nikon Z7 “is a damn well-built camera, the best built mirrorless full-frame camera we’ve taken apart.”
+<a class="ext-link" title="" href="https://www.lensrentals.com/blog/2018/10/teardown-of-the-nikon-z7-mirrorless-camera/" target="_blank" rel="noopener external nofollow">LensRentals</a> published the <a href="https://www.mirrorlesstimes.com/tags/nikon-z7/" target="_blank" rel="noopener">Nikon Z7</a> teardown claiming the Nikon Z7 “is a damn well-built camera, the best built mirrorless full-frame camera we’ve taken apart.”
 
 High-resolution Nikon Z7 full frame mirrorless camera is now shipping from several stores in the US . The camera body-only priced at **$3,399**. Check at <a href="https://www.amazon.com/Nikon-FX-Format-Mirrorless-Camera-24-70mm/dp/B07GQT5743/?tag=daicamnew-20" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external" data-amzn-asin="B07GQT5743">Amazon</a> | <a href="https://www.bhphotovideo.com/c/search?InitialSearch=yes&N=0&Ntt=Nikon+Z7&Top+Nav-Search=&sts=ma&BI=20175&KBID=14249" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">B&H Photo</a> | <a class="broken_link" href="https://adorama.evyy.net/c/63923/51926/1036?u=https%3A%2F%2Fwww.adorama.com%2Fl%2F%3Fsearchinfo%3DNikon%2BZ7" target="_blank" rel="nofollow external noopener noreferrer">Adorama</a>.<!--more-->
 
@@ -30,5 +30,5 @@ Conclusion from <a class="ext-link" title="" href="https://www.lensrentals.com/
 
 Read more [Nikon Mirrorless][1] and <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>. For more details on availability see this [Nikon Z7 in stock tracker][2].
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/
  [2]: https://www.dailycameranews.com/2018/09/nikon-z7-in-stock-availability-tracker/

@@ -20,7 +20,7 @@ tags:
 
 ---
 <p class="p1">
-  <span class="s1"><a href="https://www.youtube.com/channel/UCDkJEEIifDzR_2K2p9tnwYQ">Tony & Chelsea Northrup</a> has published the <a href="https://www.mirrorlesstimes.com/tag/nikon-z6/">Nikon Z6</a> image quality and dynamic range review, and he compared it with other three latest full frame <a href="https://www.dailycameranews.com/2017/06/best-mirrorless-cameras-2017/">mirrorless cameras</a>: <a href="https://www.mirrorlesstimes.com/tag/nikon-z7/">Nikon Z7</a>, <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/">Canon EOS R</a> and <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/">Sony a7 III</a>. Check out the video below. </span>
+  <span class="s1"><a href="https://www.youtube.com/channel/UCDkJEEIifDzR_2K2p9tnwYQ">Tony & Chelsea Northrup</a> has published the <a href="https://www.mirrorlesstimes.com/tags/nikon-z6/">Nikon Z6</a> image quality and dynamic range review, and he compared it with other three latest full frame <a href="https://www.dailycameranews.com/2017/06/best-mirrorless-cameras-2017/">mirrorless cameras</a>: <a href="https://www.mirrorlesstimes.com/tags/nikon-z7/">Nikon Z7</a>, <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/">Canon EOS R</a> and <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/">Sony a7 III</a>. Check out the video below. </span>
 </p>
 
 The _Nikon Z6_ is the high-speed, low-light version of the Z7. The full-frame mirrorless camera aimed at enthusiasts, featuring 24 Megapixels, built-in stabilisation, 273 embedded AF points.
@@ -34,4 +34,4 @@ The _Nikon Z6_ is the high-speed, low-light version of the Z7. The full-frame 
 
 Read more [Nikon Mirrorless][1] and <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>. For more details on availability see this <a href="https://www.dailycameranews.com/2018/09/nikon-z6-in-stock-availability-tracker/" target="_blank" rel="noopener">Nikon Z6 in stock tracker</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

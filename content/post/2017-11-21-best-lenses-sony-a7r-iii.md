@@ -1135,5 +1135,5 @@ Read more [Sony Mirrorless][18] talk / news.
  [14]: #13
  [15]: #14
  [16]: #15
- [17]: https://www.mirrorlesstimes.com/tag/sony-a7r-iii/
- [18]: https://www.mirrorlesstimes.com/tag/sony-mirrorless/
+ [17]: https://www.mirrorlesstimes.com/tags/sony-a7r-iii/
+ [18]: https://www.mirrorlesstimes.com/tags/sony-mirrorless/

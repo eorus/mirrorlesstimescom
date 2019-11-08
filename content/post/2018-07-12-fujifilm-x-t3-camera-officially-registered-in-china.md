@@ -41,9 +41,9 @@ Read more [Fujifilm Mirrorless][6] news and <a href="https://www.dailycameran
 
 via <a href="https://www.nokishita-camera.com/2018/07/x-t3.html" target="_blank" rel="noopener">NO</a>
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/
- [2]: https://www.mirrorlesstimes.com/tag/photokina-2018/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/
+ [2]: https://www.mirrorlesstimes.com/tags/photokina-2018/
  [3]: https://www.mirrorlesstimes.com/2018/04/fujifilm-x-t3-camera-to-feature-26mp-stacked-sensor/
  [4]: https://www.dailycameranews.com/tag/fujifilm-xf10/
  [5]: https://www.mirrorlesstimes.com/2017/12/fujifilm-x-t3-x-h1-x-t100-xf10-gfx-50r-gfx-100s-rumors-recap/
- [6]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [6]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

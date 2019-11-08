@@ -31,8 +31,8 @@ The _Nikon Z6_ is the high-speed, low-light version of the Z7. The full-frame 
 
 Read more [Nikon Mirrorless][5] and <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>. For more details on availability see this <a href="https://www.dailycameranews.com/2018/09/nikon-z6-in-stock-availability-tracker/" target="_blank" rel="noopener">Nikon Z6 in stock tracker</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-z6/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-z6/
  [2]: https://www.dailycameranews.com/2018/11/nikon-z6-in-stock-and-shipping/
  [3]: https://www.bhphotovideo.com/c/product/1431706-REG/nikon_1595_z6_mirrorless_digital_camera.html/BI/20175/KBID/14249/
  [4]: https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/nkz6.html
- [5]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

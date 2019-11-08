@@ -42,9 +42,9 @@ For new users keep in mind that the current Sigma interchangeable lenses for Ni
 
 Read more [Nikon Mirrorless][5] and <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>. For more details on availability see this [Nikon Z7 in stock tracker][6].
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-z7/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-z7/
  [2]: https://www.dailycameranews.com/tag/nikon-z7/
  [3]: https://www.bhphotovideo.com/c/product/1431716-REG/nikon_4185_ftz_mount_adapter.html/BI/20175/KBID/14249/
  [4]: https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/nkzmaftz.html
- [5]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/
  [6]: https://www.dailycameranews.com/2018/09/nikon-z7-in-stock-availability-tracker/

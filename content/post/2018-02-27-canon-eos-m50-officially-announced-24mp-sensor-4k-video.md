@@ -60,8 +60,8 @@ The Canon M50 also offers a lot of other features that any vlogger needs. It has
 
 Check out the Canon USA <a href="https://www.dailycameranews.com/2018/02/canon-eos-m50/" target="_blank" rel="noopener">press release</a> and read more [**Canon Mirrorless**][5] news.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-eos-m50/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-eos-m50/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/02/canon-eos-m50-2.jpg?ssl=1
- [3]: https://www.mirrorlesstimes.com/tag/aps-c/
+ [3]: https://www.mirrorlesstimes.com/tags/aps-c/
  [4]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/02/canon-eos-m50-3.jpg?ssl=1
- [5]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

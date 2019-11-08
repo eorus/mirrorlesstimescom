@@ -148,5 +148,5 @@ Designed for landscape, product and portrait photography the Meike 35mm f/1.4 le
 
 ### Meike MK-35mm f/1.4 video reviews:
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a6400/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t30/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a6400/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t30/

@@ -101,4 +101,4 @@ Firmware Version:
  [4]: https://www.fujifilm.eu/uk/products/digital-cameras/model/x-t20
  [5]: https://www.fujifilm.eu/uk/products/digital-cameras/model/x-a3
  [6]: https://www.fujifilm.eu/uk/products/digital-cameras/model/x-a10
- [7]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [7]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

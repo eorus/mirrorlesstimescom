@@ -49,7 +49,7 @@ Cons
 
 Read more [Fujifilm Mirrorless][4] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/
  [2]: https://www.dailycameranews.com/2018/09/fujifilm-x-t3-in-stock-and-shipping-in-the-us/
  [3]: https://www.mirrorlesstimes.com/2018/09/fujifilm-x-t3-in-stock-availability-tracker/
- [4]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

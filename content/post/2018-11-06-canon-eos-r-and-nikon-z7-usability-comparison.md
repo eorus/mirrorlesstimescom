@@ -29,7 +29,7 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 
 Read more [Canon mirrorless][3] | <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a> and [Nikon Mirrorless][4] | <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-eos-r/
- [2]: https://www.mirrorlesstimes.com/tag/nikon-z7/
- [3]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
- [4]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-eos-r/
+ [2]: https://www.mirrorlesstimes.com/tags/nikon-z7/
+ [3]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

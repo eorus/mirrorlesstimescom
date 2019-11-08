@@ -19,9 +19,9 @@ tags:
   - Panasonic S1R
 
 ---
-[Panasonic][1] unveil a trio of Lumix S lenses along the S1R and the S1 full-frame mirrorless cameras. The <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1r/" target="_blank" rel="noopener">47MP S1R</a> and the <a href="https://www.mirrorlesstimes.com/tag/panasonic-s1/" target="_blank" rel="noopener">24MP S1</a> full-frame mirrorless cameras will **start shipping by the end of March**.
+[Panasonic][1] unveil a trio of Lumix S lenses along the S1R and the S1 full-frame mirrorless cameras. The <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1r/" target="_blank" rel="noopener">47MP S1R</a> and the <a href="https://www.mirrorlesstimes.com/tags/panasonic-s1/" target="_blank" rel="noopener">24MP S1</a> full-frame mirrorless cameras will **start shipping by the end of March**.
 
-The three new lenses are <a href="https://www.mirrorlesstimes.com/tag/panasonic-s-24-105mm-l-mount-lens/" rel="tag">Panasonic S 24-105mm L-Mount Lens</a>, <a href="https://www.mirrorlesstimes.com/tag/panasonic-s-50mm-f-1-4-l-mount-lens/" rel="tag">Panasonic S 50mm f/1.4 L-Mount Lens</a>, <a href="https://www.mirrorlesstimes.com/tag/panasonic-s-70-200mm-f-2-8-l-mount-lens/" rel="tag">Panasonic S 70-200mm f/2.8 L-Mount Lens</a>. The 24-105mm F4 OIS Macro will serve as the kit lens for both cameras. All three lenses are dust and moisture-sealed, and the two &#8216;S Pro&#8217; models include a focus clutch for quick switching between auto and manual focus.
+The three new lenses are <a href="https://www.mirrorlesstimes.com/tags/panasonic-s-24-105mm-l-mount-lens/" rel="tag">Panasonic S 24-105mm L-Mount Lens</a>, <a href="https://www.mirrorlesstimes.com/tags/panasonic-s-50mm-f-1-4-l-mount-lens/" rel="tag">Panasonic S 50mm f/1.4 L-Mount Lens</a>, <a href="https://www.mirrorlesstimes.com/tags/panasonic-s-70-200mm-f-2-8-l-mount-lens/" rel="tag">Panasonic S 70-200mm f/2.8 L-Mount Lens</a>. The 24-105mm F4 OIS Macro will serve as the kit lens for both cameras. All three lenses are dust and moisture-sealed, and the two &#8216;S Pro&#8217; models include a focus clutch for quick switching between auto and manual focus.
 
 The three new lenses will ship in early April. The 50mm F1.4 is priced at $2299, the 70-200 F4 at $1699 and the 24-105mm F4 at $1299. Buying the S1/S1R kit effectively lowers the price of the 24-105mm F4 to $899.<!--more-->
 
@@ -90,5 +90,5 @@ _Also join the <a class="ext-link" title="" href="https://www.facebook.com/grou
  [1]: https://www.bestcameranews.com/panasonic/
  [2]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/02/panasonic-s-70-200mm-f-2-8-l-mount-lens.jpg?ssl=1
  [3]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/02/panasonic-s-24-105mm-l-mount-lens.jpg?ssl=1
- [4]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [4]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [5]: https://www.bestcameranews.com/tag/panasonic-rumors/

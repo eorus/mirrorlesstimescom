@@ -31,4 +31,4 @@ When it comes to the price tag, the mirrorless shooter will probably cost below 
 Read more [Fujifilm Mirrorless][2] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
  [1]: https://www.mirrorlesstimes.com/category/fujifilm/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

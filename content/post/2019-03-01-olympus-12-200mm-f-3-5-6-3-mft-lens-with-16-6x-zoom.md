@@ -15,7 +15,7 @@ tags:
   - Telephoto
 
 ---
-**Olympus M.Zuiko Digital ED 12-200mm f/3.5-6.3** is a new super-telephoto zoom lens for <a href="https://www.mirrorlesstimes.com/tag/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> cameras. The lens features a 35mm equivalent focal range of 24-400mm for a 16.6x zoom, the highest magnification available for mirrorless cameras.
+**Olympus M.Zuiko Digital ED 12-200mm f/3.5-6.3** is a new super-telephoto zoom lens for <a href="https://www.mirrorlesstimes.com/tags/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> cameras. The lens features a 35mm equivalent focal range of 24-400mm for a 16.6x zoom, the highest magnification available for mirrorless cameras.
 
 The lens is not a “PRO” but the company claims that it offers the same dustproof and splashproof build quality as those lenses.
 
@@ -185,4 +185,4 @@ Read more [Olympus Mirrorless][2] news and <a href="https://www.dailycamerane
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/858035244291979/" target="_blank" rel="external nofollow noopener">Olympus Camera Users</a> Facebook Group to share your Olympus photography._
 
  [1]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/03/olympus-12-200mm-f-3-5-6-3-mft-lens-zoom.jpg?ssl=1
- [2]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

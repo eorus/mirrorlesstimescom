@@ -14,7 +14,7 @@ tags:
   - Review
 
 ---
-Here is a new Canon EOS R overview and hands-on review by <a href="https://dustinabbott.net/2018/11/canon-eos-r-image-galleries/" target="_blank" rel="nofollow noopener">Dustin Abbott</a>. He posted a neat 23 minutes video about his impressions with the new <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a>  full frame mirrorless camera.
+Here is a new Canon EOS R overview and hands-on review by <a href="https://dustinabbott.net/2018/11/canon-eos-r-image-galleries/" target="_blank" rel="nofollow noopener">Dustin Abbott</a>. He posted a neat 23 minutes video about his impressions with the new <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a>  full frame mirrorless camera.
 
 The EOS R (<a class="ext-link" title="" href="https://www.amazon.com/Canon-Cameras-Digital-Camera-3075C002/dp/B07H484HLT/?tag=daicamnew-20" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external" data-amzn-asin="B07H484HLT">Amazon</a>, <a class="ext-link" title="" href="https://www.bhphotovideo.com/c/product/1433710-REG/canon_eos_r_mirrorless_digital.html/BI/20175/KBID/14249/" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external">B&H</a>, <a class="ext-link broken_link" title="" href="https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/car.html" target="_blank" rel="noopener external noreferrer nofollow">Adorama</a>) features a **30.3MP CMOS sensor** with Dual Pixel AF and an ISO range of 100-40000 (expandable to 50-102400).<!--more-->
 
@@ -33,4 +33,4 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 Read more [Canon mirrorless][2] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
  [1]: https://www.dailycameranews.com/2018/09/canon-eos-r-in-stock-availability-tracker/
- [2]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

@@ -213,5 +213,5 @@ The Laowa 7.5mm f/2 MFT is the Widest f/2 rectilinear [lens][2] ever designed fo
   </tr>
 </table>
 
- [1]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
- [2]: https://www.mirrorlesstimes.com/tag/lens/
+ [1]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/
+ [2]: https://www.mirrorlesstimes.com/tags/lens/

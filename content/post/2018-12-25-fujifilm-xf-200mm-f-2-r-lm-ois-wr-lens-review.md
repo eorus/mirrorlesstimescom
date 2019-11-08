@@ -38,4 +38,4 @@ Kai Wong tested the <a href="https://www.dailycameranews.com/tag/xf-200mm-f-2-r
 
 Read more [Fujifilm Mirrorless][1] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

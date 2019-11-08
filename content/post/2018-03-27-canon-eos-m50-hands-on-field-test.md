@@ -26,6 +26,6 @@ _Canon’s mirrorless offerings have struggled to gain an audience, but the rece
 
 Read more [Canon Mirrorless][3] news and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-eos-m50/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-eos-m50/
  [2]: https://www.youtube.com/watch?v=Mxx51eVz9fY
- [3]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

@@ -167,11 +167,11 @@ For **[Olympus PEN-F][7]**
 
 Read more [Olympus Mirrorless][8] news and <a href="https://www.dailycameranews.com/tag/olympus-rumors/" target="_blank" rel="noopener">Olympus Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/firmware/
- [2]: https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1-mark-ii/
- [3]: https://www.mirrorlesstimes.com/tag/olympus-pen-f/
+ [1]: https://www.mirrorlesstimes.com/tags/firmware/
+ [2]: https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1-mark-ii/
+ [3]: https://www.mirrorlesstimes.com/tags/olympus-pen-f/
  [4]: https://www.mirrorlesstimes.com/2017/11/panasonic-g9-leica-dg-elmarit-200mm-f2-8-lens-officially-announced/
  [5]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/03/olympus-e-m1-mark-ii-firmware-update.jpg?ssl=1
  [6]: http://cs.olympus-imaging.jp/en/support/imsg/digicamera/download/software/firm/e1/index.cfm#omd
  [7]: http://cs.olympus-imaging.jp/en/support/imsg/digicamera/download/software/firm/e1/index.cfm#fp
- [8]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [8]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

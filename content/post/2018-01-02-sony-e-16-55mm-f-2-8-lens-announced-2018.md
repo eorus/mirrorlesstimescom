@@ -29,7 +29,7 @@ The perfect standard zoom for Sony APS-c E-mount cameras is the <a href="https:
 
 Nevertheless, 2018 would be an exciting year for Sony. We already know the [FE 400mm f/2.8 lens][3] which has been confirmed earlier. Another [135mm optic][4] for full-frame mirrorless and now the **16-55mm f/2.8 for APS-c E-mount** system.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
  [1]: https://www.mirrorlesstimes.com/2017/12/first-sony-a6700-specs/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/01/sony-16-55mm-f-2-8-aps-c-e-mount-lens-coming-in-2018.jpg?ssl=1

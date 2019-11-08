@@ -15,7 +15,7 @@ tags:
 ---
 The _Fujifilm X-H1_ is the most advanced X-series mirrorless camera to date with in<wbr />-body image stabilisation, touchscreen control and improved video settings.
 
-<a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/" target="_blank" rel="noopener">Fujifilm X-H1</a> mirrorless camera comes with **24.3 megapixel APS-C sized X-Trans CMOS III sensor** and X-Processor Pro image processing engine. It is the first camera to feature **in-body image stabilization (IBIS**), a **new Flicker Reduction mode** and DCI 4K and impressive video capabilities.
+<a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/" target="_blank" rel="noopener">Fujifilm X-H1</a> mirrorless camera comes with **24.3 megapixel APS-C sized X-Trans CMOS III sensor** and X-Processor Pro image processing engine. It is the first camera to feature **in-body image stabilization (IBIS**), a **new Flicker Reduction mode** and DCI 4K and impressive video capabilities.
 
 The APS-c sensor MILC is able to shoot UHD 4K at up to 30p and it can also shoot the wider aspect ratio **DCI 4K format (4096×2160) at 23.98 and 24p**. There&#8217;s a new Eterna film simulation which emulates cinematic film, a high bit rate of 200 Mbps, F-log (8-bit) SD card recording, a 1080/120P high-speed mode, a new higher quality built-in microphone (24bit/48khz) and timecode support.
 
@@ -67,4 +67,4 @@ Read more [Fujifilm Mirrorless][4] news and <a href="https://www.dailycameran
  [1]: https://aax-us-east.amazon-adsystem.com/x/c/QvW0NFj3FdXsFGLhfdpgInMAAAFhmXwlrQEAAAFKAc3BzFQ/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Fujifilm-X-H1-Mirrorless-Digital-Body/dp/B079PTRNKK/ref=as_at/?imprToken=iJ1EBwckOn88ZcRhzceN1w&slotNum=3&ie=UTF8&linkCode=sl1&tag=daicamnew-20&linkId=078070ffc7ef6fbdee796d8a7c6221d9
  [2]: https://aax-us-east.amazon-adsystem.com/x/c/QvW0NFj3FdXsFGLhfdpgInMAAAFhmXwlrQEAAAFKAc3BzFQ/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Fujifilm-X-H1-Mirrorless-Digital-Body/dp/B079PTJ7RT/ref=as_at/?imprToken=iJ1EBwckOn88ZcRhzceN1w&slotNum=4&ie=UTF8&linkCode=sl1&tag=daicamnew-20&linkId=2bb7a874c85f04cc717c2e6435530711
  [3]: https://aax-us-east.amazon-adsystem.com/x/c/QvW0NFj3FdXsFGLhfdpgInMAAAFhmXwlrQEAAAFKAc3BzFQ/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Fujifilm-X-H1-Mirrorless-Digital-Body/dp/B079PTRNKK/ref=as_at/?imprToken=iJ1EBwckOn88ZcRhzceN1w&slotNum=1&ie=UTF8&linkCode=sl1&tag=daicamnew-20&linkId=078070ffc7ef6fbdee796d8a7c6221d9
- [4]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

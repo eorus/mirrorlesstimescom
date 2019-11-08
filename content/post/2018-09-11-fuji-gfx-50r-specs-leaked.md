@@ -13,9 +13,9 @@ tags:
   - Rumors
 
 ---
-<a href="https://www.mirrorlesstimes.com/tag/fujifilm-gfx-50r/" target="_blank" rel="noopener">Fuji GFX50 R</a> specs have leaked. The price of the Fujifilm GFX 50R is expected to be around **$3,900 and $4,300.** So it will be an affordable GFX or medium format camera.
+<a href="https://www.mirrorlesstimes.com/tags/fujifilm-gfx-50r/" target="_blank" rel="noopener">Fuji GFX50 R</a> specs have leaked. The price of the Fujifilm GFX 50R is expected to be around **$3,900 and $4,300.** So it will be an affordable GFX or medium format camera.
 
-After the launch of the <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> APS-c mirrorless, we are going to meet the Fujifilm GFX 50R on September 25th. The camera is expected to feature a **50MP medium format sensor**.
+After the launch of the <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> APS-c mirrorless, we are going to meet the Fujifilm GFX 50R on September 25th. The camera is expected to feature a **50MP medium format sensor**.
 
 Here are first leaked details for the upcoming Fuji GFX 50R “affordable” medium format mirrorless camera:<!--more-->
 
@@ -31,4 +31,4 @@ Here are first leaked details for the upcoming Fuji GFX 50R “affordable” med
 
 Read more [Fujifilm Mirrorless][1] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

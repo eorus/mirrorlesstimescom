@@ -37,9 +37,9 @@ You can also find their video still for comparing the Z6&#8217;s various video m
 
 Read more [Nikon Mirrorless][6] and <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>. For more details on availability see this <a href="https://www.dailycameranews.com/2018/09/nikon-z6-in-stock-availability-tracker/" target="_blank" rel="noopener">Nikon Z6 in stock tracker</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-z7/
- [2]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
- [3]: https://www.mirrorlesstimes.com/tag/nikon-z6/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-z7/
+ [2]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
+ [3]: https://www.mirrorlesstimes.com/tags/nikon-z6/
  [4]: https://www.bhphotovideo.com/c/product/1431706-REG/nikon_1595_z6_mirrorless_digital_camera.html/BI/20175/KBID/14249/
  [5]: https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/nkz6.html
- [6]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [6]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

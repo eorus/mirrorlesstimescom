@@ -13,7 +13,7 @@ tags:
   - Sony Mirrorless
 
 ---
-From the <a href="https://www.dailycameranews.com/2018/09/interview-sony-a7s-iii-will-go-beyond-customers-expectations/" target="_blank" rel="noopener">article on DCN</a>, we know that a Sony senior manager Yutaka Iwatsuki said the <a href="https://www.mirrorlesstimes.com/tag/sony-a7s-iii/" target="_blank" rel="noopener">Sony a7S III</a> will go beyond their customers’ expectations and to be a really innovative product.
+From the <a href="https://www.dailycameranews.com/2018/09/interview-sony-a7s-iii-will-go-beyond-customers-expectations/" target="_blank" rel="noopener">article on DCN</a>, we know that a Sony senior manager Yutaka Iwatsuki said the <a href="https://www.mirrorlesstimes.com/tags/sony-a7s-iii/" target="_blank" rel="noopener">Sony a7S III</a> will go beyond their customers’ expectations and to be a really innovative product.
 
 What do you [expect from the Sony a7S III][1]? in terms of new features and specifications. Today Caleb Pike at DSLR Video Shooter talks about how the Sony a7S III could shut down Canon, Nikon, Fuji and Panasonic cameras. Sure if the rumored features are added to the Sony A7S III. Check it out!<!--more-->
 
@@ -27,6 +27,6 @@ Here is another prediction video about upcoming Sony a7S III. See above. Accordi
 
 
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
  [1]: https://www.mirrorlesstimes.com/2017/10/expect-sony-a7siii-camera/

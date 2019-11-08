@@ -19,7 +19,7 @@ tags:
   - RF 85mm f/1.2L
 
 ---
-The first leaked images and specs of [Canon EOS RP][1] now available online. The official announcement is on February 14th along with <a href="https://www.mirrorlesstimes.com/tag/rf-15-35mm-f-2-8l-is-usm/" rel="tag">RF 15-35mm f/2.8L IS USM</a>, <a href="https://www.mirrorlesstimes.com/tag/rf-24-240mm-f-4-6-3-is-usm/" rel="tag">RF 24-240mm f/4-6.3 IS USM</a>, <a href="https://www.mirrorlesstimes.com/tag/rf-24-70mm-f-2-8l-is/" rel="tag">RF 24-70mm f/2.8L IS</a>, <a href="https://www.mirrorlesstimes.com/tag/rf-70-200mm-f-2-8l-is-usm/" rel="tag">RF 70-200mm f/2.8L IS USM</a>, <a href="https://www.mirrorlesstimes.com/tag/rf-85mm-f-1-2l/" rel="tag">RF 85mm f/1.2L</a> lenses. You can see the details below:<!--more-->
+The first leaked images and specs of [Canon EOS RP][1] now available online. The official announcement is on February 14th along with <a href="https://www.mirrorlesstimes.com/tags/rf-15-35mm-f-2-8l-is-usm/" rel="tag">RF 15-35mm f/2.8L IS USM</a>, <a href="https://www.mirrorlesstimes.com/tags/rf-24-240mm-f-4-6-3-is-usm/" rel="tag">RF 24-240mm f/4-6.3 IS USM</a>, <a href="https://www.mirrorlesstimes.com/tags/rf-24-70mm-f-2-8l-is/" rel="tag">RF 24-70mm f/2.8L IS</a>, <a href="https://www.mirrorlesstimes.com/tags/rf-70-200mm-f-2-8l-is-usm/" rel="tag">RF 70-200mm f/2.8L IS USM</a>, <a href="https://www.mirrorlesstimes.com/tags/rf-85mm-f-1-2l/" rel="tag">RF 85mm f/1.2L</a> lenses. You can see the details below:<!--more-->
 
   * 26.2 Million Pixels Full Size Sensor
   * Dual pixel CMOS AF
@@ -38,5 +38,5 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 
 Read more [Canon mirrorless][2] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-eos-rp/
- [2]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-eos-rp/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

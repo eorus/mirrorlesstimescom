@@ -122,7 +122,7 @@ The X-Pro2 has been released at the beginning of March 2016 for a price of <a h
 
 **<a href="http://www.fujifilm.com/support/digital_cameras/software/firmware/x/xpro2/index.html" target="_blank" rel="noopener">Download Fujifilm X-Pro2 Firmware Update V4.00</a>**
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/" target="_blank" rel="noopener">Fujifilm Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/" target="_blank" rel="noopener">Fujifilm Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a> here.
 
  [1]: https://www.mirrorlesstimes.com/2017/11/fujifilm-released-firmware-updates-x-t2-x-t20-gfx-50s-free-x-raw-studio-software-x-acquire-ver-1-7/
  [2]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2016/10/fujifilm-x-pro2-firmware-2.jpg?ssl=1

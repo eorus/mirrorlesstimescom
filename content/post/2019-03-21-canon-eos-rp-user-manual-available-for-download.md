@@ -14,7 +14,7 @@ tags:
   - Instruction Manual
 
 ---
-The instruction manual for the <a href="https://www.mirrorlesstimes.com/tag/canon-eos-rp/" target="_blank" rel="noopener">Canon<em> EOS RP</em></a> mirrorless camera is now available for download. You can download Canon EOS RP user’s manual <a title="pdf file" href="http://gdlp01.c-wss.com/gds/3/0300033693/01/eosrp-ug-en.pdf" target="_blank" rel="noopener">as pdf file</a>.
+The instruction manual for the <a href="https://www.mirrorlesstimes.com/tags/canon-eos-rp/" target="_blank" rel="noopener">Canon<em> EOS RP</em></a> mirrorless camera is now available for download. You can download Canon EOS RP user’s manual <a title="pdf file" href="http://gdlp01.c-wss.com/gds/3/0300033693/01/eosrp-ug-en.pdf" target="_blank" rel="noopener">as pdf file</a>.
 
 The Canon EOS RP is a compact full-frame mirrorless camera that features a **26MP CMOS sensor**, **Digic 8 processor** and Dual Pixel AF system with 88% x 100% coverage and Eye AF.
 
@@ -40,6 +40,6 @@ The Canon EOS RP is a compact full-frame mirrorless camera that features a **2
   * Built-in Wi-Fi and Bluetooth technology
   * Mobile workflow
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/canon-mirrorless/" target="_blank" rel="noopener">Canon mirrorless</a> and <a href="https://www.bestcameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
+Read more <a href="https://www.mirrorlesstimes.com/tags/canon-mirrorless/" target="_blank" rel="noopener">Canon mirrorless</a> and <a href="https://www.bestcameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
 Join the <a title="" href="https://www.facebook.com/groups/185572945112087/" target="_blank" rel="external nofollow noopener"><strong>Canon Camera Users Group</strong></a> to share your Canon photography, ask and answer questions that arise and help each others!

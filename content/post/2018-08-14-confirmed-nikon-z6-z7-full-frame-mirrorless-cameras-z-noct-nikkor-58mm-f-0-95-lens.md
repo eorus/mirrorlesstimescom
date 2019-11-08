@@ -51,12 +51,12 @@ Read more [Nikon mirrorless][9] and  <a href="https://www.dailycameranews.co
 
 via: <a href="https://www.dailycameranews.com/2018/08/confirmed-nikon-z6-and-z7-full-frame-mirrorless-cameras-coming-on-august-23rd/" target="_blank" rel="noopener">DCN</a>
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-z6/
- [2]: https://www.mirrorlesstimes.com/tag/z-nikkor-24-70mm-f-4/
- [3]: https://www.mirrorlesstimes.com/tag/z-nikkor-50mm-f-1-8/
- [4]: https://www.mirrorlesstimes.com/tag/z-noct-nikkor-58mm-f-0-95/
- [5]: https://www.mirrorlesstimes.com/tag/nikon-full-frame-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-z6/
+ [2]: https://www.mirrorlesstimes.com/tags/z-nikkor-24-70mm-f-4/
+ [3]: https://www.mirrorlesstimes.com/tags/z-nikkor-50mm-f-1-8/
+ [4]: https://www.mirrorlesstimes.com/tags/z-noct-nikkor-58mm-f-0-95/
+ [5]: https://www.mirrorlesstimes.com/tags/nikon-full-frame-mirrorless/
  [6]: https://www.mirrorlesstimes.com/2018/08/nikon-full-frame-mirrorless-camera-rumors-recap/
  [7]: https://www.dailycameranews.com/2018/08/coomparison-images-nikon-full-frame-mirrorless-camera-vs-nikon-d850-sony-a7r-iii-fujifilm-gfx-50s/
  [8]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/08/confirmed-nikon-z6-and-z7-full-frame-mirrorless-cameras-coming.jpg?ssl=1
- [9]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [9]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

@@ -39,6 +39,6 @@ Check out the full list of _Black Friday deals_ below.
 
 Read more [Sony Mirrorless][3] talk / news.
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7r-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7r-iii/
  [2]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/2017-sony-camera-lenses-black-friday-deals.jpg?ssl=1
- [3]: https://www.mirrorlesstimes.com/tag/sony-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/sony-mirrorless/

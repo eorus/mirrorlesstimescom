@@ -44,4 +44,4 @@ Other than that, the A7II comes with a 24-megapixel sensor, maximum ISO of 25,60
 
 This is all for the **Sony A7III camera** news. The full-frame mirrorless model is expected to be announced in March &#8211; June timeframe. This makes the release date of the shooter in Q2 2017. Stay tuned for more information.
 
-ead more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+ead more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.

@@ -13,7 +13,7 @@ tags:
   - Rumors
 
 ---
-**Fujifilm X-T30 camera** registered as overseas certification body and it is expected to be soon. The midrange SLR-styled mirrorless camera registered under the “**FF180006**” code name. From the certification we can say that the it will have Bluetooth 4.2 just like the <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a>.
+**Fujifilm X-T30 camera** registered as overseas certification body and it is expected to be soon. The midrange SLR-styled mirrorless camera registered under the “**FF180006**” code name. From the certification we can say that the it will have Bluetooth 4.2 just like the <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a>.
 
 This registration also means that the upcoming Fujifilm X-30 camera could be announced within a few months period. Expect the **Fujifilm X-T30** _announcement_ to take place in early-2019 as <a href="https://www.dailycameranews.com/2019/01/fujifilm-x-30-camera-registered-to-be-announced-in-2019/" target="_blank" rel="noopener">dailycameranews.com</a> claims it should arrive before the CP+ 2019 event in late February. Here are more details about the Fujifilm X-T30 camera with first specs!<!--more-->
 
@@ -34,4 +34,4 @@ Read more [Fujifilm Mirrorless][1] news and <a href="https://www.dailycameran
 
 _Also join the <a class="ext-link" title="" href="https://www.facebook.com/groups/978460185571041/" target="_blank" rel="external nofollow noopener">Fujifilm Camera Users</a> Facebook Group to share your Fujifilm photography_
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

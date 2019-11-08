@@ -15,7 +15,7 @@ tags:
   - Full Frame
 
 ---
-<a href="https://www.mirrorlesstimes.com/tag/canon-eos-rp/" target="_blank" rel="noopener">Canon<em> EOS RP</em></a> is the second _full_&#8211;_frame mirrorless camera _that joins _the EOS_ R launched last year. The _Canon EOS RP_ puts the power of _full_&#8211;_frame mirrorless_ into a small, lightweight EOS R series body, opening up exciting creative possibilities.
+<a href="https://www.mirrorlesstimes.com/tags/canon-eos-rp/" target="_blank" rel="noopener">Canon<em> EOS RP</em></a> is the second _full_&#8211;_frame mirrorless camera _that joins _the EOS_ R launched last year. The _Canon EOS RP_ puts the power of _full_&#8211;_frame mirrorless_ into a small, lightweight EOS R series body, opening up exciting creative possibilities.
 
 This is simply a mirrorless equivalent of the <span class="link"><a href="https://www.dailycameranews.com/tag/canon-eos-6d-mark-2/">EOS 6D Mark II</a></span> DSLR, boasting an aggressively competitive price and, for its class, an impressively lightweight body.
 
@@ -54,7 +54,7 @@ Below are pre-order links:
   * Built-in Wi-Fi and Bluetooth technology
   * Mobile workflow
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/canon-mirrorless/" target="_blank" rel="noopener">Canon mirrorless</a> and <a href="https://www.bestcameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
+Read more <a href="https://www.mirrorlesstimes.com/tags/canon-mirrorless/" target="_blank" rel="noopener">Canon mirrorless</a> and <a href="https://www.bestcameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
 Join the <a title="" href="https://www.facebook.com/groups/185572945112087/" target="_blank" rel="external nofollow noopener"><strong>Canon Camera Users Group</strong></a> to share your Canon photography, ask and answer questions that arise and help each others!
 

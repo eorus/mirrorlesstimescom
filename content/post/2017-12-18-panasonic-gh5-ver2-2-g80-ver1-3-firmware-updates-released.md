@@ -18,7 +18,7 @@ tags:
 ---
 Panasonic released new firmware updates for the <a href="https://aax-us-east.amazon-adsystem.com/x/c/Qlyr02a3Fw0LLNr1bDZYW-YAAAFgacRlwwEAAAFKAZae6Mc/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/PANASONIC-Mirrorless-Camera-Megapixels-DC-GH5KBODY/dp/B01MZ3LQQ5/ref=as_at/?imprToken=qVLASNYwPyH5bMYhqD7b9g&slotNum=0&s=electronics&ie=UTF8&qid=1513006423&sr=1-3&keywords=Panasonic+GH5&linkCode=sl1&tag=daicamnew-20&linkId=0ec88936532def1e7d857630905d0e97" target="_blank" rel="noopener">GH5</a> and <a href="https://aax-us-east.amazon-adsystem.com/x/c/Qlyr02a3Fw0LLNr1bDZYW-YAAAFgacRlwwEAAAFKAZae6Mc/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/PANASONIC-Mirrorless-12-60mm-Megapixels-DMC-G85MK/dp/B01M050N05/ref=as_at/?imprToken=qVLASNYwPyH5bMYhqD7b9g&slotNum=1&ie=UTF8&qid=1513006369&sr=8-2&keywords=Panasonic+G80&linkCode=sl1&tag=daicamnew-20&linkId=340421955c95c8b70d0212efbad279c5" target="_blank" rel="noopener">G80</a> Micro Four Thirds cameras.
 
-Before the <a href="https://www.mirrorlesstimes.com/tag/panasonic-gh5s/" target="_blank" rel="noopener">Panasonic GH5s</a> announcement, the company unveiled a new firmware update ver.2.2 for GH5 that fixes several bugs that were found after updating the [major firmware to Ver.2.0][1]. Pana G80 also upgraded to Ver1.3 with support for [Leica DG 200mm f/2.8][2] lens and bug fixes.
+Before the <a href="https://www.mirrorlesstimes.com/tags/panasonic-gh5s/" target="_blank" rel="noopener">Panasonic GH5s</a> announcement, the company unveiled a new firmware update ver.2.2 for GH5 that fixes several bugs that were found after updating the [major firmware to Ver.2.0][1]. Pana G80 also upgraded to Ver1.3 with support for [Leica DG 200mm f/2.8][2] lens and bug fixes.
 
 Check out the** firmware** details for the GH5 and G80 MFT cameras with download links below.<!--more-->
 
@@ -112,7 +112,7 @@ Check out the** firmware** details for the GH5 and G80 MFT cameras with downl
 
 <a class="btn btn-primary btn-lg btn-block btn-danger" title="Download Panasonic GH5 Ver2.2 and G80 Ver1.3 Firmware Updates" role="button" href="http://av.jpn.support.panasonic.com/support/global/cs/dsc/download/fts/index2.html" target="“_blank”">Download Panasonic GH5 Ver2.2 and G80 Ver1.3 Firmware Updates</a>
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> and <a href="https://www.dailycameranews.com/tag/panasonic-rumors/" target="_blank" rel="noopener">Panasonic Rumors</a>!
+Read more <a href="https://www.mirrorlesstimes.com/tags/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> and <a href="https://www.dailycameranews.com/tag/panasonic-rumors/" target="_blank" rel="noopener">Panasonic Rumors</a>!
 
  [1]: https://www.dailycameranews.com/2017/09/panasonic-gh5-firmware-update-ver-2-0-now-available/
  [2]: https://www.dailycameranews.com/2017/11/panasonic-leica-dg-200mm-f2-8-telephoto-prime-lens/

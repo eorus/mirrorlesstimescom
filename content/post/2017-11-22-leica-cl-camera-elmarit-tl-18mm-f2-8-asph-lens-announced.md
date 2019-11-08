@@ -53,9 +53,9 @@ As a whole, the Leica APS-C System portfolio of lenses offer exceptionally high 
 
 Read more [Leica Mirrorless][6] news!
 
- [1]: https://www.mirrorlesstimes.com/tag/leica-cl
+ [1]: https://www.mirrorlesstimes.com/tags/leica-cl
  [2]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/leica-cl.jpg?ssl=1
  [3]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/leica-cl-top.jpg?ssl=1
  [4]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/leica-cl-back.jpg?ssl=1
  [5]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/leica-elmarit-tl-18-mm-f-2-8-asph-lens.jpg?ssl=1
- [6]: https://www.mirrorlesstimes.com/tag/leica-mirrorless
+ [6]: https://www.mirrorlesstimes.com/tags/leica-mirrorless

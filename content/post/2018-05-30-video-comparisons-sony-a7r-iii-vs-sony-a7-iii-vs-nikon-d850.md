@@ -22,6 +22,6 @@ The **Sony a7R III – $3,198.00 – (<a href="https://aax-us-east.amazon-ads
 
 ### Shootout : Sony a7R III vs Sony a7 III vs Nikon D850
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7r-iii/
- [2]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7r-iii/
+ [2]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
  [3]: https://www.dailycameranews.com/tag/nikon-d850/

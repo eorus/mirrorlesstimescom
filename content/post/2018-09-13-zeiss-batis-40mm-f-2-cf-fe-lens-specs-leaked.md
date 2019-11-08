@@ -34,7 +34,7 @@ The latest and the fourth member in the Batis lens family is the [Zeiss Batis 1
   * Weight 361g
   * Lens composition is 8 groups 9 element
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
  [1]: https://www.dailycameranews.com/tag/zeiss-batis-135mm-f-2-8/
  [2]: https://www.dailycameranews.com/2017/03/best-sony-full-frame-e-mount-lenses/

@@ -22,7 +22,7 @@ The ultra-fast **XF33mmF1 R WR** will be the first mirrorless lens with a maxi
 
 According to the [lens roadmap of Fuji][2], the XF 16mm f/2.8 R WR lens and XF 16-80mm f/4 R LM OIS WR lens will be released in 2019, while XF 33mm f/1 R WR lens will be **released in 2020**.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/" target="_blank" rel="noopener">Fujifilm Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
+Read more <a href="https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/" target="_blank" rel="noopener">Fujifilm Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
 _Also join the <a title="" href="https://www.facebook.com/groups/978460185571041/" target="_blank" rel="external nofollow noopener">Fujifilm Camera Users</a> Facebook Group to share your Fujifilm photography._
 

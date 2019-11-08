@@ -54,8 +54,8 @@ Olympus STF-8 flash
 
 Read more [Olympus Mirrorless][5] news and <a href="https://www.dailycameranews.com/tag/olympus-rumors/" target="_blank" rel="noopener">Olympus Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1-mark-ii/
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1-mark-ii/
  [2]: https://www.mirrorlesstimes.com/2016/09/olympus-om-d-e-m1-mark-ii-development/
- [3]: https://www.mirrorlesstimes.com/tag/micro-four-thirds/
+ [3]: https://www.mirrorlesstimes.com/tags/micro-four-thirds/
  [4]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2016/09/olympus-e-m1-mark-ii-development-01-2.jpg?ssl=1
- [5]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

@@ -14,7 +14,7 @@ tags:
   - Rumors
 
 ---
-Full <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> specificaions now available ahead of the official announcement. From the APS-c mirrorless camera X-T3 specs, the shooter will feature a new **26MP sensor and **<span class="notranslate"><strong>Monochrome adjustment film simulation</strong>.</span>
+Full <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t3/" target="_blank" rel="noopener">Fujifilm X-T3</a> specificaions now available ahead of the official announcement. From the APS-c mirrorless camera X-T3 specs, the shooter will feature a new **26MP sensor and **<span class="notranslate"><strong>Monochrome adjustment film simulation</strong>.</span>
 
 From the X-T3 specs sheet we can see that the camera will offer blackout-free high-speed continuous shooting at the maximum speed of 30fps. It will be possible within a frame equivalent to 16.6-megapixels (1.25 times crop). <span class="s1">Check out the rumored X-T3 specifications below. </span>
 
@@ -49,4 +49,4 @@ Read more [Fujifilm Mirrorless][2] news and <a href="https://www.dailycameran
 via: <a href="https://www.nokishita-camera.com/2018/09/x-t3_4.html" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">NC</a>
 
  [1]: https://www.dailycameranews.com/2018/07/fujifilm-x-t3-camera-officially-registered-online/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

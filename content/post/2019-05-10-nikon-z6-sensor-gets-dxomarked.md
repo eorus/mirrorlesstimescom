@@ -14,7 +14,7 @@ tags:
   - Review
 
 ---
-DxOMark published their **Nikon Z6 sensor review and test results**. The full frame mirrorless Nikon Z6 camera is the low-light high speed model of the company’s lineup. According to DxOMark, the score for the <a href="https://www.mirrorlesstimes.com/tag/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a> full frame sensor is 95, one point below <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/" data-wpel-link="exclude">Sony a7 III</a>.
+DxOMark published their **Nikon Z6 sensor review and test results**. The full frame mirrorless Nikon Z6 camera is the low-light high speed model of the company’s lineup. According to DxOMark, the score for the <a href="https://www.mirrorlesstimes.com/tags/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a> full frame sensor is 95, one point below <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/" data-wpel-link="exclude">Sony a7 III</a>.
 
 To underline Nikon Z6 and Sony a7 III uses the same image sensor produced by Sony IMX410. See also **<a href="https://www.dailycameranews.com/2018/08/nikon-z6-vs-nikon-z7-vs-nikon-d850-specifications-comparison/" target="_blank" rel="noopener">Nikon Z6 vs Nikon Z7 vs Nikon D850 Specifications Comparison</a>**
 
@@ -35,4 +35,4 @@ Read more [Nikon Mirrorless][2] and <a href="https://www.dailycameranews.com/
 Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868201466609763/" target="_blank" rel="external nofollow noopener"><strong>Nikon Camera Users Group</strong></a> to share your Nikon photography, ask and answer questions that arise and help each others!
 
  [1]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/05/DxOMark-Nikon-Z6-test-reults-.jpg?ssl=1
- [2]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

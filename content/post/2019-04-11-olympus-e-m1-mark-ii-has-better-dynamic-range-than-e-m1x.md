@@ -62,6 +62,6 @@ _Also join the <a class="ext-link" title="" href="https://www.facebook.com/grou
 
 You can see all results at <a href="http://www.photonstophotos.net/Charts/PDR.htm#Olympus%20OM-D%20E-M1%20Mark%20II,Olympus%20OM-D%20E-M1X,Olympus%20OM-D%20E-M5%20Mark%20II,Panasonic%20Lumix%20DC-GH5" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external">Photons to Photos</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-om-d-e-m1x/
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-om-d-e-m1x/
  [2]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2019/04/Olympus-E-M1X-Dynamic-range.jpg?ssl=1
- [3]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

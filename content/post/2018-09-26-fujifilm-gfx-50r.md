@@ -14,7 +14,7 @@ tags:
   - Photokina 2018
 
 ---
-<a title="Photokina 2018" href="https://www.dailycameranews.com/tag/photokina-2018/" target="_blank" rel="follow noopener">Photokina 2018</a> : The new <a href="https://www.mirrorlesstimes.com/tag/fujifilm-gfx-50r/" target="_blank" rel="noopener">Fuji GFX50 R</a> rangefinder-style medium format mirrorless digital camera announced.
+<a title="Photokina 2018" href="https://www.dailycameranews.com/tag/photokina-2018/" target="_blank" rel="follow noopener">Photokina 2018</a> : The new <a href="https://www.mirrorlesstimes.com/tags/fujifilm-gfx-50r/" target="_blank" rel="noopener">Fuji GFX50 R</a> rangefinder-style medium format mirrorless digital camera announced.
 
 Featuring a large 51.4MP G Format CMOS image sensor and X-Processor Pro image processing engine, the GFX 50R delivers superior image quality in a compact and lightweight body reminiscent of their renowned medium format film cameras widely used in street and documentary photography.
 

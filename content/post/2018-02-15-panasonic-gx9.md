@@ -52,4 +52,4 @@ The most notable changes include the removal of the low-pass filter on the GX9�
 
 
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> and <a href="https://www.dailycameranews.com/tag/panasonic-rumors/" target="_blank" rel="noopener">Panasonic Rumors</a>!
+Read more <a href="https://www.mirrorlesstimes.com/tags/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> and <a href="https://www.dailycameranews.com/tag/panasonic-rumors/" target="_blank" rel="noopener">Panasonic Rumors</a>!

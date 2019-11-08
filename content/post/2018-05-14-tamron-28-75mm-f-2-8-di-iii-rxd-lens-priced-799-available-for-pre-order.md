@@ -32,7 +32,7 @@ The standard zoom can be found at major stores in US. Check out the pre-orders
 
 The Tamron 28-75mm F/2.8 Di III RXD will be available from **mid-2018.**
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
- [1]: https://www.mirrorlesstimes.com/tag/tamron-28-75mm-f-2-8-di-iii-rxd/
+ [1]: https://www.mirrorlesstimes.com/tags/tamron-28-75mm-f-2-8-di-iii-rxd/
  [2]: https://www.dailycameranews.com/2017/03/best-sony-full-frame-e-mount-lenses/

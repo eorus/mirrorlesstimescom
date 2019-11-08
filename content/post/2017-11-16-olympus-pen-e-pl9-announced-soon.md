@@ -32,4 +32,4 @@ No detailed specifications or release date information leaked on the web. We do 
 Stay tuned with us for more [**Olympus Mirrorless**][2] news.
 
  [1]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/olympus-pen-e-pl9-to-be-announced-soonolympus-pen-e-pl9-to-be-announced-soon.jpg?ssl=1
- [2]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/

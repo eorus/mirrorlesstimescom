@@ -65,7 +65,7 @@ M.Zuiko ED 8mm f/1.8 Fisheye PRO (Save $100): <a href="https://www.bhphotovide
 </p>
 
 <p data-selenium="itemHeading">
-  Read more <a href="https://www.mirrorlesstimes.com/tag/olympus-mirrorless/"><strong>Olympus Mirrorless</strong></a> news.
+  Read more <a href="https://www.mirrorlesstimes.com/tags/olympus-mirrorless/"><strong>Olympus Mirrorless</strong></a> news.
 </p>
 
  [1]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/2017-olympus-camera-black-friday-rebates.jpg?ssl=1

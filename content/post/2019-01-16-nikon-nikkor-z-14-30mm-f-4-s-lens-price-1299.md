@@ -18,7 +18,7 @@ tags:
 ---
 The **_Nikon Z 14-30mm f/4_ S** lens is a compact ultra-wide angle zoom designed for Nikon&#8217;s full-frame Z-series mirrorless cameras.
 
-Featuring a new optical design, the compact and lightweight NIKKOR Z 14-30mm f/4 S delivers the high level of optical performance that still and video creators expect from the NIKKOR name. By utilizing the larger diameter and technological benefits of the Z Mount, <a href="http://www.guidetocamera.com/products/nikon" target="_blank" rel="noopener">Nikon</a> was able to design an ultra-wide-angle lens that delivers superior optical performance and maximizes the potential of high pixel-count digital cameras such as the 45.7-megapixel <a href="https://www.mirrorlesstimes.com/tag/nikon-z7/" target="_blank" rel="noopener">Nikon Z7.</a>
+Featuring a new optical design, the compact and lightweight NIKKOR Z 14-30mm f/4 S delivers the high level of optical performance that still and video creators expect from the NIKKOR name. By utilizing the larger diameter and technological benefits of the Z Mount, <a href="http://www.guidetocamera.com/products/nikon" target="_blank" rel="noopener">Nikon</a> was able to design an ultra-wide-angle lens that delivers superior optical performance and maximizes the potential of high pixel-count digital cameras such as the 45.7-megapixel <a href="https://www.mirrorlesstimes.com/tags/nikon-z7/" target="_blank" rel="noopener">Nikon Z7.</a>
 
 The Nikon NIKKOR Z 14-30mm f/4 S lens will be available in the spring for a suggested retail price (SRP) of **$1,299.95**. You can check pre-order options at <a href="https://www.bhphotovideo.com/c/product/1452459-REG/nikon_20070_nikkor_z_14_30mm_f_4.htmll/BI/20175/KBID/14249/" target="_blank" rel="nofollow noopener" data-wpel-link="external">B&H Photo Video</a>/<a href="https://adorama.evyy.net/c/63923/51926/1036?u=https%3A%2F%2Fwww.adorama.com%2Fl%2F%3Fsearchinfo%3DNIKKOR%2520Z%252014-30mm%2520f%2F4%2520S" target="_blank" rel="nofollow noopener" data-wpel-link="external">Adorama</a>/<a href="https://www.amazon.com/Nikon-Z-14-30mm-f-NIKKOR/dp/B07MS6299X/?tag=daicamnew-20" target="_blank" rel="nofollow noopener" data-wpel-link="external" data-amzn-asin="B07MS6299X">Amazon</a>.<!--more-->
 
@@ -138,4 +138,4 @@ Read more [Nikon Mirrorless][1] and <a href="https://www.dailycameranews.com/
 
 Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868201466609763/" target="_blank" rel="external nofollow noopener"><strong>Nikon Camera Users Group</strong></a> to share your Nikon photography, ask and answer questions that arise and help each others!
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

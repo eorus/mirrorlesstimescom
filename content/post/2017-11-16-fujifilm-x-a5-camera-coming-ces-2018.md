@@ -38,4 +38,4 @@ So take it with a grain of salt and stay tuned with more [**Fujifilm Mirrorless*
  [1]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/Upcoming-Fuji-Camera-X-A5.jpg?ssl=1
  [2]: https://www.dailycameranews.com/2017/10/fujifilm-x-t100-camera-development/
  [3]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/Design-comparison-image-X-A5.jpg?ssl=1
- [4]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

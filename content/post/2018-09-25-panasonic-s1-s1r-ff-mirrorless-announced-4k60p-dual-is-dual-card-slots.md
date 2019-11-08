@@ -48,5 +48,5 @@ Release date for both S1 & S1R will be in early 2019. You can take a look at <a
 
 Read more [Panasonic Mirrorless][1] and [Panasonic Rumors][2].
 
- [1]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [1]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [2]: https://www.dailycameranews.com/tag/panasonic-rumors/

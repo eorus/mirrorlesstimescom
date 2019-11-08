@@ -15,7 +15,7 @@ tags:
 
 ---
 <p class="p1">
-  <span class="s1">Canon RF 14-21mm f/1.4L, RF 12-20mm f/2L, RF 16-35mm f/2.8L patents filed in Japan. The application is for <strong>RF 14-21mm f/1.4L</strong> lens designed for <a href="https://www.mirrorlesstimes.com/tag/canon-full-frame-mirrorless-camera/" target="_blank" rel="noopener">Canon full frame mirrorless camera</a> system.</span>
+  <span class="s1">Canon RF 14-21mm f/1.4L, RF 12-20mm f/2L, RF 16-35mm f/2.8L patents filed in Japan. The application is for <strong>RF 14-21mm f/1.4L</strong> lens designed for <a href="https://www.mirrorlesstimes.com/tags/canon-full-frame-mirrorless-camera/" target="_blank" rel="noopener">Canon full frame mirrorless camera</a> system.</span>
 </p>
 
 Looks like in 2019 we’ll meet several new RF lenses and if these wide-angle zoom optics hits the mass production then it will be amazing for the [EOS R][1].
@@ -46,6 +46,6 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 
 Read more [Canon mirrorless][3] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-eos-r/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-eos-r/
  [2]: https://www.dailycameranews.com/2018/09/canon-eos-r-in-stock-availability-tracker/
- [3]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

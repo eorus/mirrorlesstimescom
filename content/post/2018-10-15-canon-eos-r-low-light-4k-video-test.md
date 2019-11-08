@@ -18,7 +18,7 @@ tags:
 
 The EOS R (<a class="ext-link" title="" href="https://www.amazon.com/Canon-Cameras-Digital-Camera-3075C002/dp/B07H484HLT/?tag=daicamnew-20" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external" data-amzn-asin="B07H484HLT">Amazon</a>, <a class="ext-link" title="" href="https://www.bhphotovideo.com/c/product/1433710-REG/canon_eos_r_mirrorless_digital.html/BI/20175/KBID/14249/" target="_blank" rel="noopener external noreferrer nofollow" data-wpel-link="external">B&H</a>, <a class="ext-link broken_link" title="" href="https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/car.html" target="_blank" rel="noopener external noreferrer nofollow">Adorama</a>) features a **30.3MP CMOS sensor** with Dual Pixel AF and an ISO range of 100-40000 (expandable to 50-102400).
 
-Everything you need to know about the new <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> full frame mirrorless system including sample images, hands-on videos, size and specs comparison and pre-order links. <a href="https://www.dailycameranews.com/2018/09/canon-eos-r-price-2299-everything-you-need-to-know/" target="_blank" rel="bookmark noopener"><strong>Canon EOS R Price $2,299, Everything You Need to Know</strong></a>.<!--more-->
+Everything you need to know about the new <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> full frame mirrorless system including sample images, hands-on videos, size and specs comparison and pre-order links. <a href="https://www.dailycameranews.com/2018/09/canon-eos-r-price-2299-everything-you-need-to-know/" target="_blank" rel="bookmark noopener"><strong>Canon EOS R Price $2,299, Everything You Need to Know</strong></a>.<!--more-->
 
 Looking for the Canon EOS R availability? Due to high demand of the Canon’s full frame mirrorless camera, here is the [Canon EOS R in stock tracker][2].
 
@@ -60,4 +60,4 @@ Read more [Canon mirrorless][3] and <a href="https://www.dailycameranews.com/
 
  [1]: https://www.mirrorlesstimes.com/2018/09/shutter-sound-of-the-canon-eos-r-mirrorless-camera/
  [2]: https://www.dailycameranews.com/2018/09/canon-eos-r-in-stock-availability-tracker/
- [3]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

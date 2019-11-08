@@ -16,7 +16,7 @@ tags:
 ---
 <a href="https://www.youtube.com/channel/UCIfojVm5Ivn4kBcCxQAufIA" target="_blank" rel="nofollow noopener">Mert Gündoğdu</a> shared the shutter sound of the Canon EOS R full frame mirrorless camera. The video below shows the shutter sound of the Canon EOS R, normal shutter and silent shutter.
 
-Everything you need to know about the new <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> full frame mirrorless system including sample images, hands-on videos, size and specs comparison and pre-order links. <a href="https://www.dailycameranews.com/2018/09/canon-eos-r-price-2299-everything-you-need-to-know/" target="_blank" rel="bookmark noopener"><strong>Canon EOS R Price $2,299, Everything You Need to Know</strong></a>
+Everything you need to know about the new <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> full frame mirrorless system including sample images, hands-on videos, size and specs comparison and pre-order links. <a href="https://www.dailycameranews.com/2018/09/canon-eos-r-price-2299-everything-you-need-to-know/" target="_blank" rel="bookmark noopener"><strong>Canon EOS R Price $2,299, Everything You Need to Know</strong></a>
 
 The Canon EOS R will be available in October 2018 for a retail price of <a href="https://www.bhphotovideo.com/c/product/1433710-REG/canon_eos_r_mirrorless_digital.html/BI/20175/KBID/14249" target="_blank" rel="nofollow noopener">$2299 for the body only</a>.  <!--more-->
 

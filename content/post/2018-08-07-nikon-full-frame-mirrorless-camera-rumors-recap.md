@@ -16,7 +16,7 @@ tags:
 ---
 Here is the recap of all [Nikon full frame mirrorless camera][1] rumors. The camera is expected to be announced on August 23 and let’s gather up the rumors that leaked until this time.
 
-What we know generally is that Nikon will target or compete directly with the Sony A7/A7r line of cameras. So the body of the Nikon FF mirrorless cameras will bi similar<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 1rem;"> body size to the <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/">Sony a7 III</a> camera but with better ergonomics and a better grip. </span>
+What we know generally is that Nikon will target or compete directly with the Sony A7/A7r line of cameras. So the body of the Nikon FF mirrorless cameras will bi similar<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 1rem;"> body size to the <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/">Sony a7 III</a> camera but with better ergonomics and a better grip. </span>
 
 [Confirmed: Nikon Z6 & Z7 Full Frame Mirrorless Cameras, Z-NOCT-NIKKOR 58mm f/0.95 Lens][2]
 
@@ -57,6 +57,6 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868
 
 Read more [Nikon mirrorless][3] and  <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>. See <a href="https://www.dailycameranews.com/2018/04/what-to-expect-from-nikon-in-2018/" rel="bookmark">What to Expect from Nikon in 2018</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-full-frame-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-full-frame-mirrorless/
  [2]: https://www.mirrorlesstimes.com/2018/08/confirmed-nikon-z6-z7-full-frame-mirrorless-cameras-z-noct-nikkor-58mm-f-0-95-lens/
- [3]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

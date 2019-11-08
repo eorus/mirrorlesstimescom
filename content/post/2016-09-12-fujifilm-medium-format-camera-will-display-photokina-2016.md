@@ -38,5 +38,5 @@ What will be the design look like? Will it look like the GW690 or GF670? What a
 
 [Photokina][2] is the world’s biggest digital imaging show and it will open its doors by the end of September. The company might display a prototype of the Fujifilm medium format camera. The release date of the product slated for early 2017. Stay tuned for more information!
 
- [1]: https://www.mirrorlesstimes.com/tag/medium-format/
- [2]: https://www.mirrorlesstimes.com/tag/photokina-2016/
+ [1]: https://www.mirrorlesstimes.com/tags/medium-format/
+ [2]: https://www.mirrorlesstimes.com/tags/photokina-2016/

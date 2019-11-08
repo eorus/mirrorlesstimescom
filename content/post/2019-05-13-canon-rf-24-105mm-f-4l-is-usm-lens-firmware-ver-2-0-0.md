@@ -14,7 +14,7 @@ tags:
   - Lens
 
 ---
-Canon released a new firmware update for the <a href="https://www.mirrorlesstimes.com/tag/canon-rf-24-105mm-f-4l-usm/" target="_blank" rel="noopener">RF 24-105mm f/4L IS</a> flens. The compact and lightweight standart-zoom lens is a great performer that pairs perfectly with the [EOS R full frame mirrorless system][1].
+Canon released a new firmware update for the <a href="https://www.mirrorlesstimes.com/tags/canon-rf-24-105mm-f-4l-usm/" target="_blank" rel="noopener">RF 24-105mm f/4L IS</a> flens. The compact and lightweight standart-zoom lens is a great performer that pairs perfectly with the [EOS R full frame mirrorless system][1].
 
 The lens offers 5 stops of image stabilization system and focuses smoothly thanks to its Nano USM motor. It has a nine-blade aperture, 45cm (17.7″) minimum focus distance and uses 77mm filters. There’s also a customizable control ring that can serve a variety of purposes.
 
@@ -46,5 +46,5 @@ Join the <a href="https://www.facebook.com/groups/185572945112087/" target="_bl
 
 Read more [Canon mirrorless][2] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noreferrer noopener">Canon Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-full-frame-mirrorless-camera/
- [2]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-full-frame-mirrorless-camera/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

@@ -35,8 +35,8 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 
 Read more [Canon mirrorless][5] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>. See <a href="https://www.dailycameranews.com/2018/06/what-to-expect-from-canon-in-2018/" rel="bookmark">What to Expect from Canon in 2018</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/canon-full-frame-mirrorless-camera/
+ [1]: https://www.mirrorlesstimes.com/tags/canon-full-frame-mirrorless-camera/
  [2]: https://www.dailycameranews.com/tag/canon-eos-5d-mark-4/
- [3]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
- [4]: https://www.mirrorlesstimes.com/tag/sony-a7s-iii/
- [5]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
+ [4]: https://www.mirrorlesstimes.com/tags/sony-a7s-iii/
+ [5]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

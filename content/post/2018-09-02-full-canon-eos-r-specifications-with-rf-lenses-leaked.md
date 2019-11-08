@@ -19,11 +19,11 @@ tags:
   - Rumors
 
 ---
-Full <a href="https://www.mirrorlesstimes.com/tag/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> specifications with four new RF Lenses have leaked online. The Canon EOS R full-frame mirrorless camera and accompanying lenses will be announced on **September 5th**.
+Full <a href="https://www.mirrorlesstimes.com/tags/canon-eos-r/" target="_blank" rel="noopener">Canon EOS R</a> specifications with four new RF Lenses have leaked online. The Canon EOS R full-frame mirrorless camera and accompanying lenses will be announced on **September 5th**.
 
 From the full Canon EOS R specifications we can clearly say that the upcoming MILC will be a mirrorless version of the company&#8217;s EOS 5D Mark IV. The camera will feature a **30.3MP full frame image sensor**, dual pixel RAW support, **8fps continuous shooting speed** with crazy **5,655 points.** As from the specs sheet we can see the downsides of the EOS R are the **lack of IBIS and dual card slot**.
 
-The rumored Canon EOS R specifications below are more about to compete with [Sony a7 III][1] and sure the new <a href="https://www.mirrorlesstimes.com/tag/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a>. So the price of the EOS R is expected to be at $2000 range. <!--more-->
+The rumored Canon EOS R specifications below are more about to compete with [Sony a7 III][1] and sure the new <a href="https://www.mirrorlesstimes.com/tags/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a>. So the price of the EOS R is expected to be at $2000 range. <!--more-->
 
 ## Full Canon EOS R Specifications
 
@@ -51,7 +51,7 @@ We will meet new RF lenses within [Canon full frame mirrorless camera][2] annou
 
 [<img class="aligncenter size-full wp-image-2272" src="https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/new-canon-rf-lenses-specifications-leaked.jpg?resize=600%2C423&#038;ssl=1" alt="" width="600" height="423" srcset="https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/new-canon-rf-lenses-specifications-leaked.jpg?w=1230&ssl=1 1230w, https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/new-canon-rf-lenses-specifications-leaked.jpg?resize=425%2C300&ssl=1 425w, https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/new-canon-rf-lenses-specifications-leaked.jpg?resize=768%2C542&ssl=1 768w, https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/new-canon-rf-lenses-specifications-leaked.jpg?resize=970%2C685&ssl=1 970w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" />][4]
 
-##### <a href="https://www.mirrorlesstimes.com/tag/canon-rf-28-70mm-f-2l-usm/" data-wpel-link="exclude">RF 28-70mm f/2L USM</a>
+##### <a href="https://www.mirrorlesstimes.com/tags/canon-rf-28-70mm-f-2l-usm/" data-wpel-link="exclude">RF 28-70mm f/2L USM</a>
 
   * Lens composition: 13 groups 19 sheets
   * Minimum shooting distance: 39 cm
@@ -59,7 +59,7 @@ We will meet new RF lenses within [Canon full frame mirrorless camera][2] annou
   * Size: φ103.8 × 139.8 mm
   * Weight: 1430 g
 
-##### <a href="https://www.mirrorlesstimes.com/tag/canon-rf-50mm-f-1-2l-usm/" data-wpel-link="internal">RF 50mm f/1.2L USM</a>
+##### <a href="https://www.mirrorlesstimes.com/tags/canon-rf-50mm-f-1-2l-usm/" data-wpel-link="internal">RF 50mm f/1.2L USM</a>
 
   * Lens construction: 9 groups of 15
   * Shortest shooting distance: 40 cm
@@ -67,7 +67,7 @@ We will meet new RF lenses within [Canon full frame mirrorless camera][2] annou
   * Size: φ 89.8 x 108.0 mm
   * Weight: 950 g
 
-##### <a href="https://www.mirrorlesstimes.com/tag/canon-rf-35mm-f-1-8-m-is/" data-wpel-link="internal">RF 35mm f/1.8 M IS STM</a>
+##### <a href="https://www.mirrorlesstimes.com/tags/canon-rf-35mm-f-1-8-m-is/" data-wpel-link="internal">RF 35mm f/1.8 M IS STM</a>
 
   * Lens construction: 9 groups 9 pieces
   * Shortest shooting distance: 17 cm
@@ -75,7 +75,7 @@ We will meet new RF lenses within [Canon full frame mirrorless camera][2] annou
   * Size: φ74.4 × 62.8 mm
   * Weight: 305 g
 
-##### <a href="https://www.mirrorlesstimes.com/tag/canon-rf-24-105mm-f-4l-usm/" data-wpel-link="exclude">RF 24-105mm f/4L IS USM</a>
+##### <a href="https://www.mirrorlesstimes.com/tags/canon-rf-24-105mm-f-4l-usm/" data-wpel-link="exclude">RF 24-105mm f/4L IS USM</a>
 
   * Lens construction: 14 groups 18 pieces
   * Shortest shooting distance: 45 cm
@@ -87,8 +87,8 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/185
 
 Read more [Canon mirrorless][5] and <a href="https://www.dailycameranews.com/tag/canon-rumors/" target="_blank" rel="noopener">Canon Rumors</a>. See <a href="https://www.dailycameranews.com/2018/08/what-to-expect-from-canon-at-photokina-2018/" rel="bookmark">What to Expect from Canon at Photokina 2018</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-a7-iii/
- [2]: https://www.mirrorlesstimes.com/tag/canon-full-frame-mirrorless-camera/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-full-frame-mirrorless-camera/
  [3]: https://www.dailycameranews.com/2018/09/new-canon-rf-lenses-specifications-leaked/
  [4]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/09/new-canon-rf-lenses-specifications-leaked.jpg?ssl=1
- [5]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [5]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

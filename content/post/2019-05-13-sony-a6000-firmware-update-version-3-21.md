@@ -26,7 +26,7 @@ Sony A6000 mirrorless camera body only price is <a href="http://www.amazo
 
 You can download this firmware [here][3].
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noreferrer noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noreferrer noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noreferrer noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noreferrer noopener">Sony Rumors</a> here.
 
  [1]: https://www.dailycameranews.com/category/sony/
  [2]: https://www.dailycameranews.com/2014/02/sony-a6000/

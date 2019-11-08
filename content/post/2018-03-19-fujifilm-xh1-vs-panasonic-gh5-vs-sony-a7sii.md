@@ -26,7 +26,7 @@ The X-H1 camera for body-only is priced for [$1,899.95][2] and with Vertical P
 
 Read more [Fujifilm Mirrorless][4] news and <a href="https://www.dailycameranews.com/tag/fujifilm-rumors/" target="_blank" rel="noopener">Fujifilm Rumors</a>.
 
- [1]: https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/
+ [1]: https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/
  [2]: https://aax-us-east.amazon-adsystem.com/x/c/QvW0NFj3FdXsFGLhfdpgInMAAAFhmXwlrQEAAAFKAc3BzFQ/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Fujifilm-X-H1-Mirrorless-Digital-Body/dp/B079PTRNKK/ref=as_at/?imprToken=iJ1EBwckOn88ZcRhzceN1w&slotNum=3&ie=UTF8&linkCode=sl1&tag=daicamnew-20&linkId=078070ffc7ef6fbdee796d8a7c6221d9
  [3]: https://aax-us-east.amazon-adsystem.com/x/c/QvW0NFj3FdXsFGLhfdpgInMAAAFhmXwlrQEAAAFKAc3BzFQ/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Fujifilm-X-H1-Mirrorless-Digital-Body/dp/B079PTJ7RT/ref=as_at/?imprToken=iJ1EBwckOn88ZcRhzceN1w&slotNum=4&ie=UTF8&linkCode=sl1&tag=daicamnew-20&linkId=2bb7a874c85f04cc717c2e6435530711
- [4]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [4]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

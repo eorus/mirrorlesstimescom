@@ -23,6 +23,6 @@ tags:
   - Sony Mirrorless
 
 ---
-Tony Northrup has posted 2018 predictions about the possible Canon 5DS-R Mk II, Canon 7D Mk III, Canon 90D, Canon M3, Nikon D650, Nikon D850A, Nikon M700, Sony a5200, <a href="https://www.mirrorlesstimes.com/tag/sony-a7-iii/" target="_blank" rel="noopener">Sony a7 III</a>, <a href="https://www.mirrorlesstimes.com/tag/sony-a7s-iii/" target="_blank" rel="noopener">Sony a7S III</a>, <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-h1/" target="_blank" rel="noopener">Fujifilm X-H1</a>, Pentax K-1 II, <a href="https://www.mirrorlesstimes.com/tag/panasonic-gh5s/" target="_blank" rel="noopener">Panasonic GH5-S,</a> Olympus E-M5 Mk III.<!--more-->
+Tony Northrup has posted 2018 predictions about the possible Canon 5DS-R Mk II, Canon 7D Mk III, Canon 90D, Canon M3, Nikon D650, Nikon D850A, Nikon M700, Sony a5200, <a href="https://www.mirrorlesstimes.com/tags/sony-a7-iii/" target="_blank" rel="noopener">Sony a7 III</a>, <a href="https://www.mirrorlesstimes.com/tags/sony-a7s-iii/" target="_blank" rel="noopener">Sony a7S III</a>, <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-h1/" target="_blank" rel="noopener">Fujifilm X-H1</a>, Pentax K-1 II, <a href="https://www.mirrorlesstimes.com/tags/panasonic-gh5s/" target="_blank" rel="noopener">Panasonic GH5-S,</a> Olympus E-M5 Mk III.<!--more-->
 
 ## Tony Northrup predictions of 2018  : Nikon M700, Panasonic GH5s, Fuji X-H1, Sony a7 III & a7S III

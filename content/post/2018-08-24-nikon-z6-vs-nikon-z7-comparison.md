@@ -355,11 +355,11 @@ Join the <a class="ext-link" title="" href="https://www.facebook.com/groups/868
 Read more [Nikon mirrorless][9] and  <a href="https://www.dailycameranews.com/tag/nikon-rumors/" target="_blank" rel="noopener">Nikon Rumors</a>.
 
  [1]: https://www.dailycameranews.com/2018/03/nikon-d850-stock-availability-tracker/
- [2]: https://www.mirrorlesstimes.com/tag/nikon-z6/
+ [2]: https://www.mirrorlesstimes.com/tags/nikon-z6/
  [3]: https://www.mirrorlesstimes.com/2018/08/nikon-z6-and-z7-hands-on-preview-videos/
  [4]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/08/nikon-z6-and-nikon-z7-comparison.jpg?ssl=1
  [5]: https://www.bhphotovideo.com/c/product/1431709-REG/nikon_20081_nikkor_z_35mm_f_1_8.html/BI/20175/KBID/14249/
  [6]: https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/nkz3518.html
  [7]: https://www.bhphotovideo.com/c/product/1431710-REG/nikon_20083_nikkor_z_50mm_f_1_8.html/BI/20175/KBID/14249/
  [8]: https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/nkz5018.html
- [9]: https://www.mirrorlesstimes.com/tag/nikon-mirrorless/
+ [9]: https://www.mirrorlesstimes.com/tags/nikon-mirrorless/

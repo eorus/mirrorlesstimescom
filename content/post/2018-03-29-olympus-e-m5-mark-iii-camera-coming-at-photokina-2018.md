@@ -41,7 +41,7 @@ Read more [Olympus Mirrorless News][3] and <a href="https://www.dailycamerane
 
 via [dailycameranews][4]
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-e-m5-mark-iii/
- [2]: https://www.mirrorlesstimes.com/tag/photokina-2018/
- [3]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless "Olympus Mirrorless News"
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-e-m5-mark-iii/
+ [2]: https://www.mirrorlesstimes.com/tags/photokina-2018/
+ [3]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless "Olympus Mirrorless News"
  [4]: https://www.dailycameranews.com/2018/03/expect-from-olympus-e-m5-mark-iii-camera/

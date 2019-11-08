@@ -216,4 +216,4 @@ Read more [Panasonic Mirrorless][3] news!
 
  [1]: https://www.dailycameranews.com/2017/11/panasonic-g9/
  [2]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/11/panasonic-G9-shipping.jpg?ssl=1
- [3]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless
+ [3]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless

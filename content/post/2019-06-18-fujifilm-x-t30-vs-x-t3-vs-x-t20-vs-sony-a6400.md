@@ -15,7 +15,7 @@ tags:
   - Sony A6400
 
 ---
-Let’s compare the **Fujifilm X-T30 vs X-T3 vs X-T20 vs Sony A6400.** Our comparison table below covers all the important specifications of each camera. The <a href="https://www.mirrorlesstimes.com/tag/fujifilm-x-t30/" target="_blank" rel="noreferrer noopener">Fujifilm X-T30</a> has the same 2**6MP X-Trans BSI-CMOS 4 sensor** and X-Processor 4 as the <a href="https://www.dailycameranews.com/tag/fujifilm-x-t3/" target="_blank" rel="noreferrer noopener">X-T3</a>. Besides that you can seee the differences between the X-T20 and [Sony A6400][1].<!--more-->
+Let’s compare the **Fujifilm X-T30 vs X-T3 vs X-T20 vs Sony A6400.** Our comparison table below covers all the important specifications of each camera. The <a href="https://www.mirrorlesstimes.com/tags/fujifilm-x-t30/" target="_blank" rel="noreferrer noopener">Fujifilm X-T30</a> has the same 2**6MP X-Trans BSI-CMOS 4 sensor** and X-Processor 4 as the <a href="https://www.dailycameranews.com/tag/fujifilm-x-t3/" target="_blank" rel="noreferrer noopener">X-T3</a>. Besides that you can seee the differences between the X-T20 and [Sony A6400][1].<!--more-->
 
 ### Fujifilm X-T30 vs X-T3 vs X-T20 vs Sony A6400
 
@@ -509,4 +509,4 @@ Read more [Fujifilm Mirrorless][2] news and <a href="https://www.dailycameran
 _Also join the <a href="https://www.facebook.com/groups/978460185571041/" target="_blank" rel="noreferrer noopener">Fujifilm Camera Users</a> Facebook Group to share your Fujifilm photography._
 
  [1]: https://www.dailycameranews.com/tag/sony-a6400/
- [2]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

@@ -15,7 +15,7 @@ tags:
 ---
 Fujifilm XF 120mm f/2.8 R macro lens is rumored to have been delayed and expected to be announced by the end of 2016.
 
-According to recent Fuji rumors, the company will first launch the XF 23mm f/2 lens and it will become available this year at the <a href="https://www.mirrorlesstimes.com/tag/photokina-2016/" target="_blank">Photokina 2016</a> event in September.
+According to recent Fuji rumors, the company will first launch the XF 23mm f/2 lens and it will become available this year at the <a href="https://www.mirrorlesstimes.com/tags/photokina-2016/" target="_blank">Photokina 2016</a> event in September.
 
 The <a href="http://www.dailycameranews.com/2015/05/fujifilm-x-mount-lens-roadmap-2015-release-dates-leaked/" target="_blank">official Fujifilm roadmap for 2015-2016</a> showed that the XF 120mm f/2.8 R OIS WR Macro lens will come in mid-2016. Now trusted sources states that the launch of the XF 120mm f/2.8 R macro lens has been postponed until Q4 of 2016.
 

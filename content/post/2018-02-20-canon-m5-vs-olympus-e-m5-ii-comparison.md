@@ -776,5 +776,5 @@ And, since the Canon M5 has an APS-C sized sensor and the Olympus E-M5 II has a 
 
 Read more [**Olympus Mirrorless**][1] and [**Canon Mirrorless**][2] news.
 
- [1]: https://www.mirrorlesstimes.com/tag/olympus-mirrorless/
- [2]: https://www.mirrorlesstimes.com/tag/canon-mirrorless/
+ [1]: https://www.mirrorlesstimes.com/tags/olympus-mirrorless/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-mirrorless/

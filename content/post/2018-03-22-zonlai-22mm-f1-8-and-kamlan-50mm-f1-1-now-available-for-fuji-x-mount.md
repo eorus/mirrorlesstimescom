@@ -61,4 +61,4 @@ _Also join the <a class="ext-link" title="" href="https://www.facebook.com/grou
 
  [1]: https://www.dailycameranews.com/tag/kamlan-sainsonic-50mm-f-1-1/
  [2]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/03/zonlai-lesn-fuji.jpg?ssl=1
- [3]: https://www.mirrorlesstimes.com/tag/fujifilm-mirrorless/
+ [3]: https://www.mirrorlesstimes.com/tags/fujifilm-mirrorless/

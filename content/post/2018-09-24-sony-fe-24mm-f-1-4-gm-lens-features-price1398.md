@@ -14,7 +14,7 @@ tags:
   - Sony Mirrorless
 
 ---
-Here is everthing you need to know about the <a href="https://www.mirrorlesstimes.com/tag/sony-fe-24mm-f-1-4-gm/" target="_blank" rel="noopener">Sony FE 24mm f/1.4 GM</a> Lens including features, construction, impressions and hands-on videos.
+Here is everthing you need to know about the <a href="https://www.mirrorlesstimes.com/tags/sony-fe-24mm-f-1-4-gm/" target="_blank" rel="noopener">Sony FE 24mm f/1.4 GM</a> Lens including features, construction, impressions and hands-on videos.
 
 The new FE 24mm F1.4 GM utilizes Sony’s most advanced optical technologies to satisfy the needs of the most demanding photographers. The lens is the most compact and lightweight in its class measuring approx. 75mm x 92mm (3.0 x 3.64 inches) and weighing only 445 grams (15.7 ounces), with a filter diameter of 67mm.
 
@@ -76,4 +76,4 @@ The lightweight lens design has been realized in part by the development of a ne
 
 
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.

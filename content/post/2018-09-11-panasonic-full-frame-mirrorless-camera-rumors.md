@@ -45,7 +45,7 @@ Panasonic full frame mirrorless camera specs include **30-megapixel** in resol
 
 Read more [Panasonic Mirrorless][3] and [Panasonic Rumors][4].
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-z7/
- [2]: https://www.mirrorlesstimes.com/tag/canon-eos-r/
- [3]: https://www.mirrorlesstimes.com/tag/panasonic-mirrorless "Panasonic Mirrorless News"
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-z7/
+ [2]: https://www.mirrorlesstimes.com/tags/canon-eos-r/
+ [3]: https://www.mirrorlesstimes.com/tags/panasonic-mirrorless "Panasonic Mirrorless News"
  [4]: https://www.dailycameranews.com/tag/panasonic-rumors/

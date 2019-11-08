@@ -21,7 +21,7 @@ Detailed comparison of the _Panasonic GH5s_ vs _Sony A7S II_. You can find hi
 
 The Panasonic Lumix DC-GH5s and the Sony Alpha 7S II are two high-end video centric cameras that were announced, respectively, in January 2018 and September 2015.
 
-The <a href="https://www.mirrorlesstimes.com/tag/panasonic-gh5s/" target="_blank" rel="noopener">Panasonic GH5s</a> will be available from February for **$2499 body-only**. Check availability at major stores <a href="https://aax-us-east.amazon-adsystem.com/x/c/QoFQLy1BjxpOOOC3JrhzBWUAAAFg11PduQEAAAFKAbVFvp4/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Panasonic-DC-GH5S-Mirrorless-Sensitivity-Multi-Aspect/dp/B078J119BC/ref=as_at?creativeASIN=B078J119BC&linkCode=w61&imprToken=ifHjXilgh.O7rcHRg.WuiQ&slotNum=0&tag=daicamnew-20" target="_blank" rel="noopener" data-amzn-asin="B078J119BC">Amazon</a> | <a href="https://www.bhphotovideo.com/c/product/1382031-REG/panasonic_lumix_dc_gh5s_mirrorless_micro.html/BI/20175/KBID/14249" target="_blank" rel="noopener">B&H</a> | <a href="https://www.adorama.com/ipcdcgh5s.html?kbid=68292" target="_blank" rel="noopener">Adorama</a>.<!--more-->
+The <a href="https://www.mirrorlesstimes.com/tags/panasonic-gh5s/" target="_blank" rel="noopener">Panasonic GH5s</a> will be available from February for **$2499 body-only**. Check availability at major stores <a href="https://aax-us-east.amazon-adsystem.com/x/c/QoFQLy1BjxpOOOC3JrhzBWUAAAFg11PduQEAAAFKAbVFvp4/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Panasonic-DC-GH5S-Mirrorless-Sensitivity-Multi-Aspect/dp/B078J119BC/ref=as_at?creativeASIN=B078J119BC&linkCode=w61&imprToken=ifHjXilgh.O7rcHRg.WuiQ&slotNum=0&tag=daicamnew-20" target="_blank" rel="noopener" data-amzn-asin="B078J119BC">Amazon</a> | <a href="https://www.bhphotovideo.com/c/product/1382031-REG/panasonic_lumix_dc_gh5s_mirrorless_micro.html/BI/20175/KBID/14249" target="_blank" rel="noopener">B&H</a> | <a href="https://www.adorama.com/ipcdcgh5s.html?kbid=68292" target="_blank" rel="noopener">Adorama</a>.<!--more-->
 
 Coming back to sensor resolution, Both the GH5s and the A7S II are **mirrorless interchangeable lens cameras** that are based on a Four Thirds (GH5s) and a full frame sensor. The Panasonic has a resolution of 9.9 megapixel, whereas the Sony provides 12 MP.
 
@@ -51,7 +51,7 @@ Check out these Panasonic GH5s vs Sony A7sII tests:
 
 
 
-Stay tuned with us for more information to read more <a href="https://www.mirrorlesstimes.com/tag/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> and <a href="https://www.dailycameranews.com/tag/panasonic-rumors/" target="_blank" rel="noopener">Panasonic Rumors</a>!
+Stay tuned with us for more information to read more <a href="https://www.mirrorlesstimes.com/tags/panasonic-mirrorless" target="_blank" rel="noopener">Panasonic Mirrorless</a> and <a href="https://www.dailycameranews.com/tag/panasonic-rumors/" target="_blank" rel="noopener">Panasonic Rumors</a>!
 
  [1]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/01/panasonic-gh5s-vs-sony-a7s-ii-high-iso-1.jpg?ssl=1
  [2]: https://i1.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/01/panasonic-gh5s-vs-sony-a7s-ii-high-iso-2.jpg?ssl=1

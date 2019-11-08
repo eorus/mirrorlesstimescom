@@ -31,8 +31,8 @@ Aimed primarily at professional sports, wildlife, and news photographers who nee
 
 > The new lens will feature the incredible high-resolution and spectacular beautiful bokeh of Sony’s acclaimed line of flagship G Master™ series lenses, while also offering a far-reaching 400mm focal length and F2.8 large aperture. This combination will deliver a new elevated shooting experience for all professional sports, news and wildlife photographers looking to capture all of the decisive moments with higher image quality.
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here.
 
- [1]: https://www.mirrorlesstimes.com/tag/sony-fe-400mm-f-2-8-gm-oss-lens/
+ [1]: https://www.mirrorlesstimes.com/tags/sony-fe-400mm-f-2-8-gm-oss-lens/
  [2]: https://www.dailycameranews.com/2016/11/best-sony-a6500-lenses/
  [3]: https://i0.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2017/12/sony-fe-400mm-f-2-8-gm-oss-lens-release-date-scheduled-september-2018.jpg?ssl=1

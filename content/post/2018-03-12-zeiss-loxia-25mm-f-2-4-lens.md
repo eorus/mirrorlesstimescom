@@ -72,9 +72,9 @@ The point of the Loxia line and its lack of autofocus is to provide compact, dur
 
 For more information, please visit <a class="linkicon internal" href="https://www.zeiss.com/photo/loxia2425" target="_blank" rel="noopener">www.zeiss.com/photo/loxia2425</a>
 
-Read more <a href="https://www.mirrorlesstimes.com/tag/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here. Check out the [Best Sony Full Frame E Mount Lenses][4].
+Read more <a href="https://www.mirrorlesstimes.com/tags/sony-mirrorless/" target="_blank" rel="noopener">Sony Mirrorless</a> news and <a href="https://www.dailycameranews.com/tag/sony-rumors/" target="_blank" rel="noopener">Sony Rumors</a> here. Check out the [Best Sony Full Frame E Mount Lenses][4].
 
- [1]: https://www.mirrorlesstimes.com/tag/zeiss-loxia-25mm-f-2-4/
+ [1]: https://www.mirrorlesstimes.com/tags/zeiss-loxia-25mm-f-2-4/
  [2]: https://www.bhphotovideo.com/c/search?atclk=Category_Lenses&sts=ma&ci=15492&N=4291107378+4293919655&Ntt=Zeiss+Loxia&BI=20175&KBID=14249
  [3]: https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/03/zeiss-loxia-25mm-f-2-4-lens.jpg?ssl=1
  [4]: https://www.dailycameranews.com/2017/03/best-sony-full-frame-e-mount-lenses/

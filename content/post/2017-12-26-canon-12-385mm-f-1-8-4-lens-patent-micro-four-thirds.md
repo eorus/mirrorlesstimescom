@@ -16,7 +16,7 @@ tags:
 A new patent has been surfaced on the web from Canon. The application describes a **Canon 12-385mm f/1.8-4 lens** for _Micro Four Thirds_ system cameras.
 
 <p class="p1">
-  <span class="s1">This ofcourse doesn&#8217;t mean that Canon is joining to Micro 4/3rds community. When we look at the application it shows the 12-385mm F1.8-4.0 lens is for a camcorder. It would probably feature a <a href="https://www.mirrorlesstimes.com/tag/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> image sensor. </span>
+  <span class="s1">This ofcourse doesn&#8217;t mean that Canon is joining to Micro 4/3rds community. When we look at the application it shows the 12-385mm F1.8-4.0 lens is for a camcorder. It would probably feature a <a href="https://www.mirrorlesstimes.com/tags/micro-four-thirds/" target="_blank" rel="noopener">Micro Four Thirds</a> image sensor. </span>
 </p>
 
 Although it is not directly competitive with Olympus and Panasonic, both<span class="s1"> will get one more competitors in the market that is Canon 🙂 See below for the patent details. </span><!--more-->

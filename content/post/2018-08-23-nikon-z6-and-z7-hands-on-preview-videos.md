@@ -30,5 +30,5 @@ You can also check links below to pre-order Nikon Z6 & Z7:
 
 ## All the Nikon Z6 and Z7 related videos
 
- [1]: https://www.mirrorlesstimes.com/tag/nikon-z6/
+ [1]: https://www.mirrorlesstimes.com/tags/nikon-z6/
  [2]: https://www.dailycameranews.com/2018/08/nikon-z6-and-z7-mirrorless-cameras-officially-announced/

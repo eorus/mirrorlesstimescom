@@ -14,7 +14,7 @@ tags:
   - Sony A7R III
 
 ---
-Here is a quick coverage of the high-speed and resolution <a href="https://www.mirrorlesstimes.com/tag/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> full-frame mirrorless camera.
+Here is a quick coverage of the high-speed and resolution <a href="https://www.mirrorlesstimes.com/tags/sony-a7r-iii/" target="_blank" rel="noopener">Sony A7R III</a> full-frame mirrorless camera.
 
 The _a7R III_ is _Sony&#8217;s_ latest high resolution camera, which carries over many of the improvements found on the company&#8217;s flagship a9. The shooter has the same 42MP sensor but better performance. The hardware transferred from the Sony A9 allows for faster burst shooting, improved autofocus and higher quality 4K video.
 
