@@ -4,4 +4,5 @@
 https://wizardly-noether-af1dab.netlify.com/* https://www.mirrorlesstimes.com/:splat 301
 
 # Redirects from what the browser requests to what we serve
-/tags              /tag
+/category/*  /categories/:splat
+/tag/*  /tags/:splat
