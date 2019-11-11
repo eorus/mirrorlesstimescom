@@ -7,11 +7,13 @@ url: /2016/04/first-panasonic-gx80-images-specs-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/panasonic-gx80-images-leaked-front.jpg
 dsq_thread_id:
   - "4861857025"
+categories:
+  - Panasonic
 tags:
   - Camera
   - Micro Four Thirds
   - Rumors
-
+  - Panasonic GX80
 ---
 The first **Panasonic GX80 images** and specs have been leaked on the web as the entry-level Micro Four Thirds camera is to be announced in a few days.
 

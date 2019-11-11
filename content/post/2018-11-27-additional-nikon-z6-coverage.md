@@ -32,9 +32,9 @@ From <a href="http://amateurphotographer/" target="_blank" rel="noopener">Amate
 
 > “With the Z 6, Nikon has made its best general purpose, full frame camera ever. When I reviewed the Sony A7 III earlier this year, I didn’t think any camera would be able to get close to what it offered for the money, but Nikon has somehow managed to pull out all the stops and do just that. The Sony A7 III has advantages of its own – it provides dual card slots for backup and offers class-leading AF tracking with Eye AF. Overall though, the Nikon Z 6 feels the more accomplished camera and a lot of this comes down to its sensational handling and robust build quality that is quite clearly in a league above what Sony offer at present.”
 
-<a href="https://www.dpreview.com/articles/8063289145/nikon-z6-video-footage-outshines-z7-simialr-to-a7-iii" target="_blank" rel="noopener">Dpreview</a>: Nikon Z6 4K video footage outshines Z7, is similar to Sony a7 III:
+<a href="https://www.dpreview.com/articles/8063289145/nikon-z6-video-bartage-outshines-z7-simialr-to-a7-iii" target="_blank" rel="noopener">Dpreview</a>: Nikon Z6 4K video bartage outshines Z7, is similar to Sony a7 III:
 
-> “The Nikon Z6 is a supremely capable video camera that comes with a 24MP full-frame sensor and captures oversampled 4K footage with no crop. It can also shoot 1080/120p footage for slow motion clips. The above sample footage was all shot hand-held with in-body IS turned on using the Auto AF area mode and Fulltime autofocus (AF-F).”
+> “The Nikon Z6 is a supremely capable video camera that comes with a 24MP full-frame sensor and captures oversampled 4K bartage with no crop. It can also shoot 1080/120p bartage for slow motion clips. The above sample bartage was all shot hand-held with in-body IS turned on using the Auto AF area mode and Fulltime autofocus (AF-F).”
 
 
 

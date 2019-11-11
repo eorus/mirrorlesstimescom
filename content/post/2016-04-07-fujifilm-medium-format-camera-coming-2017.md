@@ -7,12 +7,12 @@ url: /2016/04/fujifilm-medium-format-camera-coming-2017/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/fujifilm-medium-format-camera-gf670.jpg
 dsq_thread_id:
   - "4862448067"
+categories:
+  - Fujifilm
 tags:
   - Camera
-  - Medium Format
-  - Photokina 2016
   - Rumors
-
+  - Fujifilm Mirrorless
 ---
 **Fujifilm medium format camera** is on the rumor mill again. It is expected to be announced in 2017 with **50-megapixel** image sensor.
 

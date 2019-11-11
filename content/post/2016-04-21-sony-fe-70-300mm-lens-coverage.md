@@ -7,10 +7,13 @@ url: /2016/04/sony-fe-70-300mm-lens-coverage/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/sony-fe-70-300mm-f4-5-5-6-g-oss-lens-size-comparison-2.png
 dsq_thread_id:
   - "4862555056"
+categories:
+  - Sony
 tags:
-  - Full Frame
   - Lens
   - Review
+  - Sony FE 70-300mm f/4.5-5.6 G OSS Lens
+  - Sony Mirrorless
 
 ---
 Here is a recap of the new [FE 70-300mm F4.5-F5.6 G OSS][1] telephoto zoom lens designed for E-mount mirrorless cameras with full-frame image sensors.

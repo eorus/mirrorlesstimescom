@@ -7,10 +7,13 @@ url: /2016/03/hello-world/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/03/panasonic-gh4-firmware-2-5-announced-post-focus-4k-photo-mode-2.jpg
 dsq_thread_id:
   - "4871999173"
+categories:
+ -  Panasonic 
 tags:
   - Camera
   - Firmware
   - Micro Four Thirds
+  - Panasonic GH5
 
 ---
 Panasonic has released the new firmware update v2.5 for the Lumix DMC-GH4 mirrorless camera with Micro Four Thirds image sensor.

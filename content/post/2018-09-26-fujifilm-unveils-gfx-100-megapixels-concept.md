@@ -74,6 +74,6 @@ It is the first camera in the GFX Series to have a vertically-position grip and 
     <span class="pointer">*4</span>For mirrorless digital cameras with image sensors of 43.8mm x 32.9mm or larger. Data surveyed by Fujifilm as of September 25, 2018.
   </li>
   <li>
-    <span class="pointer">*5</span>It can shoot smooth footage in 4K-quality at 30 frames per second. It is also possible to record a rich range of 10 bit color information. (10 bit is a of color information unit).
+    <span class="pointer">*5</span>It can shoot smooth bartage in 4K-quality at 30 frames per second. It is also possible to record a rich range of 10 bit color information. (10 bit is a of color information unit).
   </li>
 </ul>

@@ -39,7 +39,7 @@ Here are the combined GH5 specifications and features list from the earlier new
   * The audio XLR microphone hotshoe mounted I/O interface will be compatible with the DMC-GH4.
   * Identical dimensions as the GH4.
 
-Panasonic GH5 will feature a **6K Photo mode** that will extract 18MP stills from burst footage. The [Micro Four Thirds][3] camera also provides 8MP stills from 60p 4K clips.
+Panasonic GH5 will feature a **6K Photo mode** that will extract 18MP stills from burst bartage. The [Micro Four Thirds][3] camera also provides 8MP stills from 60p 4K clips.
 
 The Panasonic GH5 is expected to be released to the market in the first half of 2017. Stay tuned with us for more information!
 

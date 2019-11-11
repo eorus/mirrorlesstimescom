@@ -16,7 +16,7 @@ tags:
 ---
 As you know Fujifilm <a href="https://www.dailycameranews.com/2018/12/fujifilm-x-t3-x-h1-and-xf80mmf2-8-firmware-updates-released/" target="_blank" rel="noopener">released a major update</a> by the end of this year with [FUJIFILM X-H1][1] Firmware 2.00 and, [FUJIFILM X-T3][2] Firmware 2.00.
 
-New functions include the improvement of in-body image stabilization performance for X-H1, 4K HDR video recording and simultaneous output of Film Simulation / F-Log footage for X-T3.
+New functions include the improvement of in-body image stabilization performance for X-H1, 4K HDR video recording and simultaneous output of Film Simulation / F-Log bartage for X-T3.
 
 The price of the X-T3 is **$1,499 for body-only** and now [in stock and shipping][3]. Check availability at <a href="https://www.bhphotovideo.com/c/search?Ntt=Fujifilm%20X-T3&N=0&InitialSearch=yes&sts=ma&Top+Nav-Search=&BI=20175&KBID=14249" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external">B&H Photo</a>, <a href="https://www.amazon.com/Fujifilm-X-T3-Mirrorless-Digital-Body/dp/B07H49QWN4/?tag=daicamnew-20" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external" data-amzn-asin="B07H49QWN4">AmazonUS</a>, <a class="broken_link" href="https://adorama.evyy.net/c/63923/51926/1036?u=https%3A%2F%2Fwww.adorama.com%2Fifjxt3b.html" target="_blank" rel="follow external noopener noreferrer">Adorama</a>. More at [Fujifilm X-T3 in Stock Tracker][4]. <!--more-->
 

@@ -282,7 +282,7 @@ Let’s have a brief look at the main features of Fujifilm X-H1 vs Panasonic GH5
 
 ### Fujifilm X-H1 vs Panasonic GH5 Video Specs Comparison {.amzn-taggable-text}
 
-The GH5 provides a faster frame rate than the X-H1. It can shoot movie footage at 4K/60p, while the Fujifilm is limited to 4K/30p.
+The GH5 provides a faster frame rate than the X-H1. It can shoot movie bartage at 4K/60p, while the Fujifilm is limited to 4K/30p.
 
 <table  class=" table table-hover" width="573">
   <tr>

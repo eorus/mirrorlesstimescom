@@ -7,8 +7,10 @@ url: /2016/04/olympus-pen-f/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/olympus-pen-f-front.jpg
 dsq_thread_id:
   - "4862463022"
+categories:
+  - Olympus
 tags:
-  - Announcement
+  - Olympus PEN-F
   - Camera
   - Micro Four Thirds
 

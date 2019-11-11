@@ -7,11 +7,14 @@ url: /2016/04/fujifilm-x70-vs-ricoh-gr-ii-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/fujifilm-x70-vs-ricoh-gr-ii.jpg
 dsq_thread_id:
   - "4862944732"
+categories:
+  - Fujifilm
+  - Ricoh
 tags:
-  - APS-c
   - Camera
   - Comparison
-
+  - Fujifilm X70
+  - Ricoh GR II
 ---
 Here is a quick comparison for the <a href="http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x70/" target="_blank">Fujifilm X70</a> vs <a href="http://www.ricoh-imaging.co.jp/english/products/gr-2/" target="_blank">Ricoh GR II</a> premium digital compact cameras with APS-c sized image sensors.
 

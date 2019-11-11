@@ -7,10 +7,12 @@ url: /2016/04/nikon-9mm-f1-8-lens-patent/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/nikon-9mm-f1-8-lens-patent.jpg
 dsq_thread_id:
   - "4904836846"
+categories:
+  - Nikon
 tags:
   - Lens
   - Rumors
-
+  - Nikon Mirrorless
 ---
 Nikon is working on a 1-series Nikon 9mm f/1.8 lens as the new patent application appeared in Japan.
 

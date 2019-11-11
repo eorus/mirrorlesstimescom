@@ -35,7 +35,7 @@ Laowa 7.5mm f/2 lens produced by Venus Optics and designed for Micro 4/3rds came
 
 Sample photos can be found <a href="https://www.mu-43.com/threads/laowa-7-5mm-f-2-mft-compact-dreamer-lens-review.92121/" target="_blank" rel="nofollow noopener noreferrer">here</a>, <a href="http://sapphireker.blogspot.my/2017/05/m43-laowa-75mmf2.html" target="_blank" rel="noopener noreferrer">here</a>
 
-### Sample video footage:
+### Sample video bartage:
 
 
 

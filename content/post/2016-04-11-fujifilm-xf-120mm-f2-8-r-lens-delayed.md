@@ -4,13 +4,18 @@ author: mrtmsadmin
 type: post
 date: 2016-04-11T07:23:02+00:00
 url: /2016/04/fujifilm-xf-120mm-f2-8-r-lens-delayed/
+
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/fujifilm-xf-120mm-f2-8-r-macro-lens-delayed.png
+
 dsq_thread_id:
   - "4862202499"
+categories:
+  - Fujifilm
 tags:
   - Lens
-  - Photokina 2016
+  - Fujifilm Mirrorless
   - Rumors
+  - Fujifilm XF 120mm f/2.8 R Macro Lens
 
 ---
 Fujifilm XF 120mm f/2.8 R macro lens is rumored to have been delayed and expected to be announced by the end of 2016.

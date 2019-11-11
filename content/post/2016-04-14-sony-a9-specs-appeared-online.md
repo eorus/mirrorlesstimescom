@@ -7,10 +7,12 @@ url: /2016/04/sony-a9-specs-appeared-online/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/sony-a9-specs-appeared-online.jpg
 dsq_thread_id:
   - "4863464934"
+categories:
+  - Sony
 tags:
   - Camera
-  - Full Frame
-  - Photokina 2016
+  - Sony Mirrorless
+  - Sony A9
   - Rumors
 
 ---

@@ -7,10 +7,12 @@ url: /2016/04/panasonic-8k-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/panasonic-gh5-rumors.jpg
 dsq_thread_id:
   - "4863292630"
+categories:
+  - Panasonic
 tags:
   - Camera
   - Micro Four Thirds
-  - Photokina 2016
+  - Panasonic Mirrorless
 
 ---
 Panasonic is rumored to be working on a 8K camera and the development of the mirrorless model will allegedly be confirmed at Photokina 2016.

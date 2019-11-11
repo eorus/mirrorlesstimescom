@@ -447,7 +447,7 @@ The newly equipped powerful memory realizes fluent and high capacity continuous 
           * For 4K movie recording, use a card with UHS Speed Class 3 or higher
         </li>
         <li>
-          * Although movie recording will continue without interruption when the file size reaches 4 GB, subsequent footage will be recorded to a separate file which must be viewed separately.
+          * Although movie recording will continue without interruption when the file size reaches 4 GB, subsequent bartage will be recorded to a separate file which must be viewed separately.
         </li>
       </ul>
     </td>

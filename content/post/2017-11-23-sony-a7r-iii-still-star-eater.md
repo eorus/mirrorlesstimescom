@@ -45,7 +45,7 @@ About the existing the Sony Star Eater issue. It still shows off in the Sony a7
   * 3.69M dot (1280 x 960 pixel) OLED viewfinder
   * Improved autofocus, including more tenacious Eye AF mode
   * 5-axis image stabilization, rated at 5.5 stops (CIPA) with 50mm lens
-  * 4K footage from &#8216;Super 35&#8217; crop region oversampled from 5K capture
+  * 4K bartage from &#8216;Super 35&#8217; crop region oversampled from 5K capture
   * Video AF less inclined to refocus to background
   * &#8216;Picture Profile&#8217; video gamma/gamut modes including S-Log2 and 3
   * Twin SD Card slots (one UHS-I and one UHS-II compatible)

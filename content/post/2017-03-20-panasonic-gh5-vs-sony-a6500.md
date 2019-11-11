@@ -18,7 +18,7 @@ Here’s a comparison of two mirrorless cameras, the **Panasonic GH5 vs Sony A6
 
 This specs comparison table between these two high-end cameras will tell you the differences of both. The first one is the sensor size. The Panasonic GH5 has a smaller sensor than the [Sony A6500][1]. The a6500 has a larger APS-C sensor and hence bigger sensors are intend to capture more light and deliver better image quality.
 
-Both cameras can shoot 4K footage. The [Panasonic GH5][2] can shoot at 60fps with no recording time limit. The A6500 remains limited to 4K Mode @ 30 frames per second. The GH5 has the ability to shoot 10bit 4:2:2 video up to 4K @ 30fps internally to the SD card.<!--more-->
+Both cameras can shoot 4K bartage. The [Panasonic GH5][2] can shoot at 60fps with no recording time limit. The A6500 remains limited to 4K Mode @ 30 frames per second. The GH5 has the ability to shoot 10bit 4:2:2 video up to 4K @ 30fps internally to the SD card.<!--more-->
 
 ## Specifications difference between Panasonic GH5 vs Sony A6500 cameras
 

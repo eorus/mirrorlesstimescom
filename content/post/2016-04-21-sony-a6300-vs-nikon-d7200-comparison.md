@@ -7,10 +7,13 @@ url: /2016/04/sony-a6300-vs-nikon-d7200-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/sony-a6300-vs-nikon-d7200-comparison-2.jpg
 dsq_thread_id:
   - "4861620611"
+categories:
+  - Sony
 tags:
-  - APS-c
+  - Sony A6300
   - Camera
   - Comparison
+  - Sony Mirrorless
 
 ---
 You can check the details of these mid-range models with APS-c sized image sensors. Here is the side by side Sony A6300 vs Nikon D7200 comparison.

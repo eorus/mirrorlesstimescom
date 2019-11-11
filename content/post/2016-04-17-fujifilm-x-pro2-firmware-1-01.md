@@ -7,10 +7,12 @@ url: /2016/04/fujifilm-x-pro2-firmware-1-01/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/fujifilm-x-pro2-firmware-update-v1-01-bug-fixes-released.jpg
 dsq_thread_id:
   - "4865290918"
+categories:
+  - Fujifilm
 tags:
-  - APS-c
   - Camera
   - Firmware
+  - Fujifilm Mirrorless
 
 ---
 Fujifilm has released firmware update 1.01 for its flagship **X-Pro2** mirrorless interchangeable lens camera.

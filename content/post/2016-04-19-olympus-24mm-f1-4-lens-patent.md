@@ -7,11 +7,12 @@ url: /2016/04/olympus-24mm-f1-4-lens-patent/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/olympus-24mm-f1-4-lens-patent.jpg
 dsq_thread_id:
   - "4864955253"
+categories:
+  - Olympus
 tags:
-  - Full Frame
   - Lens
   - Micro Four Thirds
-
+  - Olympus Mirrorless
 ---
 Olympus has patented a new **24mm f/1.4** lens in Japan designed for full frame mirrorless cameras.
 

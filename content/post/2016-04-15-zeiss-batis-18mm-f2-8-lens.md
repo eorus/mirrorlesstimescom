@@ -7,11 +7,11 @@ url: /2016/04/zeiss-batis-18mm-f2-8-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/zeiss-batis-18mm-f2-8-sony-camera.jpg
 dsq_thread_id:
   - "4865992183"
+categories:
+  - Zeiss
 tags:
-  - Announcement
-  - Full Frame
   - Lens
-  - Wide Angle
+  - Zeiss Batis 18mm f/2.8 Lens
 
 ---
 Zeiss has introduced a **Batis 18mm f/2.8** lens with autofocus support for full-frame mirrorless cameras made by Sony.

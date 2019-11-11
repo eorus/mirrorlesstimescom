@@ -20,7 +20,7 @@ tags:
 > 
 > I’ve been shooting Nikons for years, but really wasn’t impressed with video quality. I have a <a href="https://www.dailycameranews.com/2018/03/nikon-d850-stock-availability-tracker/" target="_blank" rel="noopener">D850</a> and didn’t even bother to try the video mode…. it’s like the switch for video was cemented (just kidding:)
 > 
-> I’m full time director of photography. I edit a lot of the footage I shoot too, so I’ve got a good idea about the image quality of many cinema cameras like Red and Alexa, but also of the Sony and Panasonic mirrorless.
+> I’m full time director of photography. I edit a lot of the bartage I shoot too, so I’ve got a good idea about the image quality of many cinema cameras like Red and Alexa, but also of the Sony and Panasonic mirrorless.
 > 
 > That secret camera, <a href="https://www.dailycameranews.com/2018/09/nikon-z6-in-stock-availability-tracker/" target="_blank" rel="noopener">Nikon Z6</a>, happen to be pretty nice for video. It competes well with it’s <a href="https://www.mirrorlesstimes.com/category/sony/" target="_blank" rel="noopener">sony</a> and pana counterparts with an added bonus – 10bit output from a full frame sensor. I’ve tried a sample camera for a short time, with some firmware bugs and burned out pixels, but it looks really promising. I like the new <a href="https://www.mirrorlesstimes.com/category/nikon/" target="_blank" rel="noopener" data-wpel-link="internal">Nikon</a>!
 

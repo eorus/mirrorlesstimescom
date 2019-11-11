@@ -17,7 +17,7 @@ tags:
 ---
 <a class="ext-link" title="" href="https://www.youtube.com/channel/UCknMR7NOY6ZKcVbyzOxQPhw" target="_blank" rel="noopener external nofollow">Kai</a> has published the <a href="https://www.mirrorlesstimes.com/tags/nikon-z6/" target="_blank" rel="noopener">Nikon Z6</a> review and asks : Is Nikon Z6 the best all round “affordable” full frame mirrorless camera? Check out the video below to find out!
 
-It&#8217;s a hard question for new enthusiastic users. In terms of video performance, the mid-range full frame mirrorless camera outshines the [Nikon Z7][1] and similar to [Sony a7 III][2]. See here : [Nikon Z6 4K video footage similar to Sony A7 III][3]<!--more-->
+It&#8217;s a hard question for new enthusiastic users. In terms of video performance, the mid-range full frame mirrorless camera outshines the [Nikon Z7][1] and similar to [Sony a7 III][2]. See here : [Nikon Z6 4K video bartage similar to Sony A7 III][3]<!--more-->
 
 
 
@@ -31,7 +31,7 @@ Read more [Nikon Mirrorless][7] and <a href="https://www.dailycameranews.com/
 
  [1]: https://www.mirrorlesstimes.com/tags/nikon-z7/
  [2]: https://www.mirrorlesstimes.com/tags/sony-a7-iii/
- [3]: https://www.mirrorlesstimes.com/2018/11/nikon-z6-4k-video-footage-similar-to-sony-a7-iii/
+ [3]: https://www.mirrorlesstimes.com/2018/11/nikon-z6-4k-video-bartage-similar-to-sony-a7-iii/
  [4]: https://www.dailycameranews.com/2018/11/nikon-z6-in-stock-and-shipping/
  [5]: https://www.bhphotovideo.com/c/product/1431706-REG/nikon_1595_z6_mirrorless_digital_camera.html/BI/20175/KBID/14249/
  [6]: https://adorama.evyy.net/c/63923/51926/1036?u=https://www.adorama.com/nkz6.html

@@ -7,12 +7,11 @@ url: /2016/04/canon-full-frame-mirrorless-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/canon-full-frame-mirrorless-camera-rumors.jpg
 dsq_thread_id:
   - "4861892775"
+categories:
+  - Canon
 tags:
   - Camera
-  - Canon full frame mirrorless camera
   - Canon Mirrorless
-  - Full Frame
-  - Photokina 2016
   - Rumors
 
 ---

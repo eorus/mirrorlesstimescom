@@ -7,10 +7,12 @@ url: /2016/04/olympus-25mm-f1-2-lens-rumored-released-mid-2016/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/olympus-25mm-f1-2-lens-rumored-mid-2016.jpg
 dsq_thread_id:
   - "4861719535"
+categories:
+  - Olympus
 tags:
   - Lens
   - Micro Four Thirds
-  - Photokina 2016
+  - Olympus 25mm f/1.2 lens
   - Rumors
 
 ---

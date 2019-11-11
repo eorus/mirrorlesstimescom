@@ -7,9 +7,11 @@ url: /2016/04/sony-a7riii-rumored-70-80-megapixel-sensor/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/sony-a7r-iii-rumored-feature-70-80-megapixel-sensor.jpg
 dsq_thread_id:
   - "4863199856"
+categories:
+  - Sony
 tags:
   - Camera
-  - Photokina 2016
+  - Sony A7r III
   - Rumors
 
 ---

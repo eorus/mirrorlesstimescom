@@ -7,11 +7,13 @@ url: /2016/04/sony-a6000-a7-a7r-a7s-a7ii-a7rii-firmware-update-v3-10-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/sony-a6000-a7-a7r-a7s-a7ii-a7rii-firmware-update-v3-10-released.jpg
 dsq_thread_id:
   - "4862688967"
+categories:
+  - Sony
 tags:
   - Camera
   - Firmware
-  - Full Frame
-
+  - Sony Mirrorless
+  - Sony A7 III
 ---
 Sony today released a new firmware update for its A7 series mirrorless cameras; the A7, A7R, A7S, A7RII, A7II and the APS-c E-mount A6000 mirrorless model.
 

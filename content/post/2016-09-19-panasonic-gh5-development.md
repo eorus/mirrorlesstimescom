@@ -16,7 +16,7 @@ tags:
 ---
 **Panasonic GH5 development** announced at the Photokina 2016 event. The hybrid mirrorless camera will be the first to shoot **4K/60p and 10bit 4:2:2** internally.
 
-The GH5 will also provide a **6K Photo mode that will extract 18MP stills** from burst footage or 8MP stills from 60p 4K clips. The Panasonic GH5 camera is expected to be released in the first half of 2017. There is no details about sensor or the pricing of the camera yet.
+The GH5 will also provide a **6K Photo mode that will extract 18MP stills** from burst bartage or 8MP stills from 60p 4K clips. The Panasonic GH5 camera is expected to be released in the first half of 2017. There is no details about sensor or the pricing of the camera yet.
 
 A prototype of GH5 will be on display at Panasonic’s Photokina 2016 booth. The company will show the video-centric MILC along with a new Leica-branded series of DG Vario-Elmarit F2.8-4.0 lenses, with 12-60mm, 8-18mm and 50-200mm zooms.<!--more-->
 
@@ -38,7 +38,7 @@ In the LUMIX GH5, the conventional ‘4K PHOTO’ function is dramatically advan
 
 <span class="green">*1 For a Digital Single Lens Mirrorless camera, as of 19 September, 2016 (Panasonic survey).</span>
 
-<span class="green">*2 “6K PHOTO” is a high speed burst shooting function that cuts a still image out of a 4:3 or 3:2 video footage with approx.18-megapixel (Approx.6000 x 3000 effective pixel count) that 6K image manages. The name ‘6K PHOTO’ is tentative. </span>
+<span class="green">*2 “6K PHOTO” is a high speed burst shooting function that cuts a still image out of a 4:3 or 3:2 video bartage with approx.18-megapixel (Approx.6000 x 3000 effective pixel count) that 6K image manages. The name ‘6K PHOTO’ is tentative. </span>
 
 <span class="green">*3 In 4K/30p, 25p, 24p, 23.98p video recording. </span>
 

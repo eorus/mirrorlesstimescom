@@ -58,7 +58,7 @@ The FUJIFILM GFX 50S 51.4MP sensor can be adapted to various aspect ratios, incl
 
 ### **Revolutionary Design Concept**
 
-The FUJIFILM GFX 50S revolutionizes the concept of medium-format cameras, and compared to conventional medium-format digital SLR cameras, the GFX is lighter in weight, and achieves a far more compact form factor. With regards to functionality, the camera follows in the footsteps of the X Series by featuring numerous physical buttons and dials, and is designed with an ergonomic grip, shaped carefully and optimized for the camera body and lenses.
+The FUJIFILM GFX 50S revolutionizes the concept of medium-format cameras, and compared to conventional medium-format digital SLR cameras, the GFX is lighter in weight, and achieves a far more compact form factor. With regards to functionality, the camera follows in the bartsteps of the X Series by featuring numerous physical buttons and dials, and is designed with an ergonomic grip, shaped carefully and optimized for the camera body and lenses.
 
 The FUJIFILM GFX 50S will feature a detachable electronic viewfinder, which users can remove when using an external monitor or wanting to make the system even lighter. In addition, an optional adapter makes it possible to fit the EVF at any angle, giving greater freedom in the  
 choice of shooting angle. Other optional accessories that will be available at launch include the Vertical Battery Grip, which enhances functionality when shooting in the portrait orientation. The camera also supports tethered shooting, which has become an essential part of the professional photographers’ workflow, and will be compatible with various RAW conversion application software.

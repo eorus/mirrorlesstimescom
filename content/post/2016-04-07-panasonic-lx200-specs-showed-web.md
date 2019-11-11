@@ -7,12 +7,13 @@ url: /2016/04/panasonic-lx200-specs-showed-web/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/panasonic-lx200-specs-leaked-online.jpg
 dsq_thread_id:
   - "4861539095"
+categories:
+  - Panasonic
 tags:
   - Camera
   - Micro Four Thirds
   - Panasonic LX200
   - Panasonic Mirrorless
-  - Photokina 2016
   - Rumors
 
 ---

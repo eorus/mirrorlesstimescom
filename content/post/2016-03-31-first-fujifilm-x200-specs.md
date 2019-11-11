@@ -7,10 +7,12 @@ url: /2016/03/first-fujifilm-x200-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/03/first-fujifilm-x200-specs.jpg
 dsq_thread_id:
   - "4861566376"
+categories:
+  - Fujifilm
 tags:
   - Camera
-  - Photokina 2016
   - Rumors
+  - Fujifilm X200
 
 ---
 First **Fujifilm X200** specs list mentioned within the rumor mill as Fuji expected to unveil the X200 in the second half of 2016 probably at Photokina 2016 event in September.

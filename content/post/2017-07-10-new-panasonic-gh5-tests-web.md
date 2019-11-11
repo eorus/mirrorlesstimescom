@@ -13,7 +13,7 @@ tags:
   - Review
 
 ---
-Here are several **GH5 tests video footage** covering ISO range, low-light performance and comparison. Let&#8217;s discover various Panasonic GH5 tests.
+Here are several **GH5 tests video bartage** covering ISO range, low-light performance and comparison. Let&#8217;s discover various Panasonic GH5 tests.
 
 The [Panasonic GH5][1] is the world’s first camera that records 4K 60p / 50p and 4K 30p 4: 2: 2 10-bit video. The Micro Four Thirds shooter features a 20.3MP Live MOS image sensor with no optical low pass filter.
 
@@ -33,7 +33,7 @@ Blackmagic Ursa Mini 4.6K vs Panasonic GH5
 
 
 
-Panasonic GH5 Hands on with test footage
+Panasonic GH5 Hands on with test bartage
 
 
 

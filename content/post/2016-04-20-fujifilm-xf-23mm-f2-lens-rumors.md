@@ -7,11 +7,13 @@ url: /2016/04/fujifilm-xf-23mm-f2-lens-rumors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/fujifilm-xf-23mm-f2-lens-rumored-to-be-in-development.jpg
 dsq_thread_id:
   - "4861564986"
+categories:
+  - Fujifilm
 tags:
-  - APS-c
   - Lens
-  - Photokina 2016
+  - Fujifilm XF 23mm f/2 Lens
   - Rumors
+  - Fujifilm Mirrorless
 
 ---
 Fujifilm is rumored to be working on a **XF 23mm f/2** wide-angle prime lens for its X-mount mirrorless cameras.

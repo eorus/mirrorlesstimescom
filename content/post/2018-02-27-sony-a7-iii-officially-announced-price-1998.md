@@ -27,7 +27,7 @@ The auto-focusing system in the Sony A7 III is the same as the A9 in terms of AF
 
 One key upgrade over the older A7 II is the excellent 710-shot battery life thanks to the NP-FZ100 battery, which is also used in the Sony A9 and A7R III cameras.
 
-The A7 III&#8217;s video recording capabilities will also be key to its success, as it can record 4K movies (3840×2160 pixels) at 25/24fps, utilising a 6K full pixel readout, with 14 stops dynamic range and 4K Hybrid Log Gamma. It can also shoot 1080p footage and slow-motion 120/100fps video.
+The A7 III&#8217;s video recording capabilities will also be key to its success, as it can record 4K movies (3840×2160 pixels) at 25/24fps, utilising a 6K full pixel readout, with 14 stops dynamic range and 4K Hybrid Log Gamma. It can also shoot 1080p bartage and slow-motion 120/100fps video.
 
 [<img class="aligncenter wp-image-1698 size-full" title="Sony a7 III Officially Announced, Price $1,998" src="https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii-back.jpg?resize=600%2C450&#038;ssl=1" alt="Sony a7 III Officially Announced, Price $1,998" width="600" height="450" srcset="https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii-back.jpg?w=1200&ssl=1 1200w, https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii-back.jpg?resize=400%2C300&ssl=1 400w, https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii-back.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii-back.jpg?resize=970%2C728&ssl=1 970w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" />][2]
 

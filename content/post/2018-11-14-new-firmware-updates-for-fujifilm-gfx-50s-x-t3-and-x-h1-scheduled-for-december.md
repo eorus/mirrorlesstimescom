@@ -16,7 +16,7 @@ tags:
 ---
 Fujifilm announces that new firmware updates for FUJIFILM GFX 50S, [FUJIFILM X-T3][1], and [FUJIFILM X-H1][2] coming soon.
 
-New functions include the improvement of in-body image stabilization performance for X-H1, 4K HDR video recording and simultaneous output of Film Simulation / F-Log footage for X-T3, and 35mm format mode for GFX 50S.
+New functions include the improvement of in-body image stabilization performance for X-H1, 4K HDR video recording and simultaneous output of Film Simulation / F-Log bartage for X-T3, and 35mm format mode for GFX 50S.
 
 The price of the X-T3 is **$1,499 for body-only** and now [in stock and shipping][3]. Check availability at <a href="https://www.bhphotovideo.com/c/search?Ntt=Fujifilm%20X-T3&N=0&InitialSearch=yes&sts=ma&Top+Nav-Search=&BI=20175&KBID=14249" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external">B&H Photo</a>, <a href="https://www.amazon.com/Fujifilm-X-T3-Mirrorless-Digital-Body/dp/B07H49QWN4/?tag=daicamnew-20" target="_blank" rel="follow external noopener noreferrer" data-wpel-link="external" data-amzn-asin="B07H49QWN4">AmazonUS</a>, <a class="broken_link" href="https://adorama.evyy.net/c/63923/51926/1036?u=https%3A%2F%2Fwww.adorama.com%2Fifjxt3b.html" target="_blank" rel="follow external noopener noreferrer">Adorama</a>. More at [Fujifilm X-T3 in Stock Tracker][4].
 
@@ -46,10 +46,10 @@ You can find the full details of the firmware updates for FUJIFILM GFX 50S, FUJ
     4K HDR video recording in Hybrid Log Gamma (HLG)<br /> Supports 4K HDR video recording in the Hybrid Log Gamma (HLG), one of the formats defined in the ITU-R <span class="skimlinks-unlinked">BT.2100</span> international standards <span class="note">*</span>. It allows the capture of rich and realistic images in a scene where there is a huge gap between highlight and shadow, or subjects with high color saturation.<br /> <span class="pointer">*</span> Only compatible with H.265(HEVC). Please enjoy with television or display compatible with HLG formats.
   </li>
   <li>
-    Simultaneous output of Film Simulation and F-Log footage <span class="note">**: </span>Supports simultaneous output of Film Simulation and F-Log footage. It allows you to record in F-Log while checking Film Simulation image on an external monitor.<br /> <span class="pointer">**</span> Not compatible with 59.94P/50P, FHD high speed rec., 4K interframe NR, and HDMI output info display mode.<br /> Also, cannot choose different image size (4K/FHD) for HDMI output and internal SD card recording
+    Simultaneous output of Film Simulation and F-Log bartage <span class="note">**: </span>Supports simultaneous output of Film Simulation and F-Log bartage. It allows you to record in F-Log while checking Film Simulation image on an external monitor.<br /> <span class="pointer">**</span> Not compatible with 59.94P/50P, FHD high speed rec., 4K interframe NR, and HDMI output info display mode.<br /> Also, cannot choose different image size (4K/FHD) for HDMI output and internal SD card recording
   </li>
   <li>
-    Recording over 4GB movie file as one file: Movie files are no longer split when the file reaches 4GB file size. The file is recorded as one file providing an SD memory card greater than 32GB is used (excludes 32GB) <span class="note">***</span><span class="pointer">*<br /> **</span>* By using SD memory cards less than or equal to 32GB, movie recording will continue without<br /> interruption when the file size reaches 4GB, however subsequent footage will be recorded to a separate file.
+    Recording over 4GB movie file as one file: Movie files are no longer split when the file reaches 4GB file size. The file is recorded as one file providing an SD memory card greater than 32GB is used (excludes 32GB) <span class="note">***</span><span class="pointer">*<br /> **</span>* By using SD memory cards less than or equal to 32GB, movie recording will continue without<br /> interruption when the file size reaches 4GB, however subsequent bartage will be recorded to a separate file.
   </li>
   <li>
     Display color temperature (Kelvin) on EVF/LCD: Color temperature (Kelvin) can be displayed on EVF/LCD.

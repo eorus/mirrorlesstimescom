@@ -7,10 +7,13 @@ url: /2016/04/fujifilm-x-t2-coming-photokina-2016/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/fujifilm-x-t2-coming-photokina-2016.jpg
 dsq_thread_id:
   - "4862783305"
+categories:
+  - Fujifilm
 tags:
   - Camera
-  - Photokina 2016
+  - Fujifilm Mirrorless
   - Rumors
+  - Fujifilm X-T2
 
 ---
 Fujifilm is rumored to announce several new cameras and lenses in 2016 and one of them is the **X-T2 mirrorless model** which is expected to be capable of recording videos at _4K resolution_.

@@ -27,6 +27,6 @@ Samyang <a href="http://www.xeenglobal.com" target="_blank">announced</a> the re
 
 XEEN is a specialized brand in professional video-cine lens launched by Samyang Optics in 2015. The XEEN lenses are designed with Samyang Optics&#8217; know-how and have outstanding optical performance for 4K+ with the X-Coating Technology, ensuring maximum image quality to create a cinematic look.
 
-The new XEEN 135mm adds telephoto angle to the existing XEEN set, enabling to capture the sincere emotions and details of characters in films and videos. Also the bright T2.2 offers high quality footage with clear contrast and impressive colors, even under less-than-optimal lighting conditions. The large aperture also creates a pleasing bokeh effect for a cinematic look.
+The new XEEN 135mm adds telephoto angle to the existing XEEN set, enabling to capture the sincere emotions and details of characters in films and videos. Also the bright T2.2 offers high quality bartage with clear contrast and impressive colors, even under less-than-optimal lighting conditions. The large aperture also creates a pleasing bokeh effect for a cinematic look.
 
 Moreover, Samyang has announced to release a total of five lenses throughout five weeks as a 2016 Summer Samyang Blockbuster campaign starting from XEEN 135mm. The other four lenses will be announced on every Monday from July 25th to August 15th.

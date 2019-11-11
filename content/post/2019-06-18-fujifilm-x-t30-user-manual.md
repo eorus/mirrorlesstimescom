@@ -4,13 +4,14 @@ author: mrtmsadmin
 type: post
 date: 2019-06-18T14:07:38+00:00
 url: /2019/06/fujifilm-x-t30-user-manual/
-thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/06/Fujifilm-X-T30-Manual.jpg
+thumbnail: wp-content/uploads/2019/06/Fujifilm-X-T30-Manual.jpg
+
+categories:
+  - Fujifilm
 tags:
-  - APS-c
   - Camera
   - Fujifilm Mirrorless
   - Fujifilm X-T30
-  - Instruction Manual
 
 ---
 The **instruction manual for the Fujifilm X-T30** mirrorless camera is now available for download. You can download Fujifilm X-T30 user’s manual as <a href="http://fujifilm-dsc.com/en/manual/x-t30/" target="_blank" rel="noreferrer noopener">HTML</a> and <a href="http://fujifilm-dsc.com/en/manual/x-t30/x-t30_omw_en_s_f.pdf" target="_blank" rel="noreferrer noopener">PDF</a>.

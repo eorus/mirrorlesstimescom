@@ -7,10 +7,15 @@ url: /2016/04/olympus-pen-f-vs-panasonic-gx8-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/olympus-pen-f-vs-panasonic-gx8-comparison.jpg
 dsq_thread_id:
   - "4873664169"
+categories:
+  - Olympus
+  - Panasonic
 tags:
   - Camera
   - Comparison
   - Micro Four Thirds
+  - Olympus PEN-F
+  - Panasonic GX8
 
 ---
 Olympus has announced the revival of its classic 1960s half-frame PEN-F film camera in digital form with 20-Megapixel <a title="Micro Four Thirds" href="https://www.mirrorlesstimes.com/category/microfourthirds/" target="_blank">Micro Four Thirds</a> sensor and built-in EVF.

@@ -7,6 +7,8 @@ url: /2016/04/olympus-e-m1-e-m5ii-firmware-updates/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/olympus-e-m1-and-e-m5ii-firmware-updates.jpg
 dsq_thread_id:
   - "4867805724"
+categories:
+  - Olympus
 tags:
   - Camera
   - Firmware

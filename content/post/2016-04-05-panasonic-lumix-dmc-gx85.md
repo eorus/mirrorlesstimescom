@@ -7,10 +7,12 @@ url: /2016/04/panasonic-lumix-dmc-gx85/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/panasonic-lumix-dmc-gx85-front.jpg
 dsq_thread_id:
   - "4862004956"
+categories:
+  - Panasonic
 tags:
-  - Announcement
   - Camera
   - Micro Four Thirds
+  - Panasonic GX85
 
 ---
 Panasonic has <a href="http://goo.gl/9GMTZN" target="_blank">announced</a> the **Lumix DMC-GX85 **mirrorless camera with a 16MP Live MOS sensor and without anti-aliasing filter.
