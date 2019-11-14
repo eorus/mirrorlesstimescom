@@ -5,6 +5,7 @@ type: post
 date: 2018-04-05T08:42:53+00:00
 url: /2018/04/sony-a7s-iii-announcement/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/04/sony-a7s-iii-announcement.jpg
+categories:
 tags:
   - Camera
   - Full Frame

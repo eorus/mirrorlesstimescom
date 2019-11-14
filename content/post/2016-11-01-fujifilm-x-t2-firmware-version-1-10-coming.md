@@ -7,6 +7,7 @@ url: /2016/11/fujifilm-x-t2-firmware-version-1-10-coming/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/fujifilm-x-t2-rear.jpg
 dsq_thread_id:
   - "5270064529"
+categories:
 tags:
   - APS-c
   - Camera

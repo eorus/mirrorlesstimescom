@@ -7,6 +7,7 @@ url: /2016/07/adobe-camera-raw-9-6-1/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/adobe-camera-raw-9-6-1.jpg
 dsq_thread_id:
   - "5002430541"
+categories:
 tags:
   - APS-c
   - Camera

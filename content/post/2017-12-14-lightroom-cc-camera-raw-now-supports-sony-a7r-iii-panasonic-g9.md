@@ -7,6 +7,7 @@ url: /2017/12/lightroom-cc-camera-raw-now-supports-sony-a7r-iii-panasonic-g9/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/adobe-camera-raw-9-6-1.jpg
 dsq_thread_id:
   - "6348395287"
+categories:
 tags:
   - Camera
   - Full Frame

@@ -7,6 +7,7 @@ url: /2016/06/canon-30mm-f2-8-lens-patent/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/canon-30mm-f2-8-lens-patent.jpg
 dsq_thread_id:
   - "4899251334"
+categories:
 tags:
   - Full Frame
   - Lens

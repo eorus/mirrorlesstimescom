@@ -7,6 +7,7 @@ url: /2016/09/olympus-12-100mm-f4-is-pro/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/olympus-m-zuiko-digital-ed-12-100mm-14-0-pro.jpg
 dsq_thread_id:
   - "5160722274"
+categories:
 tags:
   - Announcement
   - Lens

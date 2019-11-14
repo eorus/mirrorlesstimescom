@@ -5,6 +5,7 @@ type: post
 date: 2019-04-11T13:18:01+00:00
 url: /2019/04/sony-a6400-now-in-stock-and-shipping/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/sony-a6400-1.jpg
+categories:
 tags:
   - APS-c
   - Camera

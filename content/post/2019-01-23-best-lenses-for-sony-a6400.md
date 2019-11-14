@@ -5,6 +5,7 @@ type: post
 date: 2019-01-23T19:32:58+00:00
 url: /2019/01/best-lenses-for-sony-a6400/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/best-lenses-sony-a6400-camera.jpg
+categories:
 tags:
   - Camera
   - Deals

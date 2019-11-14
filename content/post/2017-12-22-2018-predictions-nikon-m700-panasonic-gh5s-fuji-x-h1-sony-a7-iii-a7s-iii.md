@@ -7,6 +7,7 @@ url: /2017/12/2018-predictions-nikon-m700-panasonic-gh5s-fuji-x-h1-sony-a7-iii-a
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/03/mirrorless-times-about.jpg
 dsq_thread_id:
   - "6365369404"
+categories:
 tags:
   - APS-c
   - Camera

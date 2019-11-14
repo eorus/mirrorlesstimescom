@@ -5,6 +5,7 @@ type: post
 date: 2018-10-03T12:31:57+00:00
 url: /2018/10/fujifilm-x-t3-sensor-is-made-by-sony/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-x-t3-grip.jpg
+categories:
 tags:
   - APS-c
   - Camera

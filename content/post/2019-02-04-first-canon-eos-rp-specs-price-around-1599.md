@@ -5,6 +5,7 @@ type: post
 date: 2019-02-04T09:58:57+00:00
 url: /2019/02/first-canon-eos-rp-specs-price-around-1599/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/02/Canon-EOS-R-mirrorless-camera.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

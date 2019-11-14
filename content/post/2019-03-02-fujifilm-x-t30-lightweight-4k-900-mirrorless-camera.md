@@ -5,6 +5,7 @@ type: post
 date: 2019-03-02T12:56:25+00:00
 url: /2019/03/fujifilm-x-t30-lightweight-4k-900-mirrorless-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/fujifilm-x-t30-camera.jpg
+categories:
 tags:
   - Announcement
   - APS-c

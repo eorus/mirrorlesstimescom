@@ -5,6 +5,7 @@ type: post
 date: 2019-05-10T08:56:54+00:00
 url: /2019/05/olympus-e-m10-ii-e-m10-iii-firmware-updates-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/olympus-e-m10-iii.jpg
+categories:
 tags:
   - Camera
   - Firmware

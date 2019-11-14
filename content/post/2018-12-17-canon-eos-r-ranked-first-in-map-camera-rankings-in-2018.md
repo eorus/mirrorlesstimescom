@@ -5,6 +5,7 @@ type: post
 date: 2018-12-17T07:30:33+00:00
 url: /2018/12/canon-eos-r-ranked-first-in-map-camera-rankings-in-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-front.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

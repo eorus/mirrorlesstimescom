@@ -7,10 +7,14 @@ url: /2016/04/sony-a7rii-and-a7sii-firmware/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/sony-firmware-for-a7rii-a7sii.jpg
 dsq_thread_id:
   - "4862896481"
+categories:
+  - Sony
+
 tags:
   - Camera
   - Firmware
-  - Full Frame
+  - Sony Mirrorless
+  - Sony A7s II
 
 ---
 Sony today released a new **firmware update** for its A7 series mirrorless cameras. **Sony A7RII and A7SII** are the two E-mount full-frame mirrorless models gets the update.

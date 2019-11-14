@@ -7,6 +7,7 @@ url: /2017/07/new-panasonic-gh5-tests-web/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/07/panasonic-gh5-tests.jpeg
 dsq_thread_id:
   - "5977800544"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

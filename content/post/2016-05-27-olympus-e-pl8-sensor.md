@@ -7,6 +7,7 @@ url: /2016/05/olympus-e-pl8-sensor/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/olympus-e-pl8-images-rear.jpg
 dsq_thread_id:
   - "4861637220"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

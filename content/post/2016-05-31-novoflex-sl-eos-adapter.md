@@ -7,6 +7,7 @@ url: /2016/05/novoflex-sl-eos-adapter/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/Novoflex-Canon-EF-lenses-adapter-for-Leica-SL.jpeg
 dsq_thread_id:
   - "4871535048"
+categories:
 tags:
   - Announcement
   - Full Frame

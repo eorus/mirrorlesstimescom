@@ -7,6 +7,7 @@ url: /2016/08/fujifilm-x-a3-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/08/fujifilm-x-a3_black.jpg
 dsq_thread_id:
   - "5081677989"
+categories:
 tags:
   - APS-c
   - Camera

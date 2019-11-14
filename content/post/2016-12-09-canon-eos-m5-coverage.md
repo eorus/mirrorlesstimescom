@@ -7,6 +7,7 @@ url: /2016/12/canon-eos-m5-coverage/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/canon-eos-m5.jpg
 dsq_thread_id:
   - "5366935344"
+categories:
 tags:
   - APS-c
   - Camera

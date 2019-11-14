@@ -5,6 +5,7 @@ type: post
 date: 2018-08-18T11:15:55+00:00
 url: /2018/08/panasonic-lumix-lx100-ii-lx100m2-camera-images-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/08/Panasonic-LX100II-LX100M2.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

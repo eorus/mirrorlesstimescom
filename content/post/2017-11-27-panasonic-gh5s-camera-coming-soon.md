@@ -7,6 +7,7 @@ url: /2017/11/panasonic-gh5s-camera-coming-soon/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/panasonic-gh5s-camera-coming-soon.jpeg
 dsq_thread_id:
   - "6312792712"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

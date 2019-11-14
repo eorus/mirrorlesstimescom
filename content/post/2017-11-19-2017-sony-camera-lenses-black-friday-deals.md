@@ -7,6 +7,7 @@ url: /2017/11/2017-sony-camera-lenses-black-friday-deals/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/2017-sony-camera-lenses-black-friday-deals.jpg
 dsq_thread_id:
   - "6294824612"
+categories:
 tags:
   - Camera
   - Deals

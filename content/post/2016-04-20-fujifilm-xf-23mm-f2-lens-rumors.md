@@ -9,6 +9,7 @@ dsq_thread_id:
   - "4861564986"
 categories:
   - Fujifilm
+
 tags:
   - Lens
   - Fujifilm XF 23mm f/2 Lens

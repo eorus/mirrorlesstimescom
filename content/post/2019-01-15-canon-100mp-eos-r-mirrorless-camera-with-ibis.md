@@ -5,6 +5,7 @@ type: post
 date: 2019-01-15T08:54:43+00:00
 url: /2019/01/canon-100mp-eos-r-mirrorless-camera-with-ibis/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/Canon-EOS-R-camera-rumors.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

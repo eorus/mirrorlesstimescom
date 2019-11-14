@@ -7,6 +7,7 @@ url: /2017/06/olympus-12-35mm-f4-0-5-6-mft-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/olympus-12-35mm-f4-0-5-6-mft-lens-patent.jpg
 dsq_thread_id:
   - "5943272796"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

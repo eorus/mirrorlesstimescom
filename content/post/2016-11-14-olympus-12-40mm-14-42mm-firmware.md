@@ -7,6 +7,7 @@ url: /2016/11/olympus-12-40mm-14-42mm-firmware/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/11/olympus-12-40mm-14-42mm-lens-firmwares.jpg
 dsq_thread_id:
   - "5302433247"
+categories:
 tags:
   - Firmware
   - Lens

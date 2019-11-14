@@ -7,6 +7,7 @@ url: /2017/10/sony-fe-400mm-f2-8-g-master-oss-telephoto-development-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/sony-fe-400mm-f2-8-g-master-oss-telephoto-development-announced-750x475.jpg
 dsq_thread_id:
   - "6242384130"
+categories:
 tags:
   - Announcement
   - Full Frame

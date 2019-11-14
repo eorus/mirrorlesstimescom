@@ -5,6 +5,7 @@ type: post
 date: 2019-03-18T13:08:37+00:00
 url: /2019/03/six-new-canon-rf-lenses-in-development/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/5-new-canon-rf-lenses.jpg
+categories:
 tags:
   - Canon full frame mirrorless camera
   - Canon Lens

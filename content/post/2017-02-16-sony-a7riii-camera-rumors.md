@@ -7,6 +7,7 @@ url: /2017/02/sony-a7riii-camera-rumors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/08/sony-a7rii-firmware-3-30.jpg
 dsq_thread_id:
   - "5556077541"
+categories:
 tags:
   - Camera
   - Full Frame

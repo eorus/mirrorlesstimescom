@@ -7,6 +7,7 @@ url: /2017/11/panasonic-g9-leica-dg-elmarit-200mm-f2-8-lens-officially-announced
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/Panasonic-G9-Lumix-camera-750x550.jpg
 dsq_thread_id:
   - "6272822308"
+categories:
 tags:
   - Announcement
   - Camera

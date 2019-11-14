@@ -5,6 +5,7 @@ type: post
 date: 2018-11-02T10:48:10+00:00
 url: /2018/11/nikon-z7-teardown-by-lensrentals-this-is-a-damn-well-built-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/Nikon-Z7-Teardown-by-LensRentals.jpg
+categories:
 tags:
   - Camera
   - Full Frame

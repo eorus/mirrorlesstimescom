@@ -5,6 +5,7 @@ type: post
 date: 2018-03-12T07:49:41+00:00
 url: /2018/03/zeiss-loxia-25mm-f-2-4-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/zeiss-loxia-25mm-f-2-4-lens.jpg
+categories:
 tags:
   - Announcement
   - Full Frame

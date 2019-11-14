@@ -7,6 +7,7 @@ url: /2017/03/fujifilm-x100f-first-impression-reviews/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/fujifilm-x100f-front.jpg
 dsq_thread_id:
   - "5627797100"
+categories:
 tags:
   - APS-c
   - Camera

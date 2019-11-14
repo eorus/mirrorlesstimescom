@@ -5,6 +5,7 @@ type: post
 date: 2018-10-16T07:17:05+00:00
 url: /2018/10/deal-200-off-on-sony-a7r-ii-and-a7s-ii-500-off-on-sony-a9/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/sony-a7r-iii-star-eater.jpg
+categories:
 tags:
   - Camera
   - Deals

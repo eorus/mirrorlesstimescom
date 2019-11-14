@@ -5,6 +5,7 @@ type: post
 date: 2018-03-08T12:41:17+00:00
 url: /2018/03/new-sigma-mc-11-lens-adapter-firmware-ver1-09-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/sigma-mc-11-lens-adapter-mount-converter.jpg
+categories:
 tags:
   - Accessories
   - Firmware

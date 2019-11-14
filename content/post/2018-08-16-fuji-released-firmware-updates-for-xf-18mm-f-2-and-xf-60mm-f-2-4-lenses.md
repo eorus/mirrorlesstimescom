@@ -5,6 +5,7 @@ type: post
 date: 2018-08-16T10:24:26+00:00
 url: /2018/08/fuji-released-firmware-updates-for-xf-18mm-f-2-and-xf-60mm-f-2-4-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/04/fujifilm-xf-18mm-f2-mark-ii.jpg
+categories:
 tags:
   - APS-c
   - Firmware

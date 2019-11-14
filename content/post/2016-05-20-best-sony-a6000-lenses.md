@@ -7,6 +7,7 @@ url: /2016/05/best-sony-a6000-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/best-sony-a6000-lenses.jpg
 dsq_thread_id:
   - "4861621094"
+categories:
 tags:
   - APS-c
   - Camera

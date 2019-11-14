@@ -7,6 +7,7 @@ url: /2018/01/video-sony-alpha-a9-made/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/sony-a9-front.jpg
 dsq_thread_id:
   - "6388520753"
+categories:
 tags:
   - Camera
   - Full Frame

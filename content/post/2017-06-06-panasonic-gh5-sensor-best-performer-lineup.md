@@ -7,6 +7,7 @@ url: /2017/06/panasonic-gh5-sensor-best-performer-lineup/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/panasonic-gh5.png
 dsq_thread_id:
   - "5886234442"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

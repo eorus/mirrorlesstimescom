@@ -7,6 +7,7 @@ url: /2017/03/camfi-announces-wireless-camera-controller-sonycameras/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/camfi-wireless-controller.jpeg
 dsq_thread_id:
   - "5627991385"
+categories:
 tags:
   - Accessories
   - Camera

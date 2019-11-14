@@ -5,6 +5,7 @@ type: post
 date: 2018-05-14T08:58:21+00:00
 url: /2018/05/fujifilm-x-t100-camera-to-be-announced-soon/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/05/fujifilm-x-t100-camera-development.jpg
+categories:
 tags:
   - APS-c
   - Camera

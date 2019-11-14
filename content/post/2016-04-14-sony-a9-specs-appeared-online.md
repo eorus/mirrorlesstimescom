@@ -9,6 +9,7 @@ dsq_thread_id:
   - "4863464934"
 categories:
   - Sony
+
 tags:
   - Camera
   - Sony Mirrorless

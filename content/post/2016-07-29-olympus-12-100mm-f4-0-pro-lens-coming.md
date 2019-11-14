@@ -7,6 +7,7 @@ url: /2016/07/olympus-12-100mm-f4-0-pro-lens-coming/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/olympus-12-100mm-f4-0-pro-coming.jpg
 dsq_thread_id:
   - "5025501448"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

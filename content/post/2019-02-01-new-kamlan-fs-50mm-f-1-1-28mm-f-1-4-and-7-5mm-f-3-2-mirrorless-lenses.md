@@ -5,6 +5,7 @@ type: post
 date: 2019-02-01T08:56:53+00:00
 url: /2019/02/new-kamlan-fs-50mm-f-1-1-28mm-f-1-4-and-7-5mm-f-3-2-mirrorless-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/02/Kamlan-FS-50mm-f1.1-lens.jpg
+categories:
 tags:
   - APS-c
   - Kamlan FS 28mm f/1.4

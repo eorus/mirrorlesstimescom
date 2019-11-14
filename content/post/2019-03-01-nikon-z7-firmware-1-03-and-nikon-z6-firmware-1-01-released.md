@@ -5,6 +5,7 @@ type: post
 date: 2019-03-01T15:04:35+00:00
 url: /2019/03/nikon-z7-firmware-1-03-and-nikon-z6-firmware-1-01-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/nikon-z6-z7-samples.jpg
+categories:
 tags:
   - Announcement
   - Camera

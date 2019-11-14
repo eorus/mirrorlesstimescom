@@ -5,6 +5,7 @@ type: post
 date: 2019-03-18T12:40:30+00:00
 url: /2019/03/fujifilm-xf-16mm-f-2-8-r-wr-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/fujinon-16mm-f2.8-wr-lens.jpg
+categories:
 tags:
   - Announcement
   - APS-c

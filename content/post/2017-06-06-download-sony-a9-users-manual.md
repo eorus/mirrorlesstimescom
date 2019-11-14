@@ -7,6 +7,7 @@ url: /2017/06/download-sony-a9-users-manual/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/sony-a9-front.jpg
 dsq_thread_id:
   - "5884615736"
+categories:
 tags:
   - Camera
   - Full Frame

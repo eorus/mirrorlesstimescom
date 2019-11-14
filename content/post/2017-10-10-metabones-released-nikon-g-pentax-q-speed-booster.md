@@ -7,6 +7,7 @@ url: /2017/10/metabones-released-nikon-g-pentax-q-speed-booster/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/Metabones-0.50x-Speed-Booster-for-Pentax-Q-750x550.jpg
 dsq_thread_id:
   - "6203771830"
+categories:
 tags:
   - Accessories
   - Announcement

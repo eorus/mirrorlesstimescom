@@ -7,6 +7,7 @@ url: /2017/07/sony-a9-sensor-review/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/sony-a9-front.jpg
 dsq_thread_id:
   - "5978012600"
+categories:
 tags:
   - Camera
   - Full Frame

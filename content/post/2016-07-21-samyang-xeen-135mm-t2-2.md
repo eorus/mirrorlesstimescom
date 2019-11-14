@@ -7,6 +7,7 @@ url: /2016/07/samyang-xeen-135mm-t2-2/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/samyang-xeen-135mm-t2-2.png
 dsq_thread_id:
   - "5003787292"
+categories:
 tags:
   - Announcement
   - Full Frame

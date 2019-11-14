@@ -7,6 +7,7 @@ url: /2017/12/fujifilm-x-t3-announced-photokina-2018-4k-60p/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/fujifilm-x-t2-front.jpg
 dsq_thread_id:
   - "6337069777"
+categories:
 tags:
   - APS-c
   - Camera

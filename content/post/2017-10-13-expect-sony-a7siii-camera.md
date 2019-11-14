@@ -7,6 +7,7 @@ url: /2017/10/expect-sony-a7siii-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/expect-sony-a7siii-camera-750x537.jpg
 dsq_thread_id:
   - "6211886305"
+categories:
 tags:
   - Camera
   - Full Frame

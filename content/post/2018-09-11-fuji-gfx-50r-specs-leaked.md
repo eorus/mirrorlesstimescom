@@ -5,6 +5,7 @@ type: post
 date: 2018-09-11T09:23:54+00:00
 url: /2018/09/fuji-gfx-50r-specs-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/Fujifilm-GFX-50r.jpg
+categories:
 tags:
   - Camera
   - Fujifilm GFX 50R

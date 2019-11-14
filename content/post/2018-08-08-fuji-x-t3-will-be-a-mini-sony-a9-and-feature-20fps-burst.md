@@ -5,6 +5,7 @@ type: post
 date: 2018-08-08T10:59:44+00:00
 url: /2018/08/fuji-x-t3-will-be-a-mini-sony-a9-and-feature-20fps-burst/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/fujifilm-x-t2-front.jpg
+categories:
 tags:
   - APS-c
   - Camera

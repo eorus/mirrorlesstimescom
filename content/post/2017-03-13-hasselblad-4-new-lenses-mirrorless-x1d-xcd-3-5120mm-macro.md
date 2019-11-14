@@ -7,6 +7,7 @@ url: /2017/03/hasselblad-4-new-lenses-mirrorless-x1d-xcd-3-5120mm-macro/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/hasselblad-xcd-3-5120mm.jpg
 dsq_thread_id:
   - "5627899894"
+categories:
 tags:
   - Announcement
   - Lens

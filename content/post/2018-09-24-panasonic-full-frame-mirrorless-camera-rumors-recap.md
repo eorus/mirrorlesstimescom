@@ -5,6 +5,7 @@ type: post
 date: 2018-09-24T07:01:18+00:00
 url: /2018/09/panasonic-full-frame-mirrorless-camera-rumors-recap/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/PanasonicG9-leica-SL-mount.jpg
+categories:
 tags:
   - Camera
   - Full Frame

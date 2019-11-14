@@ -5,6 +5,7 @@ type: post
 date: 2019-01-10T13:01:37+00:00
 url: /2019/01/nikon-z6-z7-eye-af-demo-video/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/nikon-z6-z7-samples.jpg
+categories:
 tags:
   - Camera
   - Firmware

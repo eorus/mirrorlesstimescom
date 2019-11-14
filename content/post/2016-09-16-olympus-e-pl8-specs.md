@@ -7,6 +7,7 @@ url: /2016/09/olympus-e-pl8-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/olympus-e-pl8-images-front.jpg
 dsq_thread_id:
   - "5148593425"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

@@ -7,6 +7,7 @@ url: /2017/12/fujifilm-x-pro2-firmware-update-ver4-00-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/fujifilm-x-pro2-firmware-2.jpg
 dsq_thread_id:
   - "6371198548"
+categories:
 tags:
   - APS-c
   - Camera

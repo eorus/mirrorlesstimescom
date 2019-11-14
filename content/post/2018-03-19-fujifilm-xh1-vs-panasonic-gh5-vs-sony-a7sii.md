@@ -5,6 +5,7 @@ type: post
 date: 2018-03-19T07:18:10+00:00
 url: /2018/03/fujifilm-xh1-vs-panasonic-gh5-vs-sony-a7sii/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/Fujifilm-X-H1.jpeg
+categories:
 tags:
   - APS-c
   - Camera

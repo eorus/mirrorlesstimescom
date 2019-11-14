@@ -5,6 +5,7 @@ type: post
 date: 2019-05-10T09:15:57+00:00
 url: /2019/05/nikon-z6-sensor-gets-dxomarked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/feh_027011_000001_sensor-score-Z_6-1.jpg
+categories:
 tags:
   - Camera
   - Full Frame

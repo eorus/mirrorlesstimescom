@@ -7,6 +7,7 @@ url: /2017/10/olympus-17mm-f1-2-45mm-f1-2-pro-lenses-coming-october-26/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/olympus-45mm-f1-2-pro-lens-rumored-works-750x550.jpg
 dsq_thread_id:
   - "6220876966"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

@@ -7,6 +7,7 @@ url: /2017/12/panasonic-gh5s-specs-leaked-12mp-c4k-video/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/full-panasonic-gh5s-specifications-leaked-web.jpg
 dsq_thread_id:
   - "6350280491"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

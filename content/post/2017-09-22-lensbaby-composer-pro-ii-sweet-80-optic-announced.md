@@ -7,6 +7,7 @@ url: /2017/09/lensbaby-composer-pro-ii-sweet-80-optic-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/09/lensbaby-composer-pro-ii-sweet-80-optic-750x550.jpg
 dsq_thread_id:
   - "6161929960"
+categories:
 tags:
   - Announcement
   - Lens

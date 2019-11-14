@@ -5,6 +5,7 @@ type: post
 date: 2018-03-06T10:01:41+00:00
 url: /2018/03/sony-a7-iii-lowlight-comparison-a7iii-vs-a7riii-vs-a6500-vs-gh5/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/sony-a7-iii-lowlight-comparison-a7iii-vs-a7riii-vs-a6500-vs-gh5-1-1.png
+categories:
 tags:
   - Camera
   - Full Frame

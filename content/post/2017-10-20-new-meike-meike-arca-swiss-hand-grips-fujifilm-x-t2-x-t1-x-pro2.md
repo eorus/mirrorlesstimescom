@@ -7,6 +7,7 @@ url: /2017/10/new-meike-meike-arca-swiss-hand-grips-fujifilm-x-t2-x-t1-x-pro2/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/new-meike-meike-arca-swiss-hand-grips-fujifilm-x-t2-x-t1-x-pro2-1-750x550.jpg
 dsq_thread_id:
   - "6227855984"
+categories:
 tags:
   - Accessories
   - APS-c

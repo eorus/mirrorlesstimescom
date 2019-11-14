@@ -5,6 +5,7 @@ type: post
 date: 2019-06-18T14:17:28+00:00
 url: /2019/06/additional-coverage-of-meike-mk-85mm-f-2-8-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/06/Meike-85mm-f2.8-macro-manual-focus-full-frame.jpg
+categories:
 tags:
   - Full Frame
   - Lens

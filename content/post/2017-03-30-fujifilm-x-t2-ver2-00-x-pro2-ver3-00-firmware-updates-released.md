@@ -7,6 +7,7 @@ url: /2017/03/fujifilm-x-t2-ver2-00-x-pro2-ver3-00-firmware-updates-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/fujifilm-x-t2-front.jpg
 dsq_thread_id:
   - "5679809871"
+categories:
 tags:
   - APS-c
   - Camera

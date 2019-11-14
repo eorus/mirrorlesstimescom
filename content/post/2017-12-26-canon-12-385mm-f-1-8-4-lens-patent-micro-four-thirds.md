@@ -7,6 +7,7 @@ url: /2017/12/canon-12-385mm-f-1-8-4-lens-patent-micro-four-thirds/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/canon-patent-12-385mm-f-1-8-4-lens-micro-four-thirds.jpg
 dsq_thread_id:
   - "6373530571"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

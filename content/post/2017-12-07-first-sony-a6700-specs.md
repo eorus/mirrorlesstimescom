@@ -7,6 +7,7 @@ url: /2017/12/first-sony-a6700-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/sony-a6500.jpg
 dsq_thread_id:
   - "6334357996"
+categories:
 tags:
   - APS-c
   - Camera

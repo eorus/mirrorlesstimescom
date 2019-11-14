@@ -7,6 +7,7 @@ url: /2017/10/sigma-16mm-f1-4-dc-dn-contemporary-lens-development/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/Sigma-16mm-f1.4-DC-DN-Contemporary-lens-1-750x471.jpg
 dsq_thread_id:
   - "6236960296"
+categories:
 tags:
   - Announcement
   - APS-c

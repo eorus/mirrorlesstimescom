@@ -7,6 +7,7 @@ url: /2016/12/sony-a6500-sensor-review/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/sony-a6500.jpg
 dsq_thread_id:
   - "5380078641"
+categories:
 tags:
   - APS-c
   - Camera

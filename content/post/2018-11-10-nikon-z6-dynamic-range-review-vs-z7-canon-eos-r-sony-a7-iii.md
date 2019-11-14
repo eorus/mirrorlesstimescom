@@ -5,6 +5,7 @@ type: post
 date: 2018-11-10T07:37:23+00:00
 url: /2018/11/nikon-z6-dynamic-range-review-vs-z7-canon-eos-r-sony-a7-iii/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/Nikon-Z6.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

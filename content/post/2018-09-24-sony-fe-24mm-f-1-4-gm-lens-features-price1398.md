@@ -5,6 +5,7 @@ type: post
 date: 2018-09-24T09:24:02+00:00
 url: /2018/09/sony-fe-24mm-f-1-4-gm-lens-features-price1398/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/sony-fe-24mm-f1-4-gm.jpg
+categories:
 tags:
   - Announcement
   - Full Frame

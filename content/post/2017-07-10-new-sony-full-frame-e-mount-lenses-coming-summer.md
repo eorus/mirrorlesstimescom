@@ -7,6 +7,7 @@ url: /2017/07/new-sony-full-frame-e-mount-lenses-coming-summer/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/07/new-fe-lenses-announced-summer.jpg
 dsq_thread_id:
   - "5977775334"
+categories:
 tags:
   - Full Frame
   - Lens

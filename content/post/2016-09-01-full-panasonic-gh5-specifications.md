@@ -7,6 +7,7 @@ url: /2016/09/full-panasonic-gh5-specifications/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/panasonic-gh5-rumors.jpg
 dsq_thread_id:
   - "5110920188"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

@@ -7,6 +7,7 @@ url: /2017/12/zeiss-loxia-25mm-f-2-4-lens-sony-e-mount-coming/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/zeiss-loxia-family.jpg
 dsq_thread_id:
   - "6371190203"
+categories:
 tags:
   - Full Frame
   - Lens

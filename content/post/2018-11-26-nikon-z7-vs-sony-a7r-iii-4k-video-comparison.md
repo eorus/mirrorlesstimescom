@@ -5,6 +5,7 @@ type: post
 date: 2018-11-26T07:20:57+00:00
 url: /2018/11/nikon-z7-vs-sony-a7r-iii-4k-video-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/nikon-z7-review.jpg
+categories:
 tags:
   - Camera
   - Full Frame

@@ -5,6 +5,7 @@ type: post
 date: 2018-09-25T19:53:58+00:00
 url: /2018/09/panasonic-s1-s1r-ff-mirrorless-announced-4k60p-dual-is-dual-card-slots/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/panasonic-s1-s1r.jpg
+categories:
 tags:
   - Announcement
   - Camera

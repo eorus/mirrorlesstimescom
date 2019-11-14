@@ -5,6 +5,7 @@ type: post
 date: 2019-01-09T15:00:52+00:00
 url: /2019/01/nikon-z6-and-z7-cameras-to-get-firmware-update/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/nikon-z6-z7-samples.jpg
+categories:
 tags:
   - Announcement
   - Camera

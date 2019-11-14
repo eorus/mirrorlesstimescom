@@ -5,6 +5,7 @@ type: post
 date: 2018-05-30T09:38:00+00:00
 url: /2018/05/video-comparisons-sony-a7r-iii-vs-sony-a7-iii-vs-nikon-d850/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii.jpg
+categories:
 tags:
   - Camera
   - Comparison

@@ -5,6 +5,7 @@ type: post
 date: 2019-03-29T08:49:52+00:00
 url: /2019/03/canon-eos-rp-in-stock-shipping-in-the-us/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/canon-eos-rp.jpg
+categories:
 tags:
   - Camera
   - Canon EOS RP

@@ -5,6 +5,7 @@ type: post
 date: 2018-07-09T11:37:55+00:00
 url: /2018/07/two-nikon-full-frame-mirrorless-cameras-coming-with-45mp-and-24mp-sensors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/07/nikon-full-frame-mirrorless-camera.jpg
+categories:
 tags:
   - Camera
   - Full Frame

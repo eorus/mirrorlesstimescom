@@ -5,6 +5,7 @@ type: post
 date: 2018-10-15T07:32:12+00:00
 url: /2018/10/7artisans-12mm-f-2-8-mirrorless-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/additional-7artisans-12mm-f-2-8-mirrorless-lens-coverage.jpg
+categories:
 tags:
   - 7Artisans 12mm f/2.8
   - Announcement

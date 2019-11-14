@@ -5,6 +5,7 @@ type: post
 date: 2018-08-24T11:26:17+00:00
 url: /2018/08/nikon-z6-vs-nikon-z7-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/08/nikon-z6-and-nikon-z7-comparison.jpg
+categories:
 tags:
   - Camera
   - Comparison

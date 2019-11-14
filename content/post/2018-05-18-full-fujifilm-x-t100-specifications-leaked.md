@@ -5,6 +5,7 @@ type: post
 date: 2018-05-18T07:09:18+00:00
 url: /2018/05/full-fujifilm-x-t100-specifications-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/05/fujifilm-x-t100-product-page.jpg
+categories:
 tags:
   - APS-c
   - Camera

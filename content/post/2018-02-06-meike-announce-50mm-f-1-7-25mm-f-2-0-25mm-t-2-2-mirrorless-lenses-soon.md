@@ -7,6 +7,7 @@ url: /2018/02/meike-announce-50mm-f-1-7-25mm-f-2-0-25mm-t-2-2-mirrorless-lenses-
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/Meike-aps-c-mirrorless-lenses-1.jpg
 dsq_thread_id:
   - "6461430042"
+categories:
 tags:
   - APS-c
   - Lens

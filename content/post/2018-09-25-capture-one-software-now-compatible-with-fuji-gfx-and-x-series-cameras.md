@@ -5,6 +5,7 @@ type: post
 date: 2018-09-25T20:34:11+00:00
 url: /2018/09/capture-one-software-now-compatible-with-fuji-gfx-and-x-series-cameras/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/Capture-One-Pro-11.jpg
+categories:
 tags:
   - Camera
   - Fujifilm Mirrorless

@@ -7,6 +7,7 @@ url: /2017/02/canon-eos-m6-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/02/eosm6_black_001.jpg
 dsq_thread_id:
   - "5535526564"
+categories:
 tags:
   - APS-c
   - Camera

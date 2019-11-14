@@ -5,6 +5,7 @@ type: post
 date: 2018-02-27T08:46:27+00:00
 url: /2018/02/sony-a7-iii-officially-announced-price-1998/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii.jpg
+categories:
 tags:
   - Announcement
   - Camera

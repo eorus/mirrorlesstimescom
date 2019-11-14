@@ -5,6 +5,7 @@ type: post
 date: 2019-02-04T10:03:34+00:00
 url: /2019/02/upcoming-sony-mirrorless-lenses-2019/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/02/sony-mirrorless-lenses.jpg
+categories:
 tags:
   - APS-c
   - FE 100mm f/1.4

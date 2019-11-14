@@ -7,6 +7,7 @@ url: /2017/07/leica-tl2-becomes-official-24mp-sensor-4k-video/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/07/leica-tl2-white-1-750x550.jpg
 dsq_thread_id:
   - "6030229909"
+categories:
 tags:
   - Announcement
   - APS-c

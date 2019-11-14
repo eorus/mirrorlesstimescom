@@ -5,6 +5,7 @@ type: post
 date: 2019-03-01T15:40:17+00:00
 url: /2019/03/olympus-12-200mm-f-3-5-6-3-mft-lens-with-16-6x-zoom/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/olympus-12-200mm-f-3-5-6-3-mft-lens-officially-announced.jpg
+categories:
 tags:
   - Announcement
   - Lens

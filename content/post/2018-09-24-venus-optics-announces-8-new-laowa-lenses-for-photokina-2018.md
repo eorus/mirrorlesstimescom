@@ -5,6 +5,7 @@ type: post
 date: 2018-09-24T13:30:27+00:00
 url: /2018/09/venus-optics-announces-8-new-laowa-lenses-for-photokina-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/10-new-Laowa-lenses-in-Photokina.jpg
+categories:
 tags:
   - Announcement
   - Full Frame

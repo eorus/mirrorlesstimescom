@@ -7,6 +7,7 @@ url: /2017/11/leica-noctilux-m-75mm-f-1-25-asph-lens-officially-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/leica-noctilux-m-75mm-f-1-25-asph-lens-announced-price-12795.jpg
 dsq_thread_id:
   - "6321094369"
+categories:
 tags:
   - Announcement
   - Full Frame

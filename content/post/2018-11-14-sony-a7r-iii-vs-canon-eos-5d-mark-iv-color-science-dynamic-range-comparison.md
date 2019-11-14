@@ -5,6 +5,7 @@ type: post
 date: 2018-11-14T14:47:14+00:00
 url: /2018/11/sony-a7r-iii-vs-canon-eos-5d-mark-iv-color-science-dynamic-range-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/sony-a7r-iii-star-eater.jpg
+categories:
 tags:
   - Camera
   - Full Frame

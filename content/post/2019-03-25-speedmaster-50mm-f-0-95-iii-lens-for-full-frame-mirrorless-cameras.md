@@ -5,6 +5,7 @@ type: post
 date: 2019-03-25T14:45:31+00:00
 url: /2019/03/speedmaster-50mm-f-0-95-iii-lens-for-full-frame-mirrorless-cameras/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/Speedmaster-50mm-f0.95-III-full-frame-mirrorless-lens.jpeg
+categories:
 tags:
   - Announcement
   - Canon full frame mirrorless camera

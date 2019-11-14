@@ -5,6 +5,7 @@ type: post
 date: 2019-01-16T13:05:06+00:00
 url: /2019/01/nikon-nikkor-z-14-30mm-f-4-s-lens-price-1299/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/nikon-announces-nikkor-z-14-30mm-f-4-s-lens-1.jpg
+categories:
 tags:
   - Announcement
   - Full Frame

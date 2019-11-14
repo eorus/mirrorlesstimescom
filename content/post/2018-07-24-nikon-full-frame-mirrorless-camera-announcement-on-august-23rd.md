@@ -5,6 +5,7 @@ type: post
 date: 2018-07-24T06:40:13+00:00
 url: /2018/07/nikon-full-frame-mirrorless-camera-announcement-on-august-23rd/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/07/nikon-full-frame-mirrorless-camera.jpg
+categories:
 tags:
   - Camera
   - Full Frame

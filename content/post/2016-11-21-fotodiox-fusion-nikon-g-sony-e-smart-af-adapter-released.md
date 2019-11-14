@@ -7,6 +7,7 @@ url: /2016/11/fotodiox-fusion-nikon-g-sony-e-smart-af-adapter-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/11/fusion-nikon-g-sony-e-smart-af-adapter-750x550.png
 dsq_thread_id:
   - "5320538000"
+categories:
 tags:
   - Accessories
   - APS-c

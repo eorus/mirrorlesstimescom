@@ -7,6 +7,7 @@ url: /2017/11/fujifilm-released-firmware-updates-x-t2-x-t20-gfx-50s-free-x-raw-s
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/fujifilm-released-firmware-updates-x-t2-x-t20-gfx-50s-free-x-raw-studio-software-x-acquire-ver-1-7.jpg
 dsq_thread_id:
   - "6319808550"
+categories:
 tags:
   - APS-c
   - Camera

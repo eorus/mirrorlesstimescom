@@ -7,6 +7,7 @@ url: /2017/11/sony-a7r-iii-stock-availability-tracker/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/sony-a7r-iii-750x550.jpg
 dsq_thread_id:
   - "6290306278"
+categories:
 tags:
   - Camera
   - Deals

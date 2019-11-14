@@ -7,6 +7,7 @@ url: /2016/12/new-sony-full-frame-e-mount-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/08/sony-fe-16-35mm-f2-8-gm-coming.jpg
 dsq_thread_id:
   - "5376333921"
+categories:
 tags:
   - Full Frame
   - Lens

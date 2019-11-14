@@ -7,6 +7,7 @@ url: /2016/11/fujifilm-gfx-50s-price/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/fujfilm-gfx-50s-development-01.jpg
 dsq_thread_id:
   - "5313314308"
+categories:
 tags:
   - Camera
   - Medium Format

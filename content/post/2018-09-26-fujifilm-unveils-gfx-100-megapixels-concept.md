@@ -5,6 +5,7 @@ type: post
 date: 2018-09-26T08:54:36+00:00
 url: /2018/09/fujifilm-unveils-gfx-100-megapixels-concept/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-gfx-100s-development-announced.jpg
+categories:
 tags:
   - Announcement
   - Camera

@@ -7,6 +7,7 @@ url: /2017/01/sony-a6500-reviews-roundup/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/a6500-tests.jpg
 dsq_thread_id:
   - "5428803057"
+categories:
 tags:
   - APS-c
   - Camera

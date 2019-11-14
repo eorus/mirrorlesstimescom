@@ -7,6 +7,7 @@ url: /2017/01/fujifilm-unveiled-xf-50mm-f2-r-wr-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/fujifilm-xf-50mm-f2-r-wr.jpg
 dsq_thread_id:
   - "5475995851"
+categories:
 tags:
   - Announcement
   - APS-c

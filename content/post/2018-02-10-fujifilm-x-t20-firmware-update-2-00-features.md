@@ -7,6 +7,7 @@ url: /2018/02/fujifilm-x-t20-firmware-update-2-00-features/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/fujifilm-x-t20-front.jpg
 dsq_thread_id:
   - "6470366924"
+categories:
 tags:
   - APS-c
   - Camera

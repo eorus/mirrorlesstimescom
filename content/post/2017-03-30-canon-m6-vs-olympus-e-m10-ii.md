@@ -7,6 +7,7 @@ url: /2017/03/canon-m6-vs-olympus-e-m10-ii/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/canon-eos-m6-vs-olympus-e-m10-ii.jpg
 dsq_thread_id:
   - "5679674406"
+categories:
 tags:
   - APS-c
   - Camera

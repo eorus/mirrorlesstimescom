@@ -5,6 +5,7 @@ type: post
 date: 2018-09-05T13:21:02+00:00
 url: /2018/09/canon-eos-r-vs-nikon-z6-vs-sony-a7-iii-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-vs-nikon-z6-vs-sony-a7-iii-comparison.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

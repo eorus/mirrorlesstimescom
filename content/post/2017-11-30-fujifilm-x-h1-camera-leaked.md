@@ -7,6 +7,7 @@ url: /2017/11/fujifilm-x-h1-camera-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/fujifilm-logo.jpg
 dsq_thread_id:
   - "6319788884"
+categories:
 tags:
   - APS-c
   - Camera

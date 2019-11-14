@@ -7,6 +7,7 @@ url: /2017/02/fujifilm-xf-8-16mm-f2-8-wr-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/02/fujifilm-xf-8-16mm-f2-8-wr-lens-announced-2017.jpeg
 dsq_thread_id:
   - "5535592052"
+categories:
 tags:
   - APS-c
   - Lens

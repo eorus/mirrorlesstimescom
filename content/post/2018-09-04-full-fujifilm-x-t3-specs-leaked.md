@@ -5,6 +5,7 @@ type: post
 date: 2018-09-04T08:55:46+00:00
 url: /2018/09/full-fujifilm-x-t3-specs-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/Fuji-X-T3-mirrorless-camera.jpg
+categories:
 tags:
   - APS-c
   - Camera

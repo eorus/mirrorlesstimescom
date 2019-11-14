@@ -7,6 +7,7 @@ url: /2016/12/new-fujifilm-x100f-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/fujifilm-x100f-rumors.jpg
 dsq_thread_id:
   - "5377298177"
+categories:
 tags:
   - APS-c
   - Camera

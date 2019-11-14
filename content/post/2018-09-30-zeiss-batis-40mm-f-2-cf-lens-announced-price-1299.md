@@ -5,6 +5,7 @@ type: post
 date: 2018-09-30T09:02:46+00:00
 url: /2018/09/zeiss-batis-40mm-f-2-cf-lens-announced-price-1299/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/zeiss-batis-40mm-f-2-cf-lens.jpeg
+categories:
 tags:
   - Announcement
   - Full Frame

@@ -7,6 +7,7 @@ url: /2017/11/leica-cl-camera-elmarit-tl-18mm-f2-8-asph-lens-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/leica-cl.jpg
 dsq_thread_id:
   - "6302174629"
+categories:
 tags:
   - Announcement
   - APS-c

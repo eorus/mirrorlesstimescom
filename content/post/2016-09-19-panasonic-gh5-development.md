@@ -7,6 +7,7 @@ url: /2016/09/panasonic-gh5-development/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/panasonic-gh5-development.jpg
 dsq_thread_id:
   - "5155737189"
+categories:
 tags:
   - Announcement
   - Camera

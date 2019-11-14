@@ -9,6 +9,7 @@ dsq_thread_id:
   - "4904836846"
 categories:
   - Nikon
+
 tags:
   - Lens
   - Rumors

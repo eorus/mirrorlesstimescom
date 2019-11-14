@@ -7,6 +7,7 @@ url: /2016/07/fujifilm-x-t2-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/fujifilm-x-t2-coming-photokina-2016.jpg
 dsq_thread_id:
   - "4953023236"
+categories:
 tags:
   - APS-c
   - Camera

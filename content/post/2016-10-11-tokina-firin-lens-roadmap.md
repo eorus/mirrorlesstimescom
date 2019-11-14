@@ -7,6 +7,7 @@ url: /2016/10/tokina-firin-lens-roadmap/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/tokina-firin-lens-roadmap-full-frame-sony-e-mount.jpg
 dsq_thread_id:
   - "5214316153"
+categories:
 tags:
   - Full Frame
   - Lens

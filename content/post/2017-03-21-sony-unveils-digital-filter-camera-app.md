@@ -7,6 +7,7 @@ url: /2017/03/sony-unveils-digital-filter-camera-app/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/sony-digital-filter-app.jpg
 dsq_thread_id:
   - "5651322270"
+categories:
 tags:
   - Accessories
   - APS-c

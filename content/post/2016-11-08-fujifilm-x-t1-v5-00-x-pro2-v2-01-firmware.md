@@ -7,6 +7,7 @@ url: /2016/11/fujifilm-x-t1-v5-00-x-pro2-v2-01-firmware/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/best-fujifilm-x-t1-lenses.jpg
 dsq_thread_id:
   - "5288316705"
+categories:
 tags:
   - Announcement
   - APS-c

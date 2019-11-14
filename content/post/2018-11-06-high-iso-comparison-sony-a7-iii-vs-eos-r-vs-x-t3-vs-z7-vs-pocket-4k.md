@@ -5,6 +5,7 @@ type: post
 date: 2018-11-06T06:18:59+00:00
 url: /2018/11/high-iso-comparison-sony-a7-iii-vs-eos-r-vs-x-t3-vs-z7-vs-pocket-4k/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

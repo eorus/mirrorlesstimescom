@@ -7,6 +7,7 @@ url: /2017/11/sony-a7r-iii-shipping-date-postponed-december/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/sony-a7r-iii-shipping-date.jpg
 dsq_thread_id:
   - "6294837200"
+categories:
 tags:
   - Camera
   - Deals

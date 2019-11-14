@@ -5,6 +5,7 @@ type: post
 date: 2019-03-21T15:07:11+00:00
 url: /2019/03/7artisans-60mm-f-2-8-macro-lens-for-aps-c-mirrorless/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/7Artisans-60mm-f2.8-Macro-lens-for-Sony-E-Canon-EF-M-Fuji-X-MFT-mounts.jpeg
+categories:
 tags:
   - 7Artisans 60mm f/2.8 Macro lens
   - Announcement

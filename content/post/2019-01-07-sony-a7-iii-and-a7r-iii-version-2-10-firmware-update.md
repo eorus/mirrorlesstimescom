@@ -5,6 +5,7 @@ type: post
 date: 2019-01-07T13:34:12+00:00
 url: /2019/01/sony-a7-iii-and-a7r-iii-version-2-10-firmware-update/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/sony-a7r-iii-star-eater.jpg
+categories:
 tags:
   - Camera
   - Firmware

@@ -5,6 +5,7 @@ type: post
 date: 2019-05-13T09:56:27+00:00
 url: /2019/05/canon-rf-35mm-f-1-8-is-stm-macro-firmware-v2-0-0/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/canon-RF-35mm-f18-macro-is-usm.jpg
+categories:
 tags:
   - Canon EOS R
   - Canon full frame mirrorless camera

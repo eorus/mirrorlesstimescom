@@ -5,6 +5,7 @@ type: post
 date: 2018-04-11T08:49:17+00:00
 url: /2018/04/panasonic-lx200-camera-to-be-announced-at-photokina-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/panasonic-lx200-specs-leaked-online.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

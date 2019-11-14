@@ -7,6 +7,7 @@ url: /2017/03/olympus-working-8k-video-handheld-high-resolution-mode/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/olympus-logo.jpg
 dsq_thread_id:
   - "5640028123"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

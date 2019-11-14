@@ -5,6 +5,7 @@ type: post
 date: 2018-03-08T13:55:22+00:00
 url: /2018/03/new-olympus-om-d-e-m1-ii-e-m5-ii-and-pen-f-firmware-updates-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/12/olympus-e-m1-mark-ii-pre-order-2-750x550.jpg
+categories:
 tags:
   - Camera
   - Firmware

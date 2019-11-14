@@ -5,6 +5,7 @@ type: post
 date: 2018-03-19T06:53:54+00:00
 url: /2018/03/sony-a7s-iii-sony-a6700-specs-predictions/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/sony-a7siii-rumors.jpg
+categories:
 tags:
   - Camera
   - Full Frame

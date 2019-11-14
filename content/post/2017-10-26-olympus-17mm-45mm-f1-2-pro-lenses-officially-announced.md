@@ -7,6 +7,7 @@ url: /2017/10/olympus-17mm-45mm-f1-2-pro-lenses-officially-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/Olympus-M.Zuiko-Digital-17mm-f1.2-PRO-and-45mm-f1.2-PRO-MFT-lenses-750x550.jpg
 dsq_thread_id:
   - "6242489134"
+categories:
 tags:
   - Announcement
   - Lens

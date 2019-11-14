@@ -5,6 +5,7 @@ type: post
 date: 2018-11-13T09:31:19+00:00
 url: /2018/11/canon-eos-r-overview-and-hands-on-review/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-front.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

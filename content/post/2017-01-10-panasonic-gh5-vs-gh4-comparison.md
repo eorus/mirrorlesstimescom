@@ -7,6 +7,7 @@ url: /2017/01/panasonic-gh5-vs-gh4-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/panasonic-gh5-vs-gh4-comparison.jpg
 dsq_thread_id:
   - "5451345069"
+categories:
 tags:
   - Camera
   - Comparison

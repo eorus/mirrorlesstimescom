@@ -7,6 +7,7 @@ url: /2018/01/full-panasonic-gh5s-specifications-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/01/full-panasonic-gh5s-specs-leaked-price-2499.jpg
 dsq_thread_id:
   - "6399834127"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

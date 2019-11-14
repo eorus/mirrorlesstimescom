@@ -5,6 +5,7 @@ type: post
 date: 2018-08-27T12:12:07+00:00
 url: /2018/08/tony-and-chelsea-northrup-review-of-the-nikon-z7/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/08/Nikon-Z7-Adapter.jpg
+categories:
 tags:
   - Camera
   - Full Frame

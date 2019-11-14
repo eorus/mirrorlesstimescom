@@ -5,6 +5,7 @@ type: post
 date: 2018-05-25T09:34:45+00:00
 url: /2018/05/panasonic-dc-gh5-dc-gh5s-and-the-dc-g9-firmware-updates/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/01/panasonic-gh5s-1.jpg
+categories:
 tags:
   - Camera
   - Firmware

@@ -5,6 +5,7 @@ type: post
 date: 2019-05-12T12:30:49+00:00
 url: /2019/05/samyang-af-85mm-f-1-4-fe-lens-for-sony-e-mount/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/Samyang-AF-85mm-f1.4-FE-Lens-Image-1.jpg
+categories:
 tags:
   - Announcement
   - Full Frame

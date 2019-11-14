@@ -5,6 +5,7 @@ type: post
 date: 2018-11-13T09:10:05+00:00
 url: /2018/11/fujifilm-x-t3-review-x-t3-vs-x-h1-vs-x-t2/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-x-t3-front-side.jpg
+categories:
 tags:
   - APS-c
   - Camera

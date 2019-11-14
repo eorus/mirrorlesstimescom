@@ -7,6 +7,7 @@ url: /2016/05/sigma-25mm-f1-2-lens-patent/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/sigma-25mm-f1.2-patent.png
 dsq_thread_id:
   - "4862692710"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

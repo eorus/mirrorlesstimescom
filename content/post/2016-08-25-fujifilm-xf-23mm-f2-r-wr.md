@@ -7,6 +7,7 @@ url: /2016/08/fujifilm-xf-23mm-f2-r-wr/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/08/fujifilm-xf-23mm-f2-r-wr-silver.jpg
 dsq_thread_id:
   - "5093984335"
+categories:
 tags:
   - Announcement
   - APS-c

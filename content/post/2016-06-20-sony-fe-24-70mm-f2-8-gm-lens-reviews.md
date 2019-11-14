@@ -7,6 +7,7 @@ url: /2016/06/sony-fe-24-70mm-f2-8-gm-lens-reviews/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/sony-fe-24-70mm-f2-8-gm-lens-reviews.jpg
 dsq_thread_id:
   - "4924530094"
+categories:
 tags:
   - Full Frame
   - Lens

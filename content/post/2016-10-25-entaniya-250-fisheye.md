@@ -7,6 +7,7 @@ url: /2016/10/entaniya-250-fisheye/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/unnamed.jpg
 dsq_thread_id:
   - "5250968675"
+categories:
 tags:
   - Announcement
   - Lens

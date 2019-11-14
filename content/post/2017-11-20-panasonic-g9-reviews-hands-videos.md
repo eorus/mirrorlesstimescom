@@ -7,6 +7,7 @@ url: /2017/11/panasonic-g9-reviews-hands-videos/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/panasonic-g9-leica-dg-elmarit-200mm-f2-8-lens-officially-announced-750x550.jpg
 dsq_thread_id:
   - "6296875342"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

@@ -7,6 +7,7 @@ url: /2017/12/aurora-hdr-mac-app-store-year-2017/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/aurora-hdr-wins-best-app-year-honors-apple.jpg
 dsq_thread_id:
   - "6337023460"
+categories:
 tags:
   - Camera
   - Lens

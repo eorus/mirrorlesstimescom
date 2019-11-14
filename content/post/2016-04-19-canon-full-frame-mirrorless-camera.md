@@ -9,6 +9,7 @@ dsq_thread_id:
   - "4861892775"
 categories:
   - Canon
+
 tags:
   - Camera
   - Canon Mirrorless

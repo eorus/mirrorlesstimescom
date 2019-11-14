@@ -5,6 +5,7 @@ type: post
 date: 2018-03-05T09:48:07+00:00
 url: /2018/03/fujifilm-x-h1-stock-shipping-us/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/Fujifilm-X-H1.jpeg
+categories:
 tags:
   - APS-c
   - Camera

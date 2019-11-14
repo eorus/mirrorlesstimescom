@@ -7,6 +7,7 @@ url: /2016/09/canon-eos-m5-vs-sony-a6300/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/canon-eos-m5-vs-sony-a6300.jpg
 dsq_thread_id:
   - "5185287653"
+categories:
 tags:
   - APS-c
   - Camera

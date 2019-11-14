@@ -7,6 +7,7 @@ url: /2017/10/sony-firmware-update-ver0-3-fe-70-200mm-100-400mm-gm-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/sony-firmware-update-ver0-3-fe-70-200mm-100-400mm-gm-lenses-750x550.jpg
 dsq_thread_id:
   - "6227838270"
+categories:
 tags:
   - Firmware
   - Full Frame

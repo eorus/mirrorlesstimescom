@@ -5,6 +5,7 @@ type: post
 date: 2018-10-16T11:04:38+00:00
 url: /2018/10/canon-rf-28-70mm-f-2l-usm-lens-review-greatest-zoom-ever-for-eos-r/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/canon_rf_2870mm_f2_l_usm.jpg
+categories:
 tags:
   - Canon EOS R
   - Canon full frame mirrorless camera

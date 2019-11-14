@@ -7,6 +7,7 @@ url: /2017/10/additional-sony-a7r-iii-coverage/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/additional-sony-a7r-iii-coverage-750x496.png
 dsq_thread_id:
   - "6242888958"
+categories:
 tags:
   - Camera
   - Full Frame

@@ -7,6 +7,7 @@ url: /2016/05/canon-ef-m-28mm-f3-5-macro-is-stm/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/canon-ef-m-28mm-f3-5-macro-is-stm.jpg
 dsq_thread_id:
   - "4886116223"
+categories:
 tags:
   - Announcement
   - APS-c

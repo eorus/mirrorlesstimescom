@@ -7,6 +7,7 @@ url: /2016/06/panasonic-lx200-announcement/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/panasonic-lx200-announcement.jpg
 dsq_thread_id:
   - "4938487557"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

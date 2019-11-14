@@ -5,6 +5,7 @@ type: post
 date: 2019-03-01T14:54:40+00:00
 url: /2019/03/canon-eos-r-firmware-update-version-1-1-0-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-front.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

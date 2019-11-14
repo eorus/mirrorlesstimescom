@@ -7,6 +7,7 @@ url: /2016/09/olympus-e-pl8/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/olympus-pen-e-pl8.jpg
 dsq_thread_id:
   - "5161261525"
+categories:
 tags:
   - Announcement
   - Camera

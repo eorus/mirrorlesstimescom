@@ -5,6 +5,7 @@ type: post
 date: 2018-10-10T08:45:29+00:00
 url: /2018/10/fujifilm-gfx-100-to-feature-100mp-4k-video-30p-10bit-420-internally/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-gfx-100s-development-announced.jpg
+categories:
 tags:
   - Camera
   - Fujifilm GFX 100S

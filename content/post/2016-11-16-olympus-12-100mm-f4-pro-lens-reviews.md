@@ -7,6 +7,7 @@ url: /2016/11/olympus-12-100mm-f4-pro-lens-reviews/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/olympus-m-zuiko-digital-ed-12-100mm-14-0-pro-lens.jpg
 dsq_thread_id:
   - "5307934529"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

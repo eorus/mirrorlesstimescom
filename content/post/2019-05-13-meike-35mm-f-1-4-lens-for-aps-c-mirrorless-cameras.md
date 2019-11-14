@@ -5,6 +5,7 @@ type: post
 date: 2019-05-13T09:41:06+00:00
 url: /2019/05/meike-35mm-f-1-4-lens-for-aps-c-mirrorless-cameras/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/Meike-35mm-f1.4-manual-focus-lens-designed-for-APS-C-mirrorless-cameras.jpg
+categories:
 tags:
   - Announcement
   - APS-c

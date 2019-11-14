@@ -7,6 +7,7 @@ url: /2017/01/fujifilm-gfx-50s-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/fujifilm-gfx-50s-grip.jpg
 dsq_thread_id:
   - "5476091612"
+categories:
 tags:
   - Announcement
   - Camera

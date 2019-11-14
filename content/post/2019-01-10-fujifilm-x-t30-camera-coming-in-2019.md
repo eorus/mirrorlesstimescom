@@ -5,6 +5,7 @@ type: post
 date: 2019-01-10T15:02:20+00:00
 url: /2019/01/fujifilm-x-t30-camera-coming-in-2019/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/fujifilm-x-t20-front.jpg
+categories:
 tags:
   - APS-c
   - Camera

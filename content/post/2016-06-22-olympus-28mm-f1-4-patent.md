@@ -7,6 +7,7 @@ url: /2016/06/olympus-28mm-f1-4-patent/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/olympus-28mm-f-1.4-lens.jpg
 dsq_thread_id:
   - "4929906933"
+categories:
 tags:
   - Full Frame
   - Lens

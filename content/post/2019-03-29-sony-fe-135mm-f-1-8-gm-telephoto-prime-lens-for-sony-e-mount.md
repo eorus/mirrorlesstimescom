@@ -5,6 +5,7 @@ type: post
 date: 2019-03-29T08:37:40+00:00
 url: /2019/03/sony-fe-135mm-f-1-8-gm-telephoto-prime-lens-for-sony-e-mount/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/sony-fe-135mm-f-1-8-gm-lens.jpeg
+categories:
 tags:
   - Announcement
   - Full Frame

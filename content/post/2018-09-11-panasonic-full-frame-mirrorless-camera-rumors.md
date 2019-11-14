@@ -5,6 +5,7 @@ type: post
 date: 2018-09-11T11:46:20+00:00
 url: /2018/09/panasonic-full-frame-mirrorless-camera-rumors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/01/full-panasonic-gh5s-specs-leaked-price-2499.jpg
+categories:
 tags:
   - Camera
   - Full Frame

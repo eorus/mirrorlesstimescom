@@ -5,6 +5,7 @@ type: post
 date: 2019-01-26T05:36:00+00:00
 url: /2019/01/olympus-e-m1x-and-sony-a7iii-freeze-test/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/olympus-e-m1x-and-sony-a7iii-freeze-test.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

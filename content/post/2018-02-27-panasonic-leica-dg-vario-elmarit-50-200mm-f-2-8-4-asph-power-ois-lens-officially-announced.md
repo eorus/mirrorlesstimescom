@@ -5,6 +5,7 @@ type: post
 date: 2018-02-27T09:23:08+00:00
 url: /2018/02/panasonic-leica-dg-vario-elmarit-50-200mm-f-2-8-4-asph-power-ois-lens-officially-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/panasonic-leica-dg-vario-elmarit-50-200mm-f-2-8-4-asph-power-ois-lens-officially-announced.png
+categories:
 tags:
   - Announcement
   - Leica DG Vario-Elmarit 50-200mm f/2.8-4 ASPH Power OIS

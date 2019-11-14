@@ -5,6 +5,7 @@ type: post
 date: 2019-03-18T12:45:49+00:00
 url: /2019/03/nikon-announced-the-development-of-new-firmware-for-the-z6-z7-d5-d850-and-d500-cameras/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/nikon-z6-z7-samples.jpg
+categories:
 tags:
   - Announcement
   - Camera

@@ -5,6 +5,7 @@ type: post
 date: 2018-03-23T13:00:54+00:00
 url: /2018/03/fujifilm-x-raw-studio-1-1-1-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/fujifilm-x-raw-studio-conversion-system.jpeg
+categories:
 tags:
   - Software
 

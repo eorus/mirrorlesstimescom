@@ -7,6 +7,7 @@ url: /2018/01/panasonic-gh5s-vs-sony-a7s-ii-high-iso-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/01/panasonic-gh5s-1.jpg
 dsq_thread_id:
   - "6406022032"
+categories:
 tags:
   - Camera
   - Comparison

@@ -7,6 +7,7 @@ url: /2016/08/zeiss-batis-60mm-f2-8-macro-lens-rumors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/08/zeiss-batis-60mm-f2-8-macro-lens-rumors.jpg
 dsq_thread_id:
   - "5094029476"
+categories:
 tags:
   - Full Frame
   - Lens

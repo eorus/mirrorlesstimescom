@@ -7,12 +7,13 @@ url: /2016/05/panasonic-leica-12mm-rumors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/panasonic-12mm-lens-rumors.jpg
 dsq_thread_id:
   - "4861721356"
+categories:
+  - Panasonic
 tags:
   - Lens
   - Micro Four Thirds
-  - Photokina 2016
+  - Panasonic Mirrorless
   - Rumors
-  - Wide Angle
 
 ---
 **Panasonic Leica 12mm** lens is rumored to be in development which will be released sometime in the second half of 2016.

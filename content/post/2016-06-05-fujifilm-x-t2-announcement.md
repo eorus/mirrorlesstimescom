@@ -7,6 +7,7 @@ url: /2016/06/fujifilm-x-t2-announcement/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/fujifilm-x-t2-announcement.jpg
 dsq_thread_id:
   - "4885241043"
+categories:
 tags:
   - APS-c
   - Camera

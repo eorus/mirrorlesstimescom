@@ -7,6 +7,7 @@ url: /2017/08/leica-m10-firmware-1-9-4-0-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/leica-m10-feature.jpg
 dsq_thread_id:
   - "6032520834"
+categories:
 tags:
   - Camera
   - Firmware

@@ -7,6 +7,7 @@ url: /2017/12/sony-releases-fe-70-200mm-f-2-8-gm-oss-lens-firmware-version-05/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/sony-fe-70-200mm-f2-8-gm-lens-firmware-update.jpg
 dsq_thread_id:
   - "6337004463"
+categories:
 tags:
   - Firmware
   - Full Frame

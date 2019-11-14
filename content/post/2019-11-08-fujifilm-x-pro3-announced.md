@@ -12,6 +12,7 @@ mathjax: false # Optional, enable MathJax for specific post
 
 categories:
   - "Fujifilm"
+categories:
 tags:
   - "Fujifilm Mirrorless"
   - "Fujifilm X-Pro3"

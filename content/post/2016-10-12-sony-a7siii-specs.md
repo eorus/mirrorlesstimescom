@@ -7,6 +7,7 @@ url: /2016/10/sony-a7siii-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/sony-a7siii-rumors.jpg
 dsq_thread_id:
   - "5216523699"
+categories:
 tags:
   - Camera
   - Full Frame

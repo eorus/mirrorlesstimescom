@@ -7,6 +7,7 @@ url: /2016/05/nikon-1-v3-firmware-1-11/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/nikon-1-v3-firmware-1-11.jpg
 dsq_thread_id:
   - "4863361765"
+categories:
 tags:
   - 1 inch
   - Camera

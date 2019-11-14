@@ -5,6 +5,7 @@ type: post
 date: 2018-03-19T06:34:47+00:00
 url: /2018/03/sony-a7-iii-hands-on-field-test/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii.jpg
+categories:
 tags:
   - Camera
   - Full Frame

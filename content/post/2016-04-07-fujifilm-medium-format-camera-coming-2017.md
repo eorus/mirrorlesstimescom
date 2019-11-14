@@ -9,6 +9,7 @@ dsq_thread_id:
   - "4862448067"
 categories:
   - Fujifilm
+
 tags:
   - Camera
   - Rumors

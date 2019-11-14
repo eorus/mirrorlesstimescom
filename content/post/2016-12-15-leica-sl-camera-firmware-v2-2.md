@@ -7,6 +7,7 @@ url: /2016/12/leica-sl-camera-firmware-v2-2/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/12/41n3HkpMXVL.jpg
 dsq_thread_id:
   - "5382691143"
+categories:
 tags:
   - Camera
   - Firmware

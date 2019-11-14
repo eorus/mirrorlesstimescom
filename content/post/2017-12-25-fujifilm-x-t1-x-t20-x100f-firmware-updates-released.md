@@ -7,6 +7,7 @@ url: /2017/12/fujifilm-x-t1-x-t20-x100f-firmware-updates-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/fujifilm-x-t20-front.jpg
 dsq_thread_id:
   - "6371214341"
+categories:
 tags:
   - APS-c
   - Camera

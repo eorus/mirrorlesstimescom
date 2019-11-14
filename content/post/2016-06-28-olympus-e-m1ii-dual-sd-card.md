@@ -7,6 +7,7 @@ url: /2016/06/olympus-e-m1ii-dual-sd-card/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/olympus-e-m1ii-dual-sd-card.png
 dsq_thread_id:
   - "4945124894"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

@@ -7,6 +7,7 @@ url: /2017/04/fujifilm-xf-18mm-f2-mark-ii-lens-development/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/04/fujifilm-xf-18mm-f2-mark-ii.jpg
 dsq_thread_id:
   - "5712459611"
+categories:
 tags:
   - Lens
   - Rumors

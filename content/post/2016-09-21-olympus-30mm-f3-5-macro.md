@@ -7,6 +7,7 @@ url: /2016/09/olympus-30mm-f3-5-macro/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/olympus-m-zuiko-digital-ed-30mm-f3-5-macro-lens-announced.jpg
 dsq_thread_id:
   - "5160761814"
+categories:
 tags:
   - Announcement
   - Lens

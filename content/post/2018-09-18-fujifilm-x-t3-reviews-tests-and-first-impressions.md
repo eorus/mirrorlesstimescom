@@ -5,6 +5,7 @@ type: post
 date: 2018-09-18T09:27:00+00:00
 url: /2018/09/fujifilm-x-t3-reviews-tests-and-first-impressions/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-x-t3-grip.jpg
+categories:
 tags:
   - APS-c
   - Camera

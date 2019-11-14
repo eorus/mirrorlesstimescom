@@ -5,6 +5,7 @@ type: post
 date: 2018-09-05T08:42:14+00:00
 url: /2018/09/official-canon-eos-r-hands-on-videos/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-front.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

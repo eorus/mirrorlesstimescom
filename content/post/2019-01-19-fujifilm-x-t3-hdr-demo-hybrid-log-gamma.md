@@ -5,6 +5,7 @@ type: post
 date: 2019-01-19T07:28:42+00:00
 url: /2019/01/fujifilm-x-t3-hdr-demo-hybrid-log-gamma/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/Fuji-X-T3-mirrorless-camera.jpg
+categories:
 tags:
   - APS-c
   - Camera

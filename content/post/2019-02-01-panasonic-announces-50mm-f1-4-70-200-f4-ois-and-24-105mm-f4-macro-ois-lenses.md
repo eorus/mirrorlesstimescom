@@ -5,6 +5,7 @@ type: post
 date: 2019-02-01T11:23:03+00:00
 url: /2019/02/panasonic-announces-50mm-f1-4-70-200-f4-ois-and-24-105mm-f4-macro-ois-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/02/panasonic-s-50mm-f-1-4-l-mount-lens.jpg
+categories:
 tags:
   - Announcement
   - Camera

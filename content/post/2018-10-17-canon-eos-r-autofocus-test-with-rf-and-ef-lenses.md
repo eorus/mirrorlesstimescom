@@ -5,6 +5,7 @@ type: post
 date: 2018-10-17T07:09:08+00:00
 url: /2018/10/canon-eos-r-autofocus-test-with-rf-and-ef-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-front.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

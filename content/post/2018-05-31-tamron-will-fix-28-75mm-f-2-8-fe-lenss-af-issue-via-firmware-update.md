@@ -5,6 +5,7 @@ type: post
 date: 2018-05-31T08:28:54+00:00
 url: /2018/05/tamron-will-fix-28-75mm-f-2-8-fe-lenss-af-issue-via-firmware-update/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/tamron-28-75mm-f-2-8-di-iii-rxd-lens-1.jpg
+categories:
 tags:
   - Firmware
   - Full Frame

@@ -7,6 +7,7 @@ url: /2016/07/sigma-30mm-f1-4-lens-dxomark-test/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/first-sigma-30mm-f1-4-lens-reviews.jpg
 dsq_thread_id:
   - "4962114527"
+categories:
 tags:
   - APS-c
   - Lens

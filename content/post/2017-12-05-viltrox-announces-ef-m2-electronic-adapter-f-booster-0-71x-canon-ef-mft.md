@@ -7,6 +7,7 @@ url: /2017/12/viltrox-announces-ef-m2-electronic-adapter-f-booster-0-71x-canon-e
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/viltrox-announces-ef-m2-electronic-adapter-f-booster-0-71x-canon-ef-mft.jpg
 dsq_thread_id:
   - "6330071516"
+categories:
 tags:
   - Accessories
   - Camera

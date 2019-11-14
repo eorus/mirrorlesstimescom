@@ -5,6 +5,7 @@ type: post
 date: 2018-11-06T10:30:37+00:00
 url: /2018/11/canon-rf-14-21mm-f-1-4l-rf-12-20mm-f-2l-rf-16-35mm-f-2-8l-patents/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/canon-patent-rf1421.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

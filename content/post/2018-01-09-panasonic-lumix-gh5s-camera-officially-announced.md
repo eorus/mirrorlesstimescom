@@ -7,6 +7,7 @@ url: /2018/01/panasonic-lumix-gh5s-camera-officially-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/01/panasonic-gh5s-1.jpg
 dsq_thread_id:
   - "6401610157"
+categories:
 tags:
   - Announcement
   - Camera

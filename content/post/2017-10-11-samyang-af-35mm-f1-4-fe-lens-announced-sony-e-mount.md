@@ -7,6 +7,7 @@ url: /2017/10/samyang-af-35mm-f1-4-fe-lens-announced-sony-e-mount/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/samyang-af-35mm-f1-4-fe-750x550.jpg
 dsq_thread_id:
   - "6206237402"
+categories:
 tags:
   - Announcement
   - Full Frame

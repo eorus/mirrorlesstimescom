@@ -5,6 +5,7 @@ type: post
 date: 2019-03-29T08:46:28+00:00
 url: /2019/03/voigtlander-nokton-50mm-f-1-2-aspherical-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/Voigtlander-Nokton-50mm-f1.2-Aspherical-Lens-for-Sony-E-mount.jpg
+categories:
 tags:
   - Announcement
   - Full Frame

@@ -5,6 +5,7 @@ type: post
 date: 2018-09-30T13:55:00+00:00
 url: /2018/09/sony-a7s-iii-will-go-beyond-customers-expectations/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/04/sony-a7s-iii-announcement.jpg
+categories:
 tags:
   - Camera
   - Full Frame

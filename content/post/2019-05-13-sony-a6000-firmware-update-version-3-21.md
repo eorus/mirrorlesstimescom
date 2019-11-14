@@ -5,6 +5,7 @@ type: post
 date: 2019-05-13T14:15:24+00:00
 url: /2019/05/sony-a6000-firmware-update-version-3-21/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/Sony-A6000-Mirrorless-Camera.jpg
+categories:
 tags:
   - APS-c
   - Camera

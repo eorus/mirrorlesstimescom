@@ -7,6 +7,7 @@ url: /2016/06/fujifilm-xf-16mm-f1-8-lens-patent/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/91bw6i0f0QL._SL1500_.jpg
 dsq_thread_id:
   - "4926913770"
+categories:
 tags:
   - APS-c
   - Lens

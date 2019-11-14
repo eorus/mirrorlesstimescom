@@ -7,6 +7,7 @@ url: /2016/05/72mp-sony-a9-prototype-rumors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/72mp-sony-a9-prototype.jpg
 dsq_thread_id:
   - "4862380019"
+categories:
 tags:
   - Camera
   - Full Frame

@@ -5,6 +5,7 @@ type: post
 date: 2019-03-21T12:57:36+00:00
 url: /2019/03/canon-eos-rp-user-manual-available-for-download/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/canon-eos-rp.jpg
+categories:
 tags:
   - Camera
   - Canon EOS RP

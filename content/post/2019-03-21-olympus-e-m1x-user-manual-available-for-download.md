@@ -5,6 +5,7 @@ type: post
 date: 2019-03-21T13:07:28+00:00
 url: /2019/03/olympus-e-m1x-user-manual-available-for-download/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/olympus-e-m1x-camera-front.jpg
+categories:
 tags:
   - Camera
   - Instruction Manual

@@ -5,6 +5,7 @@ type: post
 date: 2018-03-27T08:49:45+00:00
 url: /2018/03/canon-ef-m-32mm-f-1-4-stm-lens-coming-at-photokina-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/canon-ef-m-32mm-f-1-4-stm-lens-to-be-announced-at-photokina-2018.jpg
+categories:
 tags:
   - APS-c
   - Canon Mirrorless

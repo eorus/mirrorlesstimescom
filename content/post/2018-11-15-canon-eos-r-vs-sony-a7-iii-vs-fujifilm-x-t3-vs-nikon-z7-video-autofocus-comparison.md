@@ -5,6 +5,7 @@ type: post
 date: 2018-11-15T09:00:28+00:00
 url: /2018/11/canon-eos-r-vs-sony-a7-iii-vs-fujifilm-x-t3-vs-nikon-z7-video-autofocus-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-vs-nikon-z6-vs-sony-a7-iii-comparison.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

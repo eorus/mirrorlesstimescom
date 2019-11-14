@@ -7,6 +7,7 @@ url: /2016/05/sony-a6300-vs-fujifilm-x-pro2/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/sony-a6300-vs-fujifilm-x-pro2-comparison.jpg
 dsq_thread_id:
   - "4861553041"
+categories:
 tags:
   - APS-c
   - Camera

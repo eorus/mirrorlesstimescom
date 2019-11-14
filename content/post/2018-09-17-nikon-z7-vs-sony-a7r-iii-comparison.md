@@ -5,6 +5,7 @@ type: post
 date: 2018-09-17T07:09:33+00:00
 url: /2018/09/nikon-z7-vs-sony-a7r-iii-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/Nikon-Z7-vs-Sony-A7R-III.jpg
+categories:
 tags:
   - Comparison
   - Full Frame

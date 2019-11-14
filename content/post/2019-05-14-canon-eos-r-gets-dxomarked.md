@@ -5,6 +5,7 @@ type: post
 date: 2019-05-14T08:42:01+00:00
 url: /2019/05/canon-eos-r-gets-dxomarked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/canon-eos-r-sensor-score.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

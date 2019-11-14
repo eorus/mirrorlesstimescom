@@ -7,6 +7,7 @@ url: /2017/10/sony-unveils-fe-24-105mm-f4-g-oss-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/sony-fe-24-105mm-f4-g-oss-750x550.jpg
 dsq_thread_id:
   - "6239774300"
+categories:
 tags:
   - Announcement
   - Full Frame

@@ -5,6 +5,7 @@ type: post
 date: 2018-03-22T14:09:49+00:00
 url: /2018/03/new-opteka-12mm-f-2-8-lens-announced-for-mirrorless-cameras/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/new-opteka-12mm-f-2-8-lens-announced-for-mirrorless-cameras.jpg
+categories:
 tags:
   - Announcement
   - APS-c

@@ -7,6 +7,7 @@ url: /2017/04/zeiss-batis-135mm-f2-8-apo-sonnar-fe/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/04/zeiss-batis-135mm-f2-8.jpg
 dsq_thread_id:
   - "5698160195"
+categories:
 tags:
   - Announcement
   - Full Frame

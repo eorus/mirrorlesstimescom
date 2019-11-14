@@ -7,6 +7,7 @@ url: /2017/07/fujifilm-x-t2s-rumored-x-t2-replacement/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/fujifilm-x-t2-front.jpg
 dsq_thread_id:
   - "6030287370"
+categories:
 tags:
   - APS-c
   - Camera

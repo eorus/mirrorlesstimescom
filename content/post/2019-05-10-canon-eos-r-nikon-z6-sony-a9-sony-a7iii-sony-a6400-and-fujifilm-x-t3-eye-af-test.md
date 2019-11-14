@@ -5,6 +5,7 @@ type: post
 date: 2019-05-10T13:38:09+00:00
 url: /2019/05/canon-eos-r-nikon-z6-sony-a9-sony-a7iii-sony-a6400-and-fujifilm-x-t3-eye-af-test/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/eye-AF-test-comparison-between-Canon-EOS-R-Fuji-X-T3-Nikon-Z6-Sony-a9-Sony-a7-III-and-Sony-a6400.jpg
+categories:
 tags:
   - APS-c
   - Camera

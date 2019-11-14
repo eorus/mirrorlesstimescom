@@ -5,6 +5,7 @@ type: post
 date: 2019-03-21T13:24:31+00:00
 url: /2019/03/olympus-pen-f-camera-discontinued-new-pen-f-mark-ii-rumors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/olympus-pen-f-reviews.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

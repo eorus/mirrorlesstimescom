@@ -7,6 +7,7 @@ url: /2017/03/sony-a7iii-specs-feature-4k-video-joystick-control/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/sony-a7iii-release-date.jpg
 dsq_thread_id:
   - "5651381306"
+categories:
 tags:
   - Camera
   - Full Frame

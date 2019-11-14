@@ -7,6 +7,7 @@ url: /2017/03/panasonic-gh5-vs-sony-a6500/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/Panasonic-GH5-vs-Sony-A6500.jpg
 dsq_thread_id:
   - "5647968089"
+categories:
 tags:
   - APS-c
   - Camera

@@ -5,6 +5,7 @@ type: post
 date: 2018-09-25T06:12:15+00:00
 url: /2018/09/l-mount-alliance-between-leica-camera-panasonic-and-sigma/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/l-mount-alliance-between-leica-camera-panasonic-and-sigma.jpg
+categories:
 tags:
   - Announcement
   - Camera

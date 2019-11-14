@@ -7,6 +7,7 @@ url: /2017/02/cosina-announced-development-three-new-sony-e-mount-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/02/cosina-voigtlander-lenses-sony-e-mount-1.jpg
 dsq_thread_id:
   - "5577118423"
+categories:
 tags:
   - Announcement
   - Full Frame

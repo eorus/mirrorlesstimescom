@@ -7,6 +7,7 @@ url: /2017/12/panasonic-gh5s-price-will-around-2500/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/panasonic-gh5s-camera-coming-soon.jpeg
 dsq_thread_id:
   - "6334267763"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

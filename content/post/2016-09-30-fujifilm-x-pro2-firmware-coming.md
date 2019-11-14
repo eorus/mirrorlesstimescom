@@ -7,6 +7,7 @@ url: /2016/09/fujifilm-x-pro2-firmware-coming/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/fujifilm-x-pro2-firmware-update-v1-01-bug-fixes-released.jpg
 dsq_thread_id:
   - "5185530817"
+categories:
 tags:
   - APS-c
   - Camera

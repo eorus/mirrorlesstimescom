@@ -7,6 +7,7 @@ url: /2017/02/fujifilm-mk-8-55mm-t2-9-50-135mm-t2-9-cinema-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/02/Fujinon-MK18-55mm-T2.9-Lens-Sony-E-Mount-3.jpg
 dsq_thread_id:
   - "5575671532"
+categories:
 tags:
   - Announcement
   - APS-c

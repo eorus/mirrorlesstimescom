@@ -5,6 +5,7 @@ type: post
 date: 2018-08-23T06:51:00+00:00
 url: /2018/08/nikon-z6-and-z7-hands-on-preview-videos/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/08/Nikon-Z7-Adapter.jpg
+categories:
 tags:
   - Camera
   - Full Frame

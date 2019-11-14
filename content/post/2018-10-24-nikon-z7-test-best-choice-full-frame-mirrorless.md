@@ -5,6 +5,7 @@ type: post
 date: 2018-10-24T06:48:12+00:00
 url: /2018/10/nikon-z7-test-best-choice-full-frame-mirrorless/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/nikon-z7-review.jpg
+categories:
 tags:
   - Camera
   - Full Frame

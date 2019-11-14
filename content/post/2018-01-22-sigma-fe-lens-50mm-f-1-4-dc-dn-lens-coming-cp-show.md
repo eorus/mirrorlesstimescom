@@ -7,6 +7,7 @@ url: /2018/01/sigma-fe-lens-50mm-f-1-4-dc-dn-lens-coming-cp-show/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/01/sigma-fe-af-35mm-lens.jpg
 dsq_thread_id:
   - "6429611416"
+categories:
 tags:
   - Full Frame
   - Lens

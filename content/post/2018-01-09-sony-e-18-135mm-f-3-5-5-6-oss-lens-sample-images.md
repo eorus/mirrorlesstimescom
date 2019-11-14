@@ -7,6 +7,7 @@ url: /2018/01/sony-e-18-135mm-f-3-5-5-6-oss-lens-sample-images/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/01/sony-e-18-135mm-f-3.5-5.6-oss-lens-sample-images-4.jpg
 dsq_thread_id:
   - "6401549301"
+categories:
 tags:
   - Full Frame
   - Lens

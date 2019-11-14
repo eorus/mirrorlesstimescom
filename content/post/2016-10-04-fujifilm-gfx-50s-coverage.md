@@ -7,6 +7,7 @@ url: /2016/10/fujifilm-gfx-50s-coverage/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/fujfilm-gfx-50s-development.jpg
 dsq_thread_id:
   - "5194699024"
+categories:
 tags:
   - Camera
   - Medium Format

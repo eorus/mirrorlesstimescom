@@ -5,6 +5,7 @@ type: post
 date: 2019-02-01T13:40:30+00:00
 url: /2019/02/panasonic-lumix-s1-s1r-full-frame-mirrorless-cameras-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/02/Panasonic-S1R.jpg
+categories:
 tags:
   - Announcement
   - Camera

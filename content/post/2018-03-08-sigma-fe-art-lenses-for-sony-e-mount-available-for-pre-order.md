@@ -5,6 +5,7 @@ type: post
 date: 2018-03-08T13:19:39+00:00
 url: /2018/03/sigma-fe-art-lenses-for-sony-e-mount-available-for-pre-order/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/pricing-announced-for-the-new-sigma-art-series-lenses-for-sony-e-mount.jpg
+categories:
 tags:
   - Full Frame
   - Lens

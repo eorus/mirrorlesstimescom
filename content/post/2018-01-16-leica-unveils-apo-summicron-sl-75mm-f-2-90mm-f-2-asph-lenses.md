@@ -7,6 +7,7 @@ url: /2018/01/leica-unveils-apo-summicron-sl-75mm-f-2-90mm-f-2-asph-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/01/leica-unveils-apo-summicron-sl-75mm-f-2-90mm-f-2-asph-lenses.jpg
 dsq_thread_id:
   - "6416973241"
+categories:
 tags:
   - Announcement
   - Full Frame

@@ -7,6 +7,7 @@ url: /2016/05/zeiss-batis-85mm-f1-8-lens-test-results/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/zeiss-batis-85mm-f1-8-lens-test-results.jpg
 dsq_thread_id:
   - "4861881208"
+categories:
 tags:
   - Full Frame
   - Lens

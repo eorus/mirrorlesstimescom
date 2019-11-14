@@ -7,6 +7,7 @@ url: /2017/12/voigtlander-35mm-f-1-4-fe-lens-sony-e-mount-officially-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/Voigtlander-Nokton-Classic-35mm-f1.4-FE-lens-for-Sony-E-mount.jpg
 dsq_thread_id:
   - "6360580675"
+categories:
 tags:
   - Announcement
   - Full Frame

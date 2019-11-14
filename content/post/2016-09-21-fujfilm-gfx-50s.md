@@ -7,6 +7,7 @@ url: /2016/09/fujfilm-gfx-50s/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/fujfilm-gfx-50s-development-01.jpg
 dsq_thread_id:
   - "5161310238"
+categories:
 tags:
   - Announcement
   - Camera

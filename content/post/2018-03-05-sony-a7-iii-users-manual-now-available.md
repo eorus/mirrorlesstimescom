@@ -5,6 +5,7 @@ type: post
 date: 2018-03-05T08:16:27+00:00
 url: /2018/03/sony-a7-iii-users-manual-now-available/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/sony-a7III-instruction-Manual.jpg
+categories:
 tags:
   - Camera
   - Full Frame

@@ -7,6 +7,7 @@ url: /2016/10/canon-full-frame-mirrorless-camera-detailes-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/canon-full-frame-mirrorless-camera-rumors.jpg
 dsq_thread_id:
   - "5251241737"
+categories:
 tags:
   - Camera
   - Canon full frame mirrorless camera

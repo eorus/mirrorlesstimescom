@@ -5,6 +5,7 @@ type: post
 date: 2018-02-15T09:14:50+00:00
 url: /2018/02/panasonic-gx9/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/panasonic-lumix-gx9-1.jpg
+categories:
 tags:
   - Announcement
   - Camera

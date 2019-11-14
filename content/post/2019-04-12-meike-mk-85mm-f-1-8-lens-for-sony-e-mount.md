@@ -5,6 +5,7 @@ type: post
 date: 2019-04-12T09:38:39+00:00
 url: /2019/04/meike-mk-85mm-f-1-8-lens-for-sony-e-mount/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/04/meike-announces-mk-85mm-f-1-8-lens-for-sony-e-mount-cameras.jpg
+categories:
 tags:
   - Announcement
   - Full Frame

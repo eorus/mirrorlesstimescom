@@ -7,6 +7,7 @@ url: /2016/12/olympus-e-m1-firmware-version-4-3/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/12/right_M1240_BLK.jpeg
 dsq_thread_id:
   - "5395185904"
+categories:
 tags:
   - Camera
   - Firmware

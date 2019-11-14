@@ -7,6 +7,7 @@ url: /2017/06/laowa-7-5mm-f2-mft-lens-reviews-samples/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/laowa-7-5mm-f2-mft.jpg
 dsq_thread_id:
   - "5888278739"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

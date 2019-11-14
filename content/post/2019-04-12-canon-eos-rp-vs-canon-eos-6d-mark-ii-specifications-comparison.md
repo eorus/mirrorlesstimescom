@@ -5,6 +5,7 @@ type: post
 date: 2019-04-12T09:12:12+00:00
 url: /2019/04/canon-eos-rp-vs-canon-eos-6d-mark-ii-specifications-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/04/canon-eos-rp-vs-canon-eos-6d-mark-ii-comparison.jpg
+categories:
 tags:
   - Camera
   - Canon EOS RP

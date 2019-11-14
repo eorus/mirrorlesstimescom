@@ -7,6 +7,7 @@ url: /2017/10/olympus-m-zuiko-digital-ed-17mm-45mm-f1-2-pro-lens-sample-images/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/olympus-m-zuiko-digital-ed-17mm-45mm-f1-2-pro-lens-sample-images-1-750x550.jpg
 dsq_thread_id:
   - "6251040590"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

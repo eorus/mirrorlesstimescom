@@ -5,6 +5,7 @@ type: post
 date: 2019-04-11T12:44:29+00:00
 url: /2019/04/olympus-e-m1-mark-ii-has-better-dynamic-range-than-e-m1x/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/olympus-e-m1x-camera-front.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

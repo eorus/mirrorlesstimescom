@@ -7,6 +7,7 @@ url: /2016/11/olympus-12-50mm-f3-5-6-3-ez-lens-firmware-updated-ver-1-4/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/11/alternateviews2_10.jpg
 dsq_thread_id:
   - "5288398541"
+categories:
 tags:
   - Firmware
   - Lens

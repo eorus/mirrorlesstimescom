@@ -5,6 +5,7 @@ type: post
 date: 2019-05-13T09:51:36+00:00
 url: /2019/05/canon-rf-24-105mm-f-4l-is-usm-lens-firmware-ver-2-0-0/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/Canon-RF-24-105-f4-lens.jpg
+categories:
 tags:
   - Canon EOS R
   - Canon full frame mirrorless camera

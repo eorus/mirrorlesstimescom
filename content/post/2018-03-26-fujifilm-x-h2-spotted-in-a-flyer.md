@@ -5,6 +5,7 @@ type: post
 date: 2018-03-26T08:43:00+00:00
 url: /2018/03/fujifilm-x-h2-spotted-in-a-flyer/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/fujifilm-x-h2-spotted-in-a-flyer.jpg
+categories:
 tags:
   - APS-c
   - Camera

@@ -5,6 +5,7 @@ type: post
 date: 2018-04-28T09:39:50+00:00
 url: /2018/04/fujifilm-releases-new-firmware-for-x-h1-x-e3-x100f-cameras/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/04/fujifilm-x-series-firmware.jpg
+categories:
 tags:
   - APS-c
   - Camera

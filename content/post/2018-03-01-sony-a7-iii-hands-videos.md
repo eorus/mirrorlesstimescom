@@ -5,6 +5,7 @@ type: post
 date: 2018-03-01T09:54:04+00:00
 url: /2018/03/sony-a7-iii-hands-videos/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii.jpg
+categories:
 tags:
   - Camera
   - Full Frame

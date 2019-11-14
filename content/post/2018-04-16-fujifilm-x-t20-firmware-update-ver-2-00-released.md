@@ -5,6 +5,7 @@ type: post
 date: 2018-04-16T09:24:48+00:00
 url: /2018/04/fujifilm-x-t20-firmware-update-ver-2-00-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/fujifilm-x-t20-front.jpg
+categories:
 tags:
   - APS-c
   - Camera

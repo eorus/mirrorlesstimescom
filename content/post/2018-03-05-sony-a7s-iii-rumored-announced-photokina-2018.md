@@ -5,6 +5,7 @@ type: post
 date: 2018-03-05T09:29:59+00:00
 url: /2018/03/sony-a7s-iii-rumored-announced-photokina-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/04/sony-a7siii-rumors.jpg
+categories:
 tags:
   - Camera
   - Full Frame

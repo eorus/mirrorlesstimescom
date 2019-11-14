@@ -7,6 +7,7 @@ url: /2017/06/sony-a9-a7ii-a7rii-a7sii-a6300-a6500-firmware-updates-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/sony-a7-a7r-a7s-firmware.jpg
 dsq_thread_id:
   - "5891715695"
+categories:
 tags:
   - APS-c
   - Camera

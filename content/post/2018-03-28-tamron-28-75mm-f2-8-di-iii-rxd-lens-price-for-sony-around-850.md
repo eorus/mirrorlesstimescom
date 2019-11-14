@@ -5,6 +5,7 @@ type: post
 date: 2018-03-28T07:22:15+00:00
 url: /2018/03/tamron-28-75mm-f2-8-di-iii-rxd-lens-price-for-sony-around-850/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/tamron-28-75mm-f-2-8-di-iii-rxd-lens-1.jpg
+categories:
 tags:
   - Full Frame
   - Lens

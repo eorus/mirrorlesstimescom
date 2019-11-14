@@ -7,6 +7,7 @@ url: /2017/09/techart-canon-ef-lens-fujifilm-gfx-50s-adapter-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/09/techart-unveils-canon-ef-lens-fujifilm-gfx-50s-adapter-1-750x550.jpg
 dsq_thread_id:
   - "6161915416"
+categories:
 tags:
   - Accessories
   - Camera

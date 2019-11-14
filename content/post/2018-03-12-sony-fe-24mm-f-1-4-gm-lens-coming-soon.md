@@ -5,6 +5,7 @@ type: post
 date: 2018-03-12T08:17:11+00:00
 url: /2018/03/sony-fe-24mm-f-1-4-gm-lens-coming-soon/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/sigma-24mm-f-1.4-fe-lens.jpg
+categories:
 tags:
   - Full Frame
   - Lens

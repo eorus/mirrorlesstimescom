@@ -5,6 +5,7 @@ type: post
 date: 2019-01-09T14:32:22+00:00
 url: /2019/01/sharp-8k-micro-four-thirds-camera-prototype-spotted-at-ces-2019/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/sharp-8k-micro-four-thirds-camera-development-announced.jpg
+categories:
 tags:
   - Announcement
   - Camera

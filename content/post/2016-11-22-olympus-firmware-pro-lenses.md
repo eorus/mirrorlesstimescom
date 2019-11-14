@@ -7,6 +7,7 @@ url: /2016/11/olympus-firmware-pro-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/11/olympus-firmware-pro-lenses-750x550.jpg
 dsq_thread_id:
   - "5324424520"
+categories:
 tags:
   - Firmware
   - Lens

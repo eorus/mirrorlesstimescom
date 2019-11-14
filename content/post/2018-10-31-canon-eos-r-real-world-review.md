@@ -5,6 +5,7 @@ type: post
 date: 2018-10-31T08:35:55+00:00
 url: /2018/10/canon-eos-r-real-world-review/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-front.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

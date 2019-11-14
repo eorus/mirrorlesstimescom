@@ -7,6 +7,7 @@ url: /2017/01/metabones-smart-adapter-iv-firmware-update-0-54-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/11/metabones-released-firmware-update-v0-46-for-ef-e-smart-adapter-and-ef-e-speed-booster.jpg
 dsq_thread_id:
   - "5428340064"
+categories:
 tags:
   - Accessories
   - APS-c

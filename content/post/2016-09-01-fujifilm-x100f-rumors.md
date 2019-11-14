@@ -7,6 +7,7 @@ url: /2016/09/fujifilm-x100f-rumors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/fujifilm-x100t-successor-lens.jpg
 dsq_thread_id:
   - "5111026941"
+categories:
 tags:
   - APS-c
   - Camera

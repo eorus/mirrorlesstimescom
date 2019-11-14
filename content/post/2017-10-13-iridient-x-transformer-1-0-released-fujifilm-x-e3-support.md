@@ -7,6 +7,7 @@ url: /2017/10/iridient-x-transformer-1-0-released-fujifilm-x-e3-support/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/iridient-transformer-1-750x463.png
 dsq_thread_id:
   - "6211612312"
+categories:
 tags:
   - APS-c
   - Camera

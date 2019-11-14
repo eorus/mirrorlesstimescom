@@ -5,6 +5,7 @@ type: post
 date: 2018-05-28T13:21:37+00:00
 url: /2018/05/samyang-af-24mm-f-2-8-fe-lens-to-be-announced-soon/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/samyang-35mm-f2-8-fe.jpg
+categories:
 tags:
   - Full Frame
   - Lens

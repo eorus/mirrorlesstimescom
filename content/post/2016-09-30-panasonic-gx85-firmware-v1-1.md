@@ -7,6 +7,7 @@ url: /2016/09/panasonic-gx85-firmware-v1-1/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/panasonic-gx85-reviews.jpg
 dsq_thread_id:
   - "5185915691"
+categories:
 tags:
   - Camera
   - Firmware

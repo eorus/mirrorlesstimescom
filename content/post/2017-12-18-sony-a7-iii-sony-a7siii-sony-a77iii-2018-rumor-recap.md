@@ -7,6 +7,7 @@ url: /2017/12/sony-a7-iii-sony-a7siii-sony-a77iii-2018-rumor-recap/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/sony-a7iii-release-date.jpg
 dsq_thread_id:
   - "6356505947"
+categories:
 tags:
   - Camera
   - Full Frame

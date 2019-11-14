@@ -7,6 +7,7 @@ url: /2017/03/olympus-released-e-m1-mark-ii-firmware-update-version-1-1/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/olympus-e-m1-mark-ii-firmware-update.jpg
 dsq_thread_id:
   - "5627996457"
+categories:
 tags:
   - Camera
   - Firmware

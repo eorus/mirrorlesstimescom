@@ -5,6 +5,7 @@ type: post
 date: 2018-10-03T12:20:50+00:00
 url: /2018/10/nikon-z7-image-quality-comparison-with-the-d850-canon-eos-r-and-sony-a7r-iii/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/nikon-z7-review.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

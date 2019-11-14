@@ -7,6 +7,7 @@ url: /2017/11/blackmagic-micro-studio-camera-4k-blackmagic-micro-cinema-camera-u
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/blackmagic-micro-studio-camera-4k-blackmagic-micro-cinema-camera-update-4-7-released-1.jpg
 dsq_thread_id:
   - "6312986679"
+categories:
 tags:
   - Camera
   - Firmware

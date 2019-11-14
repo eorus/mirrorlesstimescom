@@ -9,6 +9,7 @@ dsq_thread_id:
   - "4867805724"
 categories:
   - Olympus
+categories:
 tags:
   - Camera
   - Firmware

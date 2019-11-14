@@ -5,6 +5,7 @@ type: post
 date: 2018-02-20T08:57:36+00:00
 url: /2018/02/canon-m5-vs-olympus-e-m5-ii-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/canon-m5-vs-olympus-e-m5-ii.jpg
+categories:
 tags:
   - APS-c
   - Camera

@@ -7,6 +7,7 @@ url: /2017/07/sony-a7iii-features/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/sony-a7iii-release-date.jpg
 dsq_thread_id:
   - "5968193058"
+categories:
 tags:
   - Camera
   - Full Frame

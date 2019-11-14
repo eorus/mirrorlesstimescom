@@ -7,6 +7,7 @@ url: /2016/10/additional-hasselblad-x1d-mirrorless-camera-coverage/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/hasselblad-x1d-front-rear.jpg
 dsq_thread_id:
   - "5214270794"
+categories:
 tags:
   - Camera
   - Medium Format

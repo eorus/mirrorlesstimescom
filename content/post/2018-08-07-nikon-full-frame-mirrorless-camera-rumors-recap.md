@@ -5,6 +5,7 @@ type: post
 date: 2018-08-07T13:12:32+00:00
 url: /2018/08/nikon-full-frame-mirrorless-camera-rumors-recap/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/08/Nikon-mirrorless-camera-rumors-recap.png
+categories:
 tags:
   - Camera
   - Full Frame

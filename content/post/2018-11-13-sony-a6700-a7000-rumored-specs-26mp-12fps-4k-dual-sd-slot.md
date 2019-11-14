@@ -5,6 +5,7 @@ type: post
 date: 2018-11-13T10:20:57+00:00
 url: /2018/11/sony-a6700-a7000-rumored-specs-26mp-12fps-4k-dual-sd-slot/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/expect-sony-a6700-camera.jpg
+categories:
 tags:
   - APS-c
   - Camera

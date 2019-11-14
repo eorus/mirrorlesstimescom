@@ -7,6 +7,7 @@ url: /2017/11/sony-a7r-iii-scored-100-points-best-mirrorless-full-frame-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/sony-a7r-iii-star-eater.jpg
 dsq_thread_id:
   - "6317711985"
+categories:
 tags:
   - Camera
   - Full Frame

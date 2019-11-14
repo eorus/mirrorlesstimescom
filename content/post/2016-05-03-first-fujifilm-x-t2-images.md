@@ -7,10 +7,12 @@ url: /2016/05/first-fujifilm-x-t2-images/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/fujifilm-x-t2-images.jpg
 dsq_thread_id:
   - "4862027871"
+categories:
+  - Fujifilm
 tags:
-  - APS-c
+  - Fujifilm X-T2
   - Camera
-  - Photokina 2016
+  - Fujifilm Mirrorless
   - Rumors
 
 ---

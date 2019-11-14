@@ -5,6 +5,7 @@ type: post
 date: 2019-05-12T06:46:37+00:00
 url: /2019/05/sony-a7s-iii-rumored-to-feature-global-shutter-sensor-with-4k60p/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/04/sony-a7s-iii-announcement.jpg
+categories:
 tags:
   - Camera
   - Full Frame

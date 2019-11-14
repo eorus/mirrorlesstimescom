@@ -7,6 +7,7 @@ url: /2016/11/panasonic-lx100-successor/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/panasonic-lx200-specs-leaked-online.jpg
 dsq_thread_id:
   - "5270083620"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

@@ -7,6 +7,7 @@ url: /2016/12/sony-a6500-vs-fujifilm-x-t2/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/12/sony-a6500-vs-fujifilm-x-t2-750x550.jpg
 dsq_thread_id:
   - "5361714361"
+categories:
 tags:
   - APS-c
   - Camera

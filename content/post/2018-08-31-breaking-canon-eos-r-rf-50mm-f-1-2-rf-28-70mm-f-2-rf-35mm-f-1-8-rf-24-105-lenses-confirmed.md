@@ -5,6 +5,7 @@ type: post
 date: 2018-08-31T11:49:02+00:00
 url: /2018/08/breaking-canon-eos-r-rf-50mm-f-1-2-rf-28-70mm-f-2-rf-35mm-f-1-8-rf-24-105-lenses-confirmed/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/08/Canon-EOS-R-full-frame-mirrorless-camera.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

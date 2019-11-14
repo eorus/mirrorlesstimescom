@@ -7,6 +7,7 @@ url: /2016/08/fujifilm-xf-23mm-f2-r-wr-lens-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/fujifilm-xf-23mm-f2-wr-lens-coming.jpg
 dsq_thread_id:
   - "5085527901"
+categories:
 tags:
   - APS-c
   - Lens

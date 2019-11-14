@@ -5,6 +5,7 @@ type: post
 date: 2018-03-22T08:36:20+00:00
 url: /2018/03/sony-a7-iii-has-better-dynamic-range-and-high-iso-performance-than-a7-ii/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii.jpg
+categories:
 tags:
   - Camera
   - Full Frame

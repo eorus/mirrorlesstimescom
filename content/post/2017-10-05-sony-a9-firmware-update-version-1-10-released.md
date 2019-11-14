@@ -7,6 +7,7 @@ url: /2017/10/sony-a9-firmware-update-version-1-10-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/04/Sony-a9-camera.jpg
 dsq_thread_id:
   - "6192504155"
+categories:
 tags:
   - Camera
   - Firmware

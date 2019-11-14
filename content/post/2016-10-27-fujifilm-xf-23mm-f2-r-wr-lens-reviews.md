@@ -7,6 +7,7 @@ url: /2016/10/fujifilm-xf-23mm-f2-r-wr-lens-reviews/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/08/fujifilm-xf-23mm-f2-r-wr-silver.jpg
 dsq_thread_id:
   - "5256847540"
+categories:
 tags:
   - APS-c
   - Lens

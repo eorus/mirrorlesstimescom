@@ -5,6 +5,7 @@ type: post
 date: 2019-01-08T09:17:48+00:00
 url: /2019/01/kipon-elegant-full-frame-lenses-for-nikon-z-and-canon-r-cameras/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/Kipon-ELEGANT-full-frame-mirrorless-lenses-for-Nikon-Z-mount.jpg
+categories:
 tags:
   - Announcement
   - Camera

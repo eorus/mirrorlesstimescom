@@ -5,6 +5,7 @@ type: post
 date: 2018-04-07T13:30:04+00:00
 url: /2018/04/fujifilm-x-t3-camera-to-feature-26mp-stacked-sensor/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/fujifilm-x-t2-front.jpg
+categories:
 tags:
   - APS-c
   - Camera

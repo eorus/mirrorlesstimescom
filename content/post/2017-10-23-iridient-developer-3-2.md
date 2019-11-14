@@ -7,6 +7,7 @@ url: /2017/10/iridient-developer-3-2/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/iridient-developer-750x550.jpg
 dsq_thread_id:
   - "6234729331"
+categories:
 tags:
   - APS-c
   - Camera

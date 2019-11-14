@@ -7,6 +7,7 @@ url: /2016/11/sony-a7iii-camera-rumors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/11/sony-a7iii-camera-rumors.jpg
 dsq_thread_id:
   - "5269509264"
+categories:
 tags:
   - Camera
   - Full Frame

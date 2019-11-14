@@ -7,6 +7,7 @@ url: /2017/05/olympus-e-m1-mark-ii-uses-sony-made-sensor/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/05/olympus-e-m1-mark-ii-uses-sony-imx270-sensor.jpg
 dsq_thread_id:
   - "5822483688"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

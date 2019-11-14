@@ -5,6 +5,7 @@ type: post
 date: 2018-10-11T08:15:37+00:00
 url: /2018/10/sony-a7-iii-and-a7r-iii-firmware-update-2-0/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii.jpg
+categories:
 tags:
   - Camera
   - Firmware

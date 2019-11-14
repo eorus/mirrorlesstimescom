@@ -7,6 +7,7 @@ url: /2016/07/fujifilm-x-mount-lens-roadmap-2016/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/fujifilm-x-mount-lens-roadmap-2016.jpg
 dsq_thread_id:
   - "4967427427"
+categories:
 tags:
   - Announcement
   - APS-c

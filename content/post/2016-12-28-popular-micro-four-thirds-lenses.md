@@ -7,6 +7,7 @@ url: /2016/12/popular-micro-four-thirds-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/12/popular-micro-four-thirds-lenses.jpg
 dsq_thread_id:
   - "5416452118"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

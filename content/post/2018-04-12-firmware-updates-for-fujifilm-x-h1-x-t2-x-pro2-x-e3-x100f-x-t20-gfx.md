@@ -5,6 +5,7 @@ type: post
 date: 2018-04-12T08:14:03+00:00
 url: /2018/04/firmware-updates-for-fujifilm-x-h1-x-t2-x-pro2-x-e3-x100f-x-t20-gfx/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/04/fujifilm-gf-250mm-f4-r-lm-ois-wr-lens-officially-announced.jpg
+categories:
 tags:
   - APS-c
   - Camera

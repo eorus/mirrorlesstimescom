@@ -5,6 +5,7 @@ type: post
 date: 2018-05-15T08:09:42+00:00
 url: /2018/05/zeiss-loxia-25mm-f2-4-lens-in-stock-and-shipping/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/zeiss-loxia-25mm-f-2-4-lens.jpg
+categories:
 tags:
   - Full Frame
   - Lens

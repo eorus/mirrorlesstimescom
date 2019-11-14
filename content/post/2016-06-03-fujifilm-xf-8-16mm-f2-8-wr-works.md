@@ -7,6 +7,7 @@ url: /2016/06/fujifilm-xf-8-16mm-f2-8-wr-works/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/official-fujifilm-x-mount-lens-roadmap.jpg
 dsq_thread_id:
   - "4879931227"
+categories:
 tags:
   - Lens
   - Prime

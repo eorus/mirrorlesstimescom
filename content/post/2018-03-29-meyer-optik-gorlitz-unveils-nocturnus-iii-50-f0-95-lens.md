@@ -5,6 +5,7 @@ type: post
 date: 2018-03-29T12:37:50+00:00
 url: /2018/03/meyer-optik-gorlitz-unveils-nocturnus-iii-50-f0-95-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/meyer-optik-gorlitz-launches-nocturnus-iii-50-f0-95-lens-1.jpg
+categories:
 tags:
   - Announcement
   - Full Frame

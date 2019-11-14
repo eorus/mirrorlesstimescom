@@ -7,6 +7,7 @@ url: /2017/07/lensbaby-velvet-85mm-f1-8-lens-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/07/lensbaby-velvet-85mm-f1-8-lens-750x550.jpg
 dsq_thread_id:
   - "6022739963"
+categories:
 tags:
   - Announcement
   - Lens

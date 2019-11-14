@@ -7,6 +7,7 @@ url: /2017/01/fujifilm-x100f-x-t20-gfx-xf-50mm-f2-price/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/fuji_x100f_005.jpg
 dsq_thread_id:
   - "5469171783"
+categories:
 tags:
   - APS-c
   - Camera

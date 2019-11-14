@@ -7,6 +7,7 @@ url: /2017/09/canon-full-frame-mirrorless-camera-rumored-named-eos-m1/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/canon-full-frame-mirrorless-camera-rumors.jpg
 dsq_thread_id:
   - "6174395789"
+categories:
 tags:
   - Camera
   - Canon full frame mirrorless camera

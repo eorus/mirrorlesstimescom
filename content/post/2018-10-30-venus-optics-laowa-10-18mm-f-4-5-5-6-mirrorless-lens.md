@@ -5,6 +5,7 @@ type: post
 date: 2018-10-30T10:34:15+00:00
 url: /2018/10/venus-optics-laowa-10-18mm-f-4-5-5-6-mirrorless-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/Venus-Optics-Laowa-10-18mm-f4.5-5.6-FE-full-frame-mirrorless-lens-for-Sony.jpg
+categories:
 tags:
   - Announcement
   - Full Frame

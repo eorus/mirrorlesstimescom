@@ -7,6 +7,7 @@ url: /2016/12/new-panasonic-leica-dg-f2-8-4-0-mft-zoom-lenses-coming-2017/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/12/Panasonic-Lumix-GH5-camera.jpg
 dsq_thread_id:
   - "5411112529"
+categories:
 tags:
   - Camera
   - Lens

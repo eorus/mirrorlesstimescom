@@ -9,6 +9,7 @@ dsq_thread_id:
   - "6474673772"
 dsq_needs_sync:
   - "1"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

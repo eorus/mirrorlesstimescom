@@ -7,6 +7,7 @@ url: /2017/05/panasonic-gh5-firmware-v1-1-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/05/panasonic-gh5-firmware-v1-1-coming-april-24-10-bit-422-1080-video.jpg
 dsq_thread_id:
   - "5810729385"
+categories:
 tags:
   - Camera
   - Firmware

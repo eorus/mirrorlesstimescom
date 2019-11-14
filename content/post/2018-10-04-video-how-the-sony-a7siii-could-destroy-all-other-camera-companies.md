@@ -5,6 +5,7 @@ type: post
 date: 2018-10-04T06:38:00+00:00
 url: /2018/10/video-how-the-sony-a7siii-could-destroy-all-other-camera-companies/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/04/sony-a7s-iii-announcement.jpg
+categories:
 tags:
   - Camera
   - Full Frame

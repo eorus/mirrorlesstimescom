@@ -7,6 +7,7 @@ url: /2017/11/nauticam-na-g9-underwater-housing-panasonic-g9/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/nauticam-na-g9-underwater-housing-panasonic-g9-front.jpg
 dsq_thread_id:
   - "6315165252"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

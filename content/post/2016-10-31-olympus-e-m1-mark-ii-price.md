@@ -7,6 +7,7 @@ url: /2016/10/olympus-e-m1-mark-ii-price/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/olympus-e-m1-mark-ii-price.jpg
 dsq_thread_id:
   - "5267967467"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

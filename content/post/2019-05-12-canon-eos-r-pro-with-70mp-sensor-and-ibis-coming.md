@@ -5,6 +5,7 @@ type: post
 date: 2019-05-12T06:28:26+00:00
 url: /2019/05/canon-eos-r-pro-with-70mp-sensor-and-ibis-coming/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/Canon-EOS-R-mirrorless-camera.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

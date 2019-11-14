@@ -5,6 +5,7 @@ type: post
 date: 2019-02-05T14:00:41+00:00
 url: /2019/02/panasonic-s1-vs-nikon-z6-af-test-video/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/02/panasonic-s1-vs-nikon-z6-af-test-video.jpg
+categories:
 tags:
   - Camera
   - Full Frame

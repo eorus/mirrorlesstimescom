@@ -5,6 +5,7 @@ type: post
 date: 2018-05-15T07:42:46+00:00
 url: /2018/05/sigma-70mm-f2-8-dg-macro-art-lens-priced-569-available-for-pre-order/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/05/sigma-70mm-f-2-8-dg-macro-art-lens-development.jpeg
+categories:
 tags:
   - Full Frame
   - Lens

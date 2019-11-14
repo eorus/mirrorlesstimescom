@@ -5,6 +5,7 @@ type: post
 date: 2019-02-05T16:09:00+00:00
 url: /2019/02/canon-to-announce-at-least-5-new-rf-mirrorless-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/02/5-new-canon-rf-lenses.jpg
+categories:
 tags:
   - Canon full frame mirrorless camera
   - Canon Lens

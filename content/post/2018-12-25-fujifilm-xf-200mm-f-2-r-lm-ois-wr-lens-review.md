@@ -5,6 +5,7 @@ type: post
 date: 2018-12-25T07:09:30+00:00
 url: /2018/12/fujifilm-xf-200mm-f-2-r-lm-ois-wr-lens-review/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/12/fujifilm-xf-200mm-f-2-r-lm-ois-wr-lens-and-xf-1-4x-tc-f2-wr-teleconverter-kit.jpg
+categories:
 tags:
   - APS-c
   - Fujifilm Mirrorless

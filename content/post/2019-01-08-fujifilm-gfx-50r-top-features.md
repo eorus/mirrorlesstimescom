@@ -5,6 +5,7 @@ type: post
 date: 2019-01-08T13:21:16+00:00
 url: /2019/01/fujifilm-gfx-50r-top-features/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-gfx-50r-front.jpg
+categories:
 tags:
   - Camera
   - Fujifilm GFX 50R

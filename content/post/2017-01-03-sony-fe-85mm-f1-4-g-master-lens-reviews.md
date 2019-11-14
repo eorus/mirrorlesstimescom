@@ -7,6 +7,7 @@ url: /2017/01/sony-fe-85mm-f1-4-g-master-lens-reviews/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/Sony-G-master-interchangeable-lenses.jpg
 dsq_thread_id:
   - "5431082906"
+categories:
 tags:
   - Full Frame
   - Lens

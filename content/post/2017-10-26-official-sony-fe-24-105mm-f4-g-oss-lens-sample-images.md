@@ -7,6 +7,7 @@ url: /2017/10/official-sony-fe-24-105mm-f4-g-oss-lens-sample-images/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/official-sony-fe-24-105mm-f4-g-oss-lens-sample-images-1-750x533.jpg
 dsq_thread_id:
   - "6242368270"
+categories:
 tags:
   - Lens
   - Zoom

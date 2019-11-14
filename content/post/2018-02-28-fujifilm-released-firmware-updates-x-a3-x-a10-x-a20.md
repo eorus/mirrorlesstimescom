@@ -5,6 +5,7 @@ type: post
 date: 2018-02-28T15:30:44+00:00
 url: /2018/02/fujifilm-released-firmware-updates-x-a3-x-a10-x-a20/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/fujifilm-released-firmware-updates-x-a3-x-a10-x-a20.jpg
+categories:
 tags:
   - APS-c
   - Camera

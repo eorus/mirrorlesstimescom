@@ -7,6 +7,7 @@ url: /2017/01/fujifilm-x-pro2-graphite-x-t2-graphite-silver-edition/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/fujifilm-graphite-x-pro2-x-t2.jpg
 dsq_thread_id:
   - "5439795722"
+categories:
 tags:
   - Announcement
   - APS-c

@@ -5,6 +5,7 @@ type: post
 date: 2018-08-16T11:19:31+00:00
 url: /2018/08/new-sony-a6700-specifications-rumored-flagship-aps-c-mirrorless/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/sony-a6500-top.jpg
+categories:
 tags:
   - APS-c
   - Camera

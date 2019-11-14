@@ -5,6 +5,7 @@ type: post
 date: 2018-10-10T14:50:13+00:00
 url: /2018/10/ephotozine-nikon-z7-review-top-of-the-range-full-frame-mirrorless-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/nikon-z7-with-24-70mm-lens-now-in-stock.jpg
+categories:
 tags:
   - Camera
   - Full Frame

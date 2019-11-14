@@ -5,6 +5,7 @@ type: post
 date: 2018-11-14T14:23:53+00:00
 url: /2018/11/new-firmware-updates-for-fujifilm-gfx-50s-x-t3-and-x-h1-scheduled-for-december/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/fujifilm-logo.jpg
+categories:
 tags:
   - APS-c
   - Camera

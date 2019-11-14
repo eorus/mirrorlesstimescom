@@ -7,6 +7,7 @@ url: /2017/03/sony-fe-100-400mm-g-lens-announced-soon/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/sony-logo.jpg
 dsq_thread_id:
   - "5681355591"
+categories:
 tags:
   - Full Frame
   - Lens

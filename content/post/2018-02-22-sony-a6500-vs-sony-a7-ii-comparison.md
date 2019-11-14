@@ -5,6 +5,7 @@ type: post
 date: 2018-02-22T09:52:17+00:00
 url: /2018/02/sony-a6500-vs-sony-a7-ii-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a6500-vs-sony-a7-ii.jpg
+categories:
 tags:
   - APS-c
   - Camera

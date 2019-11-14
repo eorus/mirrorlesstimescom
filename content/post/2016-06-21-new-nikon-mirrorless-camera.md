@@ -7,6 +7,7 @@ url: /2016/06/new-nikon-mirrorless-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/Nikon-mirrorless-camera-concept.jpg
 dsq_thread_id:
   - "4927046122"
+categories:
 tags:
   - Camera
   - Photokina 2016

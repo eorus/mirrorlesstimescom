@@ -5,6 +5,7 @@ type: post
 date: 2018-10-26T08:45:45+00:00
 url: /2018/10/tony-northrup-sony-a7-iii-is-better-than-nikon-z7-and-canon-eos-r-for-sports-photography/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-front.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

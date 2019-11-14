@@ -5,6 +5,7 @@ type: post
 date: 2018-05-30T13:24:20+00:00
 url: /2018/05/fujifilm-x-h1-x-t2-x-pro2-firmware-updates-coming-in-june/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/Fujifilm-X-H1.jpeg
+categories:
 tags:
   - APS-c
   - Camera

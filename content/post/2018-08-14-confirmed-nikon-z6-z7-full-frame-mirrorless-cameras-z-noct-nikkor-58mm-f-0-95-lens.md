@@ -5,6 +5,7 @@ type: post
 date: 2018-08-14T09:53:03+00:00
 url: /2018/08/confirmed-nikon-z6-z7-full-frame-mirrorless-cameras-z-noct-nikkor-58mm-f-0-95-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/08/confirmed-nikon-z6-and-z7-full-frame-mirrorless-cameras-coming-on-august-23rd.jpg
+categories:
 tags:
   - Camera
   - Full Frame

@@ -7,6 +7,7 @@ url: /2017/01/sony-zeiss-fe-50mm-f1-4-za-lens-tested-dxomark/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/sony-fe-50mm-f1-4-za-1.jpg
 dsq_thread_id:
   - "5478586570"
+categories:
 tags:
   - Full Frame
   - Lens

@@ -7,6 +7,7 @@ url: /2017/10/meike-launches-new-metal-hand-grip-fuji-cameras/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/meike-launches-new-metal-hand-grip-fuji-cameras-750x550.jpg
 dsq_thread_id:
   - "6208859453"
+categories:
 tags:
   - Accessories
   - APS-c

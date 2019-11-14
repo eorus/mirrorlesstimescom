@@ -7,6 +7,7 @@ url: /2017/11/2017-olympus-camera-black-friday-rebates/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/2017-olympus-camera-black-friday-rebates.jpg
 dsq_thread_id:
   - "6289947354"
+categories:
 tags:
   - Camera
   - Deals

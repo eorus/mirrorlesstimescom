@@ -7,6 +7,7 @@ url: /2017/12/panasonic-gh5-ver2-2-g80-ver1-3-firmware-updates-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/panasonic-gh5s-coming-soon.jpg
 dsq_thread_id:
   - "6356459230"
+categories:
 tags:
   - Camera
   - Firmware

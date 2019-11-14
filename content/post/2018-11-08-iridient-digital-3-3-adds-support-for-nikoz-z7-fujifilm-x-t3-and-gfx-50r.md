@@ -5,6 +5,7 @@ type: post
 date: 2018-11-08T18:03:57+00:00
 url: /2018/11/iridient-digital-3-3-adds-support-for-nikoz-z7-fujifilm-x-t3-and-gfx-50r/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/iridient-developer-750x550.jpg
+categories:
 tags:
   - APS-c
   - Camera

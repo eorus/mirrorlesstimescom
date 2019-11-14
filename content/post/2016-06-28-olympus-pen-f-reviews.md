@@ -7,6 +7,7 @@ url: /2016/06/olympus-pen-f-reviews/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/olympus-pen-f-reviews.jpg
 dsq_thread_id:
   - "4945368037"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

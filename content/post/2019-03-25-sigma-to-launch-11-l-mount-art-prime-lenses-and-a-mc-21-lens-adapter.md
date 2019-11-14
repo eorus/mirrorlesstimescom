@@ -5,6 +5,7 @@ type: post
 date: 2019-03-25T20:02:46+00:00
 url: /2019/03/sigma-to-launch-11-l-mount-art-prime-lenses-and-a-mc-21-lens-adapter/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/05/sigma-70mm-f-2-8-dg-macro-art-lens-development.jpeg
+categories:
 tags:
   - Announcement
   - L-mount

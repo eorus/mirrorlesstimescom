@@ -5,6 +5,7 @@ type: post
 date: 2018-03-01T09:35:45+00:00
 url: /2018/03/sony-fe-400mm-f-2-8-gm-oss-lens-images-cp-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/sony-fe-400mm-f-2.8-gm-oss-lens-3.jpg
+categories:
 tags:
   - Full Frame
   - Lens

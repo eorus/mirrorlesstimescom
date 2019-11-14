@@ -5,6 +5,7 @@ type: post
 date: 2018-03-20T08:41:20+00:00
 url: /2018/03/tamron-28-75mm-f-2-8-di-iii-rxd-vs-sony-fe-24-70mm-f-2-8-gm-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/tamron-28-75mm-di-iii-rxd-fe-vs-sony-fe-24-70mm-f2-8-gm-comparison.jpg
+categories:
 tags:
   - Full Frame
   - Lens

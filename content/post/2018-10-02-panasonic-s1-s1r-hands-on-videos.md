@@ -5,6 +5,7 @@ type: post
 date: 2018-10-02T08:10:23+00:00
 url: /2018/10/panasonic-s1-s1r-hands-on-videos/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/panasonic-s1-s1r-full-frame-aynasiz.jpg
+categories:
 tags:
   - Camera
   - Full Frame

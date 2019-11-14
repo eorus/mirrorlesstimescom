@@ -7,6 +7,7 @@ url: /2017/10/sony-a7r-iii-vs-5d-mark-iv-vs-nikon-d850-vs-fuji-gfx-50s-compariso
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/sony-a7r-iii-vs-5d-mark-iv-vs-nikon-d850-vs-fuji-gfx-50s-comparison-750x550.jpg
 dsq_thread_id:
   - "6253301398"
+categories:
 tags:
   - Camera
   - Full Frame

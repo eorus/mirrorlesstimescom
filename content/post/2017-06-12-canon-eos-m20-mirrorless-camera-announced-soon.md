@@ -7,6 +7,7 @@ url: /2017/06/canon-eos-m20-mirrorless-camera-announced-soon/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/canon-eos-m20-mirrorlesss-camera-coming-july-2017.jpg
 dsq_thread_id:
   - "5903109207"
+categories:
 tags:
   - APS-c
   - Camera

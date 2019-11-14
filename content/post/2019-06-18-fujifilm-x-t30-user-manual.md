@@ -8,6 +8,7 @@ thumbnail: wp-content/uploads/2019/06/Fujifilm-X-T30-Manual.jpg
 
 categories:
   - Fujifilm
+categories:
 tags:
   - Camera
   - Fujifilm Mirrorless

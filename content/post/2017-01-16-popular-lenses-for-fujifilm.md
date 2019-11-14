@@ -7,6 +7,7 @@ url: /2017/01/popular-lenses-for-fujifilm/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/popular-lenses-for-fujifilm.jpg
 dsq_thread_id:
   - "5466381782"
+categories:
 tags:
   - APS-c
   - Lens

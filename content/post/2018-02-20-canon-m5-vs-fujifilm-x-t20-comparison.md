@@ -5,6 +5,7 @@ type: post
 date: 2018-02-20T13:28:31+00:00
 url: /2018/02/canon-m5-vs-fujifilm-x-t20-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/Canon-M5-vs-Fujifilm-X-T20-1.jpg
+categories:
 tags:
   - APS-c
   - Camera

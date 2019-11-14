@@ -7,6 +7,7 @@ url: /2017/11/olympus-pen-e-pl9-announced-soon/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/olympus-pen-e-pl9-to-be-announced-soonolympus-pen-e-pl9-to-be-announced-soon.jpg
 dsq_thread_id:
   - "6288236648"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

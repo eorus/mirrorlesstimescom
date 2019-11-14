@@ -7,6 +7,7 @@ url: /2016/09/laowa-7-5mm-f2-mft-15mm-f2-fe-zero-d-lenses-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/Venus-Optics-Laowa-15mm-f2-7.5mm-f2.jpg
 dsq_thread_id:
   - "5148434874"
+categories:
 tags:
   - Announcement
   - Lens

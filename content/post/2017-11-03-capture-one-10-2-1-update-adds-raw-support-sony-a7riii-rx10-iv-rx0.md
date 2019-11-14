@@ -7,6 +7,7 @@ url: /2017/11/capture-one-10-2-1-update-adds-raw-support-sony-a7riii-rx10-iv-rx0
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/capture-one-10-2-1-update-adds-raw-support-sony-a7riii-rx10-iv-rx0-750x550.jpg
 dsq_thread_id:
   - "6259844056"
+categories:
 tags:
   - Camera
   - Lens

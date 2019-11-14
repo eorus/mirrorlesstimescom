@@ -5,6 +5,7 @@ type: post
 date: 2018-09-24T10:14:34+00:00
 url: /2018/09/fuji-x-t3-hands-on-review-videos/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-x-t3-front-side.jpg
+categories:
 tags:
   - APS-c
   - Camera

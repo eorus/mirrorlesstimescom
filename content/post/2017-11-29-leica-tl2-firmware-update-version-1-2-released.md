@@ -7,6 +7,7 @@ url: /2017/11/leica-tl2-firmware-update-version-1-2-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/leica-tl2-firmware-update-version-1-2-released.jpg
 dsq_thread_id:
   - "6318877826"
+categories:
 tags:
   - Camera
   - Firmware

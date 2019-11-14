@@ -7,6 +7,7 @@ url: /2016/08/olympus-e-m1-mark-ii-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/olympus-e-m1ii-dual-sd-card.png
 dsq_thread_id:
   - "5090670943"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

@@ -7,6 +7,7 @@ url: /2016/09/fujifilm-x100t-discontinued/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/fujifilm-x100t-successor-lens.jpg
 dsq_thread_id:
   - "5183105714"
+categories:
 tags:
   - APS-c
   - Camera

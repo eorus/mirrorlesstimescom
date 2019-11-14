@@ -5,6 +5,7 @@ type: post
 date: 2018-09-13T10:04:56+00:00
 url: /2018/09/meike-announce-battery-grip-for-fuji-x-t2/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/MEIKE-MK-XT2-Pro-Fujifilm-XT2.jpg
+categories:
 tags:
   - Accessories
   - Announcement

@@ -5,6 +5,7 @@ type: post
 date: 2019-01-16T14:30:52+00:00
 url: /2019/01/the-new-nikon-z-6-filmmakers-kit/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/nikon-z6-filmmakers-kit-announced.jpg
+categories:
 tags:
   - Announcement
   - Camera

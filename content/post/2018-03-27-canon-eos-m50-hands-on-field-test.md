@@ -5,6 +5,7 @@ type: post
 date: 2018-03-27T08:57:28+00:00
 url: /2018/03/canon-eos-m50-hands-on-field-test/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/canon-eos-m50-1.jpg
+categories:
 tags:
   - APS-c
   - Camera

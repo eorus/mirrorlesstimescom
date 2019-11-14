@@ -5,6 +5,7 @@ type: post
 date: 2018-04-16T09:31:24+00:00
 url: /2018/04/sony-a7-iii-in-stock-and-shipping-in-us/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii.jpg
+categories:
 tags:
   - Camera
   - Full Frame

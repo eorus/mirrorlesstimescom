@@ -5,6 +5,7 @@ type: post
 date: 2018-05-17T09:50:31+00:00
 url: /2018/05/fujifilm-x-t2-firmware-update-version-4-01-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/07/fujifilm-released-firmware-updates-x-t1-x-t2-x-pro2-x-t20-gfx-cameras-750x550.jpg
+categories:
 tags:
   - APS-c
   - Camera

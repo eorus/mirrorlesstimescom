@@ -5,6 +5,7 @@ type: post
 date: 2018-09-17T15:16:18+00:00
 url: /2018/09/sony-to-announce-fe-24mm-f-1-4-gm-fe-135mm-f-1-8-gm-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/Sony-FE-Lenses.jpg
+categories:
 tags:
   - Full Frame
   - Lens

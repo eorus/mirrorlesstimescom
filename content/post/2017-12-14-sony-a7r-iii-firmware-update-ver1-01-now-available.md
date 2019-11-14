@@ -7,6 +7,7 @@ url: /2017/12/sony-a7r-iii-firmware-update-ver1-01-now-available/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/sony-a7r-iii-star-eater.jpg
 dsq_thread_id:
   - "6348433294"
+categories:
 tags:
   - Camera
   - Firmware

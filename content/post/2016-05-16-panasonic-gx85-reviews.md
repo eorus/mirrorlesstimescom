@@ -7,6 +7,7 @@ url: /2016/05/panasonic-gx85-reviews/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/panasonic-gx85-reviews.jpg
 dsq_thread_id:
   - "4862650053"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

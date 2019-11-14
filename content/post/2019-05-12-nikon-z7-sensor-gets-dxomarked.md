@@ -5,6 +5,7 @@ type: post
 date: 2019-05-12T06:54:31+00:00
 url: /2019/05/nikon-z7-sensor-gets-dxomarked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/Nikon-Z7-DxOMark-sensor-test-results.jpg
+categories:
 tags:
   - Camera
   - Full Frame

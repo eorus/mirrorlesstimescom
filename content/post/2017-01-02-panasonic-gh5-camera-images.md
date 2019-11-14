@@ -7,6 +7,7 @@ url: /2017/01/panasonic-gh5-camera-images/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/Panasonic-GH5-camera2.jpg
 dsq_thread_id:
   - "5428864923"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

@@ -5,6 +5,7 @@ type: post
 date: 2018-11-10T10:22:59+00:00
 url: /2018/11/3-things-you-might-not-know-about-the-canon-eos-r/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-front.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

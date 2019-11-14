@@ -5,6 +5,7 @@ type: post
 date: 2018-09-26T08:38:05+00:00
 url: /2018/09/fujifilm-g-mount-lens-roadmap-announced-gf-100-200mm-f-5-6-45-100mm-f-4-50mm-f-3-5/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/new-fujifilm-g-mount-lens-roadmap-announced-100-200mm-f-5-6-45-100mm-f-4-50mm-f-3-5.jpeg
+categories:
 tags:
   - Announcement
   - Fujifilm Mirrorless

@@ -7,6 +7,7 @@ url: /2016/05/fujifilm-xf2x-tc-wr-lh-xf23/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/fujifilm-lh-xf23-lens-hood.jpg
 dsq_thread_id:
   - "4862610236"
+categories:
 tags:
   - Announcement
   - APS-c

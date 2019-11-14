@@ -7,6 +7,7 @@ url: /2016/08/olympus-f1-2-prime-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/08/olympus-f1-2-prime-lenses.png
 dsq_thread_id:
   - "5085093012"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

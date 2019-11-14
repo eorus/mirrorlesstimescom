@@ -5,6 +5,7 @@ type: post
 date: 2019-01-02T14:29:20+00:00
 url: /2019/01/canon-rf-24-105mm-f-4l-is-first-look-and-hands-on-videos/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/Canon-RF-24-105-f4-lens.jpg
+categories:
 tags:
   - Canon EOS R
   - Canon full frame mirrorless camera

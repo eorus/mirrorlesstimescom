@@ -7,6 +7,7 @@ url: /2017/02/panasonic-g85-gx85-100-400mm-firmware/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/panasonic-lumix-gx850-front.jpg
 dsq_thread_id:
   - "5538550179"
+categories:
 tags:
   - Camera
   - Firmware

@@ -5,6 +5,7 @@ type: post
 date: 2019-04-11T13:41:52+00:00
 url: /2019/04/canon-rf-14-21mm-f-1-4l-usm-lens-rumored-for-2020/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/canon-rf135mm-f14l-usm-lens-rumors.jpg
+categories:
 tags:
   - Canon EOS R
   - Canon full frame mirrorless camera

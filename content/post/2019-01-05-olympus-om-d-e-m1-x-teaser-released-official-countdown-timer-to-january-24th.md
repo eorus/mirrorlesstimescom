@@ -5,6 +5,7 @@ type: post
 date: 2019-01-05T07:09:11+00:00
 url: /2019/01/olympus-om-d-e-m1-x-teaser-released-official-countdown-timer-to-january-24th/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/Olympus-OM-D-E-M1-X-Countdown.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

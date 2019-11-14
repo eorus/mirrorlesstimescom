@@ -7,6 +7,7 @@ url: /2017/04/sony-a7siii-rumored-announced-2017/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/sony-a7siii-rumors.jpg
 dsq_thread_id:
   - "5697482455"
+categories:
 tags:
   - Camera
   - Full Frame

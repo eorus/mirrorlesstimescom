@@ -7,6 +7,7 @@ url: /2016/12/nocturnus-50mm-f0-95-ii-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/12/nocturnus-50-f0-95-ii.jpeg
 dsq_thread_id:
   - "5386978375"
+categories:
 tags:
   - Announcement
   - Full Frame

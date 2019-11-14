@@ -7,6 +7,7 @@ url: /2018/02/sony-a6500-a6300-firmware-updates-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/a6500-tests.jpg
 dsq_thread_id:
   - "6461452383"
+categories:
 tags:
   - APS-c
   - Camera

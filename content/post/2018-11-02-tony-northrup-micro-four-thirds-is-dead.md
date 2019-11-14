@@ -5,6 +5,7 @@ type: post
 date: 2018-11-02T10:18:43+00:00
 url: /2018/11/tony-northrup-micro-four-thirds-is-dead/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/12/popular-micro-four-thirds-lenses.jpg
+categories:
 tags:
   - Camera
   - Lens

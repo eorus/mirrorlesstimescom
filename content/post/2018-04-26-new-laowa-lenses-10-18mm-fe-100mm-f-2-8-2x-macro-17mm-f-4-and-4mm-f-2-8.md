@@ -5,6 +5,7 @@ type: post
 date: 2018-04-26T11:25:29+00:00
 url: /2018/04/new-laowa-lenses-10-18mm-fe-100mm-f-2-8-2x-macro-17mm-f-4-and-4mm-f-2-8/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/04/Venus-Optics-Announced-4-New-Laowa-Lenses.png
+categories:
 tags:
   - Announcement
   - Full Frame

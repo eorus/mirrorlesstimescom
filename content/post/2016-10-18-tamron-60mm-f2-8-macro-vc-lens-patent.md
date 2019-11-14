@@ -7,6 +7,7 @@ url: /2016/10/tamron-60mm-f2-8-macro-vc-lens-patent/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/815lDNIJlIL._SL1500_.jpg
 dsq_thread_id:
   - "5233810666"
+categories:
 tags:
   - Full Frame
   - Lens

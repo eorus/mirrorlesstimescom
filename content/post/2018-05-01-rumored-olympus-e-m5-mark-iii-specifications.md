@@ -5,6 +5,7 @@ type: post
 date: 2018-05-01T11:12:35+00:00
 url: /2018/05/rumored-olympus-e-m5-mark-iii-specifications/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/olympus-e-m5-mark-iii-camera-coming-at-photokina-2018.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

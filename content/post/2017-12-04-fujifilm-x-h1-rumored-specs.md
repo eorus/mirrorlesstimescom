@@ -7,6 +7,7 @@ url: /2017/12/fujifilm-x-h1-rumored-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/fujifilm-x-h1-features.jpg
 dsq_thread_id:
   - "6328553096"
+categories:
 tags:
   - APS-c
   - Camera

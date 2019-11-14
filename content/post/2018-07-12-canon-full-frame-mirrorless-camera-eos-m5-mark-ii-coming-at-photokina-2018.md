@@ -5,6 +5,7 @@ type: post
 date: 2018-07-12T14:53:20+00:00
 url: /2018/07/canon-full-frame-mirrorless-camera-eos-m5-mark-ii-coming-at-photokina-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/canon-full-frame-mirrorless-camera-rumors.jpg
+categories:
 tags:
   - APS-c
   - Camera

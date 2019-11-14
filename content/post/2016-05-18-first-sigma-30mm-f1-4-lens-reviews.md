@@ -7,6 +7,7 @@ url: /2016/05/first-sigma-30mm-f1-4-lens-reviews/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/first-sigma-30mm-f1-4-lens-reviews.jpg
 dsq_thread_id:
   - "4861809240"
+categories:
 tags:
   - APS-c
   - Lens

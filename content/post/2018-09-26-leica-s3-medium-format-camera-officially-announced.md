@@ -5,6 +5,7 @@ type: post
 date: 2018-09-26T08:42:14+00:00
 url: /2018/09/leica-s3-medium-format-camera-officially-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/leica-s3.jpeg
+categories:
 tags:
   - Announcement
   - Leica Mirrorless

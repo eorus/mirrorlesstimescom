@@ -9,6 +9,7 @@ dsq_thread_id:
   - "4865290918"
 categories:
   - Fujifilm
+
 tags:
   - Camera
   - Firmware

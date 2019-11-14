@@ -7,6 +7,7 @@ url: /2016/06/fujifilm-x70-vs-x100t-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/fujifilm-x70-vs-x100t-comparison-table.jpg
 dsq_thread_id:
   - "4890252620"
+categories:
 tags:
   - APS-c
   - Camera

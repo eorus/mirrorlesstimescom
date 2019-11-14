@@ -7,12 +7,14 @@ url: /2016/04/olympus-e-m1-mark-ii-announcement/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/olympus-e-m1-mark-ii-rumors.jpg
 dsq_thread_id:
   - "4861602867"
+categories:
+  - Olympus
 tags:
   - Camera
   - Micro Four Thirds
-  - Photokina 2016
+  - Olympus Mirrorless
   - Rumors
-
+  - Olympus E-M1 II
 ---
 Olympus is rumored to announce the new flagship Micro Four Thirds camera this year. **Olympus E-M1 Mark II announcement** is scheduled for Photokina 2016 event this September.
 

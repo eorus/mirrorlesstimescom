@@ -7,6 +7,7 @@ url: /2017/10/new-meike-arca-swiss-hand-grip-plate-olympus-pen-f/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/new-meike-arca-swiss-hand-grip-plate-olympus-pen-f-750x550.jpg
 dsq_thread_id:
   - "6242363431"
+categories:
 tags:
   - Accessories
   - Camera

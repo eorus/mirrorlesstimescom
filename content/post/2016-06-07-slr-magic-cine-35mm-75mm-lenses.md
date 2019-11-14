@@ -7,6 +7,7 @@ url: /2016/06/slr-magic-cine-35mm-75mm-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/slr-magic-cine-35mm-75mm-lenses.jpg
 dsq_thread_id:
   - "4893477458"
+categories:
 tags:
   - Announcement
   - APS-c

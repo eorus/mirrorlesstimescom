@@ -5,6 +5,7 @@ type: post
 date: 2018-11-08T10:28:41+00:00
 url: /2018/11/olympus-e-m1x-camera-im010-registered-at-fcc/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/olympus-e-m1x-registered-size.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

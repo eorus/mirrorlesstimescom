@@ -7,6 +7,7 @@ url: /2016/12/fujifilm-x-t20-x100f-cameras-coming/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/12/fujifilm-x100f-specs-750x550.jpg
 dsq_thread_id:
   - "5386913227"
+categories:
 tags:
   - APS-c
   - Camera

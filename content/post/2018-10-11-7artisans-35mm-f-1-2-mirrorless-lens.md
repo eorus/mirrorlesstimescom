@@ -5,6 +5,7 @@ type: post
 date: 2018-10-11T08:26:59+00:00
 url: /2018/10/7artisans-35mm-f-1-2-mirrorless-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/additional-7artisans-35mm-f-1-2-mirrorless-lens-coverage.jpg
+categories:
 tags:
   - 7Artisans 35mm f/1.2
   - Announcement

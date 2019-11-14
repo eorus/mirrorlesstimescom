@@ -7,6 +7,7 @@ url: /2017/10/panasonic-g9-announced-80mp-shooting-mode-60-fps/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/panasonic-g9-coming-80mp-shooting-mode-60-fps-burst-750x550.jpg
 dsq_thread_id:
   - "6251588998"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

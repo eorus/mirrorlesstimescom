@@ -9,6 +9,7 @@ dsq_thread_id:
   - "4865992183"
 categories:
   - Zeiss
+
 tags:
   - Lens
   - Zeiss Batis 18mm f/2.8 Lens

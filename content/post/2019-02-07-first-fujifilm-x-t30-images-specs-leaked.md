@@ -5,6 +5,7 @@ type: post
 date: 2019-02-07T15:25:28+00:00
 url: /2019/02/first-fujifilm-x-t30-images-specs-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/02/Fujifilm-X-T30-1.jpg
+categories:
 tags:
   - APS-c
   - Camera

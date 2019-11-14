@@ -7,6 +7,7 @@ url: /2016/09/olympus-25mm-f1-2-pro/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/olympus-m-zuiko-digital-ed-25mm-11-2-pro-lens.jpg
 dsq_thread_id:
   - "5160739796"
+categories:
 tags:
   - Announcement
   - Lens

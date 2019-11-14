@@ -5,6 +5,7 @@ type: post
 date: 2018-11-28T07:51:08+00:00
 url: /2018/11/sony-a7r-iv-a7s-iii-a9-ii-to-offer-8k-video-with-new-sensors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/sony-a7r-iv-a7s-iii-a9-ii-to-offer-8k-video-with-new-sensors.jpg
+categories:
 tags:
   - Camera
   - Full Frame

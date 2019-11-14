@@ -7,6 +7,7 @@ url: /2016/05/canon-ef-m-9-17mm-f3-5-5-patent/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/canon-ef-m-9-17mm-f3-5-5-lens-patent-2.jpg
 dsq_thread_id:
   - "4862583634"
+categories:
 tags:
   - APS-c
   - Lens

@@ -7,6 +7,7 @@ url: /2017/01/meike-6-5mm-f-2-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/Meike-6.5mm-f2-fisheye-APS-C-mirrorless-lens3.jpg
 dsq_thread_id:
   - "5434047579"
+categories:
 tags:
   - Announcement
   - APS-c

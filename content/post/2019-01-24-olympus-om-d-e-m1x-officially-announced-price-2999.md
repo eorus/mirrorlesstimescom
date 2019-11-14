@@ -5,6 +5,7 @@ type: post
 date: 2019-01-24T11:18:06+00:00
 url: /2019/01/olympus-om-d-e-m1x-officially-announced-price-2999/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/olympus-e-m1x-camera-front.jpg
+categories:
 tags:
   - Announcement
   - Camera

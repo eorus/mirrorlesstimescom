@@ -7,6 +7,7 @@ url: /2017/12/fujifilm-x-t3-x-h1-x-t100-xf10-gfx-50r-gfx-100s-rumors-recap/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/fujifilm-x-h1-features.jpg
 dsq_thread_id:
   - "6346432620"
+categories:
 tags:
   - APS-c
   - Camera

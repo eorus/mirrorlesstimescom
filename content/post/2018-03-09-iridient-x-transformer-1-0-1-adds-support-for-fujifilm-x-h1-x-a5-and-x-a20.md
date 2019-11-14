@@ -5,6 +5,7 @@ type: post
 date: 2018-03-09T09:16:34+00:00
 url: /2018/03/iridient-x-transformer-1-0-1-adds-support-for-fujifilm-x-h1-x-a5-and-x-a20/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/iridient-Digital-Fujifilm.jpg
+categories:
 tags:
   - APS-c
   - Camera

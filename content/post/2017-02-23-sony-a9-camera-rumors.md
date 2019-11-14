@@ -7,6 +7,7 @@ url: /2017/02/sony-a9-camera-rumors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/sony-a9-sensor-rumors-1.jpg
 dsq_thread_id:
   - "5577172789"
+categories:
 tags:
   - Camera
   - Full Frame

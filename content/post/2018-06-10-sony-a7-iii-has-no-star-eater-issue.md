@@ -5,6 +5,7 @@ type: post
 date: 2018-06-10T07:16:18+00:00
 url: /2018/06/sony-a7-iii-has-no-star-eater-issue/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7-iii.jpg
+categories:
 tags:
   - Camera
   - Full Frame

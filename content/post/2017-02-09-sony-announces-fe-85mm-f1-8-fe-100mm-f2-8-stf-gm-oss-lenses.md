@@ -7,6 +7,7 @@ url: /2017/02/sony-announces-fe-85mm-f1-8-fe-100mm-f2-8-stf-gm-oss-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/02/Sony-a7ii-with-FE-100mm-f2.8-STF-GM-OSS-Lens.jpg
 dsq_thread_id:
   - "5535562033"
+categories:
 tags:
   - Announcement
   - Full Frame

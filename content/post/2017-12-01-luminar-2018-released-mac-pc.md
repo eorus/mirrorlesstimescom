@@ -7,6 +7,7 @@ url: /2017/12/luminar-2018-released-mac-pc/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/luminar-2018-now-officially-released.jpg
 dsq_thread_id:
   - "6322029126"
+categories:
 tags:
   - Camera
   - Lens

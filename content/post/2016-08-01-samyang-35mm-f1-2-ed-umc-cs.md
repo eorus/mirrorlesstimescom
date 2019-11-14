@@ -7,6 +7,7 @@ url: /2016/08/samyang-35mm-f1-2-ed-umc-cs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/08/Samyang-35mm-f_1.2-ED-AS-UMC-CS-lens-for-APS-C-mirrorless-cameras.jpg
 dsq_thread_id:
   - "5032252347"
+categories:
 tags:
   - Announcement
   - APS-c

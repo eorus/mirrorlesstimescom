@@ -5,6 +5,7 @@ type: post
 date: 2018-09-06T07:47:53+00:00
 url: /2018/09/shutter-sound-of-the-canon-eos-r-mirrorless-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-front.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

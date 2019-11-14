@@ -5,6 +5,7 @@ type: post
 date: 2019-05-10T09:22:54+00:00
 url: /2019/05/leica-sl2-camera-to-be-announced-in-late-2019/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/Leica-SL-full-frame-mirroless-mount.jpg
+categories:
 tags:
   - Camera
   - Full Frame

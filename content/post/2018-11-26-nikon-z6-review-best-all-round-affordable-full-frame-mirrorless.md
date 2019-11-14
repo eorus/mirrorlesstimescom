@@ -5,6 +5,7 @@ type: post
 date: 2018-11-26T06:26:09+00:00
 url: /2018/11/nikon-z6-review-best-all-round-affordable-full-frame-mirrorless/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/Nikon-Z6.jpg
+categories:
 tags:
   - Camera
   - Comparison

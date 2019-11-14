@@ -7,6 +7,7 @@ url: /2017/05/sony-a9-shutter-sound-video/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/05/Sony-A9-shutter-sound.jpg
 dsq_thread_id:
   - "5822037931"
+categories:
 tags:
   - Camera
   - Full Frame

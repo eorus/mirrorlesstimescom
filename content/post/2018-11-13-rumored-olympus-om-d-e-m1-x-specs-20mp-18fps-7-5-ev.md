@@ -5,6 +5,7 @@ type: post
 date: 2018-11-13T10:05:51+00:00
 url: /2018/11/rumored-olympus-om-d-e-m1-x-specs-20mp-18fps-7-5-ev/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/olympus-e-m1x-registered-size.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

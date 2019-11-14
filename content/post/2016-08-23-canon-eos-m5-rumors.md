@@ -7,6 +7,7 @@ url: /2016/08/canon-eos-m5-rumors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/08/canon-eos-m5-rumors-e1471944625711.jpg
 dsq_thread_id:
   - "5087992852"
+categories:
 tags:
   - APS-c
   - Camera

@@ -5,6 +5,7 @@ type: post
 date: 2018-11-06T12:48:37+00:00
 url: /2018/11/canon-eos-r-and-nikon-z7-usability-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/Canon-EOS-R-and-Nikon-Z7-usability-comparison.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

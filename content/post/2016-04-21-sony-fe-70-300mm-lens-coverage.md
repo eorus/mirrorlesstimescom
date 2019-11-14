@@ -9,6 +9,7 @@ dsq_thread_id:
   - "4862555056"
 categories:
   - Sony
+
 tags:
   - Lens
   - Review

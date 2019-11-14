@@ -7,6 +7,7 @@ url: /2016/12/panasonic-gf9-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/12/first-panasonic-gf9-specs-00.jpg
 dsq_thread_id:
   - "5419590454"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

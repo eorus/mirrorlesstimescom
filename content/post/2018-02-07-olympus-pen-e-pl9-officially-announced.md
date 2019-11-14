@@ -7,6 +7,7 @@ url: /2018/02/olympus-pen-e-pl9-officially-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/olympus-pen-e-pl9.jpeg
 dsq_thread_id:
   - "6464263967"
+categories:
 tags:
   - Announcement
   - Camera

@@ -7,6 +7,7 @@ url: /2017/09/sony-a7iii-announcement-might-happen-november/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/09/sony-a7iii-will-be-a-mini-a9-with-many-features-and-lower-price-750x550.jpg
 dsq_thread_id:
   - "6152540249"
+categories:
 tags:
   - Camera
   - Full Frame

@@ -7,9 +7,11 @@ url: /2016/04/fujifilm-x70-vs-ricoh-gr-ii-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/fujifilm-x70-vs-ricoh-gr-ii.jpg
 dsq_thread_id:
   - "4862944732"
+
 categories:
   - Fujifilm
   - Ricoh
+
 tags:
   - Camera
   - Comparison

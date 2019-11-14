@@ -5,6 +5,7 @@ type: post
 date: 2018-09-13T09:35:07+00:00
 url: /2018/09/fujifilm-gfx-100s-development-announcement-on-september-25/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/fujifilm-gfx-50s-front.jpg
+categories:
 tags:
   - Camera
   - Fujifilm GFX 100S

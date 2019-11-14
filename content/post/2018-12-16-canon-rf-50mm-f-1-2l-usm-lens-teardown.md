@@ -5,6 +5,7 @@ type: post
 date: 2018-12-16T08:10:36+00:00
 url: /2018/12/canon-rf-50mm-f-1-2l-usm-lens-teardown/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/12/canon-rf-50mm-f-1-2l-usm-lens.jpg
+categories:
 tags:
   - Canon EOS R
   - Canon full frame mirrorless camera

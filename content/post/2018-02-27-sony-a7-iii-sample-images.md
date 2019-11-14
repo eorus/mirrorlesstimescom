@@ -5,6 +5,7 @@ type: post
 date: 2018-02-27T09:39:39+00:00
 url: /2018/02/sony-a7-iii-sample-images/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-a7iii-sample-image-4.jpg
+categories:
 tags:
   - Camera
   - Full Frame

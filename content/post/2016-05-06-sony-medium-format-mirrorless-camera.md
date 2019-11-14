@@ -7,6 +7,7 @@ url: /2016/05/sony-medium-format-mirrorless-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/hasselblad-h6d-100c.jpg
 dsq_thread_id:
   - "4863197212"
+categories:
 tags:
   - Camera
   - Medium Format

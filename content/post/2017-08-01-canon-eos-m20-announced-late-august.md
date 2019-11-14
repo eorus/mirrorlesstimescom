@@ -7,6 +7,7 @@ url: /2017/08/canon-eos-m20-announced-late-august/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/08/canon-eos-m10-replacement-1-750x550.jpg
 dsq_thread_id:
   - "6032675018"
+categories:
 tags:
   - APS-c
   - Camera

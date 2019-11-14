@@ -7,6 +7,7 @@ url: /2016/06/panasonic-gh5-sensor/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/panasonic-gh5-sensor.jpg
 dsq_thread_id:
   - "4899488011"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

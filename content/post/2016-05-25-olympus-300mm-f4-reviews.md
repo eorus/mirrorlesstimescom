@@ -7,6 +7,7 @@ url: /2016/05/olympus-300mm-f4-reviews/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/olympus-300mm-f4-reviews-roundup.jpg
 dsq_thread_id:
   - "4861541967"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

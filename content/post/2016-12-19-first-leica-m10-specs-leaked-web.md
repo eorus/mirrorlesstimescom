@@ -7,6 +7,7 @@ url: /2016/12/first-leica-m10-specs-leaked-web/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/12/Leica-M10-camera.jpg
 dsq_thread_id:
   - "5393408185"
+categories:
 tags:
   - Camera
   - Full Frame

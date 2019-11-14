@@ -5,6 +5,7 @@ type: post
 date: 2018-10-26T07:12:45+00:00
 url: /2018/10/first-fujifilm-gfx-50r-reviews-with-hands-on-videos/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-gfx-50r-front.jpg
+categories:
 tags:
   - Camera
   - Fujifilm GFX 50R

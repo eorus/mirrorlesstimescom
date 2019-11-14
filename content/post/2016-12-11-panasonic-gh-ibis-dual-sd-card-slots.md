@@ -7,6 +7,7 @@ url: /2016/12/panasonic-gh-ibis-dual-sd-card-slots/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/panasonic-gh5-development.jpg
 dsq_thread_id:
   - "5371698965"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

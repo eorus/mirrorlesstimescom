@@ -7,6 +7,7 @@ url: /2017/09/voigtlander-nokton-40mm-f1-2-fe-lens-japan/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/09/Voigtlander-Nokton-40mm-F1-2-FE-Lens-750x550.jpg
 dsq_thread_id:
   - "6154918896"
+categories:
 tags:
   - Announcement
   - Full Frame

@@ -5,6 +5,7 @@ type: post
 date: 2018-10-15T06:55:07+00:00
 url: /2018/10/canon-eos-r-low-light-4k-video-test/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-front.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

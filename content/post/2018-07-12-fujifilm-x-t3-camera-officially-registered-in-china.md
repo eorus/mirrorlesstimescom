@@ -5,6 +5,7 @@ type: post
 date: 2018-07-12T15:04:33+00:00
 url: /2018/07/fujifilm-x-t3-camera-officially-registered-in-china/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/fujifilm-x-t2-front.jpg
+categories:
 tags:
   - APS-c
   - Camera

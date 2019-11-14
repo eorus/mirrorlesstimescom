@@ -5,6 +5,7 @@ type: post
 date: 2018-09-06T09:04:16+00:00
 url: /2018/09/fujifilm-x-t3/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-x-t3-grip.jpg
+categories:
 tags:
   - Announcement
   - APS-c

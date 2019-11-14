@@ -5,6 +5,9 @@ type: post
 date: 2019-06-18T14:28:20+00:00
 url: /2019/06/fujifilm-x-t30-vs-x-t3-vs-x-t20-vs-sony-a6400/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/06/fujifilm-x-t30-vs-x-t3-vs-x-t20-vs-sony-a6400-comparison.jpg
+
+categories:
+  - Fujifilm
 tags:
   - APS-c
   - Camera

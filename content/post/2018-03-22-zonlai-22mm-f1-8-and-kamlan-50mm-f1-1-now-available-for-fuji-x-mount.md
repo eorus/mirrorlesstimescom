@@ -5,6 +5,7 @@ type: post
 date: 2018-03-22T08:54:23+00:00
 url: /2018/03/zonlai-22mm-f1-8-and-kamlan-50mm-f1-1-now-available-for-fuji-x-mount/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/Kamlan-50mmf1.1-manual-focus-lens-for-Fuji-X-mount.jpg
+categories:
 tags:
   - APS-c
   - Fujifilm Mirrorless

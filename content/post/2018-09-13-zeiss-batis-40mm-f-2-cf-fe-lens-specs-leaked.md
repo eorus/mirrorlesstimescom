@@ -5,6 +5,7 @@ type: post
 date: 2018-09-13T09:17:57+00:00
 url: /2018/09/zeiss-batis-40mm-f-2-cf-fe-lens-specs-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/zeiss-batis-40mm-f2-cf-lens-1.jpg
+categories:
 tags:
   - Full Frame
   - Lens

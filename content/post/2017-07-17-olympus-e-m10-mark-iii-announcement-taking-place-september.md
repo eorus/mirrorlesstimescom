@@ -7,6 +7,7 @@ url: /2017/07/olympus-e-m10-mark-iii-announcement-taking-place-september/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/914Hl88s7uL._SL1500_.jpg
 dsq_thread_id:
   - "5994312481"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

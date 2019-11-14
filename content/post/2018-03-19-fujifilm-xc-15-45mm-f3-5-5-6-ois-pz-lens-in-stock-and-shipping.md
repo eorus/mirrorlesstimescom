@@ -5,6 +5,7 @@ type: post
 date: 2018-03-19T07:53:19+00:00
 url: /2018/03/fujifilm-xc-15-45mm-f3-5-5-6-ois-pz-lens-in-stock-and-shipping/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/fujifilm-xc-15-45mm-f3-5-5-6-ois-pz-lens-in-stock-and-shipping.jpg
+categories:
 tags:
   - APS-c
   - Fujifilm Mirrorless

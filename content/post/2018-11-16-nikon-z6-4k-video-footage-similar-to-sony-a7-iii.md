@@ -5,6 +5,7 @@ type: post
 date: 2018-11-16T09:01:17+00:00
 url: /2018/11/nikon-z6-4k-video-bartage-similar-to-sony-a7-iii/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/Nikon-Z6.jpg
+categories:
 tags:
   - Camera
   - Comparison

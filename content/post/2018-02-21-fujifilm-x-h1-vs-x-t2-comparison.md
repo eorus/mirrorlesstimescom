@@ -5,6 +5,7 @@ type: post
 date: 2018-02-21T08:52:45+00:00
 url: /2018/02/fujifilm-x-h1-vs-x-t2-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/fujifilm-x-h1-vs-x-t2-comparison.jpg
+categories:
 tags:
   - APS-c
   - Camera

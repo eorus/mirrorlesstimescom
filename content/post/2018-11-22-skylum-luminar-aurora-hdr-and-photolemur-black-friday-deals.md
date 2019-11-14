@@ -5,6 +5,7 @@ type: post
 date: 2018-11-22T08:23:52+00:00
 url: /2018/11/skylum-luminar-aurora-hdr-and-photolemur-black-friday-deals/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/luminar-2018-aurora-hdr-offer.jpg
+categories:
 tags:
   - Black Friday
   - Camera

@@ -7,6 +7,7 @@ url: /2017/05/best-lenses-fujifilm-x-t10/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/05/best-lenses-for-fujifilm-x-t10.jpg
 dsq_thread_id:
   - "5840713504"
+categories:
 tags:
   - APS-c
   - Camera

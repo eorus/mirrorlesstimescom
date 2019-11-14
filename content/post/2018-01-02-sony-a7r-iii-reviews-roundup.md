@@ -7,6 +7,7 @@ url: /2018/01/sony-a7r-iii-reviews-roundup/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/sony-a7r-iii-star-eater.jpg
 dsq_thread_id:
   - "6386131991"
+categories:
 tags:
   - Camera
   - Full Frame

@@ -7,6 +7,7 @@ url: /2017/11/fujifilm-x-a5-camera-coming-ces-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/Upcoming-Fuji-Camera-X-A5.jpg
 dsq_thread_id:
   - "6288100695"
+categories:
 tags:
   - APS-c
   - Camera

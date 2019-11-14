@@ -5,6 +5,7 @@ type: post
 date: 2018-09-26T08:28:41+00:00
 url: /2018/09/fujifilm-gfx-50r/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/fujifilm-gfx-50r-front.jpg
+categories:
 tags:
   - Announcement
   - Camera

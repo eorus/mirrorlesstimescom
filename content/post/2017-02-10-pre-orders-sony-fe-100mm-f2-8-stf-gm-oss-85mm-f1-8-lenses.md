@@ -7,6 +7,7 @@ url: /2017/02/pre-orders-sony-fe-100mm-f2-8-stf-gm-oss-85mm-f1-8-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/02/fe-100mm-f2-8-stf-gm-oss.jpg
 dsq_thread_id:
   - "5538527230"
+categories:
 tags:
   - Full Frame
   - Lens

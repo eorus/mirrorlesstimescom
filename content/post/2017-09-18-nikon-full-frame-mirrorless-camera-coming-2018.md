@@ -7,6 +7,7 @@ url: /2017/09/nikon-full-frame-mirrorless-camera-coming-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/09/nikon-full-frame-mirrorless-camera-coming-2018-750x550.jpg
 dsq_thread_id:
   - "6152427078"
+categories:
 tags:
   - Camera
   - Full Frame

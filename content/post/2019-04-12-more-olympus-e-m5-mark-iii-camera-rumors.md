@@ -5,6 +5,7 @@ type: post
 date: 2019-04-12T08:47:25+00:00
 url: /2019/04/more-olympus-e-m5-mark-iii-camera-rumors/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/03/olympus-e-m5-mark-iii-camera-coming-at-photokina-2018.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

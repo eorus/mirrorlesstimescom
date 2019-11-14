@@ -7,6 +7,7 @@ url: /2016/05/zeiss-batis-18mm-f2-8-lens-reviews/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/zeiss-batis-18mm-f2-8-lens-reviews.png
 dsq_thread_id:
   - "4861851489"
+categories:
 tags:
   - Full Frame
   - Lens

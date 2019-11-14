@@ -7,6 +7,7 @@ url: /2016/11/sony-a7ii-firmware-3-30/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/sony-a7ii-firmware-3-20.jpg
 dsq_thread_id:
   - "5324610768"
+categories:
 tags:
   - Camera
   - Firmware

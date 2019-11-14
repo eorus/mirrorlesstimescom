@@ -7,6 +7,7 @@ url: /2016/09/olympus-om-d-e-m1-mark-ii-development/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/olympus-e-m1-mark-ii-development-2.jpg
 dsq_thread_id:
   - "5160680279"
+categories:
 tags:
   - Announcement
   - Camera

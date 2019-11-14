@@ -7,6 +7,7 @@ url: /2016/07/fujifilm-xf-90mm-16-55mm-firmware/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/fuji-xf-90mm-f2-16-55mm-f2-8-lens-firmware.jpg
 dsq_thread_id:
   - "5024333778"
+categories:
 tags:
   - Firmware
   - Lens

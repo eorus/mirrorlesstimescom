@@ -7,6 +7,7 @@ url: /2016/10/sony-a9-coming-early-2017/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/sony-a9-specs-appeared-online.jpg
 dsq_thread_id:
   - "5249745940"
+categories:
 tags:
   - Camera
   - Full Frame

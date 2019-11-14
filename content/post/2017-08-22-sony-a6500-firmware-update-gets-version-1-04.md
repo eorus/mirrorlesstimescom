@@ -7,6 +7,7 @@ url: /2017/08/sony-a6500-firmware-update-gets-version-1-04/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/sony-a6500-front.jpg
 dsq_thread_id:
   - "6086450094"
+categories:
 tags:
   - APS-c
   - Camera

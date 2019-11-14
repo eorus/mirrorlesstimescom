@@ -5,6 +5,7 @@ type: post
 date: 2019-01-26T16:17:20+00:00
 url: /2019/01/canon-to-announce-a-new-eos-rp-full-frame-mirrorless-camera-soon/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/Canon-EOS-RP-rumors.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

@@ -7,10 +7,12 @@ url: /2016/04/panasonic-gh5-coming-photokina-2016/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/panasonic-gh5-coming-photokina-2016.jpg
 dsq_thread_id:
   - "4861598309"
+categories:
+  - Panasonic
 tags:
   - Camera
   - Micro Four Thirds
-  - Photokina 2016
+  - Panasonic GH5
   - Rumors
 
 ---

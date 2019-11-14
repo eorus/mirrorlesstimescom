@@ -5,6 +5,7 @@ type: post
 date: 2018-02-19T08:49:44+00:00
 url: /2018/02/new-firmware-updates-fujifilm-gfx-50s-x-t20-x-a3-x-a10-coming-soon/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/fujifilm-x-t20-front.jpg
+categories:
 tags:
   - APS-c
   - Camera

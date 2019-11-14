@@ -7,6 +7,7 @@ url: /2016/05/olympus-30mm-macro-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/olympus-30mm-macro-lens-rumors.jpg
 dsq_thread_id:
   - "4862897265"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

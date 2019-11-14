@@ -7,6 +7,7 @@ url: /2017/03/rumors-sony-a9-feature-20fps-fast-af-low-mp-price-6000/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/sony-a9-sensor-rumors-1.jpg
 dsq_thread_id:
   - "5640018916"
+categories:
 tags:
   - Camera
   - Full Frame

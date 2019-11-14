@@ -7,6 +7,7 @@ url: /2017/06/olympus-e-m10-mark-iii-specs-feature-20mp-sensor-4k-video/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/04/olympus-e-m10iii-camera.jpg
 dsq_thread_id:
   - "5888190553"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

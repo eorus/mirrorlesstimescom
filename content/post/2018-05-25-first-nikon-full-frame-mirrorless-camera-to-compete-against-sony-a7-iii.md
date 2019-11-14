@@ -5,6 +5,7 @@ type: post
 date: 2018-05-25T09:00:00+00:00
 url: /2018/05/first-nikon-full-frame-mirrorless-camera-to-compete-against-sony-a7-iii/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/09/nikon-full-frame-mirrorless-camera-coming-2018-750x550.jpg
+categories:
 tags:
   - Camera
   - Full Frame

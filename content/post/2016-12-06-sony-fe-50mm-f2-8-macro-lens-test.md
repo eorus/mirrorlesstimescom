@@ -7,6 +7,7 @@ url: /2016/12/sony-fe-50mm-f2-8-macro-lens-test/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/08/sony-fe-50mm-f2-8-macro.jpg
 dsq_thread_id:
   - "5359075792"
+categories:
 tags:
   - Full Frame
   - Lens

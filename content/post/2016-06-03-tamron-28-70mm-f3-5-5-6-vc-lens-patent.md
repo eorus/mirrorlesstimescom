@@ -7,6 +7,7 @@ url: /2016/06/tamron-28-70mm-f3-5-5-6-vc-lens-patent/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/tamron-28-70mm-f3-5-5-6-vc-lens-patent.jpg
 dsq_thread_id:
   - "4882269599"
+categories:
 tags:
   - Full Frame
   - Lens

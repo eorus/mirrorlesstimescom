@@ -5,6 +5,7 @@ type: post
 date: 2018-09-18T08:41:48+00:00
 url: /2018/09/canon-eos-r-vs-eos-5d4-vs-eos-6d2-vs-sony-a7iii-vs-sony-a7riii-image-quality-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-front.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

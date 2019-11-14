@@ -7,6 +7,7 @@ url: /2017/10/first-voigtlander-40mm-f1-2-fe-lens-review/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/first-voigtlander-40mm-f1-2-fe-lens-review-750x550.jpg
 dsq_thread_id:
   - "6202002211"
+categories:
 tags:
   - Full Frame
   - Lens

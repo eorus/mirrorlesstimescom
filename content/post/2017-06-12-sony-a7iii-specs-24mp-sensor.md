@@ -7,6 +7,7 @@ url: /2017/06/sony-a7iii-specs-24mp-sensor/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/sony-a7iii-release-date.jpg
 dsq_thread_id:
   - "5902987958"
+categories:
 tags:
   - Camera
   - Full Frame

@@ -7,6 +7,7 @@ url: /2017/02/olympus-17mm-f1-2-pro-lens-announced-2017/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/olympus-m-zuiko-digital-ed-25mm-11-2-pro-lens.jpg
 dsq_thread_id:
   - "5538684778"
+categories:
 tags:
   - Lens
   - Micro Four Thirds

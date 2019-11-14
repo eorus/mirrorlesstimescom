@@ -7,6 +7,7 @@ url: /2017/07/sony-fe-12-24mm-f4-g-vs-canon-ef-11-24mm-f4l-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/05/sony-fe-12-24mm-f4-g.jpg
 dsq_thread_id:
   - "6022716689"
+categories:
 tags:
   - Comparison
   - Lens

@@ -5,6 +5,7 @@ type: post
 date: 2019-05-13T09:49:02+00:00
 url: /2019/05/panasonic-10-25mm-f-1-7-lens-hands-on-images/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/panasonic-10-25mm-f-1-7-lens.jpg
+categories:
 tags:
   - Lens
   - Micro Four Thirds

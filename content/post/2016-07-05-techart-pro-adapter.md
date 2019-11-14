@@ -7,6 +7,7 @@ url: /2016/07/techart-pro-adapter/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/07/techart-pro-leica-m-to-sony-e-af-lens-adapter.jpg
 dsq_thread_id:
   - "4963037148"
+categories:
 tags:
   - Accessories
   - Announcement

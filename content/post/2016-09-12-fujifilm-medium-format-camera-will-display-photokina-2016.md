@@ -7,6 +7,7 @@ url: /2016/09/fujifilm-medium-format-camera-will-display-photokina-2016/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/fujifilm-medium-format-camera-gf670.jpg
 dsq_thread_id:
   - "5138240282"
+categories:
 tags:
   - Camera
   - Medium Format

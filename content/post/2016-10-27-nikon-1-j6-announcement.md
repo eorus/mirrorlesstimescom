@@ -7,6 +7,7 @@ url: /2016/10/nikon-1-j6-announcement/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/10/nikon-1-j5-successor.png
 dsq_thread_id:
   - "5256940155"
+categories:
 tags:
   - 1 inch
   - Camera

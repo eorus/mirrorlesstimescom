@@ -5,6 +5,7 @@ type: post
 date: 2019-04-11T13:04:42+00:00
 url: /2019/04/fujifilm-xf-33mm-f-1-r-wr-lens-will-be-huge-in-deminsions/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/04/Fuji-Fujinon-XF-33mm-f1-R-WR-lens-2.jpg
+categories:
 tags:
   - Fujifilm Mirrorless
   - Fujifilm XF 33mm f/1 R WR Lens

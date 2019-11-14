@@ -7,6 +7,7 @@ url: /2016/12/mitakon-20mm-f2-4-5x-super-macro-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/12/8487904316.jpg
 dsq_thread_id:
   - "5395406691"
+categories:
 tags:
   - Announcement
   - Full Frame

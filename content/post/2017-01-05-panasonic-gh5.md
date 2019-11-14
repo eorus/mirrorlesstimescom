@@ -7,6 +7,7 @@ url: /2017/01/panasonic-gh5/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/panasonic-gh5.jpg
 dsq_thread_id:
   - "5438177319"
+categories:
 tags:
   - Announcement
   - Camera

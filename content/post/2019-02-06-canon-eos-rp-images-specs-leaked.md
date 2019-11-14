@@ -5,6 +5,7 @@ type: post
 date: 2019-02-06T14:54:25+00:00
 url: /2019/02/canon-eos-rp-images-specs-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/02/breaking-canon-eos-rp-specifications-images.jpg
+categories:
 tags:
   - Canon full frame mirrorless camera
   - Canon Lens

@@ -7,6 +7,7 @@ url: /2017/10/sony-fe-20mm-f2-8-lens-rumored-late-2017/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/10/sony-fe-20mm-f2-8-lens-announced-soon-750x550.jpg
 dsq_thread_id:
   - "6206265001"
+categories:
 tags:
   - Full Frame
   - Lens

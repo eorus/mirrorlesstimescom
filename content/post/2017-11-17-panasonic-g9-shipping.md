@@ -7,6 +7,7 @@ url: /2017/11/panasonic-g9-shipping/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/panasonic-G9-shipping.jpg
 dsq_thread_id:
   - "6290327932"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

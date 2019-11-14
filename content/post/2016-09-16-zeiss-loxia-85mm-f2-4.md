@@ -7,6 +7,7 @@ url: /2016/09/zeiss-loxia-85mm-f2-4/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/zeiss-loxia-85mm-f2-4.jpg
 dsq_thread_id:
   - "5148509336"
+categories:
 tags:
   - Announcement
   - Full Frame

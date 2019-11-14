@@ -5,6 +5,7 @@ type: post
 date: 2018-02-15T14:08:05+00:00
 url: /2018/02/fujifilm-x-h1/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/fujifilm-x-h1-front.jpg
+categories:
 tags:
   - Announcement
   - APS-c

@@ -5,6 +5,7 @@ type: post
 date: 2019-03-21T14:47:00+00:00
 url: /2019/03/two-more-canon-rf-lenses-coming-in-late-2019/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/02/breaking-canon-eos-rp-specifications-images.jpg
+categories:
 tags:
   - Canon full frame mirrorless camera
   - Canon Lens

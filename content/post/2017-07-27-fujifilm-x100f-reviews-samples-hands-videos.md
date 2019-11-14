@@ -7,6 +7,7 @@ url: /2017/07/fujifilm-x100f-reviews-samples-hands-videos/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/fujifilm-x100f-af-dial.jpg
 dsq_thread_id:
   - "6019801041"
+categories:
 tags:
   - APS-c
   - Camera

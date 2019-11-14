@@ -5,6 +5,7 @@ type: post
 date: 2018-05-24T07:55:20+00:00
 url: /2018/05/fujifilm-x-t100-mirrorless-camera-officially-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/05/fujifilm-x-t100.jpg
+categories:
 tags:
   - Announcement
   - APS-c

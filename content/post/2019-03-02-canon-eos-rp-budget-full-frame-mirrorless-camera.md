@@ -5,6 +5,7 @@ type: post
 date: 2019-03-02T12:40:40+00:00
 url: /2019/03/canon-eos-rp-budget-full-frame-mirrorless-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/canon-eos-rp.jpg
+categories:
 tags:
   - Announcement
   - Camera

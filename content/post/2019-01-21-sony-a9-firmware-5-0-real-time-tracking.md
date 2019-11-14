@@ -5,6 +5,7 @@ type: post
 date: 2019-01-21T13:52:14+00:00
 url: /2019/01/sony-a9-firmware-5-0-real-time-tracking/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/sony-a9-real-time-tracking.jpg
+categories:
 tags:
   - Camera
   - Firmware

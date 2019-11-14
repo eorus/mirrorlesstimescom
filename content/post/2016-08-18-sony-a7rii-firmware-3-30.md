@@ -7,6 +7,7 @@ url: /2016/08/sony-a7rii-firmware-3-30/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/08/sony-a7rii-firmware-3-30.jpg
 dsq_thread_id:
   - "5075779417"
+categories:
 tags:
   - Camera
   - Firmware

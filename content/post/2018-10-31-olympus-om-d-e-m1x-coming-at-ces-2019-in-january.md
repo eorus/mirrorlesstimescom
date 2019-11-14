@@ -5,6 +5,7 @@ type: post
 date: 2018-10-31T06:59:07+00:00
 url: /2018/10/olympus-om-d-e-m1x-coming-at-ces-2019-in-january/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/olympus-e-m1-mark-ii-firmware-update.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

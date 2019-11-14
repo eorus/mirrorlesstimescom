@@ -7,8 +7,11 @@ url: /2016/04/sony-g-master-lenses-coverage/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/sony-g-master-lenses-coverage.jpg
 dsq_thread_id:
   - "4861970280"
+
+categories: 
+  - Sony
 tags:
-  - Full Frame
+  - Sony Mirrorless
   - Lens
   - Review
 

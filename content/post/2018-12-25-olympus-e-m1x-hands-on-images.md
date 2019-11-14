@@ -5,6 +5,7 @@ type: post
 date: 2018-12-25T07:29:09+00:00
 url: /2018/12/olympus-e-m1x-hands-on-images/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/12/olympus-e-m1x-hands-on-images.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

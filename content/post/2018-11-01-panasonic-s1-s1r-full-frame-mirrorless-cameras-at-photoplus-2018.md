@@ -5,6 +5,7 @@ type: post
 date: 2018-11-01T14:21:10+00:00
 url: /2018/11/panasonic-s1-s1r-full-frame-mirrorless-cameras-at-photoplus-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/panasonic-s1-s1r-full-frame-aynasiz.jpg
+categories:
 tags:
   - Camera
   - Full Frame

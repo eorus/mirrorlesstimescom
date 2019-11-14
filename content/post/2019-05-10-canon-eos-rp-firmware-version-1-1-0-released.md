@@ -5,6 +5,7 @@ type: post
 date: 2019-05-10T09:00:05+00:00
 url: /2019/05/canon-eos-rp-firmware-version-1-1-0-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/canon-eos-rp-top.jpg
+categories:
 tags:
   - Camera
   - Canon EOS RP

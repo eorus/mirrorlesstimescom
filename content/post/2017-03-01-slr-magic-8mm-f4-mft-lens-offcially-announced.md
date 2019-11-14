@@ -7,6 +7,7 @@ url: /2017/03/slr-magic-8mm-f4-mft-lens-offcially-announced/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/SLR-Magic-8mm-f4-lens-for-Micro-Four-Thirds-1.jpg
 dsq_thread_id:
   - "5593805774"
+categories:
 tags:
   - Announcement
   - Lens

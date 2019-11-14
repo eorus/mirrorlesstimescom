@@ -7,6 +7,7 @@ url: /2018/01/sony-e-16-55mm-f-2-8-lens-announced-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/01/sony-16-55mm-f-2-8-aps-c-e-mount-lens-coming-in-2018.jpg
 dsq_thread_id:
   - "6385991211"
+categories:
 tags:
   - Full Frame
   - Lens

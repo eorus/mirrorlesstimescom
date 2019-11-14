@@ -7,10 +7,13 @@ url: /2016/04/fujifilm-x70-x-e2s-firmware-update/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/04/fujifilm-x70-x-e2s-firmware-update.jpg
 dsq_thread_id:
   - "4863496368"
+categories:
+  - Fujifilm
 tags:
-  - APS-c
+  - Fujifilm Mirrorless
   - Camera
   - Firmware
+  - Fujifilm X70
 
 ---
 **New firmware updates for Fujifilm X70 and X-E2s** mirrorless cameras now available for download.

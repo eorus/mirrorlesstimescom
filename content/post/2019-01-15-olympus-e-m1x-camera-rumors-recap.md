@@ -5,6 +5,7 @@ type: post
 date: 2019-01-15T15:04:40+00:00
 url: /2019/01/olympus-e-m1x-camera-rumors-recap/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/Olympus-E-M1X-camera-rumors-recap.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

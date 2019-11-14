@@ -5,6 +5,7 @@ type: post
 date: 2018-06-10T07:25:45+00:00
 url: /2018/06/first-panasonic-gh6-rumors-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/01/panasonic-gh5s-1.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

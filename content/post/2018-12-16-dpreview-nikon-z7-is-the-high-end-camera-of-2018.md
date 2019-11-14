@@ -5,6 +5,7 @@ type: post
 date: 2018-12-16T09:17:49+00:00
 url: /2018/12/dpreview-nikon-z7-is-the-high-end-camera-of-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/12/Nikon-Z7-high-end-camera-of-the-year-award.jpg
+categories:
 tags:
   - Camera
   - Full Frame

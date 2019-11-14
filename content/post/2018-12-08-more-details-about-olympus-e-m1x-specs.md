@@ -5,6 +5,7 @@ type: post
 date: 2018-12-08T09:26:43+00:00
 url: /2018/12/more-details-about-olympus-e-m1x-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/olympus-e-m1-mark-ii-firmware-update.jpg
+categories:
 tags:
   - Camera
   - Micro Four Thirds

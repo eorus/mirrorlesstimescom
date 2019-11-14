@@ -5,6 +5,7 @@ type: post
 date: 2018-12-17T07:12:58+00:00
 url: /2018/12/nikon-z6-review-excellent-image-quality-great-ff-milc/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/Nikon-Z6.jpg
+categories:
 tags:
   - Camera
   - Full Frame

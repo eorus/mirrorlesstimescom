@@ -5,6 +5,7 @@ type: post
 date: 2019-01-22T10:09:46+00:00
 url: /2019/01/which-nikon-full-frame-camera-to-buy-nikon-d5-d850-z7-or-z6/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/nikon-z7-with-24-70mm-lens-now-in-stock.jpg
+categories:
 tags:
   - Camera
   - Full Frame

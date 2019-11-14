@@ -5,6 +5,7 @@ type: post
 date: 2018-11-07T07:33:37+00:00
 url: /2018/11/tony-northrup-color-science-comparison-canon-vs-nikon-vs-sony-vs-fujifilm/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/tony-northrup-color-science-comparison-canon-vs-nikon-vs-sony-vs-fujifilm.jpg
+categories:
 tags:
   - APS-c
   - Camera

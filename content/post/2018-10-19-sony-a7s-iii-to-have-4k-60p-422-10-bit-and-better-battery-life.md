@@ -5,6 +5,7 @@ type: post
 date: 2018-10-19T15:33:39+00:00
 url: /2018/10/sony-a7s-iii-to-have-4k-60p-422-10-bit-and-better-battery-life/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/04/sony-a7s-iii-announcement.jpg
+categories:
 tags:
   - Camera
   - Full Frame

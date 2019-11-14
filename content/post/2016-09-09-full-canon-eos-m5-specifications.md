@@ -7,6 +7,7 @@ url: /2016/09/full-canon-eos-m5-specifications/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/09/M5_49.jpg
 dsq_thread_id:
   - "5131086878"
+categories:
 tags:
   - APS-c
   - Camera

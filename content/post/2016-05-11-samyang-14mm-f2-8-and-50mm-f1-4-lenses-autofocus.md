@@ -7,6 +7,7 @@ url: /2016/05/samyang-14mm-f2-8-and-50mm-f1-4-lenses-autofocus/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/samyang-14mm-f2-8-and-50mm-f1-4-lenses-1.jpg
 dsq_thread_id:
   - "4861781969"
+categories:
 tags:
   - Announcement
   - Full Frame

@@ -5,6 +5,7 @@ type: post
 date: 2019-03-29T08:55:01+00:00
 url: /2019/03/samyang-mf-14mm-f-2-8-rf-mf-85mm-f-1-4-rf-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/03/samyang-14mm-RF.jpeg
+categories:
 tags:
   - Announcement
   - Canon full frame mirrorless camera

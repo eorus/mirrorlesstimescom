@@ -7,6 +7,7 @@ url: /2017/04/olympus-e-m10iii-camera-coming-2017/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/04/olympus-e-m10iii-camera.jpg
 dsq_thread_id:
   - "5698234429"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

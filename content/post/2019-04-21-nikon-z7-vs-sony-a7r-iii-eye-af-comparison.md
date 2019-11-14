@@ -5,6 +5,7 @@ type: post
 date: 2019-04-21T10:03:27+00:00
 url: /2019/04/nikon-z7-vs-sony-a7r-iii-eye-af-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/nikon-z7-review.jpg
+categories:
 tags:
   - Camera
   - Firmware

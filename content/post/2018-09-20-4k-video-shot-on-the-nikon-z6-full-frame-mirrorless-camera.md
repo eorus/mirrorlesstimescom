@@ -5,6 +5,7 @@ type: post
 date: 2018-09-20T06:52:54+00:00
 url: /2018/09/4k-video-shot-on-the-nikon-z6-full-frame-mirrorless-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/Nikon-Z6-1.jpg
+categories:
 tags:
   - Camera
   - Full Frame

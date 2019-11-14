@@ -7,6 +7,7 @@ url: /2017/12/luminar-2018-aurora-hdr-holiday-savings/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/luminar-2018-aurora-hdr-offer.jpg
 dsq_thread_id:
   - "6346323224"
+categories:
 tags:
   - Camera
   - Lens

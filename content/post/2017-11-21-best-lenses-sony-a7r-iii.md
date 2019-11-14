@@ -7,6 +7,7 @@ url: /2017/11/best-lenses-sony-a7r-iii/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/best-sony-a7r-iii-lenses.jpg
 dsq_thread_id:
   - "6299099622"
+categories:
 tags:
   - Camera
   - Deals

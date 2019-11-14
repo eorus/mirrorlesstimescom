@@ -7,6 +7,7 @@ url: /2017/06/samyang-af-35mm-f2-8-fe/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/06/samyang-35mm-f2-8-fe.jpg
 dsq_thread_id:
   - "5881421204"
+categories:
 tags:
   - Announcement
   - Full Frame

@@ -5,6 +5,7 @@ type: post
 date: 2018-05-29T06:55:36+00:00
 url: /2018/05/fujifilm-x100f-brown-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/05/fujifilm-x100f-brown-camera.jpg
+categories:
 tags:
   - Announcement
   - APS-c

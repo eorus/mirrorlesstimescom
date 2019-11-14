@@ -7,6 +7,7 @@ url: /2016/06/hasselblad-x1d-vs-pentax-645z/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/hasselblad-x1d-vs-pentax-645z.jpg
 dsq_thread_id:
   - "4942004436"
+categories:
 tags:
   - Camera
   - Comparison

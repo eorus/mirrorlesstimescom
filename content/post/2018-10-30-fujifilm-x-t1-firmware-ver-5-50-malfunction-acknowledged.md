@@ -5,6 +5,7 @@ type: post
 date: 2018-10-30T10:44:20+00:00
 url: /2018/10/fujifilm-x-t1-firmware-ver-5-50-malfunction-acknowledged/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/best-fujifilm-x-t1-lenses.jpg
+categories:
 tags:
   - APS-c
   - Camera

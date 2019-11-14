@@ -5,6 +5,7 @@ type: post
 date: 2018-10-16T07:11:24+00:00
 url: /2018/10/the-canon-eos-r-20-reasons-why-i-bought-one/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/canon-eos-r-front.jpg
+categories:
 tags:
   - Camera
   - Canon EOS R

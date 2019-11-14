@@ -5,6 +5,7 @@ type: post
 date: 2018-04-28T09:49:20+00:00
 url: /2018/04/meyer-optik-goerlitz-unveils-nocturnus-75mm-f-0-95-lens/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/04/Meyer-Optik-Nocturnus-75mm-f0.95-mirrorless-lens.jpg
+categories:
 tags:
   - Announcement
   - Lens

@@ -5,6 +5,7 @@ type: post
 date: 2018-12-17T07:19:33+00:00
 url: /2018/12/luminar-3-announced-with-libraries-pre-order-now/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/12/luminar-3-announced-1.jpg
+categories:
 tags:
   - Camera
   - Deals

@@ -7,6 +7,7 @@ url: /2017/04/fujifilm-x-e3-camera/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/04/fujifilm-x-e3-camera-rumors.jpg
 dsq_thread_id:
   - "5695466345"
+categories:
 tags:
   - APS-c
   - Camera

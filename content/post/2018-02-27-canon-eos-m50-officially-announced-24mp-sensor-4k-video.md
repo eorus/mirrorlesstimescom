@@ -5,6 +5,7 @@ type: post
 date: 2018-02-27T09:02:59+00:00
 url: /2018/02/canon-eos-m50-officially-announced-24mp-sensor-4k-video/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/canon-eos-m50-1.jpg
+categories:
 tags:
   - Announcement
   - APS-c

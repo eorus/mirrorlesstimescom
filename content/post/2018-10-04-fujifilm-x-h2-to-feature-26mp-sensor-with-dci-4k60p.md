@@ -5,6 +5,7 @@ type: post
 date: 2018-10-04T07:04:25+00:00
 url: /2018/10/fujifilm-x-h2-to-feature-26mp-sensor-with-dci-4k60p/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/10/fujifilm-x-h2-to-feature-26mp-sensor-with-dci-4k60p.jpg
+categories:
 tags:
   - APS-c
   - Camera

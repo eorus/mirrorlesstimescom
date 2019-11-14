@@ -5,6 +5,7 @@ type: post
 date: 2018-05-14T09:32:57+00:00
 url: /2018/05/tamron-28-75mm-f-2-8-di-iii-rxd-lens-priced-799-available-for-pre-order/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/tamron-28-75mm-f-2-8-di-iii-rxd-lens-1.jpg
+categories:
 tags:
   - Full Frame
   - Lens

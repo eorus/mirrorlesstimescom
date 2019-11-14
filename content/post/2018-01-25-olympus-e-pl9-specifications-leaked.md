@@ -7,6 +7,7 @@ url: /2018/01/olympus-e-pl9-specifications-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/11/olympus-pen-e-pl9-to-be-announced-soonolympus-pen-e-pl9-to-be-announced-soon.jpg
 dsq_thread_id:
   - "6436893988"
+categories:
 tags:
   - Camera
   - Micro Four Thirds

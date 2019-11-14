@@ -5,6 +5,7 @@ type: post
 date: 2019-05-12T12:39:52+00:00
 url: /2019/05/zenitar-50mm-f-0-95-lens-becomes-official/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/05/Zenit-Zenitar-50mm-f0.95-manual-focus-full-frame-lens-for-Sony-E-mount.jpg
+categories:
 tags:
   - Announcement
   - Full Frame

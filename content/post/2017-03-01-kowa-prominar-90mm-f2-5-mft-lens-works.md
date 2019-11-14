@@ -7,6 +7,7 @@ url: /2017/03/kowa-prominar-90mm-f2-5-mft-lens-works/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/03/175746_nbigmini__2241025.jpg
 dsq_thread_id:
   - "5593494524"
+categories:
 tags:
   - Lens
   - Macro

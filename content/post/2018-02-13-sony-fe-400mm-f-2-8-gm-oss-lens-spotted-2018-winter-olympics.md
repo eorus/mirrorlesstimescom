@@ -5,6 +5,7 @@ type: post
 date: 2018-02-13T09:08:08+00:00
 url: /2018/02/sony-fe-400mm-f-2-8-gm-oss-lens-spotted-2018-winter-olympics/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/02/sony-fe-400mm-f-2.8-gm-oss-lens.jpg
+categories:
 tags:
   - Full Frame
   - Lens

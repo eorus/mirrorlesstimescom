@@ -7,6 +7,7 @@ url: /2017/10/panasonic-gh5-firmware-update-ver-2-1-now-available/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/01/panasonic-gh5.jpg
 dsq_thread_id:
   - "6208786845"
+categories:
 tags:
   - Camera
   - Firmware

@@ -5,6 +5,7 @@ type: post
 date: 2018-09-03T09:31:42+00:00
 url: /2018/09/fuji-gfx50-r-and-fuji-x-t3-images-leaked/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/09/Fuji-X-T3-mirrorless-camera.jpg
+categories:
 tags:
   - APS-c
   - Camera

@@ -7,6 +7,7 @@ url: /2017/07/first-leica-tl2-specs-leaked-web/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/07/leica-tl2-camera-specs-leaked-web.jpg
 dsq_thread_id:
   - "5968144140"
+categories:
 tags:
   - APS-c
   - Camera

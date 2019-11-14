@@ -5,6 +5,7 @@ type: post
 date: 2018-11-04T14:21:19+00:00
 url: /2018/11/fujifilm-x-t3-disassembly-and-teardown/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/11/X-T3-Teardown.jpg
+categories:
 tags:
   - APS-c
   - Camera

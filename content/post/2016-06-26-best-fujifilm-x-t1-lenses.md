@@ -7,6 +7,7 @@ url: /2016/06/best-fujifilm-x-t1-lenses/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/best-fujifilm-x-t1-lenses.jpg
 dsq_thread_id:
   - "4940263288"
+categories:
 tags:
   - APS-c
   - Camera

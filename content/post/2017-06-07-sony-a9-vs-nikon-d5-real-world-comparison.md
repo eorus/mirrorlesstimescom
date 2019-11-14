@@ -7,6 +7,7 @@ url: /2017/06/sony-a9-vs-nikon-d5-real-world-comparison/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/04/Sony-a9-camera.jpg
 dsq_thread_id:
   - "5887625706"
+categories:
 tags:
   - Camera
   - Full Frame

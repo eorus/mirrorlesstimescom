@@ -5,6 +5,7 @@ type: post
 date: 2018-08-27T12:59:04+00:00
 url: /2018/08/rumored-canon-full-frame-mirrorless-camera-specs/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2018/08/canon-full-frame-mirrorless-camera-prototype-exist-coming-late-2018.jpg
+categories:
 tags:
   - Camera
   - Canon EOS M5 Mark II

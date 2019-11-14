@@ -7,6 +7,7 @@ url: /2018/01/fujifilm-x-e3-firmware-ver-1-10-released/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/08/fujifilm-x-e3-rumors-750x550.jpg
 dsq_thread_id:
   - "6417008265"
+categories:
 tags:
   - APS-c
   - Camera

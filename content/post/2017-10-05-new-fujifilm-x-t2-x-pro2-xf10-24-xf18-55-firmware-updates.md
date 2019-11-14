@@ -7,6 +7,7 @@ url: /2017/10/new-fujifilm-x-t2-x-pro2-xf10-24-xf18-55-firmware-updates/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/07/fujifilm-released-firmware-updates-x-t1-x-t2-x-pro2-x-t20-gfx-cameras-750x550.jpg
 dsq_thread_id:
   - "6192490721"
+categories:
 tags:
   - APS-c
   - Camera

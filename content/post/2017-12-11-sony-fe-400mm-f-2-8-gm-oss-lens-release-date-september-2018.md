@@ -7,6 +7,7 @@ url: /2017/12/sony-fe-400mm-f-2-8-gm-oss-lens-release-date-september-2018/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2017/12/sony-fe-400mm-f-2-8-gm-oss-lens-release-date-scheduled-september-2018.jpg
 dsq_thread_id:
   - "6342245516"
+categories:
 tags:
   - Full Frame
   - Lens

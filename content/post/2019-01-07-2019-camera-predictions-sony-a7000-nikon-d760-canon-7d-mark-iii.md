@@ -5,6 +5,7 @@ type: post
 date: 2019-01-07T10:44:07+00:00
 url: /2019/01/2019-camera-predictions-sony-a7000-nikon-d760-canon-7d-mark-iii/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2019/01/2019-camera-predictions-sony-a7000-nikon-d760-canon-7d-mark-iii.jpg
+categories:
 tags:
   - APS-c
   - Camera

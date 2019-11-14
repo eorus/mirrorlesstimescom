@@ -7,6 +7,7 @@ url: /2016/06/hasselblad-x1d/
 thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/06/hasselblad-x1d-top.jpg
 dsq_thread_id:
   - "4930341281"
+categories:
 tags:
   - Announcement
   - Camera
