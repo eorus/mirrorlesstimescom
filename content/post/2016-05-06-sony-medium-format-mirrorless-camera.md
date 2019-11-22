@@ -8,10 +8,10 @@ thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/hasselblad
 dsq_thread_id:
   - "4863197212"
 categories:
+  - Sony
 tags:
   - Camera
-  - Medium Format
-  - Photokina 2016
+  - Sony Mirrorless
   - Rumors
 
 ---

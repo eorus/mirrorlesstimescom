@@ -8,11 +8,12 @@ thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/samyang-14
 dsq_thread_id:
   - "4861781969"
 categories:
+  - Samyang
 tags:
   - Announcement
-  - Full Frame
+  - Samyang 14mm f/2.8 AF Lens
+  - Samyang 50mm f/1.4 AF Lens
   - Lens
-  - Prime
 
 ---
 Samyang has finally unveiled the company’s first lenses that support autofocus. **Samyang 14mm f/2.8 and 50mm f/1.4** are the first two optics comes with autofocus technology that are aimed at Sony FE-mount mirrorless cameras.

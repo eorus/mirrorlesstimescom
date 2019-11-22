@@ -8,10 +8,11 @@ thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/sony-a9-se
 dsq_thread_id:
   - "4863352754"
 categories:
+  - Sony
 tags:
   - Camera
-  - Full Frame
-  - Photokina 2016
+  - Sony A9
+  - Sony Mirrorless
   - Rumors
 
 ---

@@ -8,11 +8,12 @@ thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/canon-ef-m
 dsq_thread_id:
   - "4886116223"
 categories:
+  - Canon
 tags:
   - Announcement
-  - APS-c
+  - Canon EF-M 28mm F3.5 Macro IS STM Lens
   - Lens
-  - Macro
+  - Canon Mirrorless
 
 ---
 Canon has introduced the **EF-M 28mm F3.5 Macro IS STM** lens which is capable of focusing at both infinity and at 1.2x magnification.

@@ -8,10 +8,13 @@ thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/panasonic-
 dsq_thread_id:
   - "4862650053"
 categories:
+  - Panasonic
 tags:
   - Camera
   - Micro Four Thirds
   - Review
+  - Panasonic GX85
+  - Panasonic Mirrorless
 
 ---
 First **Panasonic GX85 reviews** now available on the web with new tests, sample images and videos.

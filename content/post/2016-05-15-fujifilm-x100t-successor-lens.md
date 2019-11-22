@@ -8,10 +8,12 @@ thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/fujifilm-x
 dsq_thread_id:
   - "4861625842"
 categories:
+  - Fujiiflm
 tags:
-  - APS-c
+  - Fujiiflm Mirrorless
   - Camera
-  - Photokina 2016
+  - Fujifilm X100T
+  - Fujifilm X100F
   - Rumors
 
 ---

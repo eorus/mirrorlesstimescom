@@ -8,11 +8,15 @@ thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/sony-a6300
 dsq_thread_id:
   - "4861553041"
 categories:
+  - Sony
+  - Fujifilm
 tags:
-  - APS-c
+  - Sony A6300
+  - Fujifilm X-Pro2
   - Camera
   - Comparison
-
+  - Sony Mirrorless
+  - Fujifilm Mirrorless
 ---
 Sony announced the A6300 and Fuji unveiled the X-Pro2 mirrorless cameras with a new 24-Megapixel sensors. Here is a quick comparison for the **Sony A6300 vs Fujifilm X-Pro2** shooters with APS-c sized image sensors.
 

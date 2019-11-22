@@ -8,10 +8,11 @@ thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/olympus-30
 dsq_thread_id:
   - "4862897265"
 categories:
+  - Olympus
 tags:
   - Lens
   - Micro Four Thirds
-  - Photokina 2016
+  - Olympus Mirrorless
   - Rumors
 
 ---

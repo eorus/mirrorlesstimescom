@@ -8,11 +8,13 @@ thumbnail: https://www.mirrorlesstimes.com/wp-content/uploads/2016/05/olympus-e-
 dsq_thread_id:
   - "4861638786"
 categories:
+  - Olympus
 tags:
   - Camera
   - Micro Four Thirds
-  - Photokina 2016
+  - Olympus E-PL8
   - Rumors
+  - Olympus Mirrorless
 
 ---
 First **Olympus E-PL8 images** has been spotted on the web ahead of the official announcement.
